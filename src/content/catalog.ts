@@ -1,0 +1,131 @@
+/**
+ * Everything about an article that does not depend on the language.
+ *
+ * The words live in content/<collection>/<slug>/<locale>.md; this file holds
+ * the facts every edition shares — which countries, which years, what it links
+ * to, when it was published and last meaningfully revised — so that four
+ * translations cannot drift apart on them.
+ *
+ * `updated` is the date the article's content last changed in a way a reader
+ * would notice. It feeds the sitemap's lastmod and the Article schema's
+ * dateModified; bumping it without a real change is fake freshness.
+ *
+ * Free of runtime imports so the content tests can load it under node.
+ */
+
+export const COLLECTIONS = ['artists', 'movements', 'music', 'guides'] as const;
+export type Collection = (typeof COLLECTIONS)[number];
+
+export type CountryCode =
+    | 'AO' | 'CD' | 'CG' | 'CV' | 'DZ' | 'EG' | 'GH' | 'KE' | 'MA' | 'ML'
+    | 'MZ' | 'NG' | 'SD' | 'SN' | 'ZA';
+
+export interface Entry {
+    collection: Collection;
+    slug: string;
+    countries: CountryCode[];
+    /** Years shown on cards: '1917–1994', '1944–', '1958–1962', '1970s–'. */
+    years?: string;
+    /** Up to six related articles, as 'collection/slug'. Rendered in order. */
+    related: string[];
+    published: string;
+    updated: string;
+}
+
+const LAUNCH = '2026-10-07';
+
+function entry(collection: Collection, slug: string, countries: CountryCode[], years: string | undefined, related: string[]): Entry {
+    return { collection, slug, countries, years, related, published: LAUNCH, updated: LAUNCH };
+}
+
+export const CATALOG: Entry[] = [
+    // Visual artists
+    entry('artists', 'el-anatsui', ['GH', 'NG'], '1944–', ['movements/zaria-art-society', 'artists/ben-enwonwu', 'artists/esther-mahlangu', 'guides/where-to-see-african-art']),
+    entry('artists', 'ben-enwonwu', ['NG'], '1917–1994', ['movements/zaria-art-society', 'artists/el-anatsui', 'artists/njideka-akunyili-crosby', 'guides/how-to-buy-african-art']),
+    entry('artists', 'njideka-akunyili-crosby', ['NG'], '1983–', ['artists/wangechi-mutu', 'artists/ben-enwonwu', 'artists/el-anatsui', 'guides/african-art-fairs-and-biennales']),
+    entry('artists', 'wangechi-mutu', ['KE'], '1972–', ['artists/njideka-akunyili-crosby', 'artists/el-anatsui', 'guides/where-to-see-african-art', 'guides/african-women-artists']),
+    entry('artists', 'esther-mahlangu', ['ZA'], '1935–', ['artists/el-anatsui', 'artists/malangatana', 'guides/where-to-see-african-art', 'music/amapiano']),
+    entry('artists', 'ibrahim-el-salahi', ['SD'], '1930–', ['movements/khartoum-school', 'artists/farid-belkahia', 'artists/mahmoud-said', 'guides/where-to-see-african-art']),
+    entry('artists', 'cheri-samba', ['CD'], '1956–', ['movements/congolese-popular-painting', 'music/congolese-rumba', 'artists/ousmane-sow', 'guides/african-women-artists']),
+    entry('artists', 'malick-sidibe', ['ML'], '1935–2016', ['artists/seydou-keita', 'guides/african-art-fairs-and-biennales', 'music/mbalax', 'guides/where-to-see-african-art']),
+    entry('artists', 'seydou-keita', ['ML'], '1921–2001', ['artists/malick-sidibe', 'guides/african-art-fairs-and-biennales', 'guides/african-women-artists', 'guides/how-to-buy-african-art']),
+    entry('artists', 'ousmane-sow', ['SN'], '1935–2016', ['movements/ecole-de-dakar', 'artists/cheri-samba', 'artists/el-anatsui', 'guides/where-to-see-african-art']),
+    entry('artists', 'malangatana', ['MZ'], '1936–2011', ['artists/esther-mahlangu', 'music/semba', 'artists/ibrahim-el-salahi', 'guides/african-women-artists']),
+    entry('artists', 'farid-belkahia', ['MA'], '1934–2014', ['movements/casablanca-school', 'artists/baya', 'artists/ibrahim-el-salahi', 'music/gnawa']),
+    entry('artists', 'baya', ['DZ'], '1931–1998', ['artists/farid-belkahia', 'artists/mahmoud-said', 'music/rai', 'guides/african-women-artists']),
+    entry('artists', 'mahmoud-said', ['EG'], '1897–1964', ['artists/baya', 'artists/ibrahim-el-salahi', 'artists/farid-belkahia', 'guides/where-to-see-african-art']),
+
+    // Movements
+    entry('movements', 'zaria-art-society', ['NG'], '1958–1962', ['artists/ben-enwonwu', 'artists/el-anatsui', 'movements/oshogbo-school', 'movements/khartoum-school']),
+    entry('movements', 'oshogbo-school', ['NG'], '1962–1966', ['movements/zaria-art-society', 'music/afrobeat', 'movements/congolese-popular-painting', 'guides/african-women-artists']),
+    entry('movements', 'khartoum-school', ['SD'], '1960–1975', ['artists/ibrahim-el-salahi', 'movements/casablanca-school', 'movements/zaria-art-society', 'movements/ecole-de-dakar']),
+    entry('movements', 'ecole-de-dakar', ['SN'], '1960–1974', ['artists/ousmane-sow', 'movements/khartoum-school', 'music/mbalax', 'guides/african-art-fairs-and-biennales']),
+    entry('movements', 'casablanca-school', ['MA'], '1962–1974', ['artists/farid-belkahia', 'movements/khartoum-school', 'artists/baya', 'music/gnawa']),
+    entry('movements', 'congolese-popular-painting', ['CD'], '1970s–', ['artists/cheri-samba', 'music/congolese-rumba', 'movements/oshogbo-school', 'guides/how-to-buy-african-art']),
+
+    // Music
+    entry('music', 'afrobeat', ['NG'], '1970s–', ['music/afrobeats', 'music/highlife', 'movements/oshogbo-school', 'music/mbalax']),
+    entry('music', 'afrobeats', ['NG', 'GH'], '2000s–', ['music/afrobeat', 'music/amapiano', 'music/highlife', 'music/congolese-rumba']),
+    entry('music', 'highlife', ['GH', 'NG'], '1920s–', ['music/afrobeat', 'music/afrobeats', 'music/congolese-rumba', 'artists/el-anatsui']),
+    entry('music', 'amapiano', ['ZA'], '2012–', ['music/afrobeats', 'music/semba', 'artists/esther-mahlangu', 'music/highlife']),
+    entry('music', 'congolese-rumba', ['CD', 'CG'], '1940s–', ['movements/congolese-popular-painting', 'artists/cheri-samba', 'music/semba', 'music/highlife']),
+    entry('music', 'mbalax', ['SN'], '1970s–', ['music/afrobeat', 'movements/ecole-de-dakar', 'music/congolese-rumba', 'artists/malick-sidibe']),
+    entry('music', 'rai', ['DZ'], '1920s–', ['music/gnawa', 'artists/baya', 'music/mbalax', 'music/morna']),
+    entry('music', 'gnawa', ['MA'], undefined, ['music/rai', 'artists/farid-belkahia', 'movements/casablanca-school', 'music/mbalax']),
+    entry('music', 'morna', ['CV'], '19th c.–', ['music/semba', 'music/congolese-rumba', 'music/rai', 'artists/malangatana']),
+    entry('music', 'semba', ['AO'], '1940s–', ['music/morna', 'music/congolese-rumba', 'music/amapiano', 'artists/malangatana']),
+
+    // Guides
+    entry('guides', 'african-women-artists', [], undefined, ['artists/esther-mahlangu', 'artists/baya', 'artists/wangechi-mutu', 'artists/njideka-akunyili-crosby']),
+    entry('guides', 'how-to-buy-african-art', [], undefined, ['guides/african-art-fairs-and-biennales', 'guides/where-to-see-african-art', 'movements/congolese-popular-painting', 'guides/african-women-artists']),
+    entry('guides', 'african-art-fairs-and-biennales', [], undefined, ['guides/how-to-buy-african-art', 'guides/where-to-see-african-art', 'artists/malick-sidibe', 'movements/ecole-de-dakar']),
+    entry('guides', 'where-to-see-african-art', [], undefined, ['guides/african-art-fairs-and-biennales', 'guides/african-women-artists', 'artists/el-anatsui', 'guides/how-to-buy-african-art']),
+];
+
+export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {
+    return `${entry.collection}/${entry.slug}`;
+}
+
+export function entriesIn(collection: Collection): Entry[] {
+    return CATALOG.filter((e) => e.collection === collection);
+}
+
+export function findEntry(collection: string, slug: string): Entry | undefined {
+    return CATALOG.find((e) => e.collection === collection && e.slug === slug);
+}
+
+/** Public, edition-independent path of an article or a collection index. */
+export function entryPath(entry: Pick<Entry, 'collection' | 'slug'>): string {
+    return `/${entry.collection}/${entry.slug}`;
+}
+
+/**
+ * Pages that are not articles. Every one exists in every edition. `index`
+ * false keeps a page out of the sitemap and adds noindex — the thank-you page
+ * after an offer has nothing a searcher wants.
+ *
+ * `updated` is when the page's own text last changed. Hubs (the home page and
+ * the four indexes) also change whenever an article they list does; the
+ * sitemap takes the later of the two.
+ */
+export const STATIC_PAGES: { path: string; index: boolean; updated: string; lists?: Collection[] }[] = [
+    { path: '/', index: true, updated: LAUNCH, lists: [...COLLECTIONS] },
+    { path: '/buy', index: true, updated: LAUNCH },
+    { path: '/buy/thanks', index: false, updated: LAUNCH },
+    { path: '/artists', index: true, updated: LAUNCH, lists: ['artists'] },
+    { path: '/movements', index: true, updated: LAUNCH, lists: ['movements'] },
+    { path: '/music', index: true, updated: LAUNCH, lists: ['music'] },
+    { path: '/guides', index: true, updated: LAUNCH, lists: ['guides'] },
+    { path: '/about', index: true, updated: LAUNCH },
+    { path: '/privacy', index: true, updated: LAUNCH },
+];
+
+/** Every indexable public path, edition-independent: what the sitemap lists in each language. */
+export function indexablePaths(): { path: string; updated: string }[] {
+    const pages = STATIC_PAGES.filter((p) => p.index).map((page) => {
+        const listed = CATALOG.filter((e) => page.lists?.includes(e.collection)).map((e) => e.updated);
+        return { path: page.path, updated: [page.updated, ...listed].sort().at(-1)! };
+    });
+    const articles = CATALOG.map((e) => ({ path: entryPath(e), updated: e.updated }));
+    return [...pages, ...articles];
+}

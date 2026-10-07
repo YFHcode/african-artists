@@ -1,0 +1,202 @@
+import type { Dictionary } from './en';
+
+// French typography:   is a no-break space, used before : ; ? ! and inside « ».
+const fr: Dictionary = {
+    meta: {
+        homeTitle: 'Artistes africains — Guide de l’art et de la musique d’Afrique',
+        homeDescription:
+            'Portraits d’artistes africains, d’El Anatsui à Chéri Samba, les mouvements qui les ont portés et les musiques du continent — en français, anglais, portugais et arabe.',
+        ogAlt: 'AfricanArtists.com — artistes, mouvements et musiques d’Afrique',
+    },
+    skip: 'Aller au contenu',
+    nav: {
+        artists: 'Artistes',
+        movements: 'Mouvements',
+        music: 'Musique',
+        guides: 'Guides',
+        buy: 'Acheter ce domaine',
+        menu: 'Menu',
+        language: 'Langue',
+        home: 'Accueil',
+        breadcrumb: 'Fil d’Ariane',
+    },
+    saleBar: {
+        text: 'Le nom de domaine AfricanArtists.com est à vendre.',
+        cta: 'Faire une offre',
+    },
+    home: {
+        heading: 'Artistes africains, mouvements artistiques et musiques',
+        lead: 'Un guide en quatre langues consacré aux peintres, sculpteurs et photographes de l’Afrique moderne, aux écoles et mouvements qu’ils ont fondés, et aux musiques qui portent le son du continent dans le monde entier.',
+        exploreArtists: 'Découvrir les artistes',
+        buyDomain: 'Ce domaine est à vendre',
+        artistsTitle: 'Artistes à connaître',
+        artistsMore: 'Tous les portraits d’artistes',
+        movementsTitle: 'Mouvements et écoles',
+        movementsMore: 'Tous les mouvements',
+        musicTitle: 'Musique',
+        musicMore: 'Tous les genres musicaux',
+        guidesTitle: 'Guides',
+        guidesMore: 'Tous les guides',
+        saleTitle: 'Devenez propriétaire d’AfricanArtists.com',
+        saleText:
+            'Un .com de deux mots qui nomme toute une catégorie créative — les artistes et musiciens d’Afrique et de sa diaspora. Prêt pour une galerie, un label, une place de marché ou une fondation.',
+        saleCta: 'Voir les détails et faire une offre',
+    },
+    collections: {
+        byCountry: 'Par pays',
+    },
+    article: {
+        facts: 'En bref',
+        related: 'À lire aussi',
+        published: 'Publié le',
+        updated: 'Mis à jour le',
+        minutes: (n: number) => `${n} min de lecture`,
+        country: 'Pays',
+        allIn: (collection: string) => `Voir tout : ${collection.toLowerCase()}`,
+    },
+    buy: {
+        title: 'Acheter AfricanArtists.com — nom de domaine à vendre',
+        description:
+            'AfricanArtists.com est à vendre : un .com de deux mots qui nomme les artistes et musiciens de tout un continent. Faites une offre ; paiement sous séquestre.',
+        heading: 'AfricanArtists.com est à vendre',
+        lead: 'Un .com court et exact pour l’une des plus vastes catégories de la culture : les peintres, sculpteurs, photographes, designers et musiciens d’Afrique et de sa diaspora.',
+        status: 'Ouvert aux offres',
+        whyTitle: 'Pourquoi ce nom',
+        why: [
+            {
+                title: 'Il dit exactement ce qu’il est',
+                text: 'Deux mots anglais simples que le monde entier utilise et recherche déjà. Rien à épeler, ni tiret, ni chiffre.',
+            },
+            {
+                title: 'C’est le .com',
+                text: 'L’extension que la plupart des gens tapent par défaut — essentiel pour une marque qui doit fonctionner dans de nombreux pays à la fois.',
+            },
+            {
+                title: 'Il laisse de la place pour grandir',
+                text: '« Artists » couvre la peinture, la sculpture, la photographie, la musique, le cinéma, la mode et le design : le nom convient à une galerie, un label ou une plateforme sans jamais devenir trop étroit.',
+            },
+            {
+                title: 'Il a déjà un site',
+                text: 'Ce guide en quatre langues des artistes et musiques d’Afrique est en ligne sur le domaine. Le contenu peut faire partie de la vente, par accord.',
+            },
+        ],
+        whoTitle: 'Pour qui',
+        who: [
+            'Places de marché d’art en ligne et galeries',
+            'Maisons de vente aux enchères et conseillers en art',
+            'Labels, distributeurs et plateformes de streaming',
+            'Foires d’art, festivals et biennales',
+            'Fondations, ONG et institutions culturelles',
+            'Éditeurs, médias et plateformes éducatives',
+            'Agences artistiques, de booking et de création',
+        ],
+        howTitle: 'Comment se passe l’achat',
+        steps: [
+            {
+                title: 'Envoyez une offre',
+                text: 'Utilisez le formulaire de cette page. Dites qui vous êtes et ce que vous envisagez. Une offre n’engage personne tant que les deux parties ne se sont pas mises d’accord.',
+            },
+            {
+                title: 'Convenez des conditions',
+                text: 'Chaque offre sérieuse reçoit une réponse. Le prix, le mode de paiement et le calendrier sont convenus par écrit.',
+            },
+            {
+                title: 'Payez via un séquestre',
+                text: 'Le paiement passe par un service de séquestre agréé, comme Escrow.com, ou par une place de marché. Le vendeur n’est payé qu’une fois le domaine à vous.',
+            },
+            {
+                title: 'Recevez le domaine',
+                text: 'Le domaine est transféré sur votre compte chez votre registraire. La plupart des transferts aboutissent en quelques jours après l’encaissement du paiement.',
+            },
+        ],
+        faqTitle: 'Questions fréquentes des acheteurs',
+        faq: [
+            {
+                q: 'Le prix est-il fixe ?',
+                a: 'Non. Toute offre sérieuse est étudiée. Si vous avez besoin d’une réponse rapide, indiquez votre budget et votre calendrier.',
+            },
+            {
+                q: 'Comment le paiement est-il protégé ?',
+                a: 'Un service de séquestre indépendant conserve les fonds et ne les verse au vendeur qu’une fois le domaine transféré à votre nom.',
+            },
+            {
+                q: 'Combien de temps prend le transfert ?',
+                a: 'Généralement quelques jours après l’encaissement. Le transfert d’un registraire à un autre peut prendre jusqu’à une semaine environ, selon les registraires.',
+            },
+            {
+                q: 'Le site est-il inclus ?',
+                a: 'La vente porte sur le nom de domaine. Le guide publié ici — ses articles en quatre langues — peut être inclus par accord ; mentionnez-le dans votre offre.',
+            },
+            {
+                q: 'Puis-je payer en plusieurs fois ?',
+                a: 'C’est possible. Les services de séquestre gèrent des paiements échelonnés ; proposez-en un dans votre message.',
+            },
+        ],
+        formTitle: 'Faire une offre',
+        formIntro: 'Les offres et les questions arrivent directement chez le propriétaire. Les champs marqués d’un * sont obligatoires.',
+        marketplace: (name: string) => `Vous préférez une place de marché ? Voir l’annonce sur ${name}`,
+    },
+    form: {
+        name: 'Votre nom',
+        email: 'E-mail',
+        company: 'Société ou organisation',
+        amount: 'Votre offre',
+        amountHint: 'Facultatif — laissez vide pour demander le prix ou poser une question.',
+        currency: 'Devise',
+        message: 'Message',
+        messageHint: 'Facultatif — l’usage que vous prévoyez pour le domaine nous aide.',
+        submit: 'Envoyer l’offre',
+        sending: 'Envoi…',
+        privacy: 'Vos données servent uniquement à répondre à votre offre.',
+        privacyLink: 'Confidentialité',
+        errors: {
+            name: 'Veuillez indiquer votre nom.',
+            email: 'Veuillez saisir une adresse e-mail valide.',
+            amount: 'Veuillez saisir l’offre en chiffres, ou laisser le champ vide.',
+            invalid: 'Veuillez vérifier le formulaire : un champ obligatoire manque ou n’est pas valide.',
+            message: 'Le message doit faire moins de 2 000 caractères.',
+            rate: 'Trop de tentatives. Patientez quelques minutes, puis réessayez.',
+            unavailable: 'Les offres ne peuvent pas être envoyées par ce formulaire pour le moment. Veuillez réessayer plus tard.',
+            failed: 'Un problème est survenu et votre offre n’a pas été envoyée. Veuillez réessayer.',
+        },
+    },
+    thanks: {
+        title: 'Offre reçue',
+        heading: 'Merci — votre offre a bien été envoyée',
+        text: 'Chaque offre sérieuse reçoit une réponse par e-mail. En attendant, le guide est toujours là.',
+        back: 'Retour au guide',
+    },
+    footer: {
+        about: 'À propos du guide',
+        privacy: 'Confidentialité',
+        tagline: 'Un guide indépendant des artistes, mouvements artistiques et musiques d’Afrique, en quatre langues.',
+        forSale: 'Le nom de domaine AfricanArtists.com est disponible à l’achat.',
+        explore: 'Explorer',
+        site: 'Ce site',
+        languages: 'Langues',
+    },
+    notFound: {
+        title: 'Page introuvable',
+        heading: 'Cette page n’existe pas',
+        text: 'L’adresse est peut-être mal saisie, ou la page a été déplacée. Voici de bons points de départ :',
+    },
+    countries: {
+        AO: 'Angola',
+        CD: 'RD Congo',
+        CG: 'République du Congo',
+        CV: 'Cap-Vert',
+        DZ: 'Algérie',
+        EG: 'Égypte',
+        GH: 'Ghana',
+        KE: 'Kenya',
+        MA: 'Maroc',
+        ML: 'Mali',
+        MZ: 'Mozambique',
+        NG: 'Nigeria',
+        SD: 'Soudan',
+        SN: 'Sénégal',
+        ZA: 'Afrique du Sud',
+    },
+};
+
+export default fr;

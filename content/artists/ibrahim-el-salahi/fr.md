@@ -36,4 +36,4 @@ En 2013, la Tate Modern présente *Ibrahim El-Salahi: A Visionary Modernist*, la
 
 ## Artistes et mouvements liés
 
-La fusion de l'écriture et de l'image chez El-Salahi a des équivalents en Afrique du Nord et dans le monde arabe, notamment dans l'[École de Casablanca](/movements/casablanca-school) de [Farid Belkahia](/artists/farid-belkahia). En Égypte, une génération antérieure menée par [Mahmoud Saïd](/artists/mahmoud-said) avait déjà défendu un art moderne enraciné dans la vie locale.
+La fusion de l'écriture et de l'image chez El-Salahi a des équivalents en Afrique du Nord et dans le monde arabe, notamment dans l'[École de Casablanca](/movements/casablanca-school) de [Farid Belkahia](/artists/farid-belkahia). En Égypte, une génération antérieure menée par [Mahmoud Saïd](/artists/mahmoud-said) avait déjà défendu un art moderne enraciné dans la vie locale. Pour l'art ancien et chrétien de l'Éthiopie voisine, voir l'[art éthiopien](/art-forms/ethiopian-art).

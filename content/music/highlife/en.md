@@ -33,4 +33,4 @@ In the 1980s Ghanaian musicians living in Germany — hence "burger", from Hambu
 
 Almost every later West African pop style leans on highlife. Fela Kuti began as a highlife musician before creating [Afrobeat](/music/afrobeat), and the melodic guitar and horn lines of highlife are audible in [Afrobeats](/music/afrobeats). Its blend of local and Caribbean rhythms parallels [Congolese rumba](/music/congolese-rumba), which grew up at the same time in Central Africa.
 
-For a Ghanaian visual artist whose work echoes the patterns of West African textiles, see [El Anatsui](/artists/el-anatsui).
+For a Ghanaian visual artist whose work echoes the patterns of West African textiles, see [El Anatsui](/artists/el-anatsui), and [kente](/art-forms/kente-cloth), Ghana's woven cloth.

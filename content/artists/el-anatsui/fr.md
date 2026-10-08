@@ -22,7 +22,7 @@ En 1975, il rejoint le département des beaux-arts et arts appliqués de l'unive
 
 Pendant ses premières décennies d'artiste, Anatsui travaille surtout le bois et la céramique. Il sculpte et brûle des panneaux et des plateaux de bois, souvent à la tronçonneuse et au chalumeau, et réalise des poteries brisées puis réassemblées — des formes qui parlent déjà de fragments, de mémoire et de réparation.
 
-À la fin des années 1990, il commence à utiliser les capsules en aluminium de bouteilles d'alcool. Aplaties, pliées, découpées et reliées par du fil de cuivre, des milliers de capsules forment une seule nappe qui tombe comme une étoffe. Le matériau porte sa propre histoire : la boisson et son commerce traversent l'histoire des contacts entre l'Afrique de l'Ouest et l'Europe, et les motifs rappellent le kente et d'autres textiles tissés.
+À la fin des années 1990, il commence à utiliser les capsules en aluminium de bouteilles d'alcool. Aplaties, pliées, découpées et reliées par du fil de cuivre, des milliers de capsules forment une seule nappe qui tombe comme une étoffe. Le matériau porte sa propre histoire : la boisson et son commerce traversent l'histoire des contacts entre l'Afrique de l'Ouest et l'Europe, et les motifs rappellent le [kente](/art-forms/kente-cloth) et d'autres textiles tissés.
 
 ## Pourquoi les œuvres changent à chaque fois
 

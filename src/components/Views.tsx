@@ -4,8 +4,8 @@ import { Breadcrumbs, CardGrid, EntryCard, FactFile, RelatedArticles } from '@/c
 import { JsonLd } from '@/components/JsonLd';
 import { Motif } from '@/components/Motif';
 import { dictionary } from '@/i18n';
-import { type Collection, type CountryCode, entryPath } from '@/content/catalog';
-import { type Article, getPage, listArticles, relatedArticles } from '@/lib/content';
+import { COLLECTIONS, type Collection, type CountryCode, entriesInRegion, entryPath } from '@/content/catalog';
+import { type Article, getArticle, getPage, listArticles, relatedArticles } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { articleSchema, collectionSchema } from '@/lib/schema';
 
@@ -14,7 +14,7 @@ import { articleSchema, collectionSchema } from '@/lib/schema';
  * match the years on the page. English uses day-month-year, like the
  * British spelling of the articles.
  */
-const DATE_LOCALES: Record<Locale, string> = { en: 'en-GB', fr: 'fr', pt: 'pt-PT', ar: 'ar-u-nu-latn' };
+const DATE_LOCALES: Record<Locale, string> = { en: 'en-GB', fr: 'fr', es: 'es', pt: 'pt-PT', ar: 'ar-u-nu-latn' };
 
 export function formatDate(locale: Locale, iso: string): string {
     const lang = DATE_LOCALES[locale];
@@ -95,9 +95,50 @@ export function ArticleView({ article }: { article: Article }) {
                 </div>
             </article>
 
+            {entry.collection === 'regions' && <RegionIndex locale={locale} slug={entry.slug} />}
             <RelatedArticles articles={relatedArticles(locale, entry)} title={t.article.related} t={t} />
             <SaleNote locale={locale} />
         </>
+    );
+}
+
+/**
+ * On a region page: every article on the site from that region's countries,
+ * grouped by collection. Generated from the catalog, so a new article tagged
+ * with a country appears on its region page without anyone editing it.
+ */
+function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
+    const t = dictionary(locale);
+    const entries = entriesInRegion(slug);
+    const groups = COLLECTIONS.map((collection) => ({
+        collection,
+        articles: entries.filter((e) => e.collection === collection).map((e) => getArticle(locale, e.collection, e.slug)!),
+    })).filter((g) => g.articles.length > 0);
+    if (groups.length === 0) return null;
+
+    return (
+        <section aria-labelledby="region-index" className="mx-auto mt-16 max-w-6xl px-4">
+            <h2 id="region-index" className="font-display text-2xl font-semibold">
+                {t.article.inRegion}
+            </h2>
+            <div className="mt-6 grid gap-x-10 gap-y-8 sm:grid-cols-2 lg:grid-cols-3">
+                {groups.map(({ collection, articles }) => (
+                    <div key={collection}>
+                        <h3 className="text-sm font-semibold uppercase tracking-wide text-muted">{t.nav[collection]}</h3>
+                        <ul className="mt-3 space-y-2">
+                            {articles.map((a) => (
+                                <li key={a.entry.slug}>
+                                    <Link href={localePath(locale, entryPath(a.entry))} className="font-medium text-clay underline underline-offset-4">
+                                        {a.label}
+                                    </Link>
+                                    <span className="text-sm text-muted"> · {a.entry.countries.map((c) => t.countries[c]).join(', ')}</span>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+                ))}
+            </div>
+        </section>
     );
 }
 

@@ -4,15 +4,17 @@
  */
 const en = {
     meta: {
-        homeTitle: 'African Artists — A Guide to Art and Music from Africa',
+        homeTitle: 'African Art: Artists, Masks, Textiles, Movements and Music',
         homeDescription:
-            'Profiles of African artists from El Anatsui to Chéri Samba, the movements behind them and the music of the continent — in four languages.',
-        ogAlt: 'AfricanArtists.com — artists, movements and music from Africa',
+            'A guide to African art in five languages: masks, sculpture, kente and mudcloth, rock art, the Benin Bronzes, modern and contemporary artists, and music.',
+        ogAlt: 'AfricanArtists.com — African art, artists and music',
     },
     skip: 'Skip to content',
     nav: {
+        'art-forms': 'Art forms',
         artists: 'Artists',
         movements: 'Movements',
+        regions: 'Regions',
         music: 'Music',
         guides: 'Guides',
         buy: 'Buy this domain',
@@ -26,10 +28,15 @@ const en = {
         cta: 'Make an offer',
     },
     home: {
-        heading: 'African artists, art movements and music',
-        lead: 'A four-language guide to the painters, sculptors and photographers of modern Africa, the schools and movements they formed, and the music that carries the continent’s sound around the world.',
-        exploreArtists: 'Explore the artists',
+        heading: 'African art: traditions, artists and music',
+        lead: 'A five-language guide to the art of Africa — masks, sculpture, textiles and rock art, the modern and contemporary artists and movements of the continent, and the music that carries its sound around the world.',
+        exploreHistory: 'A short history of African art',
+        exploreArtForms: 'Explore art forms',
         buyDomain: 'This domain is for sale',
+        artFormsTitle: 'Art forms and traditions',
+        artFormsMore: 'All art forms',
+        regionsTitle: 'Explore by region',
+        regionsMore: 'All regions',
         artistsTitle: 'Artists to know',
         artistsMore: 'All artist profiles',
         movementsTitle: 'Movements and schools',
@@ -54,6 +61,7 @@ const en = {
         minutes: (n: number) => `${n} min read`,
         country: 'Country',
         allIn: (collection: string) => `All ${collection.toLowerCase()}`,
+        inRegion: 'More from this region',
     },
     buy: {
         title: 'Buy AfricanArtists.com — Premium Domain for Sale',
@@ -78,7 +86,7 @@ const en = {
             },
             {
                 title: 'It already has a site',
-                text: 'This four-language guide to African artists and music is live on the domain. The content can be part of the sale by agreement.',
+                text: 'This five-language guide to African art, artists and music is live on the domain. The content can be part of the sale by agreement.',
             },
         ],
         whoTitle: 'Who it suits',
@@ -126,7 +134,7 @@ const en = {
             },
             {
                 q: 'Is the website included?',
-                a: 'The sale is for the domain name. The guide published here — its articles in four languages — can be included by agreement; mention it in your offer.',
+                a: 'The sale is for the domain name. The guide published here — its articles in five languages — can be included by agreement; mention it in your offer.',
             },
             {
                 q: 'Can I pay in instalments?',
@@ -171,7 +179,7 @@ const en = {
     footer: {
         about: 'About this guide',
         privacy: 'Privacy',
-        tagline: 'An independent guide to artists, art movements and music from Africa, in four languages.',
+        tagline: 'An independent guide to African art, artists and music, in five languages.',
         forSale: 'The domain AfricanArtists.com is available for acquisition.',
         explore: 'Explore',
         site: 'This site',
@@ -184,11 +192,17 @@ const en = {
     },
     countries: {
         AO: 'Angola',
+        BF: 'Burkina Faso',
+        BJ: 'Benin',
         CD: 'DR Congo',
         CG: 'Republic of the Congo',
+        CI: 'Côte d’Ivoire',
+        CM: 'Cameroon',
         CV: 'Cabo Verde',
         DZ: 'Algeria',
         EG: 'Egypt',
+        ET: 'Ethiopia',
+        GA: 'Gabon',
         GH: 'Ghana',
         KE: 'Kenya',
         MA: 'Morocco',
@@ -197,7 +211,9 @@ const en = {
         NG: 'Nigeria',
         SD: 'Sudan',
         SN: 'Senegal',
+        TZ: 'Tanzania',
         ZA: 'South Africa',
+        ZW: 'Zimbabwe',
     },
 };
 

@@ -36,4 +36,4 @@ In 2013 Tate Modern presented *Ibrahim El-Salahi: A Visionary Modernist*, the fi
 
 ## Related artists and movements
 
-El-Salahi's fusion of script and image has parallels across North Africa and the Arab world, notably in the [Casablanca School](/movements/casablanca-school) of [Farid Belkahia](/artists/farid-belkahia). In Egypt, an earlier generation led by [Mahmoud Saïd](/artists/mahmoud-said) had already argued for a modern art rooted in local life.
+El-Salahi's fusion of script and image has parallels across North Africa and the Arab world, notably in the [Casablanca School](/movements/casablanca-school) of [Farid Belkahia](/artists/farid-belkahia). In Egypt, an earlier generation led by [Mahmoud Saïd](/artists/mahmoud-said) had already argued for a modern art rooted in local life. For the ancient and Christian art of neighbouring Ethiopia, see [Ethiopian art](/art-forms/ethiopian-art).

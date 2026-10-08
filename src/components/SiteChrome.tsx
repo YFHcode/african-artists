@@ -35,7 +35,7 @@ function Wordmark({ locale }: { locale: Locale }) {
     );
 }
 
-const NAV = ['artists', 'movements', 'music', 'guides'] as const;
+const NAV = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides'] as const;
 
 export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
     const links = NAV.map((key) => ({ href: localePath(locale, `/${key}`), label: t.nav[key] }));
@@ -45,8 +45,8 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
             <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4">
                 <Wordmark locale={locale} />
 
-                <nav aria-label={t.nav.menu} className="hidden md:block">
-                    <ul className="flex items-center gap-6 text-[0.95rem]">
+                <nav aria-label={t.nav.menu} className="hidden xl:block">
+                    <ul className="flex items-center gap-5 whitespace-nowrap text-[0.95rem]">
                         {links.map((link) => (
                             <li key={link.href}>
                                 <Link href={link.href} className="text-ink hover:text-clay">
@@ -65,12 +65,12 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                     </ul>
                 </nav>
 
-                <div className="hidden md:block">
+                <div className="hidden xl:block">
                     <LanguageSwitcher locale={locale} label={t.nav.language} />
                 </div>
 
                 {/* Small screens: a native disclosure, so the menu works before (and without) JavaScript. */}
-                <details className="group relative md:hidden">
+                <details className="group relative xl:hidden">
                     <summary className="flex cursor-pointer list-none items-center gap-2 rounded-md border border-line px-3 py-2 text-sm font-medium [&::-webkit-details-marker]:hidden">
                         {t.nav.menu}
                         <span aria-hidden="true" className="transition-transform group-open:rotate-180">

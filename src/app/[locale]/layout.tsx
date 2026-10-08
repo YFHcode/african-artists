@@ -13,7 +13,7 @@ import { siteSchema } from '@/lib/schema';
 import { SITE_NAME, SITE_URL } from '@/lib/site';
 
 /**
- * The root layout for all four editions. It lives under [locale] because the
+ * The root layout for all five editions. It lives under [locale] because the
  * root layout is the only place <html> is rendered, and each edition needs its
  * own `lang` and, for Arabic, `dir="rtl"`.
  */

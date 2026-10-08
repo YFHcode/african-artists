@@ -33,4 +33,4 @@ Em dezembro de 2021 a UNESCO inscreveu a rumba congolesa na sua Lista Representa
 
 ## Relacionados
 
-Os bares, salões de dança e estrelas de Kinshasa são o mundo pintado por [Chéri Samba](/artists/cheri-samba) e pelos [pintores populares congoleses](/movements/congolese-popular-painting). O intercâmbio entre as Caraíbas e África de onde nasce a rumba tem paralelos no [highlife](/music/highlife), na África Ocidental, e no [semba](/music/semba) angolano, mais a sul. Para a música de dança que hoje domina os clubes da África Austral, veja o [amapiano](/music/amapiano).
+Os bares, salões de dança e estrelas de Kinshasa são o mundo pintado por [Chéri Samba](/artists/cheri-samba) e pelos [pintores populares congoleses](/movements/congolese-popular-painting). O intercâmbio entre as Caraíbas e África de onde nasce a rumba tem paralelos no [highlife](/music/highlife), na África Ocidental, e no [semba](/music/semba) angolano, mais a sul. Para a música de dança que hoje domina os clubes da África Austral, veja o [amapiano](/music/amapiano). Para as artes visuais da região, veja a [arte da África Central](/regions/central-africa).

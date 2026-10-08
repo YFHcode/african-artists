@@ -40,7 +40,7 @@ As datas marcadas com «—» são de instituições mais antigas cujas coleçõ
 
 ## Coleções e restituição
 
-Muitos objetos históricos em museus europeus e norte-americanos foram levados durante o período colonial. Desde 2017 vários países devolveram objetos — a França ao Benim em 2021, a Alemanha e a Smithsonian à Nigéria em 2022 — e os museus explicam cada vez mais como as suas coleções foram adquiridas. Visitar com essa história em mente muda aquilo que vemos.
+Muitos objetos históricos em museus europeus e norte-americanos foram levados durante o período colonial. Desde 2017 vários países devolveram objetos — a França ao Benim em 2021, a Alemanha e a Smithsonian à Nigéria em 2022, incluindo [bronzes do Benim](/art-forms/benin-bronzes) — e os museus explicam cada vez mais como as suas coleções foram adquiridas. Visitar com essa história em mente muda aquilo que vemos.
 
 ## Relacionados
 

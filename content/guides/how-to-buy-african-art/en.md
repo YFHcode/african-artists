@@ -14,7 +14,7 @@ summary: Buying African art safely comes down to three questions: what kind of w
 |---|---|---|
 | **Contemporary** | Living artists; works made recently | Overpaying; buying from an unauthorised seller |
 | **Modern** | 20th-century modernists such as [Ben Enwonwu](/artists/ben-enwonwu) or the [Congolese popular painters](/movements/congolese-popular-painting) | Fakes and misattributions, especially of famous names |
-| **Historical and "traditional"** | Masks, figures, textiles and objects made for use, often decades or centuries old | Fakes made to look old; objects taken illegally; export bans |
+| **Historical and "traditional"** | [Masks](/art-forms/african-masks), figures, textiles and objects made for use, often decades or centuries old | Fakes made to look old; objects taken illegally; export bans |
 | **Photography** | Studio photographers such as [Seydou Keïta](/artists/seydou-keita) | Vintage prints versus later prints; unauthorised editions |
 
 Most first-time buyers should start with contemporary art. It supports living artists directly, its history is simple, and the paperwork is easy.
@@ -53,7 +53,7 @@ None of this applies to a painting bought from a living artist. All of it applie
 
 ## A changing context
 
-Since 2017 several European and American institutions have returned objects taken during the colonial period, including Benin Bronzes returned to Nigeria by Germany and the Smithsonian in 2022, and royal treasures returned to Benin by France in 2021. Expect more scrutiny of provenance, not less.
+Since 2017 several European and American institutions have returned objects taken during the colonial period, including [Benin Bronzes](/art-forms/benin-bronzes) returned to Nigeria by Germany and the Smithsonian in 2022, and royal treasures returned to Benin by France in 2021. Expect more scrutiny of provenance, not less.
 
 ## Related
 

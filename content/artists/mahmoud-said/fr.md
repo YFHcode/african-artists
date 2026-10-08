@@ -34,4 +34,4 @@ Saïd compte parmi les fondateurs de la peinture égyptienne moderne, aux côté
 
 ## Artistes liés
 
-Pour les modernistes plus tardifs du monde arabe et d'Afrique du Nord, voir le peintre soudanais [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), le Marocain [Farid Belkahia](/artists/farid-belkahia) et l'Algérienne [Baya](/artists/baya). Les musées où voir l'art moderne égyptien sont présentés dans [où voir l'art africain](/guides/where-to-see-african-art).
+Pour les modernistes plus tardifs du monde arabe et d'Afrique du Nord, voir le peintre soudanais [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), le Marocain [Farid Belkahia](/artists/farid-belkahia) et l'Algérienne [Baya](/artists/baya). Les musées où voir l'art moderne égyptien sont présentés dans [où voir l'art africain](/guides/where-to-see-african-art), et l'ensemble de la région dans l'[art d'Afrique du Nord](/regions/north-africa).

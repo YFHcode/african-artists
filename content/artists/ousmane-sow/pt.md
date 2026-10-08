@@ -39,4 +39,4 @@ Em 2012 Sow foi eleito membro associado estrangeiro da Académie des Beaux-Arts 
 
 ## Artistas e movimentos relacionados
 
-Sow cresceu no Senegal da [Escola de Dacar](/movements/ecole-de-dakar), embora se tenha mantido à margem de qualquer escola. O seu alcance público, ao ar livre, convida à comparação com [El Anatsui](/artists/el-anatsui), cujas obras de metal cobriram fachadas e encheram o Turbine Hall, e com a narrativa de rua de [Chéri Samba](/artists/cheri-samba). Para os museus onde hoje se pode ver escultura africana, consulte [onde ver arte africana](/guides/where-to-see-african-art).
+Sow cresceu no Senegal da [Escola de Dacar](/movements/ecole-de-dakar), embora se tenha mantido à margem de qualquer escola. O seu alcance público, ao ar livre, convida à comparação com [El Anatsui](/artists/el-anatsui), cujas obras de metal cobriram fachadas e encheram o Turbine Hall, e com a narrativa de rua de [Chéri Samba](/artists/cheri-samba). Para a longa história em que se insere, leia o nosso guia da [escultura africana](/art-forms/african-sculpture); para os museus onde hoje a pode ver, consulte [onde ver arte africana](/guides/where-to-see-african-art).

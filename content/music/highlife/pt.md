@@ -33,4 +33,4 @@ Nos anos 1980, músicos ganeses a viver na Alemanha — daí «burger», de Hamb
 
 Quase todos os estilos pop posteriores da África Ocidental se apoiam no highlife. Fela Kuti começou como músico de highlife antes de criar o [afrobeat](/music/afrobeat), e as linhas melódicas de guitarra e metais do highlife ouvem-se no [afrobeats](/music/afrobeats). A sua mistura de ritmos locais e caribenhos tem paralelo na [rumba congolesa](/music/congolese-rumba), que cresceu na mesma época na África Central.
 
-Para um artista ganês cuja obra ecoa os padrões dos tecidos da África Ocidental, veja [El Anatsui](/artists/el-anatsui).
+Para um artista ganês cuja obra ecoa os padrões dos tecidos da África Ocidental, veja [El Anatsui](/artists/el-anatsui) e o [kente](/art-forms/kente-cloth), o pano tecido à mão do Gana.

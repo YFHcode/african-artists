@@ -34,4 +34,4 @@ Tshibumba Kanda Matulu, originaire de Lubumbashi dans le sud-est, peint l'histoi
 
 ## Pour aller plus loin
 
-Les peintres kinois appartiennent à la même culture urbaine que la [rumba congolaise](/music/congolese-rumba), dont les vedettes et les salles de danse peuplent leurs tableaux. Comparez-les avec les artistes autodidactes de l'[école d'Oshogbo](/movements/oshogbo-school), au Nigeria. Avant d'acheter un tableau attribué à un nom célèbre, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art).
+Les peintres kinois appartiennent à la même culture urbaine que la [rumba congolaise](/music/congolese-rumba), dont les vedettes et les salles de danse peuplent leurs tableaux. Comparez-les avec les artistes autodidactes de l'[école d'Oshogbo](/movements/oshogbo-school), au Nigeria, ou avec la peinture [tingatinga](/art-forms/tingatinga) de Tanzanie, autre style urbain né hors de l'académie. Avant d'acheter un tableau attribué à un nom célèbre, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art).

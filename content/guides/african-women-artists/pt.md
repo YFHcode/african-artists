@@ -8,7 +8,7 @@ summary: As mulheres artistas de África moldaram a arte moderna e contemporâne
 ---
 ## As pioneiras do século XX
 
-**Ladi Kwali (c. 1925–1984), Nigéria.** Nascida numa família de oleiros na aldeia de Kwali, fazia jarros de água gwari tradicionais antes de entrar, em 1954, no Pottery Training Centre de Michael Cardew em Abuja (a atual Suleja), onde aprendeu a trabalhar na roda e a vidrar grés. Em 1962 fez uma digressão de demonstrações em Inglaterra; foi nomeada MBE em 1963 e figura na nota de 20 nairas da Nigéria.
+**Ladi Kwali (c. 1925–1984), Nigéria.** Nascida numa família de oleiros na aldeia de Kwali, fazia jarros de água gwari tradicionais antes de entrar, em 1954, no Pottery Training Centre de Michael Cardew em Abuja (a atual Suleja), onde aprendeu a trabalhar na roda e a vidrar grés. Em 1962 fez uma digressão de demonstrações em Inglaterra; foi nomeada MBE em 1963 e figura na nota de 20 nairas da Nigéria. A sua história é contada no nosso guia da [cerâmica africana](/art-forms/african-pottery).
 
 **[Baya](/artists/baya) (1931–1998), Argélia.** Exposta aos dezasseis anos na Galerie Maeght, em Paris, com prefácio de André Breton; os seus guaches de mulheres, pássaros e jardins estão entre as obras-chave da arte moderna argelina.
 
@@ -20,7 +20,7 @@ summary: As mulheres artistas de África moldaram a arte moderna e contemporâne
 
 **[Esther Mahlangu](/artists/esther-mahlangu) (nascida em 1935), África do Sul.** A pintora ndebele que levou a tradição mural da mãe e da avó a Paris em 1989 e a um BMW Art Car em 1991.
 
-**Nike Okundaye, Nigéria.** Artista têxtil saída das oficinas da [escola de Oshogbo](/movements/oshogbo-school), criou centros de arte e galerias que formaram muitos jovens artistas em adire (tecido tingido com índigo) e outras técnicas.
+**Nike Okundaye, Nigéria.** Artista têxtil saída das oficinas da [escola de Oshogbo](/movements/oshogbo-school), criou centros de arte e galerias que formaram muitos jovens artistas em adire (tecido tingido com índigo) e outras [técnicas têxteis](/art-forms/african-textiles).
 
 ## Vozes contemporâneas
 

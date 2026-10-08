@@ -82,7 +82,7 @@ function field(data: Record<string, string | string[]>, key: string, file: strin
  * Markdown to HTML, with internal links moved into the reader's edition.
  *
  * Articles link to each other by edition-independent path — [El Anatsui]
- * (/artists/el-anatsui) — so that the four translations can share link
+ * (/artists/el-anatsui) — so that the five translations can share link
  * targets. Rendering a French article turns that into /fr/artists/el-anatsui.
  */
 function renderer(locale: Locale): Marked {

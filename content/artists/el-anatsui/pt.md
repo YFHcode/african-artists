@@ -22,7 +22,7 @@ Em 1975 entrou para o departamento de belas-artes e artes aplicadas da Universid
 
 Nas primeiras décadas de carreira, Anatsui trabalhou sobretudo a madeira e a cerâmica. Esculpia e queimava painéis e tabuleiros de madeira, muitas vezes com motosserra e maçarico, e fazia peças de cerâmica partidas e reconstruídas — formas que já falavam de fragmentos, memória e reparação.
 
-No final dos anos 1990 começou a trabalhar com as cápsulas de alumínio de garrafas de bebidas alcoólicas. Achatadas, dobradas, cortadas e unidas com fio de cobre, milhares delas formam uma única superfície que cai como um tecido. O material tem uma história própria: a bebida e o seu comércio atravessam a história do contacto entre a África Ocidental e a Europa, e os padrões lembram o kente e outros tecidos tradicionais.
+No final dos anos 1990 começou a trabalhar com as cápsulas de alumínio de garrafas de bebidas alcoólicas. Achatadas, dobradas, cortadas e unidas com fio de cobre, milhares delas formam uma única superfície que cai como um tecido. O material tem uma história própria: a bebida e o seu comércio atravessam a história do contacto entre a África Ocidental e a Europa, e os padrões lembram o [kente](/art-forms/kente-cloth) e outros tecidos tradicionais.
 
 ## Porque é que as obras mudam de cada vez
 

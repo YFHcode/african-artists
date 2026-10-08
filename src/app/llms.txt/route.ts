@@ -10,8 +10,10 @@ import { absoluteUrl } from '@/lib/site';
 export const dynamic = 'force-static';
 
 const HEADINGS: Record<(typeof COLLECTIONS)[number], string> = {
+    'art-forms': 'Art forms and traditions',
     artists: 'Artist profiles',
     movements: 'Art movements and schools',
+    regions: 'African art by region',
     music: 'Music genres',
     guides: 'Guides',
 };
@@ -27,9 +29,9 @@ export function GET() {
 
     const body = `# AfricanArtists.com
 
-> An independent guide to artists, art movements and music from Africa, published in English, French, Portuguese and Arabic. The domain AfricanArtists.com is for sale.
+> An independent guide to African art — masks, sculpture, textiles, rock art and photography, modern and contemporary artists, art movements, regions — and the music of Africa, published in English, French, Spanish, Portuguese and Arabic. The domain AfricanArtists.com is for sale.
 
-Every page exists in four editions: English at ${absoluteUrl('/')}, and French, Portuguese and Arabic under ${absoluteUrl('/fr')}, ${absoluteUrl('/pt')} and ${absoluteUrl('/ar')} with the same path after the language folder.
+Every page exists in five editions: English at ${absoluteUrl('/')}, and French, Spanish, Portuguese and Arabic under ${absoluteUrl('/fr')}, ${absoluteUrl('/es')}, ${absoluteUrl('/pt')} and ${absoluteUrl('/ar')} with the same path after the language folder.
 
 - [Buy AfricanArtists.com](${absoluteUrl('/buy')}): the domain is for sale; make an offer.
 - [About this guide](${absoluteUrl('/about')}): who publishes it, sources and corrections.

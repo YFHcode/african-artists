@@ -1,9 +1,9 @@
 ---
 title: About AfricanArtists.com: Who We Are and How We Work
 heading: About this guide
-description: AfricanArtists.com is an independent guide to artists, art movements and music from Africa, in four languages. How it is written, sourced and corrected.
+description: AfricanArtists.com is an independent guide to African art, artists and music, in five languages. How it is written, sourced and corrected.
 ---
-AfricanArtists.com is an independent guide to the artists, art movements and music of Africa, published in English, French, Portuguese and Arabic. It is not affiliated with any of the artists, estates, galleries, museums or record labels it mentions.
+AfricanArtists.com is an independent guide to the art of Africa — its art forms and traditions, its modern and contemporary artists and movements — and to its music, published in English, French, Spanish, Portuguese and Arabic. It is not affiliated with any of the artists, estates, galleries, museums or record labels it mentions.
 
 ## How the articles are written
 
@@ -13,11 +13,11 @@ Articles show the date they were published and, when they are meaningfully revis
 
 ## Images
 
-The site does not reproduce photographs of artworks. The works belong to the artists and their estates, and we would rather send you to see them in a museum, a book or the artist's own channels. The geometric bands on each page are our own decoration.
+The site does not reproduce photographs of artworks. Modern and contemporary works belong to the artists and their estates, and photographs of historical objects to the museums and photographers who made them. We would rather send you to see them in a museum, a book or the artist's own channels. The geometric bands on each page are our own decoration.
 
 ## Languages
 
-The guide is written in English and translated into French, Portuguese and Arabic. Each edition covers the same articles, and every page links to its versions in the other languages.
+The guide is written in English and translated into French, Spanish, Portuguese and Arabic. Each edition covers the same articles, and every page links to its versions in the other languages.
 
 ## Corrections
 

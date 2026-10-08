@@ -36,4 +36,4 @@ Durante décadas a escola foi conhecida sobretudo em Marrocos. Exposições rece
 
 ## Relacionados
 
-O paralelo mais próximo é a [Escola de Cartum](/movements/khartoum-school), onde a escrita e o artesanato também foram transformados em forma moderna. Para uma modernista do Norte de África fora da escola, veja [Baya](/artists/baya). Para a tradição musical das praças de Marraquexe, leia sobre os [gnawa](/music/gnawa).
+O paralelo mais próximo é a [Escola de Cartum](/movements/khartoum-school), onde a escrita e o artesanato também foram transformados em forma moderna. Para uma modernista do Norte de África fora da escola, veja [Baya](/artists/baya). Para a tradição musical das praças de Marraquexe, leia sobre os [gnawa](/music/gnawa), e, para a região no seu conjunto, a [arte do Norte de África](/regions/north-africa).

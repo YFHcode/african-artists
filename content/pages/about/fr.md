@@ -1,9 +1,9 @@
 ---
 title: À propos d'AfricanArtists.com : qui nous sommes et comment nous travaillons
 heading: À propos du guide
-description: AfricanArtists.com est un guide indépendant des artistes, mouvements artistiques et musiques d'Afrique, en quatre langues. Comment il est écrit, sourcé et corrigé.
+description: AfricanArtists.com est un guide indépendant de l'art, des artistes et des musiques d'Afrique, en cinq langues. Comment il est écrit, sourcé et corrigé.
 ---
-AfricanArtists.com est un guide indépendant des artistes, des mouvements artistiques et des musiques d'Afrique, publié en anglais, en français, en portugais et en arabe. Il n'est affilié à aucun des artistes, ayants droit, galeries, musées ou labels qu'il mentionne.
+AfricanArtists.com est un guide indépendant de l'art d'Afrique — ses formes d'art et ses traditions, ses artistes et mouvements modernes et contemporains — et de ses musiques, publié en anglais, en français, en espagnol, en portugais et en arabe. Il n'est affilié à aucun des artistes, ayants droit, galeries, musées ou labels qu'il mentionne.
 
 ## Comment les articles sont écrits
 
@@ -13,11 +13,11 @@ Les articles indiquent leur date de publication et, lorsqu'ils sont révisés de
 
 ## Images
 
-Le site ne reproduit pas de photographies d'œuvres d'art. Les œuvres appartiennent aux artistes et à leurs ayants droit, et nous préférons vous inviter à les voir dans un musée, un livre ou sur les canaux des artistes eux-mêmes. Les bandeaux géométriques de chaque page sont notre propre décor.
+Le site ne reproduit pas de photographies d'œuvres d'art. Les œuvres modernes et contemporaines appartiennent aux artistes et à leurs ayants droit, et les photographies d'objets historiques aux musées et aux photographes qui les ont faites. Nous préférons vous inviter à les voir dans un musée, un livre ou sur les canaux des artistes eux-mêmes. Les bandeaux géométriques de chaque page sont notre propre décor.
 
 ## Langues
 
-Le guide est écrit en anglais et traduit en français, en portugais et en arabe. Chaque édition propose les mêmes articles, et chaque page renvoie vers ses versions dans les autres langues.
+Le guide est écrit en anglais et traduit en français, en espagnol, en portugais et en arabe. Chaque édition propose les mêmes articles, et chaque page renvoie vers ses versions dans les autres langues.
 
 ## Corrections
 

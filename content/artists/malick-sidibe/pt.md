@@ -32,4 +32,4 @@ A sua obra chegou ao público internacional nos anos 1990 — a década em que o
 
 ## Artistas relacionados
 
-Sidibé é inseparável de [Seydou Keïta](/artists/seydou-keita), o mais velho dos fotógrafos de estúdio de Bamaco, cujos retratos dos anos 1950 mostram a cidade uma década antes. Para a música das mesmas pistas de dança da África Ocidental, veja o [mbalax](/music/mbalax) e o [highlife](/music/highlife).
+Sidibé é inseparável de [Seydou Keïta](/artists/seydou-keita), o mais velho dos fotógrafos de estúdio de Bamaco, cujos retratos dos anos 1950 mostram a cidade uma década antes. Para uma história mais ampla, leia o nosso guia da [fotografia africana](/art-forms/african-photography). Para a música das mesmas pistas de dança da África Ocidental, veja o [mbalax](/music/mbalax) e o [highlife](/music/highlife).

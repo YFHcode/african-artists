@@ -34,4 +34,4 @@ Saïd é contado entre os fundadores da pintura egípcia moderna, ao lado do esc
 
 ## Artistas relacionados
 
-Para modernistas posteriores do mundo árabe e do Norte de África, veja o pintor sudanês [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), o marroquino [Farid Belkahia](/artists/farid-belkahia) e a argelina [Baya](/artists/baya). Os museus onde se pode ver arte moderna egípcia estão em [onde ver arte africana](/guides/where-to-see-african-art).
+Para modernistas posteriores do mundo árabe e do Norte de África, veja o pintor sudanês [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), o marroquino [Farid Belkahia](/artists/farid-belkahia) e a argelina [Baya](/artists/baya). Os museus onde se pode ver arte moderna egípcia estão em [onde ver arte africana](/guides/where-to-see-african-art), e a região no seu conjunto em [arte do Norte de África](/regions/north-africa).

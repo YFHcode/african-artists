@@ -32,4 +32,4 @@ His work reached international audiences in the 1990s — the decade in which th
 
 ## Related artists
 
-Sidibé is inseparable from [Seydou Keïta](/artists/seydou-keita), the older Bamako studio photographer whose formal portraits of the 1950s capture the city a decade earlier. For music from the same West African dance floors, see [mbalax](/music/mbalax) and [highlife](/music/highlife).
+Sidibé is inseparable from [Seydou Keïta](/artists/seydou-keita), the older Bamako studio photographer whose formal portraits of the 1950s capture the city a decade earlier. For the wider story, read our guide to [African photography](/art-forms/african-photography). For music from the same West African dance floors, see [mbalax](/music/mbalax) and [highlife](/music/highlife).

@@ -40,12 +40,12 @@ function line(value: unknown): string {
 }
 
 /**
- * Reads an amount the way people type it in four languages: "50000",
+ * Reads an amount the way people type it in five languages: "50000",
  * "50,000", "50.000", "50 000", "50’000", "1,5" and "1.5".
  *
  * A separator followed by exactly three digits, repeated to the end, is a
- * thousands separator — so "50.000" is fifty thousand, as a French or
- * Portuguese buyer means it. Otherwise a single comma is a decimal mark.
+ * thousands separator — so "50.000" is fifty thousand, as a French,
+ * Spanish or Portuguese buyer means it. Otherwise a single comma is a decimal mark.
  */
 export function parseAmount(raw: string): number | null {
     const value = raw.replace(/[\s  ]/g, ' ').trim().replace(/^[$€£]\s*|\s*[$€£]$/g, '');

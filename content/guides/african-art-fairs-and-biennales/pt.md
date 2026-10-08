@@ -41,4 +41,4 @@ A Dak'Art nasceu do longo investimento do Senegal nas artes, descrito no nosso a
 
 ## Relacionados
 
-Antes de comprar, leia [como comprar arte africana](/guides/how-to-buy-african-art). Entre eventos, as coleções permanentes listadas em [onde ver arte africana](/guides/where-to-see-african-art) são a melhor forma de conhecer a história por trás do que está à venda.
+Antes de comprar, leia [como comprar arte africana](/guides/how-to-buy-african-art). Entre eventos, as coleções permanentes listadas em [onde ver arte africana](/guides/where-to-see-african-art) são a melhor forma de conhecer a história por trás do que está à venda, e o nosso guia da [arte africana contemporânea](/guides/contemporary-african-art) traça o panorama geral.

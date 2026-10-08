@@ -22,7 +22,7 @@ In 1975 he joined the Department of Fine and Applied Arts at the University of N
 
 For his first decades as an artist, Anatsui worked mainly in wood and ceramics. He carved and scorched wooden panels and trays, often with a chainsaw and a blowtorch, and made broken and reassembled pots — forms that already dealt with fragments, memory and repair.
 
-In the late 1990s he began working with the aluminium tops of liquor bottles. Flattened, folded, cut and joined with copper wire, thousands of them become a single sheet that hangs like cloth. The material carries history of its own: drinks and the trade in them run through the story of West Africa's contact with Europe, and the patterns recall kente and other woven textiles.
+In the late 1990s he began working with the aluminium tops of liquor bottles. Flattened, folded, cut and joined with copper wire, thousands of them become a single sheet that hangs like cloth. The material carries history of its own: drinks and the trade in them run through the story of West Africa's contact with Europe, and the patterns recall [kente](/art-forms/kente-cloth) and other woven textiles.
 
 ## Why the works look different every time
 

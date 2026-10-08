@@ -34,4 +34,4 @@ International exhibitions from 1989 onwards — beginning with *Magiciens de la 
 
 ## Related
 
-The Kinshasa painters belong to the same urban culture as [Congolese rumba](/music/congolese-rumba), whose stars and dance halls appear in their pictures. Compare them with the self-taught artists of Nigeria's [Oshogbo school](/movements/oshogbo-school). Before buying a painting attributed to a well-known name, read [how to buy African art](/guides/how-to-buy-african-art).
+The Kinshasa painters belong to the same urban culture as [Congolese rumba](/music/congolese-rumba), whose stars and dance halls appear in their pictures. Compare them with the self-taught artists of Nigeria's [Oshogbo school](/movements/oshogbo-school), or with Tanzania's [Tingatinga](/art-forms/tingatinga) painting, another urban style born outside the academy. Before buying a painting attributed to a well-known name, read [how to buy African art](/guides/how-to-buy-african-art).

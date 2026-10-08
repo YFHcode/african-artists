@@ -1,9 +1,9 @@
 ---
 title: Sobre o AfricanArtists.com: quem somos e como trabalhamos
 heading: Sobre este guia
-description: O AfricanArtists.com é um guia independente de artistas, movimentos artísticos e música de África, em quatro línguas. Como é escrito, com que fontes e como é corrigido.
+description: O AfricanArtists.com é um guia independente de arte, artistas e música de África, em cinco línguas. Como é escrito, com que fontes e como é corrigido.
 ---
-O AfricanArtists.com é um guia independente dos artistas, movimentos artísticos e música de África, publicado em inglês, francês, português e árabe. Não tem ligação a nenhum dos artistas, herdeiros, galerias, museus ou editoras que menciona.
+O AfricanArtists.com é um guia independente da arte de África — as suas formas de arte e tradições, os seus artistas e movimentos modernos e contemporâneos — e da sua música, publicado em inglês, francês, espanhol, português e árabe. Não tem ligação a nenhum dos artistas, herdeiros, galerias, museus ou editoras que menciona.
 
 ## Como os artigos são escritos
 
@@ -13,11 +13,11 @@ Os artigos mostram a data de publicação e, quando são revistos de forma signi
 
 ## Imagens
 
-O site não reproduz fotografias de obras de arte. As obras pertencem aos artistas e aos seus herdeiros, e preferimos convidá-lo a vê-las num museu, num livro ou nos canais dos próprios artistas. As faixas geométricas de cada página são decoração nossa.
+O site não reproduz fotografias de obras de arte. As obras modernas e contemporâneas pertencem aos artistas e aos seus herdeiros, e as fotografias de objetos históricos aos museus e fotógrafos que as fizeram. Preferimos convidá-lo a vê-las num museu, num livro ou nos canais dos próprios artistas. As faixas geométricas de cada página são decoração nossa.
 
 ## Línguas
 
-O guia é escrito em inglês e traduzido para francês, português e árabe. Cada edição tem os mesmos artigos, e cada página tem ligação para as suas versões nas outras línguas.
+O guia é escrito em inglês e traduzido para francês, espanhol, português e árabe. Cada edição tem os mesmos artigos, e cada página tem ligação para as suas versões nas outras línguas.
 
 ## Correções
 

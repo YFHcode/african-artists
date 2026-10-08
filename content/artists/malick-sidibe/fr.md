@@ -32,4 +32,4 @@ Son œuvre atteint le public international dans les années 1990 — la décenni
 
 ## Artistes liés
 
-Sidibé est indissociable de [Seydou Keïta](/artists/seydou-keita), l'aîné des photographes de studio de Bamako, dont les portraits des années 1950 saisissent la ville une décennie plus tôt. Pour la musique des mêmes pistes de danse ouest-africaines, voir le [mbalax](/music/mbalax) et le [highlife](/music/highlife).
+Sidibé est indissociable de [Seydou Keïta](/artists/seydou-keita), l'aîné des photographes de studio de Bamako, dont les portraits des années 1950 saisissent la ville une décennie plus tôt. Pour une histoire plus large, lisez notre guide de la [photographie africaine](/art-forms/african-photography). Pour la musique des mêmes pistes de danse ouest-africaines, voir le [mbalax](/music/mbalax) et le [highlife](/music/highlife).

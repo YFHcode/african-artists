@@ -24,7 +24,7 @@ The society's members included Uche Okeke, Demas Nwoko, Yusuf Grillo, Bruce Onob
 
 ## Natural synthesis
 
-The group's guiding idea was articulated by Uche Okeke as **natural synthesis**: identify what was good in Nigeria's own visual cultures — Nok terracottas, Benin and Ife bronzes, Igbo uli body and wall painting, Yoruba carving — and combine it with what was genuinely useful in the foreign art they were being taught. Not a return to the past, and not imitation of Europe, but a deliberate mixture.
+The group's guiding idea was articulated by Uche Okeke as **natural synthesis**: identify what was good in Nigeria's own visual cultures — Nok terracottas, [Benin](/art-forms/benin-bronzes) and Ife bronzes, Igbo uli body and wall painting, Yoruba carving — and combine it with what was genuinely useful in the foreign art they were being taught. Not a return to the past, and not imitation of Europe, but a deliberate mixture.
 
 In practice each artist found a different synthesis. Okeke drew on uli line drawing. Onobrakpeya developed new printmaking techniques. Nwoko worked between sculpture, design and architecture. Grillo's paintings combined Yoruba forms with a cool, modern palette.
 
@@ -34,4 +34,4 @@ The society formally lasted only until about 1962, when its members graduated, b
 
 ## Related movements and artists
 
-The Zaria students were reacting partly against the path of older modernists such as [Ben Enwonwu](/artists/ben-enwonwu). In the same years, artists in Osogbo took a very different, workshop-based route to a modern Yoruba art (see the [Oshogbo school](/movements/oshogbo-school)), and in Khartoum a similar search for a national modern art produced the [Khartoum School](/movements/khartoum-school).
+The Zaria students were reacting partly against the path of older modernists such as [Ben Enwonwu](/artists/ben-enwonwu). In the same years, artists in Osogbo took a very different, workshop-based route to a modern Yoruba art (see the [Oshogbo school](/movements/oshogbo-school)), and in Khartoum a similar search for a national modern art produced the [Khartoum School](/movements/khartoum-school). For the ancient sculpture that inspired Zaria, see [African sculpture](/art-forms/african-sculpture).

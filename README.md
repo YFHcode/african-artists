@@ -1,13 +1,19 @@
 # AfricanArtists.com
 
-A domain-for-sale site that is also a real, multilingual guide to African artists,
-art movements and music. The sale page converts buyers; the guide gives the
+A domain-for-sale site that is also a real, multilingual guide to African art —
+art forms and traditions, artists, movements and regions — and to African music. The sale page converts buyers; the guide gives the
 domain search visibility, traffic and links, which is what makes a name like
 this look valuable to a buyer.
 
 - **Sale page:** `/buy` — pitch, use cases, how buying works, FAQ, offer form, optional marketplace link.
-- **Guide:** 34 fact-checked articles (14 artists, 6 movements, 10 music genres, 4 guides) in
-  **English** (`/`), **French** (`/fr`), **Portuguese** (`/pt`) and **Arabic** (`/ar`, right-to-left).
+- **Guide:** 56 fact-checked articles — 15 art forms and traditions (masks, sculpture, textiles,
+  kente, adinkra, mudcloth, the Benin Bronzes, beadwork, pottery, rock art, photography…),
+  14 artists, 6 movements, 5 regions, 10 music genres and 6 guides — in **English** (`/`),
+  **French** (`/fr`), **Spanish** (`/es`), **Portuguese** (`/pt`) and **Arabic** (`/ar`, right-to-left).
+- **Search strategy:** the art-form, region and history pages target the broad searches
+  ("African masks", "kente cloth", "West African art", "history of African art") that bring
+  far more visitors than artists' names; region pages list every article from their countries
+  automatically, so new articles are linked from their region without manual edits.
 - **Stack:** Next.js 16 (App Router), Tailwind CSS 4, fully prerendered; one serverless route (`/api/offer`).
 
 Built following the universal SEO playbook (`docs/UNIVERSAL-SEO-PLAYBOOK.md` in the CGP repo):
@@ -76,7 +82,11 @@ src/content/catalog.ts                    what exists: slugs, countries, years, 
 src/i18n/<locale>.ts                      interface text (menus, buy page, form)
 ```
 
-- Every article must exist in **all four** languages; `npm test` fails otherwise.
+- Every article must exist in **all five** languages; `npm test` fails otherwise.
+- Tag each article with its countries in `catalog.ts`. Every country must belong to one region in
+  `REGIONS` (a test checks it); the region page then lists the article automatically.
+- Every article needs at least three links from other articles' English bodies (a test checks it),
+  so a new page is never an orphan.
 - Link between articles with edition-independent paths — `[El Anatsui](/artists/el-anatsui)` — and
   each edition rewrites them to its own folder.
 - When an article meaningfully changes, update its `updated` date in `catalog.ts` (feeds the sitemap
@@ -89,7 +99,7 @@ src/i18n/<locale>.ts                      interface text (menus, buy page, form)
 
 ```
 npm run dev        local development
-npm run build      production build (prerenders all 168 pages)
+npm run build      production build (prerenders all 330 indexable pages)
 npm start          serve the production build
 npm test           content integrity, offer validation, URL helpers
 npm run lint
@@ -104,5 +114,6 @@ npm run indexnow -- <paths> | --all
   empty body on the server. Re-check `/does-not-exist` after every Next.js upgrade.
 - English lives at the root through an `afterFiles` rewrite to `/en/…` in `next.config.ts`;
   `/en/…` redirects back. Keep the `(?:/|$)` in the rewrite pattern — see the comment there.
-- Translations were written for this launch, not machine-translated in bulk, but a native-speaker
-  review of the French, Portuguese and especially Arabic editions is worth doing.
+- Translations were written for this site, not machine-translated in bulk, but a native-speaker
+  review of the French, Spanish, Portuguese and especially Arabic editions is worth doing.
+- After deploying new pages, ping IndexNow with just those paths (see "After launch").

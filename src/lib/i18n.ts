@@ -1,9 +1,9 @@
 /**
- * The four editions of the site and how their URLs are built.
+ * The five editions of the site and how their URLs are built.
  *
  * English lives at the root (/artists/el-anatsui); the other editions live in
  * a subfolder (/fr/artists/el-anatsui). Every page exists in every edition
- * under the same slug, which is what lets each page list all four versions of
+ * under the same slug, which is what lets each page list all five versions of
  * itself as hreflang alternates without a lookup table.
  *
  * Internally every route is served from app/[locale]/…; next.config.ts
@@ -13,7 +13,7 @@
  * Free of runtime imports so node can run it directly in the tests.
  */
 
-export const LOCALES = ['en', 'fr', 'pt', 'ar'] as const;
+export const LOCALES = ['en', 'fr', 'es', 'pt', 'ar'] as const;
 export type Locale = (typeof LOCALES)[number];
 
 export const DEFAULT_LOCALE: Locale = 'en';
@@ -34,6 +34,7 @@ export interface LocaleInfo {
 export const LOCALE_INFO: Record<Locale, LocaleInfo> = {
     en: { endonym: 'English', lang: 'en', dir: 'ltr', ogLocale: 'en_US' },
     fr: { endonym: 'Français', lang: 'fr', dir: 'ltr', ogLocale: 'fr_FR' },
+    es: { endonym: 'Español', lang: 'es', dir: 'ltr', ogLocale: 'es_ES' },
     pt: { endonym: 'Português', lang: 'pt', dir: 'ltr', ogLocale: 'pt_PT' },
     ar: { endonym: 'العربية', lang: 'ar', dir: 'rtl', ogLocale: 'ar_AR' },
 };

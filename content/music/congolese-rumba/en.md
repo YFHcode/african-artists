@@ -33,4 +33,4 @@ In December 2021 UNESCO added Congolese rumba to its Representative List of the 
 
 ## Related
 
-Kinshasa's bars, dance halls and stars are the world painted by [Chéri Samba](/artists/cheri-samba) and the [Congolese popular painters](/movements/congolese-popular-painting). Rumba's Caribbean-African exchange parallels [highlife](/music/highlife) in West Africa and Angolan [semba](/music/semba) to the south. For the dance music that now dominates Southern Africa's clubs, see [amapiano](/music/amapiano).
+Kinshasa's bars, dance halls and stars are the world painted by [Chéri Samba](/artists/cheri-samba) and the [Congolese popular painters](/movements/congolese-popular-painting). Rumba's Caribbean-African exchange parallels [highlife](/music/highlife) in West Africa and Angolan [semba](/music/semba) to the south. For the dance music that now dominates Southern Africa's clubs, see [amapiano](/music/amapiano). For the visual arts of the region, see [Central African art](/regions/central-africa).

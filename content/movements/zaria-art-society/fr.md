@@ -24,7 +24,7 @@ Parmi les membres figurent Uche Okeke, Demas Nwoko, Yusuf Grillo, Bruce Onobrakp
 
 ## La synthèse naturelle
 
-L'idée directrice du groupe est formulée par Uche Okeke sous le nom de **synthèse naturelle** : repérer ce qu'il y a de meilleur dans les cultures visuelles du Nigeria — terres cuites de Nok, bronzes du Bénin et d'Ife, peinture corporelle et murale uli des Igbo, sculpture yoruba — et l'associer à ce qui est réellement utile dans l'art étranger qu'on leur enseigne. Ni retour au passé, ni imitation de l'Europe, mais un mélange délibéré.
+L'idée directrice du groupe est formulée par Uche Okeke sous le nom de **synthèse naturelle** : repérer ce qu'il y a de meilleur dans les cultures visuelles du Nigeria — terres cuites de Nok, bronzes du [Bénin](/art-forms/benin-bronzes) et d'Ife, peinture corporelle et murale uli des Igbo, sculpture yoruba — et l'associer à ce qui est réellement utile dans l'art étranger qu'on leur enseigne. Ni retour au passé, ni imitation de l'Europe, mais un mélange délibéré.
 
 En pratique, chaque artiste trouve sa propre synthèse. Okeke s'appuie sur le dessin linéaire uli. Onobrakpeya invente de nouvelles techniques de gravure. Nwoko circule entre sculpture, design et architecture. Les peintures de Grillo associent formes yoruba et palette froide et moderne.
 
@@ -34,4 +34,4 @@ La société ne dure officiellement que jusque vers 1962, quand ses membres obti
 
 ## Mouvements et artistes liés
 
-Les étudiants de Zaria réagissaient en partie contre la voie suivie par des modernistes plus âgés comme [Ben Enwonwu](/artists/ben-enwonwu). Dans les mêmes années, les artistes d'Osogbo empruntent une route très différente, fondée sur les ateliers, vers un art yoruba moderne (voir l'[école d'Oshogbo](/movements/oshogbo-school)), et à Khartoum une quête comparable d'un art national moderne donne naissance à l'[École de Khartoum](/movements/khartoum-school).
+Les étudiants de Zaria réagissaient en partie contre la voie suivie par des modernistes plus âgés comme [Ben Enwonwu](/artists/ben-enwonwu). Dans les mêmes années, les artistes d'Osogbo empruntent une route très différente, fondée sur les ateliers, vers un art yoruba moderne (voir l'[école d'Oshogbo](/movements/oshogbo-school)), et à Khartoum une quête comparable d'un art national moderne donne naissance à l'[École de Khartoum](/movements/khartoum-school). Pour la sculpture ancienne qui a inspiré Zaria, voir la [sculpture africaine](/art-forms/african-sculpture).

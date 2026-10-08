@@ -40,7 +40,7 @@ Dates marked "—" are older institutions whose collections have grown over deca
 
 ## Collections and restitution
 
-Many historical objects in European and American museums were taken during the colonial period. Since 2017 several countries have returned objects — France to Benin in 2021, and Germany and the Smithsonian to Nigeria in 2022 — and museums increasingly explain how their collections were acquired. Visiting with that history in mind changes what you see.
+Many historical objects in European and American museums were taken during the colonial period. Since 2017 several countries have returned objects — France to Benin in 2021, and Germany and the Smithsonian to Nigeria in 2022, including [Benin Bronzes](/art-forms/benin-bronzes) — and museums increasingly explain how their collections were acquired. Visiting with that history in mind changes what you see.
 
 ## Related
 

@@ -14,7 +14,7 @@ summary: Acheter de l'art africain en sécurité revient à se poser trois quest
 |---|---|---|
 | **Contemporain** | Artistes vivants ; œuvres récentes | Payer trop cher ; acheter à un vendeur non autorisé |
 | **Moderne** | Modernistes du XXe siècle comme [Ben Enwonwu](/artists/ben-enwonwu) ou les [peintres populaires congolais](/movements/congolese-popular-painting) | Faux et attributions erronées, surtout pour les grands noms |
-| **Ancien et « traditionnel »** | Masques, statues, textiles et objets d'usage, souvent vieux de plusieurs décennies ou siècles | Faux vieillis artificiellement ; objets sortis illégalement ; interdictions d'exportation |
+| **Ancien et « traditionnel »** | [Masques](/art-forms/african-masks), statues, textiles et objets d'usage, souvent vieux de plusieurs décennies ou siècles | Faux vieillis artificiellement ; objets sortis illégalement ; interdictions d'exportation |
 | **Photographie** | Photographes de studio comme [Seydou Keïta](/artists/seydou-keita) | Tirages d'époque ou tirages tardifs ; éditions non autorisées |
 
 La plupart des premiers acheteurs devraient commencer par l'art contemporain. Il soutient directement des artistes vivants, son histoire est simple et les papiers sont faciles à obtenir.
@@ -53,7 +53,7 @@ Rien de tout cela ne concerne un tableau acheté à un artiste vivant. Tout cela
 
 ## Un contexte qui change
 
-Depuis 2017, plusieurs institutions européennes et américaines ont restitué des objets pris pendant la période coloniale, notamment des bronzes du Bénin rendus au Nigeria par l'Allemagne et la Smithsonian en 2022, et des trésors royaux rendus au Bénin par la France en 2021. Attendez-vous à davantage d'exigence sur la provenance, pas moins.
+Depuis 2017, plusieurs institutions européennes et américaines ont restitué des objets pris pendant la période coloniale, notamment des [bronzes du Bénin](/art-forms/benin-bronzes) rendus au Nigeria par l'Allemagne et la Smithsonian en 2022, et des trésors royaux rendus au Bénin par la France en 2021. Attendez-vous à davantage d'exigence sur la provenance, pas moins.
 
 ## Pour aller plus loin
 

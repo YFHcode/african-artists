@@ -40,7 +40,7 @@ Les dates marquées « — » sont celles d'institutions plus anciennes dont les
 
 ## Collections et restitutions
 
-De nombreux objets historiques conservés dans les musées européens et américains ont été pris pendant la période coloniale. Depuis 2017, plusieurs pays ont restitué des objets — la France au Bénin en 2021, l'Allemagne et la Smithsonian au Nigeria en 2022 — et les musées expliquent de plus en plus comment leurs collections ont été constituées. Visiter avec cette histoire en tête change ce que l'on voit.
+De nombreux objets historiques conservés dans les musées européens et américains ont été pris pendant la période coloniale. Depuis 2017, plusieurs pays ont restitué des objets — la France au Bénin en 2021, l'Allemagne et la Smithsonian au Nigeria en 2022, dont des [bronzes du Bénin](/art-forms/benin-bronzes) — et les musées expliquent de plus en plus comment leurs collections ont été constituées. Visiter avec cette histoire en tête change ce que l'on voit.
 
 ## Pour aller plus loin
 

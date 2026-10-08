@@ -33,4 +33,4 @@ Dans les années 1980, des musiciens ghanéens installés en Allemagne — d'où
 
 Presque tous les styles pop ouest-africains ultérieurs s'appuient sur le highlife. Fela Kuti a commencé comme musicien de highlife avant de créer l'[afrobeat](/music/afrobeat), et les lignes mélodiques de guitare et de cuivres du highlife s'entendent dans les [afrobeats](/music/afrobeats). Son mélange de rythmes locaux et caribéens fait écho à la [rumba congolaise](/music/congolese-rumba), née à la même époque en Afrique centrale.
 
-Pour un artiste ghanéen dont l'œuvre évoque les motifs des textiles ouest-africains, voir [El Anatsui](/artists/el-anatsui).
+Pour un artiste ghanéen dont l'œuvre évoque les motifs des textiles ouest-africains, voir [El Anatsui](/artists/el-anatsui), ainsi que le [kente](/art-forms/kente-cloth), l'étoffe tissée du Ghana.

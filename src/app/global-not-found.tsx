@@ -8,7 +8,7 @@ import { LOCALES, LOCALE_INFO, localePath } from '@/lib/i18n';
 import { SITE_NAME, SITE_URL } from '@/lib/site';
 
 /**
- * The 404 page for every unknown URL, in all four languages at once.
+ * The 404 page for every unknown URL, in all five languages at once.
  *
  * Why not app/[locale]/not-found.tsx: with the root layout under a dynamic
  * segment, Next.js 16.4 answers notFound() with the right 404 status but an
@@ -18,7 +18,7 @@ import { SITE_NAME, SITE_URL } from '@/lib/site';
  * It needs experimental.globalNotFound in next.config.ts — re-check this page
  * after every Next.js upgrade.
  *
- * It is not told which edition the visitor came from, so it speaks all four:
+ * It is not told which edition the visitor came from, so it speaks all five:
  * short enough to read at a glance, each block marked with its own language.
  */
 
@@ -37,6 +37,7 @@ export const viewport: Viewport = { themeColor: '#fbf7f0', colorScheme: 'light' 
 const MESSAGES = {
     en: { heading: 'Page not found', text: 'The address may be mistyped, or the page may have moved.', home: 'Home', artists: 'Artists' },
     fr: { heading: 'Page introuvable', text: 'L’adresse est peut-être mal saisie, ou la page a été déplacée.', home: 'Accueil', artists: 'Artistes' },
+    es: { heading: 'Página no encontrada', text: 'Es posible que la dirección esté mal escrita o que la página se haya movido.', home: 'Inicio', artists: 'Artistas' },
     pt: { heading: 'Página não encontrada', text: 'O endereço pode estar errado, ou a página pode ter mudado de lugar.', home: 'Início', artists: 'Artistas' },
     ar: { heading: 'الصفحة غير موجودة', text: 'ربما كُتب العنوان بشكل خاطئ، أو نُقلت الصفحة إلى مكان آخر.', home: 'الرئيسية', artists: 'الفنانون' },
 };

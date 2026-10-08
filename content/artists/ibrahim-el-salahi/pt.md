@@ -36,4 +36,4 @@ Em 2013 a Tate Modern apresentou *Ibrahim El-Salahi: A Visionary Modernist*, a p
 
 ## Artistas e movimentos relacionados
 
-A fusão de escrita e imagem de El-Salahi tem paralelos no Norte de África e no mundo árabe, sobretudo na [Escola de Casablanca](/movements/casablanca-school) de [Farid Belkahia](/artists/farid-belkahia). No Egito, uma geração anterior liderada por [Mahmoud Saïd](/artists/mahmoud-said) já defendera uma arte moderna enraizada na vida local.
+A fusão de escrita e imagem de El-Salahi tem paralelos no Norte de África e no mundo árabe, sobretudo na [Escola de Casablanca](/movements/casablanca-school) de [Farid Belkahia](/artists/farid-belkahia). No Egito, uma geração anterior liderada por [Mahmoud Saïd](/artists/mahmoud-said) já defendera uma arte moderna enraizada na vida local. Para a arte antiga e cristã da vizinha Etiópia, veja a [arte etíope](/art-forms/ethiopian-art).

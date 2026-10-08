@@ -41,4 +41,4 @@ Dak'Art est née du long investissement du Sénégal dans les arts, décrit dans
 
 ## Pour aller plus loin
 
-Avant d'acheter, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art). Entre deux événements, les collections permanentes présentées dans [où voir l'art africain](/guides/where-to-see-african-art) sont le meilleur moyen de découvrir l'histoire qui précède les œuvres en vente.
+Avant d'acheter, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art). Entre deux événements, les collections permanentes présentées dans [où voir l'art africain](/guides/where-to-see-african-art) sont le meilleur moyen de découvrir l'histoire qui précède les œuvres en vente, et notre guide de l'[art africain contemporain](/guides/contemporary-african-art) en dresse le panorama.

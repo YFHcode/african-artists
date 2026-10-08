@@ -36,4 +36,4 @@ Pendant des décennies, l'école est surtout connue au Maroc. Des expositions r�
 
 ## Pour aller plus loin
 
-Le parallèle le plus proche est l'[École de Khartoum](/movements/khartoum-school), où l'écriture et l'artisanat ont aussi été transformés en formes modernes. Pour une moderniste nord-africaine hors de l'école, voir [Baya](/artists/baya). Pour la tradition musicale des places de Marrakech, lisez notre article sur les [Gnaoua](/music/gnawa).
+Le parallèle le plus proche est l'[École de Khartoum](/movements/khartoum-school), où l'écriture et l'artisanat ont aussi été transformés en formes modernes. Pour une moderniste nord-africaine hors de l'école, voir [Baya](/artists/baya). Pour la tradition musicale des places de Marrakech, lisez notre article sur les [Gnaoua](/music/gnawa), et pour l'ensemble de la région, l'[art d'Afrique du Nord](/regions/north-africa).

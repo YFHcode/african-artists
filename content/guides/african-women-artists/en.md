@@ -8,7 +8,7 @@ summary: Women artists from Africa have shaped modern and contemporary art from 
 ---
 ## Pioneers of the twentieth century
 
-**Ladi Kwali (c. 1925–1984), Nigeria.** Born into a family of potters in the village of Kwali, she made traditional Gwari water jars before joining Michael Cardew's Pottery Training Centre in Abuja (today's Suleja) in 1954, where she learned to throw and glaze stoneware. In 1962 she toured England giving pottery demonstrations; she was appointed MBE in 1963, and she appears on Nigeria's 20 naira note.
+**Ladi Kwali (c. 1925–1984), Nigeria.** Born into a family of potters in the village of Kwali, she made traditional Gwari water jars before joining Michael Cardew's Pottery Training Centre in Abuja (today's Suleja) in 1954, where she learned to throw and glaze stoneware. In 1962 she toured England giving pottery demonstrations; she was appointed MBE in 1963, and she appears on Nigeria's 20 naira note. Her story is told in our guide to [African pottery](/art-forms/african-pottery).
 
 **[Baya](/artists/baya) (1931–1998), Algeria.** Exhibited at Galerie Maeght in Paris at sixteen, with a preface by André Breton; her gouaches of women, birds and gardens are among the key works of Algerian modern art.
 
@@ -20,7 +20,7 @@ summary: Women artists from Africa have shaped modern and contemporary art from 
 
 **[Esther Mahlangu](/artists/esther-mahlangu) (born 1935), South Africa.** The Ndebele painter who took her mother's and grandmother's wall-painting tradition to Paris in 1989 and onto a BMW Art Car in 1991.
 
-**Nike Okundaye, Nigeria.** A textile artist who emerged from the [Oshogbo school](/movements/oshogbo-school) workshops and built art centres and galleries that have trained many young artists in adire (indigo-dyed cloth) and other techniques.
+**Nike Okundaye, Nigeria.** A textile artist who emerged from the [Oshogbo school](/movements/oshogbo-school) workshops and built art centres and galleries that have trained many young artists in adire (indigo-dyed cloth) and other [textile techniques](/art-forms/african-textiles).
 
 ## Contemporary voices
 

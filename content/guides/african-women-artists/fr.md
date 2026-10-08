@@ -8,7 +8,7 @@ summary: Les femmes artistes d'Afrique ont façonné l'art moderne et contempora
 ---
 ## Les pionnières du XXe siècle
 
-**Ladi Kwali (vers 1925–1984), Nigeria.** Née dans une famille de potiers du village de Kwali, elle fabrique des jarres à eau gwari traditionnelles avant de rejoindre en 1954 le Pottery Training Centre de Michael Cardew à Abuja (l'actuelle Suleja), où elle apprend le tournage et la glaçure du grès. En 1962, elle fait une tournée de démonstrations en Angleterre ; elle est nommée MBE en 1963 et figure sur le billet nigérian de 20 nairas.
+**Ladi Kwali (vers 1925–1984), Nigeria.** Née dans une famille de potiers du village de Kwali, elle fabrique des jarres à eau gwari traditionnelles avant de rejoindre en 1954 le Pottery Training Centre de Michael Cardew à Abuja (l'actuelle Suleja), où elle apprend le tournage et la glaçure du grès. En 1962, elle fait une tournée de démonstrations en Angleterre ; elle est nommée MBE en 1963 et figure sur le billet nigérian de 20 nairas. Son histoire est racontée dans notre guide de la [céramique africaine](/art-forms/african-pottery).
 
 **[Baya](/artists/baya) (1931–1998), Algérie.** Exposée à seize ans à la galerie Maeght à Paris, avec une préface d'André Breton ; ses gouaches de femmes, d'oiseaux et de jardins comptent parmi les œuvres majeures de l'art moderne algérien.
 
@@ -20,7 +20,7 @@ summary: Les femmes artistes d'Afrique ont façonné l'art moderne et contempora
 
 **[Esther Mahlangu](/artists/esther-mahlangu) (née en 1935), Afrique du Sud.** La peintre ndébélé qui a porté la tradition murale de sa mère et de sa grand-mère jusqu'à Paris en 1989, puis sur une BMW Art Car en 1991.
 
-**Nike Okundaye, Nigeria.** Artiste textile issue des ateliers de l'[école d'Oshogbo](/movements/oshogbo-school), elle a créé des centres d'art et des galeries qui ont formé de nombreux jeunes artistes à l'adire (tissu teint à l'indigo) et à d'autres techniques.
+**Nike Okundaye, Nigeria.** Artiste textile issue des ateliers de l'[école d'Oshogbo](/movements/oshogbo-school), elle a créé des centres d'art et des galeries qui ont formé de nombreux jeunes artistes à l'adire (tissu teint à l'indigo) et à d'autres [techniques textiles](/art-forms/african-textiles).
 
 ## Voix contemporaines
 

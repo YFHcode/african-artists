@@ -14,7 +14,7 @@ summary: Comprar arte africana em segurança resume-se a três perguntas: que ti
 |---|---|---|
 | **Contemporânea** | Artistas vivos; obras recentes | Pagar demais; comprar a um vendedor não autorizado |
 | **Moderna** | Modernistas do século XX como [Ben Enwonwu](/artists/ben-enwonwu) ou os [pintores populares congoleses](/movements/congolese-popular-painting) | Falsificações e atribuições erradas, sobretudo de nomes famosos |
-| **Histórica e «tradicional»** | Máscaras, figuras, têxteis e objetos de uso, muitas vezes com décadas ou séculos | Falsificações envelhecidas; objetos retirados ilegalmente; proibições de exportação |
+| **Histórica e «tradicional»** | [Máscaras](/art-forms/african-masks), figuras, têxteis e objetos de uso, muitas vezes com décadas ou séculos | Falsificações envelhecidas; objetos retirados ilegalmente; proibições de exportação |
 | **Fotografia** | Fotógrafos de estúdio como [Seydou Keïta](/artists/seydou-keita) | Provas de época versus impressões posteriores; edições não autorizadas |
 
 A maioria dos compradores iniciantes deve começar pela arte contemporânea. Apoia diretamente artistas vivos, a sua história é simples e a documentação é fácil.
@@ -53,7 +53,7 @@ Nada disto se aplica a um quadro comprado a um artista vivo. Tudo isto se aplica
 
 ## Um contexto em mudança
 
-Desde 2017 várias instituições europeias e norte-americanas devolveram objetos levados durante o período colonial, incluindo bronzes do Benim devolvidos à Nigéria pela Alemanha e pela Smithsonian em 2022, e tesouros reais devolvidos ao Benim pela França em 2021. Conte com mais exigência sobre a proveniência, não menos.
+Desde 2017 várias instituições europeias e norte-americanas devolveram objetos levados durante o período colonial, incluindo [bronzes do Benim](/art-forms/benin-bronzes) devolvidos à Nigéria pela Alemanha e pela Smithsonian em 2022, e tesouros reais devolvidos ao Benim pela França em 2021. Conte com mais exigência sobre a proveniência, não menos.
 
 ## Relacionados
 

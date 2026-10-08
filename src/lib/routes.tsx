@@ -10,7 +10,7 @@ import { pageMetadata } from '@/lib/seo';
 
 /**
  * The route files under app/[locale]/ are one-liners over these factories:
- * four collections share one article template and one index template, and
+ * six collections share one article template and one index template, and
  * keeping the logic here means a fix lands on all of them at once.
  *
  * Each route file still declares `dynamicParams = false` itself — Next.js

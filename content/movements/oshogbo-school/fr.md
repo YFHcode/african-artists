@@ -23,7 +23,7 @@ Entre 1962 et 1966, le club accueille une série de courts ateliers animés par 
 Les ateliers ont révélé des artistes aux styles très personnels, qui puisent tous dans les récits, les divinités, les fêtes et la vie quotidienne yoruba :
 
 - **Twins Seven-Seven**, arrivé au club en 1963, devenu l'un des peintres les plus connus du Nigeria avec ses images foisonnantes d'esprits et de mythes ;
-- **Jimoh Buraimoh**, qui a mis au point une peinture en perles, adaptée du perlage yoruba ;
+- **Jimoh Buraimoh**, qui a mis au point une peinture en perles, adaptée du [perlage](/art-forms/african-beadwork) yoruba ;
 - **Muraina Oyelami**, peintre et aussi tambourinaire réputé ;
 - **Rufus Ogundele**, **Jacob Afolabi** et **Adebisi Fabunmi**, peintres et graveurs ;
 - **Nike Okundaye** (Nike Davies-Okundaye), devenue une grande artiste textile et fondatrice de centres d'art et de galeries à Osogbo, Lagos et ailleurs.

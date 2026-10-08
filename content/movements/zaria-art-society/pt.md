@@ -24,7 +24,7 @@ Entre os membros estavam Uche Okeke, Demas Nwoko, Yusuf Grillo, Bruce Onobrakpey
 
 ## A síntese natural
 
-A ideia orientadora do grupo foi formulada por Uche Okeke como **síntese natural**: identificar o que havia de bom nas culturas visuais da Nigéria — as terracotas de Nok, os bronzes do Benim e de Ifé, a pintura corporal e mural uli dos igbo, a escultura iorubá — e combiná-lo com o que era realmente útil na arte estrangeira que lhes ensinavam. Nem regresso ao passado, nem imitação da Europa, mas uma mistura deliberada.
+A ideia orientadora do grupo foi formulada por Uche Okeke como **síntese natural**: identificar o que havia de bom nas culturas visuais da Nigéria — as terracotas de Nok, os bronzes do [Benim](/art-forms/benin-bronzes) e de Ifé, a pintura corporal e mural uli dos igbo, a escultura iorubá — e combiná-lo com o que era realmente útil na arte estrangeira que lhes ensinavam. Nem regresso ao passado, nem imitação da Europa, mas uma mistura deliberada.
 
 Na prática, cada artista encontrou a sua síntese. Okeke partiu do desenho linear uli. Onobrakpeya desenvolveu novas técnicas de gravura. Nwoko trabalhou entre escultura, design e arquitetura. As pinturas de Grillo juntaram formas iorubás a uma paleta fria e moderna.
 
@@ -34,4 +34,4 @@ A sociedade durou formalmente só até cerca de 1962, quando os membros se forma
 
 ## Movimentos e artistas relacionados
 
-Os estudantes de Zaria reagiam em parte ao caminho de modernistas mais velhos como [Ben Enwonwu](/artists/ben-enwonwu). Nos mesmos anos, os artistas de Osogbo seguiram uma via muito diferente, baseada em oficinas, para uma arte iorubá moderna (veja a [escola de Oshogbo](/movements/oshogbo-school)), e em Cartum uma procura semelhante de uma arte nacional moderna deu origem à [Escola de Cartum](/movements/khartoum-school).
+Os estudantes de Zaria reagiam em parte ao caminho de modernistas mais velhos como [Ben Enwonwu](/artists/ben-enwonwu). Nos mesmos anos, os artistas de Osogbo seguiram uma via muito diferente, baseada em oficinas, para uma arte iorubá moderna (veja a [escola de Oshogbo](/movements/oshogbo-school)), e em Cartum uma procura semelhante de uma arte nacional moderna deu origem à [Escola de Cartum](/movements/khartoum-school). Para a escultura antiga que inspirou Zaria, veja a [escultura africana](/art-forms/african-sculpture).

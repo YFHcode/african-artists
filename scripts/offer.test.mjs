@@ -4,11 +4,11 @@ import { test } from 'node:test';
 
 import { MIN_FILL_MS, offerEmail, parseAmount, validateOffer } from '../src/lib/offer.ts';
 
-test('amounts are read the way buyers in four languages type them', () => {
+test('amounts are read the way buyers in five languages type them', () => {
     const cases = {
         '50000': 50000,
         '50,000': 50000,
-        '50.000': 50000, // French/Portuguese thousands separator
+        '50.000': 50000, // French/Spanish/Portuguese thousands separator
         '50 000': 50000,
         '50 000': 50000,
         '1,250,000.50': 1250000.5,

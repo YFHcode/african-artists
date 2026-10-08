@@ -36,4 +36,4 @@ For decades the school was known mainly in Morocco. Recent exhibitions in Europe
 
 ## Related
 
-The closest parallel is the [Khartoum School](/movements/khartoum-school), where script and craft were also turned into modern form. For another North African modernist outside the school, see [Baya](/artists/baya). For the musical tradition of Marrakech's squares, read about [gnawa](/music/gnawa).
+The closest parallel is the [Khartoum School](/movements/khartoum-school), where script and craft were also turned into modern form. For another North African modernist outside the school, see [Baya](/artists/baya). For the musical tradition of Marrakech's squares, read about [gnawa](/music/gnawa), and for the region as a whole, [North African art](/regions/north-africa).

@@ -6,12 +6,12 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { test } from 'node:test';
 
-import { CATALOG, STATIC_PAGES, entryPath } from '../src/content/catalog.ts';
+import { CATALOG, REGIONS, STATIC_PAGES, entryPath, regionOf } from '../src/content/catalog.ts';
 import { parseFrontmatter } from '../src/lib/frontmatter.ts';
 import { LOCALES } from '../src/lib/i18n.ts';
 
 const ROOT = path.join(import.meta.dirname, '..', 'content');
-const PAGES = ['index-artists', 'index-movements', 'index-music', 'index-guides', 'about', 'privacy'];
+const PAGES = ['index-art-forms', 'index-artists', 'index-movements', 'index-regions', 'index-music', 'index-guides', 'about', 'privacy'];
 
 const known = new Set([...STATIC_PAGES.map((p) => p.path), ...CATALOG.map(entryPath)]);
 
@@ -105,6 +105,16 @@ test('every article is linked from at least three other articles\' bodies', () =
     }
     const weak = [...inbound].filter(([, from]) => from.size < 3).map(([p, from]) => `${p} (${from.size})`);
     assert.deepEqual(weak, []);
+});
+
+test('every country belongs to exactly one region, and every region has a page', () => {
+    const regionPages = new Set(CATALOG.filter((e) => e.collection === 'regions').map((e) => e.slug));
+    assert.deepEqual([...regionPages].sort(), Object.keys(REGIONS).sort());
+    const counts = new Map();
+    for (const countries of Object.values(REGIONS)) for (const c of countries) counts.set(c, (counts.get(c) ?? 0) + 1);
+    assert.deepEqual([...counts].filter(([, n]) => n > 1), []);
+    const orphans = CATALOG.flatMap((e) => e.countries.filter((c) => !regionOf(c)).map((c) => `${e.slug}: ${c}`));
+    assert.deepEqual(orphans, []);
 });
 
 test('no placeholder text ships', () => {

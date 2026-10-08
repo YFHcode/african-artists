@@ -34,4 +34,4 @@ Depois da independência de Moçambique, em 1975, Malangatana tornou-se uma figu
 
 ## Artistas e música relacionados
 
-Malangatana e [Esther Mahlangu](/artists/esther-mahlangu) são os artistas da África Austral mais conhecidos da sua geração a partir diretamente de formas locais. Para explorar o mundo lusófono africano, continue com o [semba](/music/semba), a canção urbana de Angola, e a [morna](/music/morna) de Cabo Verde. Compare a sua prisão política com a do modernista sudanês [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), preso uma década mais tarde.
+Malangatana e [Esther Mahlangu](/artists/esther-mahlangu) são os artistas da África Austral mais conhecidos da sua geração a partir diretamente de formas locais. No norte de Moçambique, os escultores macondes criaram outra grande tradição moderna: veja a [arte maconde](/art-forms/makonde-art). Para explorar o mundo lusófono africano, continue com o [semba](/music/semba), a canção urbana de Angola, e a [morna](/music/morna) de Cabo Verde. Compare a sua prisão política com a do modernista sudanês [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), preso uma década mais tarde.

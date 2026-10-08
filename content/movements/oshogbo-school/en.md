@@ -23,7 +23,7 @@ Between 1962 and 1966 the club hosted a series of short workshops run by visitin
 The workshops produced artists with highly individual styles that all draw on Yoruba stories, gods, festivals and everyday life:
 
 - **Twins Seven-Seven**, who arrived at the club in 1963 and became one of Nigeria's best-known painters, with intricate, patterned images of spirits and myths;
-- **Jimoh Buraimoh**, who developed painting with beads, an adaptation of Yoruba beadwork;
+- **Jimoh Buraimoh**, who developed painting with beads, an adaptation of Yoruba [beadwork](/art-forms/african-beadwork);
 - **Muraina Oyelami**, a painter and also a celebrated drummer;
 - **Rufus Ogundele**, **Jacob Afolabi** and **Adebisi Fabunmi**, painters and printmakers;
 - **Nike Okundaye** (Nike Davies-Okundaye), who became a leading textile artist and founded art centres and galleries in Osogbo, Lagos and elsewhere.

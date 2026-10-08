@@ -34,4 +34,4 @@ A partir de 1989 — começando com *Magiciens de la Terre*, em Paris —, expos
 
 ## Relacionados
 
-Os pintores de Kinshasa pertencem à mesma cultura urbana que a [rumba congolesa](/music/congolese-rumba), cujas estrelas e salões de dança surgem nos seus quadros. Compare-os com os artistas autodidatas da [escola de Oshogbo](/movements/oshogbo-school), na Nigéria. Antes de comprar um quadro atribuído a um nome famoso, leia [como comprar arte africana](/guides/how-to-buy-african-art).
+Os pintores de Kinshasa pertencem à mesma cultura urbana que a [rumba congolesa](/music/congolese-rumba), cujas estrelas e salões de dança surgem nos seus quadros. Compare-os com os artistas autodidatas da [escola de Oshogbo](/movements/oshogbo-school), na Nigéria, ou com a pintura [tingatinga](/art-forms/tingatinga) da Tanzânia, outro estilo urbano nascido fora da academia. Antes de comprar um quadro atribuído a um nome famoso, leia [como comprar arte africana](/guides/how-to-buy-african-art).

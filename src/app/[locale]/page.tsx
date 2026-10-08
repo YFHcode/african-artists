@@ -5,17 +5,17 @@ import { notFound } from 'next/navigation';
 import { CardGrid, EntryCard } from '@/components/Blocks';
 import { Motif } from '@/components/Motif';
 import { dictionary } from '@/i18n';
-import { type Collection } from '@/content/catalog';
+import { type Collection, entriesIn, entryPath } from '@/content/catalog';
 import { getArticle, listArticles } from '@/lib/content';
 import { type Locale, isLocale, localePath } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
 
 /** Which articles the home page features, in order. Everything else is one click away on its index. */
-const FEATURED: Record<Collection, string[]> = {
+const FEATURED: Partial<Record<Collection, string[]>> = {
+    'art-forms': ['african-masks', 'kente-cloth', 'benin-bronzes', 'mudcloth', 'african-rock-art', 'adinkra-symbols'],
     artists: ['el-anatsui', 'ibrahim-el-salahi', 'cheri-samba', 'malick-sidibe', 'esther-mahlangu', 'farid-belkahia'],
     movements: ['zaria-art-society', 'khartoum-school', 'casablanca-school'],
     music: ['afrobeat', 'amapiano', 'congolese-rumba', 'rai', 'morna', 'highlife'],
-    guides: [],
 };
 
 export async function generateMetadata({ params }: PageProps<'/[locale]'>): Promise<Metadata> {
@@ -71,6 +71,37 @@ function Section({
     );
 }
 
+/** The five region pages as a compact strip: names only, so the row stays one line on a laptop. */
+function Regions({ locale }: { locale: Locale }) {
+    const t = dictionary(locale);
+    const regions = entriesIn('regions').map((e) => getArticle(locale, e.collection, e.slug)!);
+    return (
+        <section aria-labelledby="home-regions" className="mx-auto mt-16 max-w-6xl px-4">
+            <div className="flex flex-wrap items-end justify-between gap-3">
+                <h2 id="home-regions" className="font-display text-3xl font-semibold tracking-tight">
+                    {t.home.regionsTitle}
+                </h2>
+                <Link href={localePath(locale, '/regions')} className="font-medium text-clay underline underline-offset-4">
+                    {t.home.regionsMore} <span aria-hidden="true" className="inline-block rtl:rotate-180">→</span>
+                </Link>
+            </div>
+            <ul className="mt-6 grid gap-4 sm:grid-cols-3 lg:grid-cols-5">
+                {regions.map((region) => (
+                    <li key={region.entry.slug} className="relative overflow-hidden rounded-xl border border-line bg-paper hover:shadow-md">
+                        <Motif seed={region.entry.slug} className="block h-10 w-full" />
+                        <Link
+                            href={localePath(locale, entryPath(region.entry))}
+                            className="block p-4 font-display text-lg font-semibold after:absolute after:inset-0"
+                        >
+                            {region.label}
+                        </Link>
+                    </li>
+                ))}
+            </ul>
+        </section>
+    );
+}
+
 export default async function Home({ params }: PageProps<'/[locale]'>) {
     const { locale } = await params;
     if (!isLocale(locale)) notFound();
@@ -87,10 +118,16 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                     <p className="mt-6 max-w-3xl text-lg leading-relaxed text-ink/85 sm:text-xl">{t.home.lead}</p>
                     <div className="mt-8 flex flex-wrap gap-3">
                         <Link
-                            href={localePath(locale, '/artists')}
+                            href={localePath(locale, '/guides/african-art-history')}
                             className="rounded-full bg-ink px-6 py-3 font-semibold text-paper hover:bg-clay"
                         >
-                            {t.home.exploreArtists}
+                            {t.home.exploreHistory}
+                        </Link>
+                        <Link
+                            href={localePath(locale, '/art-forms')}
+                            className="rounded-full border-2 border-ink px-6 py-3 font-semibold text-ink hover:bg-ink hover:text-paper"
+                        >
+                            {t.home.exploreArtForms}
                         </Link>
                         <Link
                             href={localePath(locale, '/buy')}
@@ -102,6 +139,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                 </div>
             </section>
 
+            <Section locale={locale} collection="art-forms" title={t.home.artFormsTitle} more={t.home.artFormsMore} slugs={FEATURED['art-forms']} />
             <Section locale={locale} collection="artists" title={t.home.artistsTitle} more={t.home.artistsMore} slugs={FEATURED.artists} />
 
             <section className="mx-auto mt-16 max-w-6xl px-4">
@@ -120,6 +158,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                 </div>
             </section>
 
+            <Regions locale={locale} />
             <Section locale={locale} collection="movements" title={t.home.movementsTitle} more={t.home.movementsMore} slugs={FEATURED.movements} />
             <Section locale={locale} collection="music" title={t.home.musicTitle} more={t.home.musicMore} slugs={FEATURED.music} />
             <Section locale={locale} collection="guides" title={t.home.guidesTitle} more={t.home.guidesMore} />

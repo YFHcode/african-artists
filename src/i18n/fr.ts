@@ -3,15 +3,17 @@ import type { Dictionary } from './en';
 // French typography:   is a no-break space, used before : ; ? ! and inside « ».
 const fr: Dictionary = {
     meta: {
-        homeTitle: 'Artistes africains — Guide de l’art et de la musique d’Afrique',
+        homeTitle: 'Art africain : artistes, masques, textiles, mouvements et musiques',
         homeDescription:
-            'Portraits d’artistes africains, d’El Anatsui à Chéri Samba, les mouvements qui les ont portés et les musiques du continent — en français, anglais, portugais et arabe.',
-        ogAlt: 'AfricanArtists.com — artistes, mouvements et musiques d’Afrique',
+            'Un guide de l’art africain en cinq langues : masques, sculpture, kente et bogolan, art rupestre, bronzes du Bénin, artistes modernes et contemporains, musiques.',
+        ogAlt: 'AfricanArtists.com — art africain, artistes et musiques',
     },
     skip: 'Aller au contenu',
     nav: {
+        'art-forms': 'Formes d’art',
         artists: 'Artistes',
         movements: 'Mouvements',
+        regions: 'Régions',
         music: 'Musique',
         guides: 'Guides',
         buy: 'Acheter ce domaine',
@@ -25,10 +27,15 @@ const fr: Dictionary = {
         cta: 'Faire une offre',
     },
     home: {
-        heading: 'Artistes africains, mouvements artistiques et musiques',
-        lead: 'Un guide en quatre langues consacré aux peintres, sculpteurs et photographes de l’Afrique moderne, aux écoles et mouvements qu’ils ont fondés, et aux musiques qui portent le son du continent dans le monde entier.',
-        exploreArtists: 'Découvrir les artistes',
+        heading: 'L’art africain : traditions, artistes et musiques',
+        lead: 'Un guide en cinq langues consacré à l’art d’Afrique — masques, sculpture, textiles et art rupestre, artistes et mouvements modernes et contemporains du continent, et musiques qui portent sa voix dans le monde entier.',
+        exploreHistory: 'Brève histoire de l’art africain',
+        exploreArtForms: 'Découvrir les formes d’art',
         buyDomain: 'Ce domaine est à vendre',
+        artFormsTitle: 'Formes d’art et traditions',
+        artFormsMore: 'Toutes les formes d’art',
+        regionsTitle: 'Explorer par région',
+        regionsMore: 'Toutes les régions',
         artistsTitle: 'Artistes à connaître',
         artistsMore: 'Tous les portraits d’artistes',
         movementsTitle: 'Mouvements et écoles',
@@ -53,6 +60,7 @@ const fr: Dictionary = {
         minutes: (n: number) => `${n} min de lecture`,
         country: 'Pays',
         allIn: (collection: string) => `Voir tout : ${collection.toLowerCase()}`,
+        inRegion: 'À découvrir dans cette région',
     },
     buy: {
         title: 'Acheter AfricanArtists.com — nom de domaine à vendre',
@@ -77,7 +85,7 @@ const fr: Dictionary = {
             },
             {
                 title: 'Il a déjà un site',
-                text: 'Ce guide en quatre langues des artistes et musiques d’Afrique est en ligne sur le domaine. Le contenu peut faire partie de la vente, par accord.',
+                text: 'Ce guide en cinq langues de l’art, des artistes et des musiques d’Afrique est en ligne sur le domaine. Le contenu peut faire partie de la vente, par accord.',
             },
         ],
         whoTitle: 'Pour qui',
@@ -125,7 +133,7 @@ const fr: Dictionary = {
             },
             {
                 q: 'Le site est-il inclus ?',
-                a: 'La vente porte sur le nom de domaine. Le guide publié ici — ses articles en quatre langues — peut être inclus par accord ; mentionnez-le dans votre offre.',
+                a: 'La vente porte sur le nom de domaine. Le guide publié ici — ses articles en cinq langues — peut être inclus par accord ; mentionnez-le dans votre offre.',
             },
             {
                 q: 'Puis-je payer en plusieurs fois ?',
@@ -169,7 +177,7 @@ const fr: Dictionary = {
     footer: {
         about: 'À propos du guide',
         privacy: 'Confidentialité',
-        tagline: 'Un guide indépendant des artistes, mouvements artistiques et musiques d’Afrique, en quatre langues.',
+        tagline: 'Un guide indépendant de l’art, des artistes et des musiques d’Afrique, en cinq langues.',
         forSale: 'Le nom de domaine AfricanArtists.com est disponible à l’achat.',
         explore: 'Explorer',
         site: 'Ce site',
@@ -182,11 +190,17 @@ const fr: Dictionary = {
     },
     countries: {
         AO: 'Angola',
+        BF: 'Burkina Faso',
+        BJ: 'Bénin',
         CD: 'RD Congo',
         CG: 'République du Congo',
+        CI: 'Côte d’Ivoire',
+        CM: 'Cameroun',
         CV: 'Cap-Vert',
         DZ: 'Algérie',
         EG: 'Égypte',
+        ET: 'Éthiopie',
+        GA: 'Gabon',
         GH: 'Ghana',
         KE: 'Kenya',
         MA: 'Maroc',
@@ -195,7 +209,9 @@ const fr: Dictionary = {
         NG: 'Nigeria',
         SD: 'Soudan',
         SN: 'Sénégal',
+        TZ: 'Tanzanie',
         ZA: 'Afrique du Sud',
+        ZW: 'Zimbabwe',
     },
 };
 

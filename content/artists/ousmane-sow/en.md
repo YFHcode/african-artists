@@ -39,4 +39,4 @@ In 2012 Sow was elected a foreign associate member of the Académie des Beaux-Ar
 
 ## Related artists and movements
 
-Sow came of age in the Senegal of the [École de Dakar](/movements/ecole-de-dakar), though he stood apart from any school. His outdoor, public reach invites comparison with [El Anatsui](/artists/el-anatsui), whose metal works have covered facades and filled the Turbine Hall, and with the street-level storytelling of [Chéri Samba](/artists/cheri-samba). For museums where African sculpture can be seen today, see [where to see African art](/guides/where-to-see-african-art).
+Sow came of age in the Senegal of the [École de Dakar](/movements/ecole-de-dakar), though he stood apart from any school. His outdoor, public reach invites comparison with [El Anatsui](/artists/el-anatsui), whose metal works have covered facades and filled the Turbine Hall, and with the street-level storytelling of [Chéri Samba](/artists/cheri-samba). For the long history he belongs to, read our guide to [African sculpture](/art-forms/african-sculpture); for museums where it can be seen today, see [where to see African art](/guides/where-to-see-african-art).

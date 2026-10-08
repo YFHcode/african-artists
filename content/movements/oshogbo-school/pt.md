@@ -23,7 +23,7 @@ Entre 1962 e 1966 o clube acolheu uma série de oficinas curtas orientadas por a
 As oficinas revelaram artistas de estilos muito pessoais, todos inspirados nas histórias, divindades, festas e vida quotidiana iorubás:
 
 - **Twins Seven-Seven**, que chegou ao clube em 1963 e se tornou um dos pintores mais conhecidos da Nigéria, com imagens intrincadas de espíritos e mitos;
-- **Jimoh Buraimoh**, que desenvolveu uma pintura com missangas, adaptada do trabalho tradicional iorubá;
+- **Jimoh Buraimoh**, que desenvolveu uma pintura com [missangas](/art-forms/african-beadwork), adaptada do trabalho tradicional iorubá;
 - **Muraina Oyelami**, pintor e também tamborileiro reputado;
 - **Rufus Ogundele**, **Jacob Afolabi** e **Adebisi Fabunmi**, pintores e gravadores;
 - **Nike Okundaye** (Nike Davies-Okundaye), que se tornou uma grande artista têxtil e fundou centros de arte e galerias em Osogbo, Lagos e noutros lugares.

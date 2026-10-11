@@ -20,7 +20,8 @@ function relatedHubs(hub: Hub, locale: Locale): Hub[] {
     const live = liveHubs(locale).filter((h) => h !== hub);
     const kind = hubKind(hub);
     if (kind === 'country') return live.filter((h) => h.country === hub.country);
-    if (kind === 'medium') return live.filter((h) => h.medium === hub.medium || hubKind(h) === 'medium');
+    if (kind === 'medium' || kind === 'contemporary')
+        return live.filter((h) => (kind === 'medium' && h.medium === hub.medium) || hubKind(h) === 'medium' || hubKind(h) === 'contemporary');
     return live.filter(
         (h) =>
             (h.country === hub.country && (!h.medium || h.medium !== hub.medium)) ||
@@ -60,8 +61,8 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
 
     const line = (a: DataArtist) => {
         const details = [
-            kind === 'medium' ? a.countries.map((c) => t.countries[c]).join(', ') : '',
-            kind === 'country' ? a.media.map((m) => t.media[m]).join(', ') : '',
+            kind === 'medium' || kind === 'contemporary' ? a.countries.map((c) => t.countries[c]).join(', ') : '',
+            kind === 'country' || kind === 'contemporary' ? a.media.map((m) => t.media[m]).join(', ') : '',
             lifeYears(a),
         ].filter(Boolean);
         const href = wikipediaUrl(a, locale);

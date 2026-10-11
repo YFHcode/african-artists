@@ -1,0 +1,9 @@
+---
+title: Peintres africains : 430 peintres célèbres de tout le continent
+label: Peintres africains
+heading: Peintres africains
+description: Les peintres africains célèbres, de Mahmoud Saïd, Ben Enwonwu et Ibrahim El-Salahi à Chéri Samba, Chaïbia Talal et Njideka Akunyili Crosby : portraits et liste de 430 noms.
+---
+En Afrique, la peinture est bien plus ancienne que le chevalet : les peintures rupestres du Sahara et de l'Afrique australe remontent à des millénaires, et les églises éthiopiennes, les maisons ndébélé ou les murs de Mauritanie portent leurs propres traditions picturales. La peinture de chevalet arrive avec la période coloniale et devient vite africaine. Des pionniers comme [Mahmoud Saïd](/artists/mahmoud-said) en Égypte, Aina Onabolu et [Ben Enwonwu](/artists/ben-enwonwu) au Nigeria, ou Irma Stern et Gerard Sekoto en Afrique du Sud ouvrent la voie.
+
+Autour des indépendances, des mouvements de tout le continent se demandent ce que doit être une peinture africaine moderne : la [Zaria Art Society](/movements/zaria-art-society) et l'[école d'Oshogbo](/movements/oshogbo-school) au Nigeria, l'[École de Khartoum](/movements/khartoum-school) d'[Ibrahim El-Salahi](/artists/ibrahim-el-salahi), l'[École de Casablanca](/movements/casablanca-school), l'[École de Dakar](/movements/ecole-de-dakar). Au Maghreb, [M'hamed Issiakhem](/artists/mhamed-issiakhem) et l'autodidacte [Chaïbia Talal](/artists/chaibia-talal) tracent leur propre chemin, et les peintres autodidactes de Kinshasa, avec [Chéri Samba](/artists/cheri-samba), inventent la [peinture populaire](/movements/congolese-popular-painting). Aujourd'hui, [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby), [Marlene Dumas](/artists/marlene-dumas) et [Lubaina Himid](/artists/lubaina-himid) comptent parmi les peintres les plus recherchés du monde. Voici les peintres africains qui ont un article Wikipédia, les plus recherchés d'abord.

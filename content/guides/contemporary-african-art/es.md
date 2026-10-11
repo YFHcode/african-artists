@@ -42,4 +42,4 @@ Las ventas en subasta de arte africano moderno y contemporáneo crecieron con fu
 
 ## Relacionados
 
-Las citas donde se muestra obra nueva figuran en [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales). Para la historia más larga a la que responden los artistas contemporáneos, lea nuestra [breve historia del arte africano](/guides/african-art-history).
+Las citas donde se muestra obra nueva figuran en [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales). Para la historia más larga a la que responden los artistas contemporáneos, lea nuestra [breve historia del arte africano](/guides/african-art-history). Para una lista de unos cuatrocientos artistas nacidos desde 1960, vea [artistas africanos contemporáneos](/artists/contemporary).

@@ -18,6 +18,7 @@ import {
     OCCUPATION_MEDIUM,
     WIKIDATA_COUNTRIES,
     hubContentDir,
+    hubIncludes,
     hubKind,
     hubPath,
     releasedHubs,
@@ -51,6 +52,8 @@ const ALL_FILES = [
 const words = (text) => text.split(/\s+/).filter(Boolean).length;
 
 const PROFILED = new Set([...Object.values(ORIGINAL_ARTISTS).map((o) => o.qid), ...ROSTER.map((r) => r.qid)]);
+const CORRECTIONS = JSON.parse(fs.readFileSync(path.join(import.meta.dirname, '..', 'data', 'artists', 'corrections.json'), 'utf8'));
+const bornOf = (a) => (CORRECTIONS[a.qid] && 'birthYear' in CORRECTIONS[a.qid] ? CORRECTIONS[a.qid].birthYear : a.birthYear) ?? null;
 const EXCLUDED = new Set(fs.readFileSync(path.join(import.meta.dirname, '..', 'data', 'artists', 'exclude.txt'), 'utf8').split('\n').map((l) => l.replace(/#.*/, '').trim()).filter(Boolean));
 
 /** The artists a hub lists, as the site computes them (src/lib/artist-data.ts). */
@@ -61,7 +64,8 @@ function hubMembers(hub) {
             !EXCLUDED.has(a.qid) &&
             !/^Q\d+$/.test(a.name) &&
             (!hub.country || a.countries.some((c) => WIKIDATA_COUNTRIES[c] === hub.country)) &&
-            (!hub.medium || a.occupations.some((o) => OCCUPATION_MEDIUM[o] === hub.medium))
+            (!hub.medium || a.occupations.some((o) => OCCUPATION_MEDIUM[o] === hub.medium)) &&
+            (!hub.bornFrom || (bornOf(a) !== null && bornOf(a) >= hub.bornFrom))
     );
 }
 
@@ -161,7 +165,10 @@ test('every full article is linked from three other articles; every short profil
 
     const hubs = releasedHubs();
     const unlisted = CATALOG.filter((e) => e.kind === 'short')
-        .filter((e) => !hubs.some((h) => (!h.country || e.countries.includes(h.country)) && (!h.medium || e.media?.includes(h.medium))))
+        .filter((e) => {
+            const born = ROSTER.find((r) => r.qid === e.qid)?.born ?? null;
+            return !hubs.some((h) => hubIncludes(h, { countries: e.countries, media: e.media ?? [], born }));
+        })
         .map(entryPath);
     assert.deepEqual(unlisted, [], 'short profiles that no released hub lists');
 });

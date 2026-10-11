@@ -30,7 +30,7 @@ Maasai and Samburu women in Kenya and Tanzania are famous for their beaded colla
 
 ## Tanzania: Makonde and Tingatinga
 
-Tanzania is the home of two of East Africa's best-known modern art forms: the blackwood sculpture of the [Makonde](/art-forms/makonde-art), with its ujamaa "family trees" and shetani spirits, and [Tingatinga](/art-forms/tingatinga), the glossy enamel painting style created in Dar es Salaam around 1968.
+Tanzania is the home of two of East Africa's best-known modern art forms: the blackwood sculpture of the [Makonde](/art-forms/makonde-art), with its ujamaa "family trees" and shetani spirits, and [Tingatinga](/art-forms/tingatinga), the glossy enamel painting style created in Dar es Salaam around 1968. The Makonde artist [George Lilanga](/artists/george-lilanga) turned shetani spirits into crowded, joyful paintings, and the Zanzibar-born [Lubaina Himid](/artists/lubaina-himid) won the Turner Prize in 2017.
 
 ## Makerere and modern art
 

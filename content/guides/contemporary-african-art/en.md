@@ -42,4 +42,4 @@ Auction sales of modern and contemporary African art grew strongly from the 2010
 
 ## Related
 
-The events where new work is shown are listed in [African art fairs and biennales](/guides/african-art-fairs-and-biennales). For the longer story that contemporary artists respond to, read our [short history of African art](/guides/african-art-history).
+The events where new work is shown are listed in [African art fairs and biennales](/guides/african-art-fairs-and-biennales). For the longer story that contemporary artists respond to, read our [short history of African art](/guides/african-art-history). For a list of some four hundred artists born since 1960, see [contemporary African artists](/artists/contemporary).

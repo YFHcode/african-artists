@@ -17,7 +17,7 @@ export const WAVES: Record<number, string | null> = {
     4: '2026-10-11',
     5: '2026-10-11',
     6: '2026-10-11',
-    7: null,
+    7: '2026-10-11',
 };
 
 const PREVIEW_WAVE = Number(process.env.NEXT_PUBLIC_PREVIEW_WAVE || 0);

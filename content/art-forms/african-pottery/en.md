@@ -50,4 +50,4 @@ Archaeological terracottas — Nok, Djenné-Djenno, and others — are among the
 
 ## Related
 
-Clay figures belong to the history of [African sculpture](/art-forms/african-sculpture). Ladi Kwali's story is part of our guide to [African women artists](/guides/african-women-artists). For another art made largely by women, see [African beadwork](/art-forms/african-beadwork).
+Clay figures belong to the history of [African sculpture](/art-forms/african-sculpture). Ladi Kwali's story is part of our guide to [African women artists](/guides/african-women-artists). For another art made largely by women, see [African beadwork](/art-forms/african-beadwork). For modern ceramic artists, see our list of [African ceramic artists](/artists/medium/ceramic-artists).

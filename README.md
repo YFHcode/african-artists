@@ -99,7 +99,7 @@ src/i18n/<locale>.ts                      interface text (menus, buy page, form)
 
 ```
 npm run dev        local development
-npm run build      production build (prerenders every indexable page; 600 after wave 6)
+npm run build      production build (prerenders every indexable page; 618 after wave 7)
 npm start          serve the production build
 npm test           content integrity, offer validation, URL helpers
 npm run lint
@@ -142,7 +142,8 @@ The plan is `docs/artist-pages-rollout.md`. Three files drive it:
 
 - `src/content/roster.ts`: every planned profile beyond the original fourteen, with its wave,
   its type (`full` or `short`) and the editions it exists in.
-- `src/content/hubs.ts`: every hub (by country, by medium, or both), with its wave and
+- `src/content/hubs.ts`: every hub (by country, by medium, or both, plus the contemporary hub of
+  everyone born since 1960), with its wave and
   editions.
 - `src/content/waves.ts`: release dates. A wave is public once it has one.
 
@@ -157,6 +158,7 @@ The plan is `docs/artist-pages-rollout.md`. Three files drive it:
   - `content/hubs/country/<country>/<locale>.md`
   - `content/hubs/country/<country>/<medium>/<locale>.md`
   - `content/hubs/medium/<medium>/<locale>.md`
+  - `content/hubs/contemporary/<locale>.md`
 
   Each has `title`, `label` (the short link text, e.g. "South African photographers"),
   `heading` and `description`, and an English introduction of 80+ words.

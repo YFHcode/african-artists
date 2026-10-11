@@ -48,4 +48,4 @@ Le bronze *Anyanwu* (1954-1955) de [Ben Enwonwu](/artists/ben-enwonwu) est deven
 
 ## À lire aussi
 
-Beaucoup de sculptures étaient faites pour être portées : voir les [masques africains](/art-forms/african-masks). Pour les récipients et figures en argile, voir la [céramique africaine](/art-forms/african-pottery). Pour voir les grandes collections, consultez notre guide [où voir l'art africain](/guides/where-to-see-african-art), et pour une vue d'ensemble, notre [brève histoire de l'art africain](/guides/african-art-history).
+Beaucoup de sculptures étaient faites pour être portées : voir les [masques africains](/art-forms/african-masks). Pour les récipients et figures en argile, voir la [céramique africaine](/art-forms/african-pottery). Pour voir les grandes collections, consultez notre guide [où voir l'art africain](/guides/where-to-see-african-art), et pour une vue d'ensemble, notre [brève histoire de l'art africain](/guides/african-art-history). Pour les sculpteurs modernes et contemporains, voir notre liste de [sculpteurs africains](/artists/medium/sculptors).

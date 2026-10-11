@@ -44,4 +44,4 @@ Les histoires de l'art africain écrites au XXe siècle étaient dominées par l
 
 ## Pour aller plus loin
 
-D'autres femmes artistes ont leur propre portrait sur ce site, dont la peintre [Lubaina Himid](/artists/lubaina-himid), la sculptrice sénégalaise [Seyni Awa Camara](/artists/seni-awa-camara) et l'artiste née en Égypte [Ghada Amer](/artists/ghada-amer). Découvrez où voir leurs œuvres dans [où voir l'art africain](/guides/where-to-see-african-art), et où les œuvres nouvelles sont présentées dans [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales).
+D'autres femmes artistes ont leur propre portrait sur ce site, dont la peintre [Lubaina Himid](/artists/lubaina-himid), la sculptrice sénégalaise [Seyni Awa Camara](/artists/seni-awa-camara), l'artiste née en Égypte [Ghada Amer](/artists/ghada-amer) et l'artiste marocaine [Yto Barrada](/artists/yto-barrada). Découvrez où voir leurs œuvres dans [où voir l'art africain](/guides/where-to-see-african-art), et où les œuvres nouvelles sont présentées dans [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales).

@@ -48,4 +48,4 @@ Soapstone birds carved at **Great Zimbabwe** between the thirteenth and fifteent
 
 ## Related
 
-Many sculptures were made to be worn: see [African masks](/art-forms/african-masks). For clay vessels and figures, see [African pottery](/art-forms/african-pottery). To see the great collections, use our guide to [where to see African art](/guides/where-to-see-african-art), and for the long view, our [short history of African art](/guides/african-art-history).
+Many sculptures were made to be worn: see [African masks](/art-forms/african-masks). For clay vessels and figures, see [African pottery](/art-forms/african-pottery). To see the great collections, use our guide to [where to see African art](/guides/where-to-see-african-art), and for the long view, our [short history of African art](/guides/african-art-history). For modern and contemporary sculptors, see our list of [African sculptors](/artists/medium/sculptors).

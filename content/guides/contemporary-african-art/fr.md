@@ -42,4 +42,4 @@ Les ventes aux enchères d'art africain moderne et contemporain ont fortement pr
 
 ## À lire aussi
 
-Les événements où l'art nouveau est montré figurent dans [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour l'histoire plus longue à laquelle répondent les artistes contemporains, lisez notre [brève histoire de l'art africain](/guides/african-art-history).
+Les événements où l'art nouveau est montré figurent dans [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour l'histoire plus longue à laquelle répondent les artistes contemporains, lisez notre [brève histoire de l'art africain](/guides/african-art-history). Pour une liste de quelque quatre cents artistes nés depuis 1960, voir les [artistes africains contemporains](/artists/contemporary).

@@ -42,4 +42,4 @@ As vendas em leilão de arte africana moderna e contemporânea cresceram forteme
 
 ## Relacionados
 
-Os eventos onde a obra nova é mostrada estão em [feiras e bienais de arte africana](/guides/african-art-fairs-and-biennales). Para a história mais longa a que os artistas contemporâneos respondem, leia a nossa [breve história da arte africana](/guides/african-art-history).
+Os eventos onde a obra nova é mostrada estão em [feiras e bienais de arte africana](/guides/african-art-fairs-and-biennales). Para a história mais longa a que os artistas contemporâneos respondem, leia a nossa [breve história da arte africana](/guides/african-art-history). Para uma lista de cerca de quatrocentos artistas nascidos desde 1960, veja [artistas africanos contemporâneos](/artists/contemporary).

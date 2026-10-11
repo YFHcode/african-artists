@@ -51,6 +51,7 @@ const ar: Dictionary = {
     },
     collections: {
         byCountry: 'حسب البلد',
+        acrossAfrica: 'في أنحاء أفريقيا',
     },
     article: {
         facts: 'لمحة سريعة',

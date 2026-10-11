@@ -1,0 +1,9 @@
+---
+title: Artistes africains contemporains : 400 artistes nés depuis 1960
+label: Artistes africains contemporains
+heading: Artistes africains contemporains
+description: Les artistes africains contemporains nés depuis 1960, de Yinka Shonibare, Zanele Muholi et Njideka Akunyili Crosby à Wangechi Mutu, Yto Barrada et Ghada Amer.
+---
+L'art africain contemporain est l'une des parties les plus vivantes de la scène artistique mondiale, présent à la Biennale de Venise, à la Documenta et dans tous les grands musées, et collectionné sur le continent comme ailleurs (notre guide de l'[art africain contemporain](/guides/contemporary-african-art) en raconte l'histoire). Cette liste réunit les artistes nés en 1960 ou après — la génération qui a grandi après les indépendances, ou dans la diaspora — en peinture, sculpture, photographie et installation.
+
+On y trouve [Yinka Shonibare](/artists/yinka-shonibare) et ses personnages vêtus de wax ; [Wangechi Mutu](/artists/wangechi-mutu) et [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) ; [Zanele Muholi](/artists/zanele-muholi), qui photographie les communautés queer noires d'Afrique du Sud ; [Otobong Nkanga](/artists/otobong-nkanga), [Amoako Boafo](/artists/amoako-boafo), [Yto Barrada](/artists/yto-barrada), [Ghada Amer](/artists/ghada-amer) et [Romuald Hazoumè](/artists/romuald-hazoume). Comme la liste est construite à partir des lectures de Wikipédia, elle inclut aussi des photographes et des personnes surtout connues pour autre chose, comme [Kevin Carter](/artists/kevin-carter), du Bang-Bang Club. Voici les artistes africains contemporains qui ont un article Wikipédia, les plus recherchés d'abord. Voir aussi les [peintres africains](/artists/medium/painters) et les [photographes africains](/artists/medium/photographers).

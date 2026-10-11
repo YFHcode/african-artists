@@ -4,11 +4,11 @@ import { Breadcrumbs, CardGrid, EntryCard, FactFile, RelatedArticles } from '@/c
 import { JsonLd } from '@/components/JsonLd';
 import { Motif } from '@/components/Motif';
 import { dictionary } from '@/i18n';
-import { COLLECTIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
+import { COLLECTIONS, REGIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
 import { type Article, getArticle, getPage, listArticles, relatedArticles } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { articleSchema, collectionSchema } from '@/lib/schema';
-import { hubPath, hubsListing } from '@/content/hubs';
+import { type Hub, hubPath, hubsListing, liveHubs } from '@/content/hubs';
 import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
 import { getHubPage } from '@/lib/content';
 import type { Fact } from '@/lib/content';
@@ -74,7 +74,10 @@ export function ArticleView({ article }: { article: Article }) {
               { label: 'Wikidata', href: wikidataUrl(entry.qid) },
           ]
         : [];
-    const lists = entry.collection === 'artists' ? hubsListing(entry.countries, entry.media ?? [], locale) : [];
+    const lists =
+        entry.collection === 'artists'
+            ? hubsListing({ countries: entry.countries, media: entry.media ?? [], born: artist?.born ?? null }, locale)
+            : [];
     const person = entry.qid
         ? {
               sameAs: [wikidataUrl(entry.qid), ...(artist?.titles.en ? [wikipediaUrl(artist, 'en')!] : [])],
@@ -182,7 +185,8 @@ function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
             .filter((e) => e.collection === collection && isAvailable(e, locale))
             .map((e) => getArticle(locale, e.collection, e.slug)!),
     })).filter((g) => g.articles.length > 0);
-    if (groups.length === 0) return null;
+    const hubs = liveHubs(locale).filter((h) => h.country && REGIONS[slug]?.includes(h.country));
+    if (groups.length === 0 && hubs.length === 0) return null;
 
     return (
         <section aria-labelledby="region-index" className="mx-auto mt-16 max-w-6xl px-4">
@@ -205,8 +209,86 @@ function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
                         </ul>
                     </div>
                 ))}
+                {hubs.length > 0 && (
+                    <div>
+                        <h3 className="text-sm font-semibold uppercase tracking-wide text-muted">{t.profile.lists}</h3>
+                        <ul className="mt-3 space-y-2">
+                            {hubs.map((h) => (
+                                <li key={hubPath(h)}>
+                                    <Link href={localePath(locale, hubPath(h))} className="font-medium text-clay underline underline-offset-4">
+                                        {getHubPage(locale, h).label}
+                                    </Link>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+                )}
             </div>
         </section>
+    );
+}
+
+/**
+ * Every list of artists in an edition: the Africa-wide lists first, then each
+ * country's list with its lists by medium. On the artists index this is the
+ * way into the hubs; the home page shows the compact version (wide lists and
+ * country lists only).
+ */
+export function HubDirectory({ locale, compact = false }: { locale: Locale; compact?: boolean }) {
+    const t = dictionary(locale);
+    const live = liveHubs(locale);
+    const wide = live.filter((h) => !h.country);
+    const byCountry = new Map<CountryCode, Hub[]>();
+    for (const h of live.filter((h) => h.country)) {
+        // The country's own list first, then its lists by medium.
+        const list = byCountry.get(h.country!) ?? [];
+        byCountry.set(h.country!, h.medium ? [...list, h] : [h, ...list]);
+    }
+    const countries = [...byCountry.keys()].sort((a, b) => t.countries[a].localeCompare(t.countries[b], LOCALE_INFO[locale].lang));
+    const pill = (h: Hub) => (
+        <li key={hubPath(h)}>
+            <Link href={localePath(locale, hubPath(h))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
+                {getHubPage(locale, h).label}
+            </Link>
+        </li>
+    );
+
+    if (compact) {
+        const countryLists = countries.flatMap((c) => byCountry.get(c)!.filter((h) => !h.medium));
+        return <ul className="mt-6 flex flex-wrap gap-3">{[...wide, ...countryLists].map(pill)}</ul>;
+    }
+
+    return (
+        <>
+            {wide.length > 0 && (
+                <>
+                    <h3 className="mt-6 text-sm font-semibold uppercase tracking-wide text-muted">{t.collections.acrossAfrica}</h3>
+                    <ul className="mt-3 flex flex-wrap gap-3">{wide.map(pill)}</ul>
+                </>
+            )}
+            {countries.length > 0 && (
+                <>
+                    <h3 className="mt-8 text-sm font-semibold uppercase tracking-wide text-muted">{t.collections.byCountry}</h3>
+                    <dl className="mt-3 grid gap-x-8 gap-y-4 sm:grid-cols-2 lg:grid-cols-3">
+                        {countries.map((code) => (
+                            <div key={code}>
+                                <dt className="font-semibold">{t.countries[code]}</dt>
+                                <dd className="text-[0.95rem]">
+                                    {byCountry.get(code)!.map((h, i) => (
+                                        <span key={hubPath(h)}>
+                                            {i > 0 && ', '}
+                                            <Link href={localePath(locale, hubPath(h))} className="text-clay underline underline-offset-4">
+                                                {getHubPage(locale, h).label}
+                                            </Link>
+                                        </span>
+                                    ))}
+                                </dd>
+                            </div>
+                        ))}
+                    </dl>
+                </>
+            )}
+        </>
     );
 }
 
@@ -260,6 +342,15 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
                     ))}
                 </CardGrid>
             </section>
+
+            {collection === 'artists' && liveHubs(locale).length > 0 && (
+                <section aria-labelledby="artist-lists" className="mx-auto mt-14 max-w-6xl px-4">
+                    <h2 id="artist-lists" className="font-display text-2xl font-semibold">
+                        {t.profile.lists}
+                    </h2>
+                    <HubDirectory locale={locale} />
+                </section>
+            )}
 
             {countries.length > 0 && (
                 <section aria-labelledby="by-country" className="mx-auto mt-14 max-w-6xl px-4">

@@ -51,6 +51,7 @@ const pt: Dictionary = {
     },
     collections: {
         byCountry: 'Por país',
+        acrossAfrica: 'Toda a África',
     },
     article: {
         facts: 'Em resumo',

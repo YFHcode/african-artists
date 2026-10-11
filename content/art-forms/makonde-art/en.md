@@ -28,7 +28,7 @@ In the 1950s, Makonde carvers who had moved to Tanzania, and others on the Mozam
 
 ## Artists
 
-**George Lilanga** (1934–2005), a Tanzanian of Makonde origin, became one of East Africa's best-known artists. Starting as a carver of shetani, he developed a joyful style of painting and sculpture in which crowds of long-eared, dancing figures fill the surface, and his work was shown internationally.
+**[George Lilanga](/artists/george-lilanga)** (1934–2005), a Tanzanian of Makonde origin, became one of East Africa's best-known artists. Starting as a carver of shetani, he developed a joyful style of painting and sculpture in which crowds of long-eared, dancing figures fill the surface, and his work was shown internationally.
 
 **Reinata Sadimba**, born in northern Mozambique in the 1940s, is unusual as a woman in a carving tradition dominated by men. Her clay and wood figures, often of women, mothers and fantastical beings, are held in collections in Mozambique and abroad.
 

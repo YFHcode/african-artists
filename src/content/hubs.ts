@@ -112,17 +112,19 @@ export const COUNTRY_SLUGS: Partial<Record<CountryCode, string>> = {
     ZW: 'zimbabwe',
 };
 
-export type HubKind = 'country' | 'country-medium' | 'medium';
+export type HubKind = 'country' | 'country-medium' | 'medium' | 'contemporary';
 
 export interface Hub {
     country?: CountryCode;
     medium?: Medium;
+    /** The contemporary hub: everyone born in this year or later, any country and medium. */
+    bornFrom?: number;
     wave: number;
     locales: readonly Locale[];
 }
 
 /** Smallest list each kind of hub may have; below it the artists stay on the region page. */
-export const HUB_MIN_SIZE: Record<HubKind, number> = { country: 8, 'country-medium': 10, medium: 10 };
+export const HUB_MIN_SIZE: Record<HubKind, number> = { country: 8, 'country-medium': 10, medium: 10, contemporary: 10 };
 
 // BEGIN GENERATED (hub list, from the rollout plan and the first data run)
 export const HUBS: Hub[] = [
@@ -181,15 +183,27 @@ export const HUBS: Hub[] = [
     { medium: 'sculpture', wave: 7, locales: ['en', 'fr', 'es', 'ar'] },
     { medium: 'printmaking', wave: 7, locales: ['en', 'fr'] },
     { medium: 'ceramics', wave: 7, locales: ['en'] },
+    { bornFrom: 1960, wave: 7, locales: ['en', 'fr', 'es', 'pt', 'ar'] },
 ];
 // END GENERATED
 
 export function hubKind(hub: Hub): HubKind {
+    if (hub.bornFrom) return 'contemporary';
     return hub.country && hub.medium ? 'country-medium' : hub.country ? 'country' : 'medium';
+}
+
+/** Whether a hub lists an artist with these countries, media and birth year. */
+export function hubIncludes(hub: Hub, artist: { countries: readonly string[]; media: readonly string[]; born: number | null }): boolean {
+    return (
+        (!hub.country || artist.countries.includes(hub.country)) &&
+        (!hub.medium || artist.media.includes(hub.medium)) &&
+        (!hub.bornFrom || (artist.born !== null && artist.born >= hub.bornFrom))
+    );
 }
 
 /** Public, edition-independent path: /artists/country/south-africa/photographers. */
 export function hubPath(hub: Hub): string {
+    if (hub.bornFrom) return '/artists/contemporary';
     const medium = hub.medium ? MEDIUM_SLUGS[hub.medium] : undefined;
     if (hub.country) {
         const base = `/artists/country/${COUNTRY_SLUGS[hub.country]}`;
@@ -212,15 +226,20 @@ export function liveHubs(locale: Locale): Hub[] {
     return releasedHubs().filter((h) => h.locales.includes(locale));
 }
 
-/** Live hubs that list an artist with these countries and media (the "Lists of artists" on a profile). */
-export function hubsListing(countries: readonly string[], media: readonly string[], locale: Locale): Hub[] {
-    return liveHubs(locale).filter(
-        (h) => (!h.country || countries.includes(h.country)) && (!h.medium || media.includes(h.medium))
-    );
+/** Live hubs that list an artist (the "Lists of artists" on a profile). */
+export function hubsListing(
+    artist: { countries: readonly string[]; media: readonly string[]; born: number | null },
+    locale: Locale
+): Hub[] {
+    return liveHubs(locale).filter((h) => hubIncludes(h, artist));
 }
 
 export function findHub(country: CountryCode | undefined, medium: Medium | undefined): Hub | undefined {
-    return HUBS.find((h) => h.country === country && h.medium === medium);
+    return HUBS.find((h) => !h.bornFrom && h.country === country && h.medium === medium);
+}
+
+export function contemporaryHub(): Hub | undefined {
+    return HUBS.find((h) => h.bornFrom);
 }
 
 export function countryBySlug(slug: string): CountryCode | undefined {

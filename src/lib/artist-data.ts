@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 import type { CountryCode } from '@/content/catalog';
-import { type Hub, type Medium, OCCUPATION_MEDIUM, WIKIDATA_COUNTRIES } from '@/content/hubs';
+import { type Hub, type Medium, OCCUPATION_MEDIUM, WIKIDATA_COUNTRIES, hubIncludes } from '@/content/hubs';
 import { ORIGINAL_ARTISTS, ROSTER } from '@/content/roster';
 import type { Locale } from '@/lib/i18n';
 
@@ -96,7 +96,7 @@ export function dataArtist(qid: string): DataArtist | undefined {
 /** Everyone a hub lists, most looked-up first. */
 export function hubMembers(hub: Hub): DataArtist[] {
     return [...load().values()]
-        .filter((a) => (!hub.country || a.countries.includes(hub.country)) && (!hub.medium || a.media.includes(hub.medium)))
+        .filter((a) => hubIncludes(hub, a))
         .sort((a, b) => b.views - a.views || a.name.localeCompare(b.name));
 }
 

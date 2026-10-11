@@ -48,4 +48,4 @@ El bronce *Anyanwu* (1954–55) de [Ben Enwonwu](/artists/ben-enwonwu) se convir
 
 ## Relacionados
 
-Muchas esculturas se hacían para llevarlas puestas: vea las [máscaras africanas](/art-forms/african-masks). Para vasijas y figuras de barro, vea la [cerámica africana](/art-forms/african-pottery). Para ver las grandes colecciones, use nuestra guía [dónde ver arte africano](/guides/where-to-see-african-art), y para la visión de conjunto, nuestra [breve historia del arte africano](/guides/african-art-history).
+Muchas esculturas se hacían para llevarlas puestas: vea las [máscaras africanas](/art-forms/african-masks). Para vasijas y figuras de barro, vea la [cerámica africana](/art-forms/african-pottery). Para ver las grandes colecciones, use nuestra guía [dónde ver arte africano](/guides/where-to-see-african-art), y para la visión de conjunto, nuestra [breve historia del arte africano](/guides/african-art-history). Para los escultores modernos y contemporáneos, vea nuestra lista de [escultores africanos](/artists/medium/sculptors).

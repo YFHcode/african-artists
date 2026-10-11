@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 
 import { CardGrid, EntryCard } from '@/components/Blocks';
 import { Motif } from '@/components/Motif';
+import { HubDirectory } from '@/components/Views';
 import { dictionary } from '@/i18n';
 import { type Collection, entriesIn, entryPath } from '@/content/catalog';
 import { getArticle, listArticles } from '@/lib/content';
@@ -141,6 +142,12 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
 
             <Section locale={locale} collection="art-forms" title={t.home.artFormsTitle} more={t.home.artFormsMore} slugs={FEATURED['art-forms']} />
             <Section locale={locale} collection="artists" title={t.home.artistsTitle} more={t.home.artistsMore} slugs={FEATURED.artists} />
+            <section aria-labelledby="home-lists" className="mx-auto mt-10 max-w-6xl px-4">
+                <h2 id="home-lists" className="font-display text-2xl font-semibold tracking-tight">
+                    {t.profile.lists}
+                </h2>
+                <HubDirectory locale={locale} compact />
+            </section>
 
             <section className="mx-auto mt-16 max-w-6xl px-4">
                 <div className="grid overflow-hidden rounded-2xl bg-indigo text-paper md:grid-cols-[1fr_14rem]">

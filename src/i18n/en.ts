@@ -52,6 +52,7 @@ const en = {
     },
     collections: {
         byCountry: 'By country',
+        acrossAfrica: 'Across Africa',
     },
     article: {
         facts: 'At a glance',

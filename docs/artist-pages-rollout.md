@@ -326,6 +326,12 @@ links to the Tingatinga page.
 
 ## Wave 7: medium hubs and the whole-continent lists
 
+**Status: released 11 October 2026, by decision on the same day as waves 1–6.**
+- **Pages:** 5 hubs in 17 editions (African painters in 5 languages, sculptors in 4, printmakers in 2, ceramic artists in English, contemporary African artists in 5) and George Lilanga's profile — 18 new URLs, 618 in all.
+- **Contemporary hub:** built in this wave. A hub can now have `bornFrom` instead of a country or medium; it lives at `/artists/contemporary` and lists 398 artists born in 1960 or later.
+- **Site pass:** the `/artists` index lists every hub in the edition (Africa-wide, then by country); the home page has a row of the Africa-wide and country lists; region pages list their countries' hubs automatically; the sculpture, pottery, Makonde and contemporary-art pages and the women artists guide link to the new lists and profiles.
+- **Audit:** a crawl of all 618 sitemap URLs found no broken internal links, no page linked from fewer than two others, no duplicate titles, and no page missing a title, description, canonical or single h1.
+
 Also releases George Lilanga's profile (written in wave 6; see above).
 
 These broad terms come last because they need the profiles from earlier waves to link to.
@@ -360,5 +366,5 @@ These broad terms come last because they need the profiles from earlier waves to
 | New full profiles | 35 |
 | New short profiles | 61 |
 | Existing profiles updated | 13 (plus Farid Belkahia, list tier) |
-| Hubs | 49 (wave 1: 7, wave 2: 9, wave 3: 6, wave 4: 7, wave 5: 4, wave 6: 11, wave 7: 5) |
+| Hubs | 49 (wave 1: 7, wave 2: 9, wave 3: 6, wave 4: 7, wave 5: 4, wave 6: 11, wave 7: 5), all released |
 | List-tier artists placed on hubs | 786 |

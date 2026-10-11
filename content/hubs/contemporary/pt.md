@@ -1,0 +1,9 @@
+---
+title: Artistas africanos contemporâneos: 400 artistas nascidos desde 1960
+label: Artistas africanos contemporâneos
+heading: Artistas africanos contemporâneos
+description: Artistas africanos contemporâneos nascidos desde 1960, de Yinka Shonibare, Zanele Muholi e Njideka Akunyili Crosby a Wangechi Mutu, Ibrahim Mahama e Otobong Nkanga.
+---
+A arte africana contemporânea é uma das partes mais vivas do mundo da arte global: é exposta na Bienal de Veneza, na Documenta e em todos os grandes museus, e colecionada no continente e fora dele (o nosso guia de [arte africana contemporânea](/guides/contemporary-african-art) conta a sua história). Esta lista reúne os artistas nascidos em 1960 ou depois — a geração que cresceu após as independências, ou na diáspora — na pintura, escultura, fotografia e instalação.
+
+Entre eles estão Yinka Shonibare, com as suas figuras vestidas de tecido wax; [Wangechi Mutu](/artists/wangechi-mutu) e [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); [Zanele Muholi](/artists/zanele-muholi), que fotografa as comunidades queer negras da África do Sul; e Otobong Nkanga. Como a lista é construída a partir das leituras da Wikipédia, inclui também fotógrafos e pessoas conhecidas sobretudo por outras coisas, como [Kevin Carter](/artists/kevin-carter), do Bang-Bang Club, ou [Ken Oosterbroek](/artists/ken-oosterbroek). Estes são os artistas africanos contemporâneos com artigo na Wikipédia, os mais procurados primeiro. Veja também [pintores africanos](/artists/medium/painters) e [fotógrafos africanos](/artists/medium/photographers).

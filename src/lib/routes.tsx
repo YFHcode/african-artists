@@ -9,6 +9,7 @@ import {
     COUNTRY_SLUGS,
     type HubKind,
     MEDIUM_SLUGS,
+    contemporaryHub,
     countryBySlug,
     findHub,
     hubKind,
@@ -109,15 +110,18 @@ export function textPageRoute(name: string) {
 type HubParams = { params: Promise<{ locale: string; country?: string; medium?: string }> };
 
 /**
- * Hub pages: /artists/country/<country>, /artists/country/<country>/<medium>
- * and /artists/medium/<medium>. Only released hubs, in the editions they
- * exist in, are built; anything else is a 404.
+ * Hub pages: /artists/country/<country>, /artists/country/<country>/<medium>,
+ * /artists/medium/<medium> and /artists/contemporary. Only released hubs, in
+ * the editions they exist in, are built; anything else is a 404.
  */
 export function hubRoute(kind: HubKind) {
     async function resolve(params: HubParams['params']) {
         const { locale, country, medium } = await params;
         const l = requireLocale(locale);
-        const hub = findHub(country ? countryBySlug(country) : undefined, medium ? mediumBySlug(medium) : undefined);
+        const hub =
+            kind === 'contemporary'
+                ? contemporaryHub()
+                : findHub(country ? countryBySlug(country) : undefined, medium ? mediumBySlug(medium) : undefined);
         if (!hub || hubKind(hub) !== kind || !liveHubs(l).includes(hub)) notFound();
         return { locale: l, hub };
     }
@@ -131,6 +135,8 @@ export function hubRoute(kind: HubKind) {
         // any released hub, including one whose own page comes in a later wave.
         generateStaticParams() {
             const released = releasedHubs();
+            // /artists/contemporary is a static segment: its route file exports no params of its own.
+            if (kind === 'contemporary') return [];
             if (kind === 'country') {
                 const countries = [...new Set(released.filter((h) => h.country).map((h) => h.country!))];
                 return countries.map((c) => ({ country: COUNTRY_SLUGS[c]! }));

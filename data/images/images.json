@@ -228,7 +228,7 @@
       "en": "Statue of JBM Hertzog",
       "fr": "Statue de James Barry Hertzog"
      },
-     "year": 1976
+     "year": null
     },
     {
      "src": "/images/artists/coert-steynberg-q20973023.webp",
@@ -833,7 +833,7 @@
     {
      "src": "/images/artists/ousmane-sow-q120986206.webp",
      "width": 500,
-     "height": 666,
+     "height": 667,
      "file": "L'Immigré by Ousmane Sow-IMG 3040.JPG",
      "author": "Rama",
      "license": "CC BY-SA 3.0 fr",

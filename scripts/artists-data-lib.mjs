@@ -39,12 +39,13 @@ export function buildDetailsQuery(qids) {
     const wikis = WIKIS.map(
         (w) => `  OPTIONAL { ?${w}Page schema:about ?p; schema:isPartOf <https://${w}.wikipedia.org/>; schema:name ?${w} }`
     ).join('\n');
-    return `SELECT ?p ?pLabel ?desc ?countryLabel ?occ ?birth ?links ?bornAfrica ${WIKIS.map((w) => `?${w}`).join(' ')} WHERE {
+    return `SELECT ?p ?pLabel ?desc ?countryLabel ?occ ?birth ?death ?links ?bornAfrica ${WIKIS.map((w) => `?${w}`).join(' ')} WHERE {
   VALUES ?p { ${qids.map((q) => `wd:${q}`).join(' ')} }
   VALUES ?occ { ${occValues()} }
   ?p wdt:P106 ?occ; wdt:P27 ?country; wikibase:sitelinks ?links.
   ?country wdt:P30 wd:Q15; wdt:P31 wd:Q6256.
   OPTIONAL { ?p wdt:P569 ?birth }
+  OPTIONAL { ?p wdt:P570 ?death }
   OPTIONAL { ?p schema:description ?desc FILTER(LANG(?desc) = "en") }
   BIND(EXISTS { ?p wdt:P19/wdt:P17/wdt:P30 wd:Q15 } AS ?bornAfrica)
 ${wikis}
@@ -58,6 +59,10 @@ export function parseBindings(json) {
 }
 
 export const qidOf = (uri) => uri.slice(uri.lastIndexOf('/') + 1);
+// '1943-01-01T00:00:00Z' -> 1943; '-0500-…' -> -500. Wikidata sometimes holds
+// several dates for one person; the earliest is kept.
+const yearOf = (date) => (date ? Number(date.slice(0, date.indexOf('-', 1))) : null);
+const earliest = (a, b) => (b === null || !Number.isFinite(b) ? a : a === null ? b : Math.min(a, b));
 const add = (list, value) => (value && !list.includes(value) ? [...list, value] : list);
 
 // Rows -> one record per person, keyed by QID.
@@ -71,14 +76,15 @@ export function mergeRows(rows, people = new Map()) {
             countries: [],
             occupations: [],
             birthYear: null,
+            deathYear: null,
             sitelinks: Number(r.links),
             bornInAfrica: r.bornAfrica === 'true',
             titles: {},
         };
         prev.countries = add(prev.countries, r.countryLabel);
         prev.occupations = add(prev.occupations, OCCUPATIONS[qidOf(r.occ)]);
-        const year = r.birth ? Number(r.birth.slice(0, r.birth.indexOf('-', 1))) : null;
-        if (year !== null && Number.isFinite(year) && (prev.birthYear === null || year < prev.birthYear)) prev.birthYear = year;
+        prev.birthYear = earliest(prev.birthYear, yearOf(r.birth));
+        prev.deathYear = earliest(prev.deathYear, yearOf(r.death));
         for (const w of WIKIS) if (r[w]) prev.titles[w] = r[w];
         people.set(qid, prev);
     }
@@ -130,7 +136,7 @@ export function rank(people, { pageCount, minViews, exclude }) {
     });
 }
 
-const CSV_COLUMNS = ['rank', 'tier', 'qid', 'name', 'countries', 'occupations', 'birthYear', 'bornInAfrica', 'sitelinks', ...WIKIS.map((w) => `views_${w}`), 'views_total', 'description', 'wikipedia_en'];
+const CSV_COLUMNS = ['rank', 'tier', 'qid', 'name', 'countries', 'occupations', 'birthYear', 'deathYear', 'bornInAfrica', 'sitelinks', ...WIKIS.map((w) => `views_${w}`), 'views_total', 'description', 'wikipedia_en'];
 
 const cell = (v) => {
     const s = v === null || v === undefined ? '' : String(v);
@@ -147,6 +153,7 @@ export function toCsv(ranked) {
             p.countries.join('; '),
             p.occupations.join('; '),
             p.birthYear,
+            p.deathYear,
             p.bornInAfrica,
             p.sitelinks,
             ...WIKIS.map((w) => p.views[w] ?? 0),

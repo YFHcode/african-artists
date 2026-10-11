@@ -38,10 +38,9 @@ Wikipedias). Re-check them against the latest monthly run before each wave.
 
 ## Wave 0: foundations (no new public pages)
 
-- **Curation.** Decide on the 7 page-tier rows marked "pending" below; they are known mostly for
-  something other than visual art. Excluded ones go in `data/artists/exclude.txt`, and kept ones
-  join their wave as short profiles. Also decide on the borderline rows already placed in waves,
-  such as Misan Harriman and Bruno Catalano.
+- **Curation (decided).** All 7 "pending" artists are kept as short profiles in their waves.
+  Each is known partly for something besides visual art (writing, television, music, politics),
+  so their paragraphs should say so plainly.
 - **URLs.** Profiles stay at `/artists/<slug>`. Hubs go where they can't clash with a profile slug:
   - `/artists/country/<country>`
   - `/artists/country/<country>/<medium>`
@@ -137,7 +136,7 @@ South Africa has the most demand of any country: 1.07M views a year across 226 a
 | B | Coert Steynberg | South Africa | 6,376 | EN |
 | B | Jacobus Hendrik Pierneef | South Africa | 6,204 | EN |
 | B | Zwelethu Mthethwa | South Africa | 5,615 | EN |
-| Pending | Breyten Breytenbach | South Africa | 57,393 | EN FR ES |
+| B | Breyten Breytenbach | South Africa | 57,393 | EN FR ES |
 | Update | Esther Mahlangu, Malangatana | | | already in 5 |
 
 **Hubs:**
@@ -171,7 +170,10 @@ Second and fifth in demand: Nigeria has 470K views a year across 138 artists, Gh
 | B | Nnenna Okore | Nigeria | 6,222 | EN |
 | B | Uche Okeke | Nigeria | 6,034 | EN |
 | B | Aina Onabolu | Nigeria | 5,986 | EN |
-| Pending | Frank Edoho, Toyin Sokefun-Bello, Caleb Azumah Nelson, Caleb Femi | | | |
+| B | Frank Edoho | Nigeria | 41,686 | EN |
+| B | Caleb Azumah Nelson | Ghana | 10,406 | EN |
+| B | Toyin Sokefun-Bello | Nigeria | 8,463 | EN |
+| B | Caleb Femi | Nigeria | 5,807 | EN |
 | Update | El Anatsui, Njideka Akunyili Crosby, Ben Enwonwu | | | already in 5 |
 
 **Hubs:**
@@ -208,7 +210,8 @@ It's also the home market.
 | B | Mohamed Hamidi | Morocco | 6,409 | EN FR |
 | B | Zoubeir Turki | Tunisia | 5,426 | EN FR AR |
 | B | eL Seed | Tunisia | 5,321 | EN FR |
-| Pending | Mahjoubi Aherdane, Rabah Driassa | | | |
+| B | Mahjoubi Aherdane | Morocco | 22,207 | EN FR AR |
+| B | Rabah Driassa | Algeria | 18,117 | EN FR AR |
 | Update | Baya, Farid Belkahia | | | already in 5 |
 
 **Hubs** (all in EN FR AR):
@@ -314,7 +317,7 @@ These broad terms come last because they need the profiles from earlier waves to
 | | Count |
 | --- | --- |
 | New full profiles | 35 |
-| New short profiles | 47 (+ up to 7 pending) |
+| New short profiles | 54 |
 | Existing profiles updated | 13 (plus Farid Belkahia, list tier) |
 | Hubs | 49 (wave 1: 7, wave 2: 9, wave 3: 6, wave 4: 7, wave 5: 4, wave 6: 11, wave 7: 5) |
 | List-tier artists placed on hubs | 786 |

@@ -29,7 +29,7 @@ test('the ID query stays light and the details query names its batch', () => {
 test('rows for one person merge into one record', () => {
     const people = mergeRows([
         row({}),
-        row({ occ: 'http://www.wikidata.org/entity/Q1281618', countryLabel: 'Togo', birth: '1969-01-01T00:00:00Z', fr: 'Ama' }),
+        row({ occ: 'http://www.wikidata.org/entity/Q1281618', countryLabel: 'Togo', birth: '1969-01-01T00:00:00Z', death: '2020-03-02T00:00:00Z', fr: 'Ama' }),
         row({ p: 'http://www.wikidata.org/entity/Q2', pLabel: 'Kofi', birth: undefined, en: undefined }),
     ]);
     assert.equal(people.size, 2);
@@ -38,7 +38,9 @@ test('rows for one person merge into one record', () => {
     assert.deepEqual(ama.occupations, ['painter', 'sculptor']);
     assert.equal(ama.birthYear, 1969, 'the earliest recorded birth year wins');
     assert.deepEqual(ama.titles, { en: 'Ama (painter)', fr: 'Ama' });
+    assert.equal(ama.deathYear, 2020);
     assert.equal(people.get('Q2').birthYear, null);
+    assert.equal(people.get('Q2').deathYear, null);
 });
 
 test('the pageview window is the last twelve complete months', () => {
@@ -65,8 +67,8 @@ test('ranking puts the most viewed first and assigns tiers', () => {
 });
 
 test('CSV quotes commas and quotes', () => {
-    const csv = toCsv([{ rank: 1, tier: 'page', qid: 'Q1', name: 'A "B", C', description: '', countries: ['Ghana', 'Togo'], occupations: ['painter'], birthYear: 1970, bornInAfrica: true, sitelinks: 3, titles: { en: 'A B' }, views: { en: 10, total: 10 } }]);
+    const csv = toCsv([{ rank: 1, tier: 'page', qid: 'Q1', name: 'A "B", C', description: '', countries: ['Ghana', 'Togo'], occupations: ['painter'], birthYear: 1970, deathYear: null, bornInAfrica: true, sitelinks: 3, titles: { en: 'A B' }, views: { en: 10, total: 10 } }]);
     const [header, line] = csv.trim().split('\n');
     assert.ok(header.startsWith('rank,tier,qid,name,'));
-    assert.ok(line.startsWith('1,page,Q1,"A ""B"", C",Ghana; Togo,painter,1970,true,3,10,0,0,0,0,10,,https://en.wikipedia.org/wiki/A_B'));
+    assert.ok(line.startsWith('1,page,Q1,"A ""B"", C",Ghana; Togo,painter,1970,,true,3,10,0,0,0,0,10,,https://en.wikipedia.org/wiki/A_B'));
 });

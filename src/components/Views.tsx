@@ -297,6 +297,13 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
     const page = getPage(locale, `index-${collection}`);
     const articles = listArticles(locale, collection);
     const path = `/${collection}`;
+    // The artists index is the way into 100+ profiles and every list, so its
+    // introduction is split: the opening paragraphs, then the lists and the
+    // profiles, then the longer "names that matter" text.
+    const lists = collection === 'artists' && liveHubs(locale).length > 0;
+    const split = lists ? page.html.indexOf('<h2') : -1;
+    const intro = split > 0 ? page.html.slice(0, split) : page.html;
+    const more = split > 0 ? page.html.slice(split) : '';
 
     // Artists: a compact country index under the cards, so every profile is
     // also reachable by the question "which artists are from Mali?".
@@ -332,23 +339,34 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
 
             <section className="mx-auto max-w-6xl px-4">
                 <h1 className="mt-6 font-display text-4xl font-semibold tracking-tight sm:text-5xl">{page.heading}</h1>
-                <div className="prose mt-5 text-lg" dangerouslySetInnerHTML={{ __html: page.html }} />
+                <div className="prose mt-5 text-lg" dangerouslySetInnerHTML={{ __html: intro }} />
             </section>
 
-            <section className="mx-auto mt-10 max-w-6xl px-4">
-                <CardGrid count={articles.length}>
-                    {articles.map((article) => (
-                        <EntryCard key={article.entry.slug} article={article} t={t} headingLevel="h2" />
-                    ))}
-                </CardGrid>
-            </section>
-
-            {collection === 'artists' && liveHubs(locale).length > 0 && (
-                <section aria-labelledby="artist-lists" className="mx-auto mt-14 max-w-6xl px-4">
+            {lists && (
+                <section aria-labelledby="artist-lists" className="mx-auto mt-10 max-w-6xl px-4">
                     <h2 id="artist-lists" className="font-display text-2xl font-semibold">
                         {t.profile.lists}
                     </h2>
                     <HubDirectory locale={locale} />
+                </section>
+            )}
+
+            <section aria-labelledby={lists ? 'all-profiles' : undefined} className="mx-auto mt-10 max-w-6xl px-4">
+                {lists && (
+                    <h2 id="all-profiles" className="mb-6 font-display text-2xl font-semibold">
+                        {t.hub.profiles}
+                    </h2>
+                )}
+                <CardGrid count={articles.length}>
+                    {articles.map((article) => (
+                        <EntryCard key={article.entry.slug} article={article} t={t} headingLevel={lists ? 'h3' : 'h2'} />
+                    ))}
+                </CardGrid>
+            </section>
+
+            {more && (
+                <section className="mx-auto mt-14 max-w-6xl px-4">
+                    <div className="prose text-lg" dangerouslySetInnerHTML={{ __html: more }} />
                 </section>
             )}
 

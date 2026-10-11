@@ -66,16 +66,18 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
             lifeYears(a),
         ].filter(Boolean);
         const href = wikipediaUrl(a, locale);
+        // Styled from the <ul>: a list of 400 names repeats nothing per line,
+        // which keeps the HTML and its hydration copy small.
         return (
-            <li key={a.qid} className="break-inside-avoid py-1">
+            <li key={a.qid}>
                 {href ? (
-                    <a href={href} rel="noopener" className="font-medium text-clay underline underline-offset-4">
+                    <a href={href} rel="noopener">
                         {displayName(a, locale)}
                     </a>
                 ) : (
-                    <span className="font-medium">{displayName(a, locale)}</span>
+                    <b>{displayName(a, locale)}</b>
                 )}
-                {details.length > 0 && <span className="text-sm text-muted"> · {details.join(' · ')}</span>}
+                {details.length > 0 && <small>{` · ${details.join(' · ')}`}</small>}
             </li>
         );
     };
@@ -120,7 +122,9 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                         {t.hub.more}
                     </h2>
                     <p className="mt-2 text-sm text-muted">{t.hub.moreNote}</p>
-                    <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3">{others.map(line)}</ul>
+                    <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3 [&_a]:font-medium [&_a]:text-clay [&_a]:underline [&_a]:underline-offset-4 [&_b]:font-medium [&_li]:break-inside-avoid [&_li]:py-1 [&_small]:text-sm [&_small]:text-muted">
+                        {others.map(line)}
+                    </ul>
                 </section>
             )}
 

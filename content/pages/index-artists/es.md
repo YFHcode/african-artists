@@ -1,9 +1,9 @@
 ---
-title: Artistas africanos famosos: 42 pintores, escultores y fotógrafos
+title: Artistas africanos famosos: pintores, escultores y fotógrafos
 heading: Artistas africanos
-description: Cuarenta y dos artistas africanos que dieron forma al arte moderno y contemporáneo, de Mahmoud Saïd y Ben Enwonwu a William Kentridge, El Anatsui y Wangechi Mutu.
+description: Perfiles de más de 100 artistas africanos, de Mahmoud Saïd y El Anatsui a Wangechi Mutu, y listas de casi 900 más por país y por disciplina.
 ---
-Cuarenta y dos artistas de quince países cuya obra cambió la manera en que el mundo ve el arte de África: pintores, escultores y fotógrafos, de los años veinte a hoy. Catorce tienen un perfil completo, que se muestra más abajo con la vida, las fechas clave y dónde puede verse la obra. Los otros veintiocho se presentan aquí, agrupados por disciplina, con un enlace siempre que tenemos más que contar.
+Esta es la puerta de entrada a los artistas de AfricanArtists.com: más de un centenar de perfiles de pintores, escultores y fotógrafos de toda África y su diáspora, de los años veinte a hoy, y listas de casi novecientos más por país, por disciplina y por generación. Empiece por las listas de abajo, recorra los perfiles o lea la breve presentación de algunos de los nombres que más importan.
 
 La selección abarca a propósito todo el continente y sus lenguas: el África Occidental y Oriental anglófona; el Malí, el Senegal y el Congo francófonos; el Mozambique lusófono; el Egipto, el Sudán, la Argelia y el Marruecos arabófonos, y el sur de África. Para las escuelas que estos artistas fundaron o contra las que se rebelaron, vea los [movimientos artísticos](/movements); para mujeres artistas más allá de estos perfiles, vea nuestra guía de [mujeres artistas africanas](/guides/african-women-artists).
 
@@ -15,7 +15,7 @@ La selección abarca a propósito todo el continente y sus lenguas: el África O
 
 **Inji Efflatoun** (Egipto, 1924-1989) pintó a sus compañeras de prisión desde su propia celda, uniendo arte, política y feminismo. Vea las [mujeres artistas africanas](/guides/african-women-artists).
 
-**Chaïbia Talal** (Marruecos) fue una pintora autodidacta cuyos lienzos densos y vivos figuran entre los más conocidos de la [Escuela de Casablanca](/movements/casablanca-school).
+**Chaïbia Talal** (Marruecos, 1929–2004) fue una pintora autodidacta de lienzos vivos y espontáneos que no perteneció a ninguna escuela, en contraste con la [Escuela de Casablanca](/movements/casablanca-school) que la rodeaba.
 
 **Mohamed Melehi** (Marruecos) ayudó a fundar la Escuela de Casablanca junto a [Farid Belkahia](/artists/farid-belkahia), y es conocido por sus rítmicos motivos de olas en colores intensos.
 
@@ -47,9 +47,9 @@ La selección abarca a propósito todo el continente y sus lenguas: el África O
 
 ## Pintores
 
-**William Kentridge** (Sudáfrica) dibuja al carbón, borra y vuelve a dibujar cada imagen, y filma el resultado, desde *Felix in Exile*. Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
+**[William Kentridge](/artists/william-kentridge)** (Sudáfrica) dibuja al carbón, borra y vuelve a dibujar cada imagen, y filma el resultado, desde *Felix in Exile*. Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
 
-**Marlene Dumas** (Sudáfrica, con base en Ámsterdam) pinta retratos a partir de fotografías, con una intimidad inquietante e inacabada.
+**[Marlene Dumas](/artists/marlene-dumas)** (Sudáfrica, con base en Ámsterdam) pinta retratos a partir de fotografías, con una intimidad inquietante e inacabada.
 
 **Julie Mehretu** (Etiopía, con base en Estados Unidos) construye grandes dibujos y pinturas superpuestas de ciudades, mapas y arquitecturas.
 
@@ -69,4 +69,4 @@ La selección abarca a propósito todo el continente y sus lenguas: el África O
 
 **Sammy Baloji** (RD del Congo) realiza fotografías y películas sobre la historia minera de Katanga y los archivos coloniales. Vea la [fotografía africana](/art-forms/african-photography).
 
-**Zanele Muholi** (Sudáfrica) es activista visual; sus retratos de personas negras LGBTQIA+ de Sudáfrica, en series como *Faces and Phases*, han llegado a museos de todo el mundo.
+**[Zanele Muholi](/artists/zanele-muholi)** (Sudáfrica) es activista visual; sus retratos de personas negras LGBTQIA+ de Sudáfrica, en series como *Faces and Phases*, han llegado a museos de todo el mundo.

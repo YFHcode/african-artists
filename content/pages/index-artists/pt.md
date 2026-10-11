@@ -1,9 +1,9 @@
 ---
-title: Artistas africanos famosos: 42 pintores, escultores e fotógrafos
+title: Artistas africanos famosos: pintores, escultores e fotógrafos
 heading: Artistas africanos
-description: Quarenta e dois artistas africanos que moldaram a arte moderna e contemporânea, de Mahmoud Saïd e Ben Enwonwu a William Kentridge, El Anatsui e Wangechi Mutu.
+description: Perfis de mais de 100 artistas africanos, de Mahmoud Saïd e El Anatsui a Wangechi Mutu, e listas de quase 900 outros por país e por disciplina.
 ---
-Quarenta e dois artistas de quinze países cuja obra mudou a forma como o mundo vê a arte de África: pintores, escultores e fotógrafos, dos anos 1920 até hoje. Catorze têm um perfil completo, apresentado mais abaixo com a vida, as datas-chave e os sítios onde a obra pode ser vista. Os outros vinte e oito são apresentados aqui, agrupados por disciplina, com uma ligação sempre que temos mais para dizer.
+Esta é a porta de entrada para os artistas do AfricanArtists.com: mais de uma centena de perfis de pintores, escultores e fotógrafos de toda a África e da sua diáspora, dos anos 1920 até hoje, e listas de quase novecentos outros por país, por disciplina e por geração. Comece pelas listas abaixo, percorra os perfis ou leia a breve apresentação de alguns dos nomes que mais contam.
 
 A seleção cobre de propósito todo o continente e as suas línguas: a África Ocidental e Oriental anglófona, o Mali, o Senegal e o Congo francófonos, o Moçambique lusófono, o Egito, o Sudão, a Argélia e Marrocos arabófonos, e a África Austral. Para as escolas que estes artistas fundaram ou contestaram, veja os [movimentos artísticos](/movements); para mulheres artistas para lá destes perfis, veja o nosso guia das [mulheres artistas africanas](/guides/african-women-artists).
 
@@ -15,7 +15,7 @@ A seleção cobre de propósito todo o continente e as suas línguas: a África 
 
 **Inji Efflatoun** (Egito, 1924-1989) pintou as suas companheiras de prisão a partir da própria cela, unindo arte, política e feminismo. Veja as [mulheres artistas africanas](/guides/african-women-artists).
 
-**Chaïbia Talal** (Marrocos) foi uma pintora autodidata cujas telas densas e vibrantes estão entre as mais conhecidas da [Escola de Casablanca](/movements/casablanca-school).
+**Chaïbia Talal** (Marrocos, 1929–2004) foi uma pintora autodidata de telas vivas e espontâneas que não pertenceu a nenhuma escola, em contraste com a [Escola de Casablanca](/movements/casablanca-school) à sua volta.
 
 **Mohamed Melehi** (Marrocos) ajudou a fundar a Escola de Casablanca com [Farid Belkahia](/artists/farid-belkahia), e é conhecido pelos seus motivos rítmicos de ondas em cores fortes.
 
@@ -69,4 +69,4 @@ A seleção cobre de propósito todo o continente e as suas línguas: a África 
 
 **Sammy Baloji** (RD do Congo) faz fotografias e filmes sobre a história mineira do Catanga e os arquivos coloniais. Veja a [fotografia africana](/art-forms/african-photography).
 
-**Zanele Muholi** (África do Sul) é ativista visual; os seus retratos de pessoas negras LGBTQIA+ da África do Sul, em séries como *Faces and Phases*, chegaram a museus de todo o mundo.
+**[Zanele Muholi](/artists/zanele-muholi)** (África do Sul) é ativista visual; os seus retratos de pessoas negras LGBTQIA+ da África do Sul, em séries como *Faces and Phases*, chegaram a museus de todo o mundo.

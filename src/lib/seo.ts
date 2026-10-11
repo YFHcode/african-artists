@@ -35,6 +35,19 @@ export function alternateUrls(path: string, locales: readonly Locale[] = LOCALES
     return languages;
 }
 
+/**
+ * Results show roughly 60 characters of a title, and Google prints the site
+ * name above every result anyway. A title that would run past that with the
+ * " | AfricanArtists.com" suffix drops the suffix, so the cut falls on nothing
+ * (or on the title's last words) rather than always on its own last words.
+ */
+const MAX_TITLE = 60;
+const SUFFIX = ` | ${SITE_NAME}`;
+
+export function documentTitle(title: string, absolute = false): string {
+    return absolute || title.length + SUFFIX.length > MAX_TITLE ? title : title + SUFFIX;
+}
+
 export function ogImage(locale: Locale): string {
     return absoluteUrl(`/og/${locale}.png`);
 }
@@ -45,7 +58,7 @@ export function pageMetadata(input: PageMetaInput): Metadata {
     const image = { url: ogImage(locale), width: 1200, height: 630, alt: ogAlt };
 
     return {
-        title: absoluteTitle ? { absolute: title } : title,
+        title: { absolute: documentTitle(title, absoluteTitle) },
         description,
         alternates: {
             canonical: url,

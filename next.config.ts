@@ -79,6 +79,17 @@ const nextConfig: NextConfig = {
                     { key: 'Strict-Transport-Security', value: 'max-age=31536000' },
                 ],
             },
+            // Files in public/ are revalidated on every visit by default. The fonts
+            // never change under the same name (rename a file to replace it); the
+            // artist pictures may, at the monthly refresh.
+            {
+                source: '/fonts/:path*',
+                headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],
+            },
+            {
+                source: '/images/:path*',
+                headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }],
+            },
         ];
     },
 };

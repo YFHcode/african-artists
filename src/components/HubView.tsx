@@ -143,14 +143,14 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                     <ul className="mt-4 flex flex-wrap gap-3">
                         {related.map((h) => (
                             <li key={hubPath(h)}>
-                                <Link href={localePath(locale, hubPath(h))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
+                                <Link prefetch={false} href={localePath(locale, hubPath(h))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
                                     {getHubPage(locale, h).label}
                                 </Link>
                             </li>
                         ))}
                         {regionArticle && (
                             <li>
-                                <Link href={localePath(locale, entryPath(regionArticle.entry))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
+                                <Link prefetch={false} href={localePath(locale, entryPath(regionArticle.entry))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
                                     {regionArticle.label}
                                 </Link>
                             </li>

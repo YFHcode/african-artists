@@ -269,6 +269,19 @@ pattern.
 
 ## Notes for future work
 
+- **Speed.** Measured with Lighthouse (mobile) in October 2026: home 95, profiles 95, hubs
+  87–89, Arabic home 82; CLS 0 everywhere. What keeps it there:
+  - Links do not prefetch (`prefetch={false}`), except the desktop main menu. Next.js
+    otherwise fetches the data of every link that scrolls into view: about 1 MB while
+    scrolling the home page on a phone, 215 KB for the artists index alone.
+  - Fonts are defined once in `src/app/fonts.ts` and only their `latin` subset is preloaded;
+    other subsets load when a character needs them. The 404 page used to define its own
+    copies, and Next.js preloaded both on every page.
+  - IBM Plex Sans Arabic is self-hosted (`public/fonts/`, `@font-face` in `globals.css`) so
+    only the Arabic edition preloads it; loaded late it shifted the page (CLS 0.17).
+  - The artist strip's second set of cards is cloned in the browser, and the drift waits two
+    seconds after load.
+
 - The 404 page is `src/app/global-not-found.tsx`, which needs `experimental.globalNotFound`
   (Next.js 16.4). With the root layout under `[locale]`, the regular `not-found.tsx` rendered an
   empty body on the server. Re-check `/does-not-exist` after every Next.js upgrade.

@@ -1,8 +1,9 @@
 import type { Metadata, Viewport } from 'next';
-import { Fraunces, IBM_Plex_Sans_Arabic, Inter } from 'next/font/google';
 import Link from 'next/link';
 
 import './globals.css';
+
+import { fraunces, inter } from './fonts';
 
 import { LOCALES, LOCALE_INFO, localePath } from '@/lib/i18n';
 import { SITE_NAME, SITE_URL } from '@/lib/site';
@@ -22,10 +23,6 @@ import { SITE_NAME, SITE_URL } from '@/lib/site';
  * short enough to read at a glance, each block marked with its own language.
  */
 
-const fraunces = Fraunces({ subsets: ['latin', 'latin-ext'], variable: '--font-fraunces', display: 'swap' });
-const inter = Inter({ subsets: ['latin', 'latin-ext'], variable: '--font-inter', display: 'swap' });
-const arabic = IBM_Plex_Sans_Arabic({ subsets: ['arabic'], weight: ['400', '600'], variable: '--font-arabic', display: 'swap', preload: false });
-
 export const metadata: Metadata = {
     metadataBase: new URL(SITE_URL),
     // Next.js adds noindex to 404 responses itself; declaring it here too printed it twice.
@@ -44,7 +41,7 @@ const MESSAGES = {
 
 export default function GlobalNotFound() {
     return (
-        <html lang="en" className={`${fraunces.variable} ${inter.variable} ${arabic.variable}`}>
+        <html lang="en" className={`${fraunces.variable} ${inter.variable}`}>
             <body className="min-h-screen antialiased">
                 <header className="border-b border-line">
                     <div className="mx-auto max-w-6xl px-4 py-4">

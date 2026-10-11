@@ -14,6 +14,12 @@ const MAX = 24;
 const MIN = 4;
 
 /**
+ * Profiled for their work in or about Africa, not as African artists (their
+ * profiles say so), so not among the "faces of African art".
+ */
+const NOT_AFRICAN_ARTISTS = new Set(['leni-riefenstahl', 'web-du-bois']);
+
+/**
  * "Faces of African art": a row of portraits of the artists profiled in this
  * edition, full profiles first and then the most looked-up. It drifts slowly
  * and stops whenever the visitor hovers, touches, scrolls or tabs into it,
@@ -24,7 +30,7 @@ const MIN = 4;
 export function ArtistStrip({ locale }: { locale: Locale }) {
     const t = dictionary(locale);
     const items = entriesIn('artists')
-        .filter((e) => isAvailable(e, locale))
+        .filter((e) => isAvailable(e, locale) && !NOT_AFRICAN_ARTISTS.has(e.slug))
         .map((entry) => ({ entry, portrait: artistPictures(entry.qid)?.portrait }))
         .filter((x): x is typeof x & { portrait: Picture } => Boolean(x.portrait))
         .map((x) => ({ ...x, full: x.entry.kind === 'full', views: (x.entry.qid && dataArtist(x.entry.qid)?.views) || 0 }))
@@ -39,15 +45,10 @@ export function ArtistStrip({ locale }: { locale: Locale }) {
         label: getArticle(locale, 'artists', entry.slug)!.label,
         details: [entry.countries.map((c) => t.countries[c]).join(' · '), entry.years].filter(Boolean).join(' · '),
     }));
-    // The second set is the same cards again, for the drift to loop through
-    // seamlessly: hidden from screen readers and the keyboard, and not shown at
-    // all with a reduced-motion preference (globals.css).
-    const card = ({ entry, portrait, label, details }: (typeof cards)[number], copy: boolean) => (
-        <li
-            key={`${copy ? 'copy-' : ''}${entry.slug}`}
-            className={`group relative w-40 shrink-0 snap-start sm:w-52 ${copy ? 'strip-copy' : ''}`}
-            {...(copy ? { 'aria-hidden': true, 'data-copy': '' } : {})}
-        >
+    // StripControls adds a second, hidden set of these cards in the browser for
+    // the drift to loop through, so the page carries them only once.
+    const card = ({ entry, portrait, label, details }: (typeof cards)[number]) => (
+        <li key={entry.slug} className="group relative w-40 shrink-0 snap-start sm:w-52">
             <div className="overflow-hidden rounded-xl bg-sand">
                 <Image
                     src={portrait.src}
@@ -59,9 +60,8 @@ export function ArtistStrip({ locale }: { locale: Locale }) {
                     className="strip-photo aspect-[4/5] w-full object-cover object-[50%_25%]"
                 />
             </div>
-            <Link
+            <Link prefetch={false}
                 href={localePath(locale, entryPath(entry))}
-                tabIndex={copy ? -1 : undefined}
                 className="mt-3 block font-display text-lg font-semibold leading-snug after:absolute after:inset-0 group-hover:text-clay"
             >
                 {label}
@@ -85,8 +85,7 @@ export function ArtistStrip({ locale }: { locale: Locale }) {
                 />
             </div>
             <ul id="artist-strip" className="artist-strip mt-6 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-3" tabIndex={0} aria-label={t.home.facesTitle}>
-                {cards.map((c) => card(c, false))}
-                {cards.map((c) => card(c, true))}
+                {cards.map(card)}
             </ul>
         </section>
     );

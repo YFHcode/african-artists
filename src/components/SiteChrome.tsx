@@ -12,7 +12,7 @@ export function SaleBar({ locale, t }: { locale: Locale; t: Dictionary }) {
         <div className="bg-ink text-paper">
             <p className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-3 gap-y-1 px-4 py-2 text-center text-sm">
                 <span>{t.saleBar.text}</span>
-                <Link
+                <Link prefetch={false}
                     href={localePath(locale, '/buy')}
                     className="font-semibold text-ochre underline decoration-1 underline-offset-4 hover:decoration-2"
                 >
@@ -25,7 +25,7 @@ export function SaleBar({ locale, t }: { locale: Locale; t: Dictionary }) {
 
 function Wordmark({ locale }: { locale: Locale }) {
     return (
-        <Link
+        <Link prefetch={false}
             href={localePath(locale, '/')}
             className="font-display text-xl font-semibold tracking-tight text-ink sm:text-2xl"
             // The brand is a Latin-script name in every edition.
@@ -86,13 +86,13 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                             <ul className="space-y-1">
                                 {links.map((link) => (
                                     <li key={link.href}>
-                                        <Link href={link.href} className="block rounded px-2 py-2 hover:bg-sand">
+                                        <Link prefetch={false} href={link.href} className="block rounded px-2 py-2 hover:bg-sand">
                                             {link.label}
                                         </Link>
                                     </li>
                                 ))}
                                 <li>
-                                    <Link
+                                    <Link prefetch={false}
                                         href={localePath(locale, '/buy')}
                                         className="mt-2 block rounded-md bg-indigo px-3 py-2 text-center font-medium text-paper"
                                     >
@@ -129,7 +129,7 @@ export function Footer({ locale, t }: { locale: Locale; t: Dictionary }) {
                     <p className="mt-3 max-w-sm text-sm text-muted">{t.footer.tagline}</p>
                     <p className="mt-4 text-sm">
                         {t.footer.forSale}{' '}
-                        <Link href={localePath(locale, '/buy')} className="font-medium text-clay underline underline-offset-4">
+                        <Link prefetch={false} href={localePath(locale, '/buy')} className="font-medium text-clay underline underline-offset-4">
                             {t.saleBar.cta}
                         </Link>
                     </p>
@@ -140,7 +140,7 @@ export function Footer({ locale, t }: { locale: Locale; t: Dictionary }) {
                     <ul className="mt-3 space-y-2 text-sm">
                         {explore.map((link) => (
                             <li key={link.href}>
-                                <Link href={link.href} className="hover:text-clay">
+                                <Link prefetch={false} href={link.href} className="hover:text-clay">
                                     {link.label}
                                 </Link>
                             </li>
@@ -152,22 +152,22 @@ export function Footer({ locale, t }: { locale: Locale; t: Dictionary }) {
                     <h2 className="text-sm font-semibold uppercase tracking-wide text-muted">{t.footer.site}</h2>
                     <ul className="mt-3 space-y-2 text-sm">
                         <li>
-                            <Link href={localePath(locale, '/about')} className="hover:text-clay">
+                            <Link prefetch={false} href={localePath(locale, '/about')} className="hover:text-clay">
                                 {t.footer.about}
                             </Link>
                         </li>
                         <li>
-                            <Link href={localePath(locale, '/privacy')} className="hover:text-clay">
+                            <Link prefetch={false} href={localePath(locale, '/privacy')} className="hover:text-clay">
                                 {t.footer.privacy}
                             </Link>
                         </li>
                         <li>
-                            <Link href={localePath(locale, '/credits')} className="hover:text-clay">
+                            <Link prefetch={false} href={localePath(locale, '/credits')} className="hover:text-clay">
                                 {t.footer.credits}
                             </Link>
                         </li>
                         <li>
-                            <Link href={localePath(locale, '/buy')} className="hover:text-clay">
+                            <Link prefetch={false} href={localePath(locale, '/buy')} className="hover:text-clay">
                                 {t.nav.buy}
                             </Link>
                         </li>

@@ -33,7 +33,7 @@ export function Breadcrumbs({ locale, trail, label }: { locale: Locale; trail: C
                                     </span>
                                 ) : (
                                     <>
-                                        <Link href={localePath(locale, crumb.path)} className="hover:text-clay">
+                                        <Link prefetch={false} href={localePath(locale, crumb.path)} className="hover:text-clay">
                                             {crumb.name}
                                         </Link>
                                         <span aria-hidden="true" className="rtl:rotate-180">
@@ -75,7 +75,7 @@ export function EntryCard({ article, t, headingLevel = 'h3' }: { article: Articl
             <div className="flex flex-1 flex-col p-5">
                 <p className="text-xs font-semibold uppercase tracking-wide text-clay">{article.kicker}</p>
                 <Heading className="mt-1 font-display text-xl font-semibold leading-snug text-ink">
-                    <Link href={localePath(article.locale, entryPath(entry))} className="after:absolute after:inset-0">
+                    <Link prefetch={false} href={localePath(article.locale, entryPath(entry))} className="after:absolute after:inset-0">
                         {article.label}
                     </Link>
                 </Heading>

@@ -17,7 +17,7 @@ export function AfricaMap({ regions, className = '' }: { regions: { slug: string
                 <path key={c.code} d={c.d} className="africa-map__none" />
             ))}
             {regions.map((region) => (
-                <Link key={region.slug} href={region.href} tabIndex={-1} data-map-region={region.slug} className="africa-map__region">
+                <Link prefetch={false} key={region.slug} href={region.href} tabIndex={-1} data-map-region={region.slug} className="africa-map__region">
                     <title>{region.label}</title>
                     {AFRICA_COUNTRIES.filter((c) => c.region === region.slug).map((c) => (
                         <path key={c.code} d={c.d} />

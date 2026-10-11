@@ -18,7 +18,7 @@ const watchMotion = (onChange: () => void) => {
  * Motion and buttons for the home page's artist strip (ArtistStrip.tsx).
  *
  * The list is an ordinary scrolling row that drifts slowly on its own, looping
- * through a second, hidden copy of the cards. It stops while the visitor
+ * through a second, hidden copy of the cards made here. It stops while the visitor
  * hovers, touches, scrolls or tabs into it, and starts again a few seconds
  * later; the pause button stops it for good. With a reduced-motion preference
  * it never drifts and stays a row the visitor scrolls by hand.
@@ -43,6 +43,18 @@ export function StripControls({
         const list = document.getElementById(target);
         if (!list || !canMove) return;
 
+        // The second set of cards to loop through: copies of the server-rendered
+        // ones, hidden from screen readers and the keyboard, made only when the
+        // strip may move.
+        const copies = [...list.children].map((li) => {
+            const copy = li.cloneNode(true) as HTMLElement;
+            copy.setAttribute('aria-hidden', 'true');
+            copy.setAttribute('data-copy', '');
+            for (const a of copy.querySelectorAll('a')) a.tabIndex = -1;
+            return copy;
+        });
+        list.append(...copies);
+
         const rtl = getComputedStyle(list).direction === 'rtl';
         const sign = rtl ? -1 : 1;
         // Width of one set of cards: where the hidden copy starts.
@@ -55,7 +67,8 @@ export function StripControls({
 
         let position = Math.abs(list.scrollLeft);
         let last = 0;
-        let idleUntil = 0;
+        // Still for the first two seconds, while the page is starting up.
+        let idleUntil = performance.now() + 2000;
         let visible = true;
         let hovering = false;
         let frame = 0;
@@ -96,6 +109,7 @@ export function StripControls({
         seen.observe(list);
         return () => {
             cancelAnimationFrame(frame);
+            for (const copy of copies) copy.remove();
             list.classList.remove('is-drifting');
             for (const [name, fn] of events) list.removeEventListener(name, fn);
             seen.disconnect();
@@ -109,8 +123,8 @@ export function StripControls({
         const still = window.matchMedia(REDUCE).matches;
         list.dispatchEvent(new Event('wheel'));
         // At either end, first jump by one set of cards into the other copy, which
-        // looks the same, so the buttons go round and round. (The copy is not
-        // shown with a reduced-motion preference.)
+        // looks the same, so the buttons go round and round. (There is no copy
+        // with a reduced-motion preference.)
         const copy = list.querySelector<HTMLElement>('[data-copy]');
         const step = list.clientWidth * 0.85;
         const offset = Math.abs(list.scrollLeft);

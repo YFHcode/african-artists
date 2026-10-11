@@ -37,7 +37,7 @@ export function SaleNote({ locale }: { locale: Locale }) {
                     <p className="font-display text-xl font-semibold">{t.home.saleTitle}</p>
                     <p className="mt-1 max-w-2xl text-sm text-paper/85">{t.home.saleText}</p>
                 </div>
-                <Link
+                <Link prefetch={false}
                     href={localePath(locale, '/buy')}
                     className="shrink-0 rounded-full bg-ochre px-5 py-2.5 font-semibold text-ink hover:bg-paper"
                 >
@@ -166,7 +166,7 @@ export function ArticleView({ article }: { article: Article }) {
                                 <ul className="mt-3 space-y-2 text-[0.95rem]">
                                     {lists.map((hub) => (
                                         <li key={hubPath(hub)}>
-                                            <Link href={localePath(locale, hubPath(hub))} className="text-clay underline underline-offset-4">
+                                            <Link prefetch={false} href={localePath(locale, hubPath(hub))} className="text-clay underline underline-offset-4">
                                                 {getHubPage(locale, hub).label}
                                             </Link>
                                         </li>
@@ -228,7 +228,7 @@ function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
                         <ul className="mt-3 space-y-2">
                             {articles.map((a) => (
                                 <li key={a.entry.slug}>
-                                    <Link href={localePath(locale, entryPath(a.entry))} className="font-medium text-clay underline underline-offset-4">
+                                    <Link prefetch={false} href={localePath(locale, entryPath(a.entry))} className="font-medium text-clay underline underline-offset-4">
                                         {a.label}
                                     </Link>
                                     <span className="text-sm text-muted"> · {a.entry.countries.map((c) => t.countries[c]).join(', ')}</span>
@@ -243,7 +243,7 @@ function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
                         <ul className="mt-3 space-y-2">
                             {hubs.map((h) => (
                                 <li key={hubPath(h)}>
-                                    <Link href={localePath(locale, hubPath(h))} className="font-medium text-clay underline underline-offset-4">
+                                    <Link prefetch={false} href={localePath(locale, hubPath(h))} className="font-medium text-clay underline underline-offset-4">
                                         {getHubPage(locale, h).label}
                                     </Link>
                                 </li>
@@ -275,7 +275,7 @@ export function HubDirectory({ locale, compact = false }: { locale: Locale; comp
     const countries = [...byCountry.keys()].sort((a, b) => t.countries[a].localeCompare(t.countries[b], LOCALE_INFO[locale].lang));
     const pill = (h: Hub) => (
         <li key={hubPath(h)}>
-            <Link href={localePath(locale, hubPath(h))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
+            <Link prefetch={false} href={localePath(locale, hubPath(h))} className="block rounded-full border border-line px-4 py-2 hover:bg-sand">
                 {getHubPage(locale, h).label}
             </Link>
         </li>
@@ -305,7 +305,7 @@ export function HubDirectory({ locale, compact = false }: { locale: Locale; comp
                                     {byCountry.get(code)!.map((h, i) => (
                                         <span key={hubPath(h)}>
                                             {i > 0 && ', '}
-                                            <Link href={localePath(locale, hubPath(h))} className="text-clay underline underline-offset-4">
+                                            <Link prefetch={false} href={localePath(locale, hubPath(h))} className="text-clay underline underline-offset-4">
                                                 {getHubPage(locale, h).label}
                                             </Link>
                                         </span>
@@ -412,7 +412,7 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
                                     {byCountry.get(code)!.map((a, i) => (
                                         <span key={a.entry.slug}>
                                             {i > 0 && ', '}
-                                            <Link href={localePath(locale, entryPath(a.entry))} className="text-clay underline underline-offset-4">
+                                            <Link prefetch={false} href={localePath(locale, entryPath(a.entry))} className="text-clay underline underline-offset-4">
                                                 {a.label}
                                             </Link>
                                         </span>

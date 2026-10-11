@@ -251,7 +251,7 @@ export function SearchBox({ locale, labels }: { locale: Locale; labels: SearchLa
                                             {body}
                                         </a>
                                     ) : (
-                                        <Link id={optionId(i)} href={option.href} tabIndex={-1} className={className} onClick={() => setOpen(false)}>
+                                        <Link prefetch={false} id={optionId(i)} href={option.href} tabIndex={-1} className={className} onClick={() => setOpen(false)}>
                                             {body}
                                         </Link>
                                     )}

@@ -1,9 +1,10 @@
 import { Analytics } from '@vercel/analytics/next';
 import type { Metadata, Viewport } from 'next';
-import { Fraunces, IBM_Plex_Sans_Arabic, Inter } from 'next/font/google';
 import { notFound } from 'next/navigation';
+import { preload } from 'react-dom';
 
 import '../globals.css';
+import { fraunces, inter } from '../fonts';
 
 import { JsonLd } from '@/components/JsonLd';
 import { Footer, Header, SaleBar } from '@/components/SiteChrome';
@@ -17,18 +18,6 @@ import { SITE_NAME, SITE_URL } from '@/lib/site';
  * root layout is the only place <html> is rendered, and each edition needs its
  * own `lang` and, for Arabic, `dir="rtl"`.
  */
-
-const fraunces = Fraunces({ subsets: ['latin', 'latin-ext'], variable: '--font-fraunces', display: 'swap', axes: ['opsz'] });
-const inter = Inter({ subsets: ['latin', 'latin-ext'], variable: '--font-inter', display: 'swap' });
-// Only the Arabic edition uses it; without preload the browser fetches it only
-// when Arabic text actually needs it.
-const arabic = IBM_Plex_Sans_Arabic({
-    subsets: ['arabic'],
-    weight: ['400', '500', '600', '700'],
-    variable: '--font-arabic',
-    display: 'swap',
-    preload: false,
-});
 
 export function generateStaticParams() {
     return LOCALES.map((locale) => ({ locale }));
@@ -57,9 +46,16 @@ export default async function LocaleLayout({ children, params }: LayoutProps<'/[
 
     const info = LOCALE_INFO[locale];
     const t = dictionary(locale);
+    // The Arabic edition preloads its own font, the weights the first screen
+    // uses; the other editions never download it (globals.css).
+    if (locale === 'ar') {
+        for (const weight of [400, 500, 600]) {
+            preload(`/fonts/ibm-plex-sans-arabic/arabic-${weight}.woff2`, { as: 'font', type: 'font/woff2', crossOrigin: 'anonymous' });
+        }
+    }
 
     return (
-        <html lang={info.lang} dir={info.dir} className={`${fraunces.variable} ${inter.variable} ${arabic.variable}`}>
+        <html lang={info.lang} dir={info.dir} className={`${fraunces.variable} ${inter.variable}`}>
             <head>
                 {/* Bing reads the language from <html lang> and this tag. */}
                 <meta httpEquiv="content-language" content={info.lang} />

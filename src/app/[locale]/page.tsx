@@ -58,7 +58,7 @@ function Section({
                 <h2 id={`home-${collection}`} className="font-display text-3xl font-semibold tracking-tight">
                     {title}
                 </h2>
-                <Link href={localePath(locale, `/${collection}`)} className="font-medium text-clay underline underline-offset-4">
+                <Link prefetch={false} href={localePath(locale, `/${collection}`)} className="font-medium text-clay underline underline-offset-4">
                     {more} <span aria-hidden="true" className="inline-block rtl:rotate-180">→</span>
                 </Link>
             </div>
@@ -83,7 +83,7 @@ function Regions({ locale }: { locale: Locale }) {
                 <h2 id="home-regions" className="font-display text-3xl font-semibold tracking-tight">
                     {t.home.regionsTitle}
                 </h2>
-                <Link href={localePath(locale, '/regions')} className="font-medium text-clay underline underline-offset-4">
+                <Link prefetch={false} href={localePath(locale, '/regions')} className="font-medium text-clay underline underline-offset-4">
                     {t.home.regionsMore} <span aria-hidden="true" className="inline-block rtl:rotate-180">→</span>
                 </Link>
             </div>
@@ -101,7 +101,7 @@ function Regions({ locale }: { locale: Locale }) {
                         >
                             <Motif seed={region.entry.slug} className="h-3 w-full" />
                             <div className="p-4">
-                                <Link
+                                <Link prefetch={false}
                                     href={localePath(locale, entryPath(region.entry))}
                                     className="font-display text-lg font-semibold after:absolute after:inset-0"
                                 >
@@ -132,19 +132,19 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                         </h1>
                         <p className="mt-6 max-w-3xl text-lg leading-relaxed text-ink/85 sm:text-xl">{t.home.lead}</p>
                         <div className="mt-8 flex flex-wrap gap-3">
-                            <Link
+                            <Link prefetch={false}
                                 href={localePath(locale, '/guides/african-art-history')}
                                 className="rounded-full bg-ink px-6 py-3 font-semibold text-paper hover:bg-clay"
                             >
                                 {t.home.exploreHistory}
                             </Link>
-                            <Link
+                            <Link prefetch={false}
                                 href={localePath(locale, '/art-forms')}
                                 className="rounded-full border-2 border-ink px-6 py-3 font-semibold text-ink hover:bg-ink hover:text-paper"
                             >
                                 {t.home.exploreArtForms}
                             </Link>
-                            <Link
+                            <Link prefetch={false}
                                 href={localePath(locale, '/buy')}
                                 className="rounded-full border-2 border-indigo px-6 py-3 font-semibold text-indigo hover:bg-indigo hover:text-paper"
                             >
@@ -171,7 +171,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                     <div className="p-8 sm:p-10">
                         <h2 className="font-display text-3xl font-semibold">{t.home.saleTitle}</h2>
                         <p className="mt-3 max-w-2xl text-paper/85">{t.home.saleText}</p>
-                        <Link
+                        <Link prefetch={false}
                             href={localePath(locale, '/buy')}
                             className="mt-6 inline-block rounded-full bg-ochre px-6 py-3 font-semibold text-ink hover:bg-paper"
                         >

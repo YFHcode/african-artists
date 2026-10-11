@@ -44,7 +44,7 @@ export default async function CreditsPage({ params }: PageProps<'/[locale]/credi
             <ul className="mt-10 divide-y divide-line">
                 {artists.map(({ entry, pictures, label }) => (
                     <li key={entry.slug} id={entry.slug} className="py-4">
-                        <Link href={localePath(locale, entryPath(entry))} className="font-semibold text-clay underline underline-offset-4">
+                        <Link prefetch={false} href={localePath(locale, entryPath(entry))} className="font-semibold text-clay underline underline-offset-4">
                             {label}
                         </Link>
                         <ul className="mt-2 space-y-1">

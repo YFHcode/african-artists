@@ -28,7 +28,7 @@ const pt: Dictionary = {
     },
     home: {
         heading: 'Arte africana: tradições, artistas e música',
-        lead: 'Um guia em cinco línguas dedicado à arte de África — máscaras, escultura, têxteis e arte rupestre, os artistas e movimentos modernos e contemporâneos do continente, e a música que leva o seu som a todo o mundo.',
+        lead: 'Um guia da arte de África em cinco línguas: máscaras, escultura, têxteis e arte rupestre, perfis de artistas modernos e contemporâneos de todo o continente, os movimentos artísticos do século XX e música, do highlife ao amapiano.',
         exploreHistory: 'Breve história da arte africana',
         exploreArtForms: 'Explorar as formas de arte',
         buyDomain: 'Este domínio está à venda',
@@ -103,6 +103,9 @@ const pt: Dictionary = {
         wikipedia: 'Wikipédia',
     },
     pictures: {
+        creditsTitle: 'Créditos das imagens',
+        creditsText: 'As imagens deste site vêm do Wikimedia Commons. Cada uma está no domínio público ou tem uma licença Creative Commons; aqui estão os seus autores, licenças e páginas de origem.',
+        portrait: 'Retrato',
         credits: 'Créditos das imagens',
         works: 'Obras',
         worksNote: 'Fotografias com licença livre do Wikimedia Commons. Clique numa imagem para ver o ficheiro em tamanho real, o autor e a licença.',
@@ -224,6 +227,7 @@ const pt: Dictionary = {
         back: 'Voltar ao guia',
     },
     footer: {
+        credits: 'Créditos das imagens',
         about: 'Sobre o guia',
         privacy: 'Privacidade',
         tagline: 'Um guia independente de arte, artistas e música de África, em cinco línguas.',

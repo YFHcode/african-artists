@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-import { Credit } from '@/components/Pictures';
 import { StripControls } from '@/components/StripControls';
 import { dictionary } from '@/i18n';
 import { entriesIn, entryPath, isAvailable } from '@/content/catalog';
@@ -20,7 +19,7 @@ const MIN = 4;
  * and stops whenever the visitor hovers, touches, scrolls or tabs into it,
  * with a pause button (StripControls.tsx); with a reduced-motion preference it
  * stays still and scrolls by hand. Every card is an ordinary link to the
- * profile; the pictures' credits are listed under the row.
+ * profile; the pictures' credits are on /credits, linked from the footer.
  */
 export function ArtistStrip({ locale }: { locale: Locale }) {
     const t = dictionary(locale);
@@ -89,16 +88,6 @@ export function ArtistStrip({ locale }: { locale: Locale }) {
                 {cards.map((c) => card(c, false))}
                 {cards.map((c) => card(c, true))}
             </ul>
-            <details className="mt-2 text-xs text-muted">
-                <summary className="cursor-pointer select-none hover:text-ink">{t.pictures.credits}</summary>
-                <ul className="mt-2 space-y-1">
-                    {cards.map(({ entry, portrait, label }) => (
-                        <li key={entry.slug}>
-                            {label} — <Credit pic={portrait} locale={locale} />
-                        </li>
-                    ))}
-                </ul>
-            </details>
         </section>
     );
 }

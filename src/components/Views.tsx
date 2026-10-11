@@ -12,7 +12,7 @@ import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { articleSchema, collectionSchema } from '@/lib/schema';
 import { type Hub, hubPath, hubsListing, liveHubs } from '@/content/hubs';
 import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
-import { artistPictures } from '@/lib/artist-images';
+import { artistPictures, workTitle } from '@/lib/artist-images';
 import { getHubPage } from '@/lib/content';
 import type { Fact } from '@/lib/content';
 
@@ -88,7 +88,8 @@ export function ArticleView({ article }: { article: Article }) {
               sameAs: [wikidataUrl(entry.qid), ...(artist?.titles.en ? [wikipediaUrl(artist, 'en')!] : [])],
               birthDate: artist?.born != null ? String(artist.born) : undefined,
               deathDate: artist?.died != null ? String(artist.died) : undefined,
-              image: pictures?.portrait?.src,
+              image: pictures?.portrait ?? undefined,
+              works: pictures?.works.map((w) => ({ pic: w, title: workTitle(w, locale) })),
           }
         : undefined;
 
@@ -139,7 +140,7 @@ export function ArticleView({ article }: { article: Article }) {
                         {pictures && pictures.works.length > 0 && <WorksGallery works={pictures.works} artist={article.label} locale={locale} />}
                     </div>
                     <div className="space-y-5 lg:sticky lg:top-6 lg:self-start">
-                        {pictures?.portrait && <Portrait pic={pictures.portrait} name={article.label} locale={locale} />}
+                        {pictures?.portrait && <Portrait pic={pictures.portrait} name={article.label} />}
                         {mapKey && <Locator mapKey={mapKey} />}
                         <FactFile facts={facts} title={t.article.facts} />
                         {lists.length > 0 && (

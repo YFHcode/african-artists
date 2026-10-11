@@ -7,8 +7,9 @@ import type { Locale } from '@/lib/i18n';
 /*
  * Freely licensed pictures from Wikimedia Commons (src/lib/artist-images.ts).
  * The stored copies are already 500px WebP, so they are served as they are.
- * Every picture shows the credit its licence asks for: author, licence (linked)
- * and source page.
+ * The credits the licences ask for (author, licence, source) are on the
+ * credits page, linked from every page's footer, and in each profile's
+ * structured data; each picture links to its Commons page.
  */
 
 export function Credit({ pic, locale, className = '' }: { pic: Picture; locale: Locale; className?: string }) {
@@ -32,9 +33,9 @@ export function Credit({ pic, locale, className = '' }: { pic: Picture; locale: 
     );
 }
 
-export function Portrait({ pic, name, locale }: { pic: Picture; name: string; locale: Locale }) {
+export function Portrait({ pic, name }: { pic: Picture; name: string }) {
     return (
-        <figure className="overflow-hidden rounded-xl border border-line bg-sand">
+        <a href={pic.page} rel="noopener" className="block overflow-hidden rounded-xl border border-line bg-sand">
             <Image
                 src={pic.src}
                 alt={name}
@@ -44,10 +45,7 @@ export function Portrait({ pic, name, locale }: { pic: Picture; name: string; lo
                 loading="eager"
                 className="max-h-[26rem] w-full object-cover object-top"
             />
-            <figcaption className="px-4 py-3">
-                <Credit pic={pic} locale={locale} />
-            </figcaption>
-        </figure>
+        </a>
     );
 }
 
@@ -79,7 +77,6 @@ export function WorksGallery({ works, artist, locale }: { works: Work[]; artist:
                                     <cite className="not-italic">{title}</cite>
                                     {w.year ? `${locale === 'ar' ? '، ' : ', '}${w.year}` : ''}
                                 </span>
-                                <Credit pic={w} locale={locale} />
                             </figcaption>
                         </figure>
                     );

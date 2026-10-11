@@ -4,7 +4,6 @@ import type { ReactNode } from 'react';
 
 import { JsonLd } from '@/components/JsonLd';
 import { Motif } from '@/components/Motif';
-import { Credit } from '@/components/Pictures';
 import type { Dictionary } from '@/i18n';
 import { entryPath } from '@/content/catalog';
 import { coverPicture } from '@/lib/artist-images';
@@ -56,7 +55,7 @@ export function EntryCard({ article, t, headingLevel = 'h3' }: { article: Articl
     const Heading = headingLevel;
     const { entry } = article;
     const countries = entry.countries.map((c) => t.countries[c]).join(' · ');
-    // Artists with a freely licensed picture show it, credited at the foot of the card.
+    // Artists with a freely licensed picture show it (credited on /credits).
     const cover = entry.collection === 'artists' ? coverPicture(entry.qid) : undefined;
 
     return (
@@ -86,7 +85,6 @@ export function EntryCard({ article, t, headingLevel = 'h3' }: { article: Articl
                     </p>
                 )}
                 <p className="mt-3 text-[0.95rem] leading-relaxed text-ink/85">{article.description}</p>
-                {cover && <Credit pic={cover} locale={article.locale} className="relative z-10 mt-auto block pt-4" />}
             </div>
         </article>
     );

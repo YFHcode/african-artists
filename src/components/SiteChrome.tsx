@@ -162,6 +162,11 @@ export function Footer({ locale, t }: { locale: Locale; t: Dictionary }) {
                             </Link>
                         </li>
                         <li>
+                            <Link href={localePath(locale, '/credits')} className="hover:text-clay">
+                                {t.footer.credits}
+                            </Link>
+                        </li>
+                        <li>
                             <Link href={localePath(locale, '/buy')} className="hover:text-clay">
                                 {t.nav.buy}
                             </Link>

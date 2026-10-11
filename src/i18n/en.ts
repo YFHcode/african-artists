@@ -29,7 +29,7 @@ const en = {
     },
     home: {
         heading: 'African art: traditions, artists and music',
-        lead: 'A five-language guide to the art of Africa — masks, sculpture, textiles and rock art, the modern and contemporary artists and movements of the continent, and the music that carries its sound around the world.',
+        lead: 'A guide to the art of Africa in five languages: masks, sculpture, textiles and rock art, profiles of modern and contemporary artists from across the continent, the art movements of the twentieth century, and music from highlife to amapiano.',
         exploreHistory: 'A short history of African art',
         exploreArtForms: 'Explore art forms',
         buyDomain: 'This domain is for sale',
@@ -104,6 +104,9 @@ const en = {
         wikipedia: 'Wikipedia',
     },
     pictures: {
+        creditsTitle: 'Image credits',
+        creditsText: 'The pictures on this site come from Wikimedia Commons. Each is in the public domain or under a Creative Commons licence; here are their authors, licences and source pages.',
+        portrait: 'Portrait',
         credits: 'Image credits',
         works: 'Works',
         worksNote: 'Freely licensed photographs from Wikimedia Commons. Select a picture for the full-size file, its author and its licence.',
@@ -226,6 +229,7 @@ const en = {
         back: 'Back to the guide',
     },
     footer: {
+        credits: 'Image credits',
         about: 'About this guide',
         privacy: 'Privacy',
         tagline: 'An independent guide to African art, artists and music, in five languages.',

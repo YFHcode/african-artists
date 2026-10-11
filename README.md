@@ -248,17 +248,20 @@ pattern.
   A work's year is shown only when Wikidata knows it to the year.
 - **Stored here.** 500px WebP copies in `public/images/artists/` (about 3 MB in all), credits in
   `data/images/images.json`. Visitors' browsers never contact Wikimedia.
-- **Credits.** Every picture shows author, licence (linked) and its Commons page, on the
-  profile and on cards (`src/components/Pictures.tsx`), as the licences require. Portraits
-  are also the `image` of the Person in the profile's structured data.
+- **Credits.** The pages show no credit lines. Every picture's author, licence and source are
+  on `/credits` (`src/app/[locale]/credits/page.tsx`, noindex), linked from the footer of
+  every page: CC BY and BY-SA (59 of the 77 pictures) require a credit a reader can find,
+  and a link to a page holding it is a reasonable way under the licences. The same
+  information is in each profile's structured data as an `ImageObject` (creator,
+  creditText, license, acquireLicensePage), which Google Images reads, and each portrait and
+  work links to its Commons page. Do not drop the credits page or its footer link.
 - **Home page strip.** "Faces of African art" (`src/components/ArtistStrip.tsx`) shows up to 24
   portraits from the edition's profiles, full profiles first, then by pageviews (which alone
   would open with people best known for other things). It drifts slowly (26 px a second,
   looping through a hidden second copy of the cards) and stops while the visitor hovers,
   touches, scrolls or tabs into it, starting again four seconds later; the pause button stops
   it for good (`StripControls.tsx`). With a reduced-motion preference it never drifts and
-  scrolls by hand only. Credits are listed under the row ("Image credits"). It is left out of
-  an edition with fewer than four portraits.
+  scrolls by hand only. It is left out of an edition with fewer than four portraits.
 - **Review.** Look at new pictures after each run. Wikidata's "image" for an artist is
   sometimes a work, not the person: list it in `data/images/as-works.json` with the work's
   title (checked) and it is shown as that work. A wrong or doubtful picture goes in

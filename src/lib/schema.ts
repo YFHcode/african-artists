@@ -1,3 +1,4 @@
+import type { Picture } from '@/lib/artist-images';
 import type { Article } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { SITE_NAME, SITE_URL, absoluteUrl } from '@/lib/site';
@@ -56,8 +57,28 @@ export interface PersonFacts {
     sameAs: string[];
     birthDate?: string;
     deathDate?: string;
-    /** Site path of a portrait. */
-    image?: string;
+    /** The artist's portrait. */
+    image?: Picture;
+    /** Pictures of works, with their titles. */
+    works?: { pic: Picture; title: string }[];
+}
+
+/**
+ * A picture with the credit and licence its Commons licence asks for, in the
+ * fields Google Images reads (creator, creditText, license, acquireLicensePage).
+ */
+export function imageObject(pic: Picture, name?: string): Json {
+    return {
+        '@type': 'ImageObject',
+        contentUrl: absoluteUrl(pic.src),
+        width: pic.width,
+        height: pic.height,
+        ...(name ? { name } : {}),
+        ...(pic.author ? { creator: { '@type': 'Person', name: pic.author } } : {}),
+        creditText: [pic.author, pic.license, 'Wikimedia Commons'].filter(Boolean).join(' / '),
+        ...(pic.licenseUrl ? { license: pic.licenseUrl } : {}),
+        acquireLicensePage: pic.page,
+    };
 }
 
 export function articleSchema(article: Article, path: string, person?: PersonFacts): Json {
@@ -72,7 +93,7 @@ export function articleSchema(article: Article, path: string, person?: PersonFac
         inLanguage: LOCALE_INFO[article.locale].lang,
         datePublished: article.entry.published,
         dateModified: article.entry.updated,
-        image: absoluteUrl(`/og/${article.locale}.png`),
+        image: [absoluteUrl(`/og/${article.locale}.png`), ...(person?.works ?? []).map((w) => imageObject(w.pic, w.title))],
         author: { '@id': ORGANIZATION_ID },
         publisher: { '@id': ORGANIZATION_ID },
         isPartOf: { '@id': WEBSITE_ID },
@@ -84,7 +105,7 @@ export function articleSchema(article: Article, path: string, person?: PersonFac
                       ...(person?.sameAs.length ? { sameAs: person.sameAs } : {}),
                       ...(person?.birthDate ? { birthDate: person.birthDate } : {}),
                       ...(person?.deathDate ? { deathDate: person.deathDate } : {}),
-                      ...(person?.image ? { image: absoluteUrl(person.image) } : {}),
+                      ...(person?.image ? { image: imageObject(person.image, article.label) } : {}),
                   },
               }
             : {}),

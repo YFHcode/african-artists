@@ -28,7 +28,7 @@ const fr: Dictionary = {
     },
     home: {
         heading: 'L’art africain : traditions, artistes et musiques',
-        lead: 'Un guide en cinq langues consacré à l’art d’Afrique — masques, sculpture, textiles et art rupestre, artistes et mouvements modernes et contemporains du continent, et musiques qui portent sa voix dans le monde entier.',
+        lead: 'Un guide de l’art d’Afrique en cinq langues : masques, sculpture, textiles et art rupestre, portraits d’artistes modernes et contemporains de tout le continent, mouvements artistiques du XXe siècle et musiques, du highlife à l’amapiano.',
         exploreHistory: 'Brève histoire de l’art africain',
         exploreArtForms: 'Découvrir les formes d’art',
         buyDomain: 'Ce domaine est à vendre',
@@ -103,6 +103,9 @@ const fr: Dictionary = {
         wikipedia: 'Wikipédia',
     },
     pictures: {
+        creditsTitle: 'Crédits des images',
+        creditsText: 'Les images de ce site proviennent de Wikimedia Commons. Chacune est dans le domaine public ou sous licence Creative Commons ; voici leurs auteurs, leurs licences et leurs pages sources.',
+        portrait: 'Portrait',
         credits: 'Crédits des images',
         works: 'Œuvres',
         worksNote: 'Photographies sous licence libre, issues de Wikimedia Commons. Cliquez sur une image pour le fichier en grand format, son auteur et sa licence.',
@@ -224,6 +227,7 @@ const fr: Dictionary = {
         back: 'Retour au guide',
     },
     footer: {
+        credits: 'Crédits des images',
         about: 'À propos du guide',
         privacy: 'Confidentialité',
         tagline: 'Un guide indépendant de l’art, des artistes et des musiques d’Afrique, en cinq langues.',

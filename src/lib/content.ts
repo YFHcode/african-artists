@@ -3,7 +3,8 @@ import path from 'node:path';
 
 import { Marked } from 'marked';
 
-import { CATALOG, type Collection, type Entry, entriesIn, findEntry } from '@/content/catalog';
+import { CATALOG, type Collection, type Entry, entriesIn, findEntry, isAvailable } from '@/content/catalog';
+import { type Hub, hubContentDir } from '@/content/hubs';
 import { parseFrontmatter } from '@/lib/frontmatter';
 import { type Locale, localePath } from '@/lib/i18n';
 
@@ -124,7 +125,7 @@ const articles = new Map<string, Article>();
 
 export function getArticle(locale: Locale, collection: string, slug: string): Article | null {
     const entry = findEntry(collection, slug);
-    if (!entry) return null;
+    if (!entry || !isAvailable(entry, locale)) return null;
 
     const key = `${locale}:${collection}/${slug}`;
     const cached = articles.get(key);
@@ -156,15 +157,18 @@ export function getArticle(locale: Locale, collection: string, slug: string): Ar
 }
 
 export function listArticles(locale: Locale, collection: Collection): Article[] {
-    return entriesIn(collection).map((entry) => getArticle(locale, entry.collection, entry.slug)!);
+    return entriesIn(collection)
+        .filter((entry) => isAvailable(entry, locale))
+        .map((entry) => getArticle(locale, entry.collection, entry.slug)!);
 }
 
+/** Related articles that exist in this edition (a profile in fewer languages simply drops out). */
 export function relatedArticles(locale: Locale, entry: Entry): Article[] {
-    return entry.related.map((key) => {
+    return entry.related.flatMap((key) => {
         const [collection, slug] = key.split('/');
+        if (!findEntry(collection, slug)) throw new Error(`${entry.collection}/${entry.slug}: related "${key}" does not exist`);
         const article = getArticle(locale, collection, slug);
-        if (!article) throw new Error(`${entry.collection}/${entry.slug}: related "${key}" does not exist`);
-        return article;
+        return article ? [article] : [];
     });
 }
 
@@ -173,6 +177,23 @@ export function getPage(locale: Locale, name: string): Page {
     return {
         title: field(data, 'title', file),
         heading: field(data, 'heading', file),
+        description: field(data, 'description', file),
+        html: renderMarkdown(locale, body),
+    };
+}
+
+export interface HubPage extends Page {
+    /** Short name for links from other pages: "South African photographers". */
+    label: string;
+}
+
+/** A hub's hand-written introduction, from content/hubs/…/<locale>.md. */
+export function getHubPage(locale: Locale, hub: Hub): HubPage {
+    const { data, body, file } = readFile(...hubContentDir(hub), `${locale}.md`);
+    return {
+        title: field(data, 'title', file),
+        heading: field(data, 'heading', file),
+        label: field(data, 'label', file),
         description: field(data, 'description', file),
         html: renderMarkdown(locale, body),
     };

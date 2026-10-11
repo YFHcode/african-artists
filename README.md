@@ -128,6 +128,52 @@ Each row has a tier:
 
 Wikidata is CC0; facts on generated pages still need a sanity check before publishing.
 
+The monthly job's summary also lists page-tier artists with no planned profile: candidates for
+the next wave.
+
+## Artist pages and hubs (released in waves)
+
+The plan is `docs/artist-pages-rollout.md`. Three files drive it:
+
+- `src/content/roster.ts`: every planned profile beyond the original fourteen, with its wave,
+  its type (`full` or `short`) and the editions it exists in.
+- `src/content/hubs.ts`: every hub (by country, by medium, or both), with its wave and
+  editions.
+- `src/content/waves.ts`: release dates. A wave is public once it has one.
+
+**Content.**
+
+- **Profiles** go in `content/artists/<slug>/<locale>.md`, only for the editions the roster
+  declares.
+  - A full profile is written like the original fourteen.
+  - A short profile has the same header fields but no `facts`: its facts box (life dates,
+    country, disciplines) is generated from the data. Its body needs 700+ characters.
+- **Hub introductions** go in one of:
+  - `content/hubs/country/<country>/<locale>.md`
+  - `content/hubs/country/<country>/<medium>/<locale>.md`
+  - `content/hubs/medium/<medium>/<locale>.md`
+
+  Each has `title`, `label` (the short link text, e.g. "South African photographers"),
+  `heading` and `description`, and an English introduction of 80+ words.
+
+**Release a wave:**
+
+1. Write its profiles and hub introductions.
+2. Preview it with `NEXT_PUBLIC_PREVIEW_WAVE=<n> npm run build && npm start`, or set the
+   variable in Vercel's *Preview* environment only.
+3. Add links to the new full profiles from existing articles; the tests want three each.
+4. Set `WAVES[n]` to the release date.
+5. Run `npm test`, then build and deploy.
+6. `npm run indexnow --` with the new paths, and request indexing for the hubs in Search Console.
+
+**Editions.**
+
+- Not every page exists in all five languages.
+- hreflang, the sitemap and `llms.txt` list only the editions that exist.
+- The language switcher sends a missing edition to that language's section index.
+- A missing edition answers 404.
+- The tests check every internal link against the editions of its own page.
+
 ## Notes for future work
 
 - The 404 page is `src/app/global-not-found.tsx`, which needs `experimental.globalNotFound`
@@ -138,3 +184,7 @@ Wikidata is CC0; facts on generated pages still need a sanity check before publi
 - Translations were written for this site, not machine-translated in bulk, but a native-speaker
   review of the French, Spanish, Portuguese and especially Arabic editions is worth doing.
 - After deploying new pages, ping IndexNow with just those paths (see "After launch").
+- `generateStaticParams` must never return `[]` for one locale while returning pages for
+  another: Next.js 16 then drops the whole route in every locale. The hub routes list every
+  released hub in every edition and answer 404 for a missing edition (see `hubRoute` in
+  `src/lib/routes.tsx`).

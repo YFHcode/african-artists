@@ -10,30 +10,39 @@
  * would notice. It feeds the sitemap's lastmod and the Article schema's
  * dateModified; bumping it without a real change is fake freshness.
  *
- * Free of runtime imports so the content tests can load it under node.
+ * Imports only other pure modules, so the content tests and the browser can
+ * load it.
  */
+
+import { LOCALES, type Locale } from '../lib/i18n.ts';
+import { type Medium, hubPath, releasedHubs } from './hubs.ts';
+import { ORIGINAL_ARTISTS, ROSTER, type RosterEntry } from './roster.ts';
+import { isReleased, releaseDate } from './waves.ts';
 
 export const COLLECTIONS = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides'] as const;
 export type Collection = (typeof COLLECTIONS)[number];
 
 export type CountryCode =
-    | 'AO' | 'BF' | 'BJ' | 'CD' | 'CG' | 'CI' | 'CM' | 'CV' | 'DZ' | 'EG'
-    | 'ET' | 'GA' | 'GH' | 'KE' | 'MA' | 'ML' | 'MZ' | 'NG' | 'SD' | 'SN'
-    | 'TZ' | 'ZA' | 'ZW';
+    | 'AO' | 'BF' | 'BJ' | 'BW' | 'CD' | 'CF' | 'CG' | 'CI' | 'CM' | 'CV'
+    | 'DZ' | 'EG' | 'ER' | 'ET' | 'GA' | 'GH' | 'GM' | 'GN' | 'GQ' | 'KE'
+    | 'LR' | 'LY' | 'MA' | 'MG' | 'ML' | 'MU' | 'MW' | 'MZ' | 'NA' | 'NG'
+    | 'RW' | 'SD' | 'SL' | 'SN' | 'SO' | 'TD' | 'TG' | 'TN' | 'TZ' | 'UG'
+    | 'ZA' | 'ZM' | 'ZW';
 
 /**
  * Which countries each region page gathers. Every country an article is
  * tagged with belongs to exactly one region (a test checks it), so a region
  * page lists everything on the site from that part of the continent.
  * Conventional groupings, not the UN's: Mozambique and Zimbabwe sit with
- * Southern Africa, Sudan with North Africa, Angola with Central Africa.
+ * Southern Africa, Sudan with North Africa, Angola with Central Africa,
+ * Madagascar and Mauritius with East Africa.
  */
 export const REGIONS: Record<string, CountryCode[]> = {
-    'north-africa': ['DZ', 'EG', 'MA', 'SD'],
-    'west-africa': ['BF', 'BJ', 'CI', 'CV', 'GH', 'ML', 'NG', 'SN'],
-    'central-africa': ['AO', 'CD', 'CG', 'CM', 'GA'],
-    'east-africa': ['ET', 'KE', 'TZ'],
-    'southern-africa': ['MZ', 'ZA', 'ZW'],
+    'north-africa': ['DZ', 'EG', 'LY', 'MA', 'SD', 'TN'],
+    'west-africa': ['BF', 'BJ', 'CI', 'CV', 'GH', 'GM', 'GN', 'LR', 'ML', 'NG', 'SL', 'SN', 'TG'],
+    'central-africa': ['AO', 'CD', 'CF', 'CG', 'CM', 'GA', 'GQ', 'TD'],
+    'east-africa': ['ER', 'ET', 'KE', 'MG', 'MU', 'RW', 'SO', 'TZ', 'UG'],
+    'southern-africa': ['BW', 'MW', 'MZ', 'NA', 'ZA', 'ZM', 'ZW'],
 };
 
 export interface Entry {
@@ -46,6 +55,13 @@ export interface Entry {
     related: string[];
     published: string;
     updated: string;
+    /** Editions this article exists in. Absent: all five. English is always one. */
+    locales?: readonly Locale[];
+    /** Artists: the Wikidata item, for Person schema and the generated facts. */
+    qid?: string;
+    /** Artists: a researched profile, or a short one with generated facts (roster.ts). */
+    kind?: 'full' | 'short';
+    media?: Medium[];
 }
 
 const LAUNCH = '2026-10-07';
@@ -151,6 +167,70 @@ const REVISED_IN_EXPANSION = [
 ];
 for (const e of CATALOG) if (REVISED_IN_EXPANSION.includes(entryKey(e))) e.updated = EXPANSION;
 
+for (const e of CATALOG) {
+    const original = ORIGINAL_ARTISTS[e.slug];
+    if (e.collection === 'artists' && original) Object.assign(e, { qid: original.qid, media: original.media, kind: 'full' });
+}
+
+/** Years on cards: '1960–1994', '1962–' for the living, the birth year alone when a death is unrecorded. */
+function lifeYears(r: Pick<RosterEntry, 'born' | 'died'>): string | undefined {
+    if (r.born === null) return undefined;
+    if (r.died !== null) return `${r.born}–${r.died}`;
+    return r.born < new Date().getUTCFullYear() - 100 ? String(r.born) : `${r.born}–`;
+}
+
+const bornIn = (e: Entry): number | null => (e.years ? Number.parseInt(e.years, 10) || null : null);
+
+/**
+ * The page a profile's reader most likely wants next after other artists:
+ * the art form of the artist's main medium, or the history or contemporary guide.
+ */
+function topicFor(media: Medium[] | undefined, born: number | null): string {
+    const main = media?.[0];
+    if (main === 'photography') return 'art-forms/african-photography';
+    if (main === 'sculpture') return 'art-forms/african-sculpture';
+    if (main === 'ceramics') return 'art-forms/african-pottery';
+    return born !== null && born < 1945 ? 'guides/african-art-history' : 'guides/contemporary-african-art';
+}
+
+/**
+ * Related articles for a roster profile: the three closest released artists
+ * (same country, then shared medium, then a similar generation, then shared
+ * editions), then a topic page. Computed, so each wave links itself in.
+ */
+function relatedForRoster(r: RosterEntry, artists: Entry[]): string[] {
+    const score = (e: Entry) => {
+        const born = bornIn(e);
+        return (
+            (e.countries.some((c) => r.countries.includes(c)) ? 8 : 0) +
+            (e.media?.some((m) => r.media.includes(m)) ? 4 : 0) +
+            (born !== null && r.born !== null && Math.abs(born - r.born) <= 20 ? 2 : 0) +
+            (r.locales.every((l) => (e.locales ?? LOCALES).includes(l)) ? 1 : 0)
+        );
+    };
+    const closest = artists
+        .filter((e) => e.slug !== r.slug)
+        .map((e) => ({ e, s: score(e) }))
+        .sort((a, b) => b.s - a.s || a.e.slug.localeCompare(b.e.slug))
+        .slice(0, 3)
+        .map(({ e }) => entryKey(e));
+    return [...closest, topicFor(r.media, r.born)];
+}
+
+const releasedRoster = ROSTER.filter((r) => isReleased(r.wave));
+const rosterEntries: Entry[] = releasedRoster.map((r) => ({
+    ...entry('artists', r.slug, r.countries, lifeYears(r), [], releaseDate(r.wave)),
+    locales: r.locales,
+    qid: r.qid,
+    kind: r.kind,
+    media: r.media,
+}));
+CATALOG.push(...rosterEntries);
+{
+    const artists = CATALOG.filter((e) => e.collection === 'artists');
+    releasedRoster.forEach((r, i) => (rosterEntries[i].related = relatedForRoster(r, artists)));
+}
+
 export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {
     return `${entry.collection}/${entry.slug}`;
 }
@@ -172,6 +252,15 @@ export function regionOf(country: CountryCode): string | undefined {
 export function entriesInRegion(slug: string): Entry[] {
     const countries = REGIONS[slug] ?? [];
     return CATALOG.filter((e) => e.collection !== 'regions' && e.countries.some((c) => countries.includes(c)));
+}
+
+/** The editions an article exists in. */
+export function localesOf(entry: Entry): readonly Locale[] {
+    return entry.locales ?? LOCALES;
+}
+
+export function isAvailable(entry: Entry, locale: Locale): boolean {
+    return localesOf(entry).includes(locale);
 }
 
 /** Public, edition-independent path of an article or a collection index. */
@@ -202,12 +291,24 @@ export const STATIC_PAGES: { path: string; index: boolean; updated: string; list
     { path: '/privacy', index: true, updated: LAUNCH },
 ];
 
-/** Every indexable public path, edition-independent: what the sitemap lists in each language. */
-export function indexablePaths(): { path: string; updated: string }[] {
+/**
+ * Every indexable public path, edition-independent, with the editions it
+ * exists in: what the sitemap lists. Hubs are dated by their wave's release.
+ */
+export function indexablePaths(): { path: string; updated: string; locales: readonly Locale[] }[] {
     const pages = STATIC_PAGES.filter((p) => p.index).map((page) => {
         const listed = CATALOG.filter((e) => page.lists?.includes(e.collection)).map((e) => e.updated);
-        return { path: page.path, updated: [page.updated, ...listed].sort().at(-1)! };
+        return { path: page.path, updated: [page.updated, ...listed].sort().at(-1)!, locales: LOCALES };
     });
-    const articles = CATALOG.map((e) => ({ path: entryPath(e), updated: e.updated }));
-    return [...pages, ...articles];
+    const articles = CATALOG.map((e) => ({ path: entryPath(e), updated: e.updated, locales: localesOf(e) }));
+    const hubs = releasedHubs().map((h) => ({ path: hubPath(h), updated: releaseDate(h.wave), locales: h.locales }));
+    return [...pages, ...articles, ...hubs];
 }
+
+/** Paths that exist in only some editions; every other page exists in all five. */
+export function partialEditions(): Record<string, Locale[]> {
+    const partial: Record<string, Locale[]> = {};
+    for (const { path, locales } of indexablePaths()) if (locales.length < LOCALES.length) partial[path] = [...locales];
+    return partial;
+}
+

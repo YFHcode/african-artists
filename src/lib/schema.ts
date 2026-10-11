@@ -51,7 +51,14 @@ export function breadcrumbSchema(locale: Locale, trail: { name: string; path: st
     };
 }
 
-export function articleSchema(article: Article, path: string): Json {
+/** For artist profiles: the person the article is about, tied to Wikidata and Wikipedia. */
+export interface PersonFacts {
+    sameAs: string[];
+    birthDate?: string;
+    deathDate?: string;
+}
+
+export function articleSchema(article: Article, path: string, person?: PersonFacts): Json {
     const url = absoluteUrl(localePath(article.locale, path));
     return {
         '@context': 'https://schema.org',
@@ -67,11 +74,28 @@ export function articleSchema(article: Article, path: string): Json {
         author: { '@id': ORGANIZATION_ID },
         publisher: { '@id': ORGANIZATION_ID },
         isPartOf: { '@id': WEBSITE_ID },
-        ...(article.entry.collection === 'artists' ? { about: { '@type': 'Person', name: article.label } } : {}),
+        ...(article.entry.collection === 'artists'
+            ? {
+                  about: {
+                      '@type': 'Person',
+                      name: article.label,
+                      ...(person?.sameAs.length ? { sameAs: person.sameAs } : {}),
+                      ...(person?.birthDate ? { birthDate: person.birthDate } : {}),
+                      ...(person?.deathDate ? { deathDate: person.deathDate } : {}),
+                  },
+              }
+            : {}),
     };
 }
 
-export function collectionSchema(locale: Locale, path: string, name: string, description: string, items: { name: string; path: string }[]): Json {
+/** A list item is a page on this site (`path`) or elsewhere (`url`, e.g. Wikipedia for artists without a profile). */
+export function collectionSchema(
+    locale: Locale,
+    path: string,
+    name: string,
+    description: string,
+    items: ({ name: string; path: string } | { name: string; url: string })[]
+): Json {
     return {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -87,7 +111,7 @@ export function collectionSchema(locale: Locale, path: string, name: string, des
                 '@type': 'ListItem',
                 position: i + 1,
                 name: item.name,
-                url: absoluteUrl(localePath(locale, item.path)),
+                url: 'url' in item ? item.url : absoluteUrl(localePath(locale, item.path)),
             })),
         },
     };

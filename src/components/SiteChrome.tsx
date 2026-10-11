@@ -2,6 +2,7 @@ import Link from 'next/link';
 
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 import type { Dictionary } from '@/i18n';
+import { partialEditions } from '@/content/catalog';
 import { LOCALES, LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 
 /** The for-sale strip above the header, on every page: the site's commercial purpose, stated once and plainly. */
@@ -39,6 +40,8 @@ const NAV = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides'] 
 
 export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
     const links = NAV.map((key) => ({ href: localePath(locale, `/${key}`), label: t.nav[key] }));
+    // The few pages that exist in only some editions; computed at build time.
+    const partial = partialEditions();
 
     return (
         <header className="border-b border-line bg-paper">
@@ -66,7 +69,7 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                 </nav>
 
                 <div className="hidden xl:block">
-                    <LanguageSwitcher locale={locale} label={t.nav.language} />
+                    <LanguageSwitcher locale={locale} label={t.nav.language} partial={partial} />
                 </div>
 
                 {/* Small screens: a native disclosure, so the menu works before (and without) JavaScript. */}
@@ -98,7 +101,7 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                             </ul>
                         </nav>
                         <div className="mt-4 border-t border-line pt-3">
-                            <LanguageSwitcher locale={locale} label={t.nav.language} />
+                            <LanguageSwitcher locale={locale} label={t.nav.language} partial={partial} />
                         </div>
                     </div>
                 </details>

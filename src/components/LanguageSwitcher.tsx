@@ -11,17 +11,22 @@ import { LOCALES, LOCALE_INFO, type Locale, localePath, splitLocalePath } from '
  * which page it wraps. The pathname differs between the server and the
  * browser for English pages — the prerender runs at the internal /en/…
  * route, the browser sits at the public /… URL — so the /en prefix is
- * dropped first and both sides produce the same links. Every page exists in
- * every edition (a content test enforces it), so these never point at a 404
- * except from a 404.
+ * dropped first and both sides produce the same links.
+ *
+ * Most pages exist in all five editions. The few that do not (some artist
+ * profiles and hubs, by design) are listed in `partial`; for an edition a page
+ * lacks, the link goes to that edition's section index (/fr/artists) rather
+ * than to a 404.
  *
  * Plain <a> rather than next/link: changing edition changes the root layout's
  * <html lang dir>, which needs a full document load anyway.
  */
-export function LanguageSwitcher({ locale, label }: { locale: Locale; label: string }) {
+export function LanguageSwitcher({ locale, label, partial }: { locale: Locale; label: string; partial: Record<string, Locale[]> }) {
     const pathname = usePathname() ?? '/';
     const publicPath = pathname === '/en' ? '/' : pathname.startsWith('/en/') ? pathname.slice(3) : pathname;
     const { path } = splitLocalePath(publicPath);
+    const editions = partial[path] ?? LOCALES;
+    const section = `/${path.split('/')[1] ?? ''}`;
 
     return (
         <nav aria-label={label}>
@@ -32,7 +37,7 @@ export function LanguageSwitcher({ locale, label }: { locale: Locale; label: str
                     return (
                         <li key={l}>
                             <a
-                                href={localePath(l, path)}
+                                href={localePath(l, editions.includes(l) ? path : section)}
                                 hrefLang={info.lang}
                                 lang={info.lang}
                                 aria-current={current ? 'page' : undefined}

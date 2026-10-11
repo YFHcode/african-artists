@@ -4,10 +4,14 @@ import { Breadcrumbs, CardGrid, EntryCard, FactFile, RelatedArticles } from '@/c
 import { JsonLd } from '@/components/JsonLd';
 import { Motif } from '@/components/Motif';
 import { dictionary } from '@/i18n';
-import { COLLECTIONS, type Collection, type CountryCode, entriesInRegion, entryPath } from '@/content/catalog';
+import { COLLECTIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
 import { type Article, getArticle, getPage, listArticles, relatedArticles } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { articleSchema, collectionSchema } from '@/lib/schema';
+import { hubPath, hubsListing } from '@/content/hubs';
+import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
+import { getHubPage } from '@/lib/content';
+import type { Fact } from '@/lib/content';
 
 /**
  * Dates in the reader's language, with Western digits in every edition to
@@ -21,7 +25,7 @@ export function formatDate(locale: Locale, iso: string): string {
     return new Intl.DateTimeFormat(lang, { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${iso}T00:00:00Z`));
 }
 
-function SaleNote({ locale }: { locale: Locale }) {
+export function SaleNote({ locale }: { locale: Locale }) {
     const t = dictionary(locale);
     return (
         <aside className="mx-auto mt-16 max-w-6xl px-4">
@@ -41,15 +45,47 @@ function SaleNote({ locale }: { locale: Locale }) {
     );
 }
 
+/**
+ * The facts box of a short profile, from Wikidata: life dates, country and
+ * disciplines. Full profiles keep their hand-written facts.
+ */
+function generatedFacts(article: Article): Fact[] {
+    const { entry, locale } = article;
+    const t = dictionary(locale);
+    const artist = entry.qid ? dataArtist(entry.qid) : undefined;
+    const facts: Fact[] = [];
+    if (artist?.born != null) facts.push({ label: t.profile.born, value: String(artist.born) });
+    if (artist?.died != null) facts.push({ label: t.profile.died, value: String(artist.died) });
+    if (entry.countries.length > 0) facts.push({ label: t.profile.country, value: entry.countries.map((c) => t.countries[c]).join(', ') });
+    if (entry.media?.length) facts.push({ label: t.profile.disciplines, value: entry.media.map((m) => t.media[m]).join(', ') });
+    return facts;
+}
+
 export function ArticleView({ article }: { article: Article }) {
     const { entry, locale } = article;
     const t = dictionary(locale);
     const path = entryPath(entry);
     const minutes = Math.max(2, Math.round(article.words / 220));
+    const artist = entry.qid ? dataArtist(entry.qid) : undefined;
+    const facts = article.facts.length > 0 || !entry.qid ? article.facts : generatedFacts(article);
+    const links = entry.qid
+        ? [
+              ...(artist && wikipediaUrl(artist, locale) ? [{ label: 'Wikipedia', href: wikipediaUrl(artist, locale)! }] : []),
+              { label: 'Wikidata', href: wikidataUrl(entry.qid) },
+          ]
+        : [];
+    const lists = entry.collection === 'artists' ? hubsListing(entry.countries, entry.media ?? [], locale) : [];
+    const person = entry.qid
+        ? {
+              sameAs: [wikidataUrl(entry.qid), ...(artist?.titles.en ? [wikipediaUrl(artist, 'en')!] : [])],
+              birthDate: artist?.born != null ? String(artist.born) : undefined,
+              deathDate: artist?.died != null ? String(artist.died) : undefined,
+          }
+        : undefined;
 
     return (
         <>
-            <JsonLd data={articleSchema(article, path)} />
+            <JsonLd data={articleSchema(article, path, person)} />
             <Breadcrumbs
                 locale={locale}
                 label={t.nav.breadcrumb}
@@ -89,8 +125,38 @@ export function ArticleView({ article }: { article: Article }) {
 
                 <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_18rem]">
                     <div className="prose" dangerouslySetInnerHTML={{ __html: article.html }} />
-                    <div className="lg:sticky lg:top-6 lg:self-start">
-                        <FactFile facts={article.facts} title={t.article.facts} />
+                    <div className="space-y-5 lg:sticky lg:top-6 lg:self-start">
+                        <FactFile facts={facts} title={t.article.facts} />
+                        {lists.length > 0 && (
+                            <nav aria-labelledby="artist-lists" className="rounded-xl border border-line p-5">
+                                <h2 id="artist-lists" className="text-sm font-semibold uppercase tracking-wide text-muted">
+                                    {t.profile.lists}
+                                </h2>
+                                <ul className="mt-3 space-y-2 text-[0.95rem]">
+                                    {lists.map((hub) => (
+                                        <li key={hubPath(hub)}>
+                                            <Link href={localePath(locale, hubPath(hub))} className="text-clay underline underline-offset-4">
+                                                {getHubPage(locale, hub).label}
+                                            </Link>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </nav>
+                        )}
+                        {links.length > 0 && (
+                            <aside className="rounded-xl border border-line p-5">
+                                <h2 className="text-sm font-semibold uppercase tracking-wide text-muted">{t.profile.links}</h2>
+                                <ul className="mt-3 space-y-2 text-[0.95rem]">
+                                    {links.map((l) => (
+                                        <li key={l.href}>
+                                            <a href={l.href} rel="noopener" className="text-clay underline underline-offset-4">
+                                                {l.label}
+                                            </a>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </aside>
+                        )}
                     </div>
                 </div>
             </article>
@@ -112,7 +178,9 @@ function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
     const entries = entriesInRegion(slug);
     const groups = COLLECTIONS.map((collection) => ({
         collection,
-        articles: entries.filter((e) => e.collection === collection).map((e) => getArticle(locale, e.collection, e.slug)!),
+        articles: entries
+            .filter((e) => e.collection === collection && isAvailable(e, locale))
+            .map((e) => getArticle(locale, e.collection, e.slug)!),
     })).filter((g) => g.articles.length > 0);
     if (groups.length === 0) return null;
 

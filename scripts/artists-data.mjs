@@ -116,6 +116,11 @@ await writeFile(new URL('artists.json', OUT), JSON.stringify({ ...meta, artists:
 await writeFile(new URL('artists.csv', OUT), toCsv(ranked));
 
 const tiers = Object.groupBy(ranked, (p) => p.tier);
+
+// Page-tier artists with no planned profile: candidates for the next wave.
+const { ORIGINAL_ARTISTS, ROSTER } = await import('../src/content/roster.ts');
+const planned = new Set([...Object.values(ORIGINAL_ARTISTS).map((o) => o.qid), ...ROSTER.map((r) => r.qid)]);
+const unplanned = (tiers.page ?? []).filter((p) => !planned.has(p.qid));
 const summary = [
     `## Artist data: ${ranked.length} people`,
     '',
@@ -124,6 +129,12 @@ const summary = [
     `| Tier | Count |`,
     `| --- | --- |`,
     ...['page', 'list', 'review', 'excluded'].map((t) => `| ${t} | ${tiers[t]?.length ?? 0} |`),
+    '',
+    `### Page tier without a planned profile (${unplanned.length})`,
+    '',
+    unplanned.length === 0
+        ? 'None: every page-tier artist is in src/content/roster.ts.'
+        : unplanned.map((p) => `- ${p.name} (${p.qid}), ${p.countries.join(', ')}, ${p.views.total.toLocaleString('en')} views`).join('\n'),
     '',
     `### Top 40`,
     '',

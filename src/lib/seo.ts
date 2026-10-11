@@ -23,12 +23,14 @@ export interface PageMetaInput {
     noindex?: boolean;
     article?: { published: string; modified: string };
     ogAlt: string;
+    /** Editions this page exists in, when not all five (some artist profiles and hubs). */
+    locales?: readonly Locale[];
 }
 
-/** Every edition of a page, plus x-default, as absolute URLs. */
-export function alternateUrls(path: string): Record<string, string> {
+/** Every edition of a page, plus x-default (English, which every page has), as absolute URLs. */
+export function alternateUrls(path: string, locales: readonly Locale[] = LOCALES): Record<string, string> {
     const languages: Record<string, string> = {};
-    for (const locale of LOCALES) languages[LOCALE_INFO[locale].lang] = absoluteUrl(localePath(locale, path));
+    for (const locale of locales) languages[LOCALE_INFO[locale].lang] = absoluteUrl(localePath(locale, path));
     languages['x-default'] = absoluteUrl(localePath(DEFAULT_LOCALE, path));
     return languages;
 }
@@ -38,7 +40,7 @@ export function ogImage(locale: Locale): string {
 }
 
 export function pageMetadata(input: PageMetaInput): Metadata {
-    const { locale, path, title, description, absoluteTitle, noindex, article, ogAlt } = input;
+    const { locale, path, title, description, absoluteTitle, noindex, article, ogAlt, locales = LOCALES } = input;
     const url = absoluteUrl(localePath(locale, path));
     const image = { url: ogImage(locale), width: 1200, height: 630, alt: ogAlt };
 
@@ -49,7 +51,7 @@ export function pageMetadata(input: PageMetaInput): Metadata {
             canonical: url,
             // A noindex page is not part of a cluster: hreflang to it would
             // point search engines at pages they are told not to index.
-            languages: noindex ? undefined : alternateUrls(path),
+            languages: noindex ? undefined : alternateUrls(path, locales),
         },
         openGraph: {
             type: article ? 'article' : 'website',
@@ -58,7 +60,7 @@ export function pageMetadata(input: PageMetaInput): Metadata {
             description,
             siteName: SITE_NAME,
             locale: LOCALE_INFO[locale].ogLocale,
-            alternateLocale: LOCALES.filter((l) => l !== locale).map((l) => LOCALE_INFO[l].ogLocale),
+            alternateLocale: locales.filter((l) => l !== locale).map((l) => LOCALE_INFO[l].ogLocale),
             images: [image],
             ...(article ? { publishedTime: article.published, modifiedTime: article.modified } : {}),
         },

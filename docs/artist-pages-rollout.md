@@ -38,6 +38,14 @@ Wikipedias). Re-check them against the latest monthly run before each wave.
 
 ## Wave 0: foundations (no new public pages)
 
+**Status: built 11 October 2026.** The roster (`src/content/roster.ts`), hubs
+(`src/content/hubs.ts`), release switch (`src/content/waves.ts`), hub routes, short-profile
+template, Person schema, partial-language support and tests are in place. A preview build of a
+cut-down wave 1 was checked end to end: pages, 404s for missing editions, hreflang, sitemap and
+language switcher. One step remains for the owner: export a Search Console baseline before
+wave 1 goes live.
+
+
 - **Curation (decided).** All 7 "pending" artists are kept as short profiles in their waves.
   Each is known partly for something besides visual art (writing, television, music, politics),
   so their paragraphs should say so plainly.

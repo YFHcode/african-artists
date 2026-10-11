@@ -35,12 +35,12 @@ test('works: one per work, most-linked first, never the portrait, at most MAX_WO
     const out = collect(
         [{ artist: wd('Q1'), image: fp('Portrait.jpg') }],
         [
-            row('Q10', 'A.jpg', 3, { inception: '1970-01-01T00:00:00Z', label_fr: 'Œuvre' }),
+            row('Q10', 'A.jpg', 3, { inception: '1970-01-01T00:00:00Z', precision: '9', label_fr: 'Œuvre' }),
             row('Q10', 'A2.jpg', 3),
             row('Q11', 'Portrait.jpg', 9),
             row('Q12', 'B.jpg', 7),
             row('Q13', 'C.jpg', 1, { label_en: 'Q13' }),
-            row('Q14', 'D.jpg', 0),
+            row('Q14', 'D.jpg', 0, { inception: '1900-01-01T00:00:00Z', precision: '7' }),
             row('Q15', 'E.jpg', 0),
             row('Q16', 'F.jpg', 0),
         ]
@@ -50,6 +50,7 @@ test('works: one per work, most-linked first, never the portrait, at most MAX_WO
     assert.deepEqual(a.works.map((w) => w.qid), ['Q12', 'Q10', 'Q14', 'Q15']);
     assert.equal(a.works.length, MAX_WORKS);
     assert.deepEqual(a.works[1], { qid: 'Q10', file: 'A.jpg', year: 1970, title: { en: 'Work Q10', fr: 'Œuvre' } });
+    assert.equal(a.works[2].year, null, 'a century is not a year');
     assert.match(worksQuery(['Q1', 'Q2']), /VALUES \?artist \{ wd:Q1 wd:Q2 \}/);
 });
 

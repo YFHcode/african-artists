@@ -52,14 +52,15 @@ export function portraitQuery(qids) {
 
 /**
  * Works with an image whose creator (P170) is one of the artists, with a label
- * per language, a year and how many Wikipedia articles they have.
+ * per language, the date and its precision, and how many Wikipedia articles
+ * they have.
  */
 export function worksQuery(qids) {
     const labels = LANGS.map((l) => `OPTIONAL { ?work rdfs:label ?label_${l} FILTER(LANG(?label_${l}) = "${l}") }`).join('\n  ');
-    return `SELECT ?artist ?work ?image ?inception ?links ${LANGS.map((l) => `?label_${l}`).join(' ')} WHERE {
+    return `SELECT ?artist ?work ?image ?inception ?precision ?links ${LANGS.map((l) => `?label_${l}`).join(' ')} WHERE {
   VALUES ?artist { ${values(qids)} }
   ?work wdt:P170 ?artist ; wdt:P18 ?image ; wikibase:sitelinks ?links .
-  OPTIONAL { ?work wdt:P571 ?inception }
+  OPTIONAL { ?work p:P571/psv:P571 ?date . ?date wikibase:timeValue ?inception ; wikibase:timePrecision ?precision . }
   ${labels}
 }`;
 }
@@ -87,7 +88,8 @@ export function collect(portraitRows, workRows) {
     for (const r of workRows) {
         const key = `${qidOf(r.artist)} ${qidOf(r.work)}`;
         if (works.has(key)) continue;
-        const year = r.inception ? Number.parseInt(r.inception.replace(/^\+/, ''), 10) : null;
+        // A year only when the date is known to the year (precision 9 or finer), never a decade or century.
+        const year = r.inception && Number(r.precision) >= 9 ? Number.parseInt(r.inception.replace(/^\+/, ''), 10) : null;
         const title = Object.fromEntries(LANGS.map((l) => [l, r[`label_${l}`]]).filter(([, v]) => v && !/^Q\d+$/.test(v)));
         works.set(key, {
             artist: qidOf(r.artist),

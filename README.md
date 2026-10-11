@@ -99,7 +99,7 @@ src/i18n/<locale>.ts                      interface text (menus, buy page, form)
 
 ```
 npm run dev        local development
-npm run build      production build (prerenders all 330 indexable pages)
+npm run build      production build (prerenders every indexable page; 396 after wave 1)
 npm start          serve the production build
 npm test           content integrity, offer validation, URL helpers
 npm run lint

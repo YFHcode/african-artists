@@ -32,7 +32,9 @@ Na Rodésia, o atual Zimbabué, cresceu a partir do final dos anos 1950 um movim
 
 ## A arte contemporânea
 
-A África do Sul tem uma das cenas de arte contemporânea mais fortes do continente, com o Zeitz MOCAA e a Norval Foundation na Cidade do Cabo, a Johannesburg Art Gallery e feiras nas duas cidades. Entre os seus artistas mais conhecidos estão William Kentridge, conhecido pelos desenhos animados a carvão, a pintora Marlene Dumas e Zanele Muholi, que alia fotografia e ativismo visual. Veja a [arte africana contemporânea](/guides/contemporary-african-art) e a [fotografia africana](/art-forms/african-photography).
+A África do Sul tem uma das cenas de arte contemporânea mais fortes do continente, com o Zeitz MOCAA e a Norval Foundation na Cidade do Cabo, a Johannesburg Art Gallery e feiras nas duas cidades. Entre os seus artistas mais conhecidos estão William Kentridge, conhecido pelos desenhos animados a carvão, a pintora Marlene Dumas e [Zanele Muholi](/artists/zanele-muholi), que alia fotografia e ativismo visual. Veja a [arte africana contemporânea](/guides/contemporary-african-art) e a [fotografia africana](/art-forms/african-photography).
+
+Os fotógrafos do país documentaram o apartheid com risco de vida: Peter Magubane e Ernest Cole nos anos 1950 e 1960, David Goldblatt durante seis décadas e Sam Nzima, cuja fotografia de 1976 do jovem Hector Pieterson a morrer correu o mundo. No início dos anos 1990, o [Bang-Bang Club](/guides/bang-bang-club) cobriu a violência nos townships antes das eleições de 1994. Veja a nossa lista de [fotógrafos sul-africanos](/artists/country/south-africa/photographers).
 
 ## A música
 

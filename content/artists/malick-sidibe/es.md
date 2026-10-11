@@ -32,4 +32,4 @@ Su obra llegó al público internacional en los años noventa, la década en que
 
 ## Artistas relacionados
 
-Sidibé es inseparable de [Seydou Keïta](/artists/seydou-keita), el fotógrafo de estudio de Bamako de la generación anterior, cuyos retratos formales de los años cincuenta captan la ciudad una década antes. Para una historia más amplia, lea nuestra guía de la [fotografía africana](/art-forms/african-photography). Para la música de las mismas pistas de baile de África Occidental, vea el [mbalax](/music/mbalax) y el [highlife](/music/highlife).
+Sidibé es inseparable de [Seydou Keïta](/artists/seydou-keita), el fotógrafo de estudio de Bamako de la generación anterior, cuyos retratos formales de los años cincuenta captan la ciudad una década antes. Para una historia más amplia, lea nuestra guía de la [fotografía africana](/art-forms/african-photography). Para la música de las mismas pistas de baile de África Occidental, vea el [mbalax](/music/mbalax) y el [highlife](/music/highlife). Vea nuestra lista de [fotógrafos africanos](/artists/medium/photographers).

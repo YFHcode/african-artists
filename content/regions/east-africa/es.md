@@ -40,6 +40,8 @@ En 1937 la artista británica Margaret Trowell empezó a enseñar arte en el Mak
 
 Los artistas de África Oriental tienen hoy gran visibilidad: la keniana [Wangechi Mutu](/artists/wangechi-mutu), cuyos bronces ocuparon la fachada del Metropolitan Museum; la pintora nacida en Etiopía Julie Mehretu; el artista etíope Elias Sime, que construye obras con electrónica reciclada; y el pintor keniano Michael Armitage, que pinta sobre tela de corteza ugandesa. Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
 
+Kenia ha dado también algunos de los fotoperiodistas más importantes de África. Mohamed Amin cubrió África Oriental durante tres décadas desde su agencia Camerapix, en Nairobi; sus imágenes de la hambruna de Etiopía de 1984 dieron origen a Band Aid y Live Aid. Una generación después, Boniface Mwangi fotografió la violencia que siguió a las elecciones kenianas de 2007. Vea nuestra lista de [fotógrafos africanos](/artists/medium/photographers).
+
 ## La música
 
 El benga keniano, el taarab y el bongo flava tanzanos y el jazz etíope que hizo famoso Mulatu Astatke están entre las grandes exportaciones musicales de África Oriental.

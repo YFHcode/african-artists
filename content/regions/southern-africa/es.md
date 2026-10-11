@@ -32,7 +32,9 @@ En Rodesia, la actual Zimbabue, un movimiento moderno de [escultura en piedra](/
 
 ## El arte contemporáneo
 
-Sudáfrica tiene una de las escenas de arte contemporáneo más fuertes del continente, con el Zeitz MOCAA y la Norval Foundation en Ciudad del Cabo, la Johannesburg Art Gallery y ferias en ambas ciudades. Entre sus artistas más conocidos están William Kentridge, conocido por sus dibujos animados al carboncillo, la pintora Marlene Dumas y Zanele Muholi, que une fotografía y activismo visual. Vea el [arte africano contemporáneo](/guides/contemporary-african-art) y la [fotografía africana](/art-forms/african-photography).
+Sudáfrica tiene una de las escenas de arte contemporáneo más fuertes del continente, con el Zeitz MOCAA y la Norval Foundation en Ciudad del Cabo, la Johannesburg Art Gallery y ferias en ambas ciudades. Entre sus artistas más conocidos están William Kentridge, conocido por sus dibujos animados al carboncillo, la pintora Marlene Dumas y [Zanele Muholi](/artists/zanele-muholi), que une fotografía y activismo visual. Vea el [arte africano contemporáneo](/guides/contemporary-african-art) y la [fotografía africana](/art-forms/african-photography).
+
+Los fotógrafos del país documentaron el apartheid arriesgando la vida: Peter Magubane y Ernest Cole en los años cincuenta y sesenta, David Goldblatt durante seis décadas y Sam Nzima, cuya fotografía de 1976 del joven Hector Pieterson agonizante dio la vuelta al mundo. A principios de los noventa, el [Bang-Bang Club](/guides/bang-bang-club) cubrió la violencia de los townships antes de las elecciones de 1994. Vea nuestra lista de [fotógrafos sudafricanos](/artists/country/south-africa/photographers).
 
 ## La música
 

@@ -82,6 +82,11 @@ wave 1 goes live.
 
 ## Wave 1: photographers
 
+**Status: released 11 October 2026.**
+- **Pages:** 26 profiles in 46 language editions, 7 hubs in 16 editions, and the Bang-Bang Club guide in 4 editions — 66 new URLs.
+- **Links:** new links in the photography page, the Southern and East Africa region pages, the women artists and contemporary art guides, and the Sidibé and Keïta profiles.
+- **Gate for wave 2:** check indexing of these 66 URLs in Search Console in early November.
+
 Photographers draw 1.24M yearly views, almost as many as painters, and far fewer sites cover them.
 The Bang-Bang Club (Carter, Oosterbroek, Marinovich, Silva) is a search topic of its own.
 

@@ -32,9 +32,11 @@ Na Nigéria, **J.D. 'Okhai Ojeikere** (1930–2014) passou décadas a fotografar
 
 Na África do Sul, a revista *Drum*, fundada em 1951, deu palco a fotógrafos e escritores negros. **Peter Magubane** (1932–2024) documentou a luta contra o apartheid, incluindo a revolta do Soweto de 1976, e foi preso por causa do seu trabalho. **Ernest Cole** (1940–1990) partiu para o exílio e publicou *House of Bondage* (1967), um testemunho arrasador da vida quotidiana sob o apartheid, proibido na África do Sul. **David Goldblatt** (1930–2018) fotografou com precisão paciente as estruturas e as paisagens do apartheid, e **Santu Mofokeng** (1956–2020) voltou-se para a memória, a crença e a terra.
 
+A 16 de junho de 1976, **Sam Nzima** fotografou no Soweto o jovem Hector Pieterson a morrer, uma imagem que correu o mundo. No início dos anos 1990, quatro jovens fotógrafos conhecidos como o [Bang-Bang Club](/guides/bang-bang-club) — [Kevin Carter](/artists/kevin-carter), [Ken Oosterbroek](/artists/ken-oosterbroek), Greg Marinovich e João Silva — cobriram a violência nos townships antes das eleições de 1994. Mais a norte, o queniano **Mohamed Amin** fotografou e filmou a atualidade da África Oriental durante três décadas; as suas imagens da fome na Etiópia em 1984 deram origem ao Live Aid.
+
 ## Fotógrafos contemporâneos
 
-**Zanele Muholi** (n. 1972), ativista visual, documenta e celebra as comunidades LGBTQIA+ negras da África do Sul; a série de autorretratos *Somnyama Ngonyama* está entre as obras fotográficas mais conhecidas do século. **Omar Victor Diop** (nascido em 1980, Senegal) reencena retratos históricos de africanos da diáspora posando ele próprio. **Aida Muluneh** (nascida em 1974, Etiópia) cria imagens a cores vivas e encenadas e fundou o Addis Foto Fest. **Lebohang Kganye** (nascida em 1990, África do Sul) trabalha com as fotografias da sua família. A fotógrafa franco-marroquina **Leila Alaoui** (1982–2016) fez uma célebre série de retratos, *Les Marocains*.
+**[Zanele Muholi](/artists/zanele-muholi)** (n. 1972), ativista visual, documenta e celebra as comunidades LGBTQIA+ negras da África do Sul; a série de autorretratos *Somnyama Ngonyama* está entre as obras fotográficas mais conhecidas do século. **Omar Victor Diop** (nascido em 1980, Senegal) reencena retratos históricos de africanos da diáspora posando ele próprio. **Aida Muluneh** (nascida em 1974, Etiópia) cria imagens a cores vivas e encenadas e fundou o Addis Foto Fest. **Lebohang Kganye** (nascida em 1990, África do Sul) trabalha com as fotografias da sua família. A fotógrafa franco-marroquina **Leila Alaoui** (1982–2016) fez uma célebre série de retratos, *Les Marocains*.
 
 ## Festivais e colecionismo
 
@@ -42,4 +44,4 @@ Os **Rencontres de Bamako**, a bienal africana de fotografia fundada em 1994, co
 
 ## Relacionados
 
-A fotografia é central na [arte africana contemporânea](/guides/contemporary-african-art). Comece pelos perfis de [Seydou Keïta](/artists/seydou-keita) e [Malick Sidibé](/artists/malick-sidibe).
+A fotografia é central na [arte africana contemporânea](/guides/contemporary-african-art). Comece pelos perfis de [Seydou Keïta](/artists/seydou-keita) e [Malick Sidibé](/artists/malick-sidibe). Consulte as nossas listas de [fotógrafos africanos](/artists/medium/photographers) e de [fotógrafos sul-africanos](/artists/country/south-africa/photographers).

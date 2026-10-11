@@ -1,0 +1,5 @@
+{
+    "_note": "Fixes for Wikidata errors seen on this site, applied by scripts/artists-data.mjs. Fix Wikidata too, then remove the entry here.",
+    "Q97657288": { "deathYear": null, "why": "Frank Edoho is alive; Wikidata gives his birth year as a death year" },
+    "Q4756825": { "birthYear": null, "why": "Andrew Dosunmu, the photographer and filmmaker, was not born in 1901" }
+}

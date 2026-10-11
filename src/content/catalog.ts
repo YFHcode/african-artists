@@ -231,6 +231,30 @@ CATALOG.push(...rosterEntries);
     releasedRoster.forEach((r, i) => (rosterEntries[i].related = relatedForRoster(r, artists)));
 }
 
+/** Articles other than profiles that belong to a wave: built once it is released. */
+const WAVE_ARTICLES: { wave: number; make: (published: string) => Entry }[] = [
+    {
+        wave: 1,
+        make: (published) => ({
+            ...entry('guides', 'bang-bang-club', ['ZA'], '1990–1994', ['artists/kevin-carter', 'artists/ken-oosterbroek', 'artists/greg-marinovich', 'artists/joao-silva'], published),
+            locales: ['en', 'fr', 'es', 'pt'],
+        }),
+    },
+];
+for (const { wave, make } of WAVE_ARTICLES) if (isReleased(wave)) CATALOG.push(make(releaseDate(wave)));
+
+/** Existing articles whose text a wave changed (new links to its pages), so their dates say so. */
+const REVISED_IN_WAVE: Record<number, string[]> = {
+    1: [
+        'art-forms/african-photography', 'regions/southern-africa', 'regions/east-africa',
+        'guides/african-women-artists', 'guides/contemporary-african-art', 'artists/malick-sidibe', 'artists/seydou-keita',
+    ],
+};
+for (const [wave, keys] of Object.entries(REVISED_IN_WAVE)) {
+    if (!isReleased(Number(wave))) continue;
+    for (const e of CATALOG) if (keys.includes(entryKey(e))) e.updated = releaseDate(Number(wave));
+}
+
 export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {
     return `${entry.collection}/${entry.slug}`;
 }

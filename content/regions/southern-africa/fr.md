@@ -32,7 +32,9 @@ En Rhodésie, l'actuel Zimbabwe, un mouvement moderne de [sculpture sur pierre](
 
 ## L'art contemporain
 
-L'Afrique du Sud possède l'une des scènes d'art contemporain les plus fortes du continent, avec le Zeitz MOCAA et la Norval Foundation au Cap, la Johannesburg Art Gallery, et des foires dans les deux villes. Parmi ses artistes les plus connus figurent William Kentridge, connu pour ses dessins au fusain animés, la peintre Marlene Dumas et l'activiste visuel·le et photographe Zanele Muholi. Voir l'[art africain contemporain](/guides/contemporary-african-art) et la [photographie africaine](/art-forms/african-photography).
+L'Afrique du Sud possède l'une des scènes d'art contemporain les plus fortes du continent, avec le Zeitz MOCAA et la Norval Foundation au Cap, la Johannesburg Art Gallery, et des foires dans les deux villes. Parmi ses artistes les plus connus figurent William Kentridge, connu pour ses dessins au fusain animés, la peintre Marlene Dumas et l'activiste visuel·le et photographe [Zanele Muholi](/artists/zanele-muholi). Voir l'[art africain contemporain](/guides/contemporary-african-art) et la [photographie africaine](/art-forms/african-photography).
+
+Les photographes du pays ont documenté l'apartheid au péril de leur vie : Peter Magubane et [Ernest Cole](/artists/ernest-cole) dans les années 1950 et 1960, David Goldblatt pendant six décennies, et Sam Nzima, dont la photographie du jeune Hector Pieterson mourant, en 1976, a fait le tour du monde. Au début des années 1990, le [Bang-Bang Club](/guides/bang-bang-club) a couvert les violences des townships avant les élections de 1994. Voir notre liste des [photographes sud-africains](/artists/country/south-africa/photographers).
 
 ## La musique
 

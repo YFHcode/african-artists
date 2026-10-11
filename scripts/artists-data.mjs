@@ -17,6 +17,7 @@
 import { readFile, writeFile, mkdir, appendFile } from 'node:fs/promises';
 import {
     WIKIS,
+    applyCorrections,
     OCCUPATIONS,
     buildDetailsQuery,
     buildIdsQuery,
@@ -108,7 +109,8 @@ console.log(`pageviews: ${done} articles, ${span.start}–${span.end}`);
 
 // 3. Rank and write.
 const exclude = parseExclude(await readFile(new URL('exclude.txt', OUT), 'utf8').catch(() => ''));
-const ranked = rank([...people.values()], { pageCount: PAGE_COUNT, minViews: MIN_VIEWS, exclude });
+const corrections = JSON.parse(await readFile(new URL('corrections.json', OUT), 'utf8').catch(() => '{}'));
+const ranked = rank(applyCorrections([...people.values()], corrections), { pageCount: PAGE_COUNT, minViews: MIN_VIEWS, exclude });
 
 await mkdir(OUT, { recursive: true });
 const meta = { source: 'Wikidata (CC0) and Wikimedia pageviews', window: span, minSitelinks: MIN_SITELINKS, pageCount: PAGE_COUNT, minViews: MIN_VIEWS };

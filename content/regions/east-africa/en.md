@@ -40,6 +40,8 @@ In 1937 the British artist Margaret Trowell began teaching art at Makerere Colle
 
 East African artists are prominent today: the Kenyan [Wangechi Mutu](/artists/wangechi-mutu), whose bronzes stood on the facade of the Metropolitan Museum; the Ethiopian-born painter Julie Mehretu; the Ethiopian artist Elias Sime, who builds works from recycled electronics; and the Kenyan painter Michael Armitage, who paints on Ugandan barkcloth. See [contemporary African art](/guides/contemporary-african-art).
 
+Kenya has also produced some of Africa's most important photojournalists. [Mohamed Amin](/artists/mohamed-amin) covered East Africa for three decades from his Camerapix agency in Nairobi; his 1984 footage of the famine in Ethiopia led to Band Aid and Live Aid. A generation later, [Boniface Mwangi](/artists/boniface-mwangi) photographed the violence after Kenya's 2007 election. See our list of [African photographers](/artists/medium/photographers).
+
 ## Music
 
 Kenya's benga, Tanzania's taarab and bongo flava, and the Ethiopian jazz made famous by Mulatu Astatke are among East Africa's great musical exports.

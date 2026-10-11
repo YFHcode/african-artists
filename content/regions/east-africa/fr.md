@@ -40,6 +40,8 @@ En 1937, l'artiste britannique Margaret Trowell commence à enseigner l'art au M
 
 Les artistes d'Afrique de l'Est sont aujourd'hui en vue : la Kényane [Wangechi Mutu](/artists/wangechi-mutu), dont les bronzes ont pris place sur la façade du Metropolitan Museum ; la peintre née en Éthiopie Julie Mehretu ; l'artiste éthiopien Elias Sime, qui construit ses œuvres à partir d'électronique recyclée ; et le peintre kényan Michael Armitage, qui peint sur l'étoffe d'écorce ougandaise. Voir l'[art africain contemporain](/guides/contemporary-african-art).
 
+Le Kenya a aussi donné à l'Afrique certains de ses plus grands photojournalistes. Mohamed Amin a couvert l'Afrique de l'Est pendant trente ans depuis son agence Camerapix, à Nairobi ; ses images de la famine éthiopienne de 1984 ont mené au Band Aid et au Live Aid. Une génération plus tard, Boniface Mwangi a photographié les violences qui ont suivi l'élection kényane de 2007. Voir notre liste des [photographes africains](/artists/medium/photographers).
+
 ## La musique
 
 Le benga kényan, le taarab et le bongo flava tanzaniens, et le jazz éthiopien rendu célèbre par Mulatu Astatke comptent parmi les grandes exportations musicales d'Afrique de l'Est.

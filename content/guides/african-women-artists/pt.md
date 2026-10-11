@@ -32,7 +32,7 @@ summary: As mulheres artistas de África moldaram a arte moderna e contemporâne
 
 **Marlene Dumas (nascida em 1953), África do Sul e Países Baixos.** Nascida na Cidade do Cabo e radicada em Amesterdão, é uma das pintoras figurativas mais influentes da sua geração.
 
-**Zanele Muholi (n. 1972), África do Sul.** Ativista visual cujas fotografias documentam e celebram as comunidades negras lésbicas, gays, trans, queer e intersexo da África do Sul. A série *Faces and Phases*, iniciada em 2006, é um arquivo vivo de centenas de retratos; a Tate Modern apresentou uma grande exposição do seu trabalho em 2020–21.
+**[Zanele Muholi](/artists/zanele-muholi) (n. 1972), África do Sul.** Ativista visual cujas fotografias documentam e celebram as comunidades negras lésbicas, gays, trans, queer e intersexo da África do Sul. A série *Faces and Phases*, iniciada em 2006, é um arquivo vivo de centenas de retratos; a Tate Modern apresentou uma grande exposição do seu trabalho em 2020–21.
 
 **[Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) (nascida em 1983), Nigéria e EUA.** Pintora de interiores em camadas construídos com transferências fotográficas; bolseira MacArthur em 2017.
 

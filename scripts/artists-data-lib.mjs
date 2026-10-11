@@ -106,6 +106,22 @@ export function pageviewUrl(wiki, title, { start, end }) {
 
 export const isArtist = (person) => ART_WORDS.test(person.description);
 
+/** A Wikidata item with no English label shows its QID as its name. */
+const unnamed = (person) => /^Q\d+$/.test(person.name);
+
+/**
+ * Hand corrections for Wikidata errors ({ QID: { birthYear?, deathYear? } }),
+ * then one rule: a death year that is not after the birth year is dropped.
+ */
+export function applyCorrections(people, corrections = {}) {
+    for (const p of people) {
+        const fix = corrections[p.qid];
+        if (fix) for (const key of ['birthYear', 'deathYear']) if (key in fix) p[key] = fix[key];
+        if (p.deathYear !== null && p.birthYear !== null && p.deathYear <= p.birthYear) p.deathYear = null;
+    }
+    return people;
+}
+
 // Exclude list: one QID per line, anything after # is a comment.
 export function parseExclude(text) {
     return new Set(
@@ -127,7 +143,7 @@ export function rank(people, { pageCount, minViews, exclude }) {
     return sorted.map((p, i) => {
         let tier;
         if (exclude.has(p.qid)) tier = 'excluded';
-        else if (!isArtist(p)) tier = 'review';
+        else if (!isArtist(p) || unnamed(p)) tier = 'review';
         else if (pages < pageCount && p.views.total >= minViews) {
             tier = 'page';
             pages++;

@@ -32,7 +32,7 @@ Uma lista curta e longe de completa, agrupada por abordagem:
 - **Transformar materiais.** [El Anatsui](/artists/el-anatsui) (cápsulas de garrafa); Romuald Hazoumè, Benim (máscaras feitas de bidões de plástico); Gonçalo Mabunda, Moçambique (tronos e máscaras feitos com armas desativadas da guerra civil); Ibrahim Mahama, Gana (sacos de juta que cobrem edifícios inteiros); Abdoulaye Konaté, Mali (têxteis monumentais).
 - **Pintura.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); Julie Mehretu, nascida em Adis Abeba; Amoako Boafo, Gana, conhecido pelos retratos pintados com os dedos; Michael Armitage, Quénia, que pinta sobre pano de casca ugandês; Toyin Ojih Odutola; Marlene Dumas, nascida na Cidade do Cabo.
 - **Escultura e instalação.** [Wangechi Mutu](/artists/wangechi-mutu); Otobong Nkanga, Nigéria; Yinka Shonibare, britânico-nigeriano, conhecido pelas figuras vestidas com tecido wax; William Kentridge, África do Sul, cujos desenhos animados a carvão mudaram a ideia do que um desenho pode ser.
-- **Fotografia e cinema.** Zanele Muholi, Omar Victor Diop e Aida Muluneh (veja a [fotografia africana](/art-forms/african-photography)); John Akomfrah, cineasta britânico nascido no Gana, que representou o Reino Unido na Bienal de Veneza de 2024.
+- **Fotografia e cinema.** [Zanele Muholi](/artists/zanele-muholi), Omar Victor Diop e Aida Muluneh (veja a [fotografia africana](/art-forms/african-photography)); John Akomfrah, cineasta britânico nascido no Gana, que representou o Reino Unido na Bienal de Veneza de 2024.
 
 Para as mulheres artistas em particular, veja [mulheres artistas africanas](/guides/african-women-artists).
 

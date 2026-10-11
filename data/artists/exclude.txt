@@ -9,3 +9,4 @@ Q443070    # Foday Sankoh: rebel leader
 Q772733    # Alessandro Mendini: Italian designer
 Q32280528  # Toni Tones: actress
 Q15869     # Freddie Mercury: musician
+Q17002882  # Helena of Egypt: ancient Greek painter, outside this site's scope

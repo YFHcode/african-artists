@@ -32,7 +32,9 @@ In Rhodesia, now Zimbabwe, a modern movement of [stone sculpture](/art-forms/sho
 
 ## Contemporary art
 
-South Africa has one of the strongest contemporary art scenes on the continent, with Zeitz MOCAA and the Norval Foundation in Cape Town, the Johannesburg Art Gallery, and fairs in both cities. Its best-known artists include William Kentridge, known for animated charcoal drawings, the painter Marlene Dumas, and the photographer and visual activist Zanele Muholi. See [contemporary African art](/guides/contemporary-african-art) and [African photography](/art-forms/african-photography).
+South Africa has one of the strongest contemporary art scenes on the continent, with Zeitz MOCAA and the Norval Foundation in Cape Town, the Johannesburg Art Gallery, and fairs in both cities. Its best-known artists include William Kentridge, known for animated charcoal drawings, the painter Marlene Dumas, and the photographer and visual activist [Zanele Muholi](/artists/zanele-muholi). See [contemporary African art](/guides/contemporary-african-art) and [African photography](/art-forms/african-photography).
+
+The country's photographers documented apartheid at great risk: [Peter Magubane](/artists/peter-magubane) and [Ernest Cole](/artists/ernest-cole) in the 1950s and 1960s, [David Goldblatt](/artists/david-goldblatt) over six decades, and [Sam Nzima](/artists/sam-nzima), whose 1976 photograph of the dying schoolboy Hector Pieterson went around the world. In the early 1990s [the Bang-Bang Club](/guides/bang-bang-club) covered the township violence before the 1994 election. See our list of [South African photographers](/artists/country/south-africa/photographers).
 
 ## Music
 

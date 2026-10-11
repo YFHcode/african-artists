@@ -2,7 +2,7 @@
 // runs in GitHub Actions; everything it relies on is checked here offline.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildDetailsQuery, buildIdsQuery, mergeRows, pageviewUrl, pageviewWindow, parseExclude, rank, toCsv } from './artists-data-lib.mjs';
+import { applyCorrections, buildDetailsQuery, buildIdsQuery, mergeRows, pageviewUrl, pageviewWindow, parseExclude, rank, toCsv } from './artists-data-lib.mjs';
 
 const row = (over) => ({
     p: 'http://www.wikidata.org/entity/Q1',
@@ -53,7 +53,7 @@ test('the pageview window is the last twelve complete months', () => {
 });
 
 test('ranking puts the most viewed first and assigns tiers', () => {
-    const person = (qid, total, description = 'painter') => ({ qid, name: qid, description, countries: [], occupations: [], birthYear: null, sitelinks: 5, bornInAfrica: true, titles: {}, views: { total } });
+    const person = (qid, total, description = 'painter') => ({ qid, name: `Artist ${qid}`, description, countries: [], occupations: [], birthYear: null, sitelinks: 5, bornInAfrica: true, titles: {}, views: { total } });
     const ranked = rank([person('Q1', 100), person('Q2', 90000), person('Q3', 50000, 'American sociologist'), person('Q4', 40000), person('Q5', 30000), person('Q6', 20000)], {
         pageCount: 2,
         minViews: 1000,
@@ -71,4 +71,21 @@ test('CSV quotes commas and quotes', () => {
     const [header, line] = csv.trim().split('\n');
     assert.ok(header.startsWith('rank,tier,qid,name,'));
     assert.ok(line.startsWith('1,page,Q1,"A ""B"", C",Ghana; Togo,painter,1970,,true,3,10,0,0,0,0,10,,https://en.wikipedia.org/wiki/A_B'));
+});
+
+test('corrections fix known Wikidata errors and impossible death years', () => {
+    const people = applyCorrections(
+        [
+            { qid: 'Q1', birthYear: 1972, deathYear: 1972 },
+            { qid: 'Q2', birthYear: 1901, deathYear: null },
+            { qid: 'Q3', birthYear: 1930, deathYear: 2014 },
+        ],
+        { Q2: { birthYear: null } }
+    );
+    assert.deepEqual(people.map((p) => [p.birthYear, p.deathYear]), [[1972, null], [null, null], [1930, 2014]]);
+});
+
+test('an item without an English label goes to review', () => {
+    const p = { qid: 'Q9', name: 'Q9', description: 'painter', countries: [], occupations: [], sitelinks: 4, titles: {}, views: { total: 50000 } };
+    assert.equal(rank([p], { pageCount: 10, minViews: 1, exclude: new Set() })[0].tier, 'review');
 });

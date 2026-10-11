@@ -52,7 +52,8 @@ function load(): Map<string, DataArtist> {
             countries: a.countries.map((c) => WIKIDATA_COUNTRIES[c]).filter(Boolean),
             media: a.occupations.map((o) => OCCUPATION_MEDIUM[o]).filter(Boolean),
             born: a.birthYear,
-            died: a.deathYear ?? null,
+            // The data job already drops impossible death years; this is a safety net.
+            died: a.deathYear != null && (a.birthYear === null || a.deathYear > a.birthYear) ? a.deathYear : null,
             views: a.views.total,
             titles: a.titles,
         });

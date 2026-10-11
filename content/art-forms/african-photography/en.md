@@ -22,19 +22,21 @@ After the Second World War, studio portraiture became a popular art across the c
 
 - **[Seydou Keïta](/artists/seydou-keita)** (c. 1921–2001) photographed Bamako between 1948 and 1962 against patterned backdrops, with props that let sitters perform modernity.
 - **[Malick Sidibé](/artists/malick-sidibe)** (1935–2016) followed Bamako's young people to their parties in the 1960s and became the first photographer to win the Venice Biennale's Golden Lion for Lifetime Achievement.
-- **James Barnor** (born 1929) ran the Ever Young studio in Accra in the 1950s, photographed for *Drum* magazine and worked in London during the 1960s.
+- **[James Barnor](/artists/james-barnor)** (born 1929) ran the Ever Young studio in Accra in the 1950s, photographed for *Drum* magazine and worked in London during the 1960s.
 - **Sanlé Sory** (born 1943) photographed the youth and music scene of Bobo-Dioulasso, Burkina Faso, from his Volta Photo studio.
-- **Samuel Fosso** (born 1962), working in Bangui in the Central African Republic, began photographing himself in his studio as a teenager in the 1970s and has made self-portraiture in costume his life's work.
+- **[Samuel Fosso](/artists/samuel-fosso)** (born 1962), working in Bangui in the Central African Republic, began photographing himself in his studio as a teenager in the 1970s and has made self-portraiture in costume his life's work.
 
 In Nigeria, **J.D. 'Okhai Ojeikere** (1930–2014) spent decades photographing women's hairstyles — more than a thousand images, begun in 1968 — creating an archive that is at once anthropology and sculpture.
 
 ## Photography against apartheid
 
-In South Africa, *Drum* magazine, founded in 1951, gave Black photographers and writers a platform. **Peter Magubane** (1932–2024) documented the struggle against apartheid, including the 1976 Soweto uprising, and was imprisoned for his work. **Ernest Cole** (1940–1990) went into exile and published *House of Bondage* (1967), a devastating record of daily life under apartheid that was banned in South Africa. **David Goldblatt** (1930–2018) photographed the structures and landscapes of apartheid with patient precision, and **Santu Mofokeng** (1956–2020) turned to memory, belief and the land.
+In South Africa, *Drum* magazine, founded in 1951, gave Black photographers and writers a platform. **[Peter Magubane](/artists/peter-magubane)** (1932–2024) documented the struggle against apartheid, including the 1976 Soweto uprising, and was imprisoned for his work. **[Ernest Cole](/artists/ernest-cole)** (1940–1990) went into exile and published *House of Bondage* (1967), a devastating record of daily life under apartheid that was banned in South Africa. **[David Goldblatt](/artists/david-goldblatt)** (1930–2018) photographed the structures and landscapes of apartheid with patient precision, and **Santu Mofokeng** (1956–2020) turned to memory, belief and the land.
+
+On 16 June 1976 **[Sam Nzima](/artists/sam-nzima)** photographed the dying schoolboy Hector Pieterson in Soweto, an image that went around the world. In the early 1990s four young photographers known as [the Bang-Bang Club](/guides/bang-bang-club) — [Kevin Carter](/artists/kevin-carter), [Ken Oosterbroek](/artists/ken-oosterbroek), [Greg Marinovich](/artists/greg-marinovich) and [João Silva](/artists/joao-silva) — covered the township violence before the 1994 election. Further north, the Kenyan **[Mohamed Amin](/artists/mohamed-amin)** photographed and filmed East Africa's news for three decades; his 1984 footage of the famine in Ethiopia led to Live Aid.
 
 ## Contemporary photographers
 
-**Zanele Muholi** (born 1972), a visual activist, documents and celebrates South Africa's Black LGBTQIA+ communities; their self-portrait series *Somnyama Ngonyama* is among the best-known photographic works of the century so far. **Omar Victor Diop** (born 1980, Senegal) restages historical portraits of Africans in the diaspora with himself as the sitter. **Aida Muluneh** (born 1974, Ethiopia) makes vivid, staged colour images and founded the Addis Foto Fest. **Lebohang Kganye** (born 1990, South Africa) works with her family's photographs. The Moroccan-French photographer **Leila Alaoui** (1982–2016) made a celebrated series of portraits, *Les Marocains*.
+**[Zanele Muholi](/artists/zanele-muholi)** (born 1972), a visual activist, documents and celebrates South Africa's Black LGBTQIA+ communities; their self-portrait series *Somnyama Ngonyama* is among the best-known photographic works of the century so far. **Omar Victor Diop** (born 1980, Senegal) restages historical portraits of Africans in the diaspora with himself as the sitter. **Aida Muluneh** (born 1974, Ethiopia) makes vivid, staged colour images and founded the Addis Foto Fest. **Lebohang Kganye** (born 1990, South Africa) works with her family's photographs. The Moroccan-French photographer **[Leila Alaoui](/artists/leila-alaoui)** (1982–2016) made a celebrated series of portraits, *Les Marocains*.
 
 ## Festivals and collecting
 
@@ -42,4 +44,4 @@ The **Rencontres de Bamako**, the African biennale of photography founded in 199
 
 ## Related
 
-Photography is central to [contemporary African art](/guides/contemporary-african-art). Start with the profiles of [Seydou Keïta](/artists/seydou-keita) and [Malick Sidibé](/artists/malick-sidibe).
+Photography is central to [contemporary African art](/guides/contemporary-african-art). Start with the profiles of [Seydou Keïta](/artists/seydou-keita) and [Malick Sidibé](/artists/malick-sidibe). Browse our lists of [African photographers](/artists/medium/photographers) and [South African photographers](/artists/country/south-africa/photographers).

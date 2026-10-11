@@ -4,6 +4,7 @@ import { Breadcrumbs, CardGrid, EntryCard, FactFile, RelatedArticles } from '@/c
 import { JsonLd } from '@/components/JsonLd';
 import { Locator, locatorKey } from '@/components/Locator';
 import { Motif } from '@/components/Motif';
+import { Portrait, WorksGallery } from '@/components/Pictures';
 import { dictionary } from '@/i18n';
 import { COLLECTIONS, REGIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
 import { type Article, getArticle, getPage, listArticles, relatedArticles } from '@/lib/content';
@@ -11,6 +12,7 @@ import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { articleSchema, collectionSchema } from '@/lib/schema';
 import { type Hub, hubPath, hubsListing, liveHubs } from '@/content/hubs';
 import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
+import { artistPictures } from '@/lib/artist-images';
 import { getHubPage } from '@/lib/content';
 import type { Fact } from '@/lib/content';
 
@@ -70,6 +72,7 @@ export function ArticleView({ article }: { article: Article }) {
     const artist = entry.qid ? dataArtist(entry.qid) : undefined;
     const facts = article.facts.length > 0 || !entry.qid ? article.facts : generatedFacts(article);
     const mapKey = locatorKey(entry.countries, entry.collection === 'regions' ? entry.slug : undefined);
+    const pictures = entry.collection === 'artists' ? artistPictures(entry.qid) : undefined;
     const links = entry.qid
         ? [
               ...(artist && wikipediaUrl(artist, locale) ? [{ label: 'Wikipedia', href: wikipediaUrl(artist, locale)! }] : []),
@@ -85,6 +88,7 @@ export function ArticleView({ article }: { article: Article }) {
               sameAs: [wikidataUrl(entry.qid), ...(artist?.titles.en ? [wikipediaUrl(artist, 'en')!] : [])],
               birthDate: artist?.born != null ? String(artist.born) : undefined,
               deathDate: artist?.died != null ? String(artist.died) : undefined,
+              image: pictures?.portrait?.src,
           }
         : undefined;
 
@@ -130,8 +134,12 @@ export function ArticleView({ article }: { article: Article }) {
                 </header>
 
                 <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_18rem]">
-                    <div className="prose" dangerouslySetInnerHTML={{ __html: article.html }} />
+                    <div>
+                        <div className="prose" dangerouslySetInnerHTML={{ __html: article.html }} />
+                        {pictures && pictures.works.length > 0 && <WorksGallery works={pictures.works} artist={article.label} locale={locale} />}
+                    </div>
                     <div className="space-y-5 lg:sticky lg:top-6 lg:self-start">
+                        {pictures?.portrait && <Portrait pic={pictures.portrait} name={article.label} locale={locale} />}
                         {mapKey && <Locator mapKey={mapKey} />}
                         <FactFile facts={facts} title={t.article.facts} />
                         {lists.length > 0 && (

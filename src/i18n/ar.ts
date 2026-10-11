@@ -98,6 +98,14 @@ const ar: Dictionary = {
         noMatch: 'لا توجد مقالة مطابقة في ويكيبيديا.',
         wikipedia: 'ويكيبيديا',
     },
+    pictures: {
+        works: 'أعمال',
+        worksNote: 'صور بترخيص حر من ويكيميديا كومنز. انقر على الصورة لفتح الملف بحجمه الكامل ومعرفة صاحبه وترخيصه.',
+        workAlt: (title: string, artist: string) => `${title}، ${artist}`,
+        credit: 'صورة',
+        commons: 'ويكيميديا كومنز',
+        publicDomain: 'ملكية عامة',
+    },
     buy: {
         title: 'اشترِ AfricanArtists.com — نطاق مميّز معروض للبيع',
         description:

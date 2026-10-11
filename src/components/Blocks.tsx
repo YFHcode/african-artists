@@ -1,10 +1,13 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 
 import { JsonLd } from '@/components/JsonLd';
 import { Motif } from '@/components/Motif';
+import { Credit } from '@/components/Pictures';
 import type { Dictionary } from '@/i18n';
 import { entryPath } from '@/content/catalog';
+import { coverPicture } from '@/lib/artist-images';
 import type { Article, Fact } from '@/lib/content';
 import { type Locale, localePath } from '@/lib/i18n';
 import { breadcrumbSchema } from '@/lib/schema';
@@ -53,10 +56,23 @@ export function EntryCard({ article, t, headingLevel = 'h3' }: { article: Articl
     const Heading = headingLevel;
     const { entry } = article;
     const countries = entry.countries.map((c) => t.countries[c]).join(' · ');
+    // Artists with a freely licensed picture show it, credited at the foot of the card.
+    const cover = entry.collection === 'artists' ? coverPicture(entry.qid) : undefined;
 
     return (
         <article className="group card-lift reveal relative flex h-full flex-col overflow-hidden rounded-xl border border-line bg-paper hover:shadow-md">
-            <Motif seed={entry.slug} className="h-16 w-full" />
+            {entry.collection === 'artists' ? (
+                // Artist cards share one cover height: the picture whole, on sand, or the artist's pattern.
+                <div className="h-44 w-full bg-sand">
+                    {cover ? (
+                        <Image src={cover.src} alt="" width={cover.width} height={cover.height} unoptimized className="h-full w-full object-contain" />
+                    ) : (
+                        <Motif seed={entry.slug} className="h-full w-full" />
+                    )}
+                </div>
+            ) : (
+                <Motif seed={entry.slug} className="h-16 w-full" />
+            )}
             <div className="flex flex-1 flex-col p-5">
                 <p className="text-xs font-semibold uppercase tracking-wide text-clay">{article.kicker}</p>
                 <Heading className="mt-1 font-display text-xl font-semibold leading-snug text-ink">
@@ -70,6 +86,7 @@ export function EntryCard({ article, t, headingLevel = 'h3' }: { article: Articl
                     </p>
                 )}
                 <p className="mt-3 text-[0.95rem] leading-relaxed text-ink/85">{article.description}</p>
+                {cover && <Credit pic={cover} locale={article.locale} className="relative z-10 mt-auto block pt-4" />}
             </div>
         </article>
     );

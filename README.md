@@ -236,6 +236,26 @@ real artwork or a portrait of a real artist.
   Nothing hides content from a crawler: with a tall viewport (how Google renders) every card is
   fully visible.
 
+## Artist pictures
+
+Profiles show a portrait and up to four works when Wikimedia Commons has freely licensed
+pictures of them; 69 profiled artists do at the first run. Artists without one keep their
+pattern.
+
+- **Source.** `scripts/artist-images.mjs`, run by the "Artist images" workflow (monthly, or by
+  hand from the Actions tab), takes each profiled artist's Wikidata image (P18) and the works
+  they created (P170) that have one. Only public domain, CC0, CC BY and CC BY-SA files are kept.
+  A work's year is shown only when Wikidata knows it to the year.
+- **Stored here.** 500px WebP copies in `public/images/artists/` (about 3 MB in all), credits in
+  `data/images/images.json`. Visitors' browsers never contact Wikimedia.
+- **Credits.** Every picture shows author, licence (linked) and its Commons page, on the
+  profile and on cards (`src/components/Pictures.tsx`), as the licences require. Portraits
+  are also the `image` of the Person in the profile's structured data.
+- **Review.** Look at new pictures after each run. Wikidata's "image" for an artist is
+  sometimes a work, not the person: list it in `data/images/as-works.json` with the work's
+  title (checked) and it is shown as that work. A wrong or doubtful picture goes in
+  `data/images/exclude.txt`. Then run the workflow again.
+
 ## Notes for future work
 
 - The 404 page is `src/app/global-not-found.tsx`, which needs `experimental.globalNotFound`

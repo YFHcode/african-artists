@@ -56,6 +56,8 @@ export interface PersonFacts {
     sameAs: string[];
     birthDate?: string;
     deathDate?: string;
+    /** Site path of a portrait. */
+    image?: string;
 }
 
 export function articleSchema(article: Article, path: string, person?: PersonFacts): Json {
@@ -82,6 +84,7 @@ export function articleSchema(article: Article, path: string, person?: PersonFac
                       ...(person?.sameAs.length ? { sameAs: person.sameAs } : {}),
                       ...(person?.birthDate ? { birthDate: person.birthDate } : {}),
                       ...(person?.deathDate ? { deathDate: person.deathDate } : {}),
+                      ...(person?.image ? { image: absoluteUrl(person.image) } : {}),
                   },
               }
             : {}),

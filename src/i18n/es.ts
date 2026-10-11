@@ -96,6 +96,14 @@ const es: Dictionary = {
         noMatch: 'No se encontró ningún artículo en Wikipedia.',
         wikipedia: 'Wikipedia',
     },
+    pictures: {
+        works: 'Obras',
+        worksNote: 'Fotografías con licencia libre de Wikimedia Commons. Pulse una imagen para ver el archivo a tamaño completo, su autor y su licencia.',
+        workAlt: (title: string, artist: string) => `${title}, de ${artist}`,
+        credit: 'Imagen',
+        commons: 'Wikimedia Commons',
+        publicDomain: 'dominio público',
+    },
     buy: {
         title: 'Comprar AfricanArtists.com — dominio premium en venta',
         description:

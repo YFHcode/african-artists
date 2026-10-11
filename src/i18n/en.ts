@@ -97,6 +97,14 @@ const en = {
         noMatch: 'No matching article found on Wikipedia.',
         wikipedia: 'Wikipedia',
     },
+    pictures: {
+        works: 'Works',
+        worksNote: 'Freely licensed photographs from Wikimedia Commons. Select a picture for the full-size file, its author and its licence.',
+        workAlt: (title: string, artist: string) => `${title} by ${artist}`,
+        credit: 'Image',
+        commons: 'Wikimedia Commons',
+        publicDomain: 'public domain',
+    },
     buy: {
         title: 'Buy AfricanArtists.com — Premium Domain for Sale',
         description:

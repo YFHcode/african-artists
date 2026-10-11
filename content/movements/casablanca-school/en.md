@@ -26,7 +26,7 @@ The artists' own work followed the same logic. Melehi became known for hard-edge
 
 ## Art in the square
 
-In May 1969 the group staged *Présence plastique*: open-air exhibitions on the Jemaa el-Fna square in Marrakech and, a few weeks later, on a public square in Casablanca. Paintings stood among street performers, traders and passers-by. The statement was clear: modern art belonged to everyday Moroccan life, not only to galleries.
+In May 1969 the group — Belkahia, Melehi, Chabâa, [Mohamed Hamidi](/artists/mohamed-hamidi), Mohamed Ataallah and Mustapha Hafid — staged *Présence plastique*: open-air exhibitions on the Jemaa el-Fna square in Marrakech and, a few weeks later, on a public square in Casablanca. Paintings stood among street performers, traders and passers-by. The statement was clear: modern art belonged to everyday Moroccan life, not only to galleries.
 
 The artists also designed for print and public space. Melehi created covers for *Souffles*, the influential literary and political magazine founded in 1966, and the group's graphic language spread through posters, books and murals.
 
@@ -36,4 +36,4 @@ For decades the school was known mainly in Morocco. Recent exhibitions in Europe
 
 ## Related
 
-The closest parallel is the [Khartoum School](/movements/khartoum-school), where script and craft were also turned into modern form. For another North African modernist outside the school, see [Baya](/artists/baya). For the musical tradition of Marrakech's squares, read about [gnawa](/music/gnawa), and for the region as a whole, [North African art](/regions/north-africa).
+The closest parallel is the [Khartoum School](/movements/khartoum-school), where script and craft were also turned into modern form. Outside the school, [Chaïbia Talal](/artists/chaibia-talal) and [Hassan El Glaoui](/artists/hassan-el-glaoui) followed their own figurative paths, and the Algerian [Baya](/artists/baya) is another North African modernist; see also our list of [Moroccan painters](/artists/country/morocco/painters). For the musical tradition of Marrakech's squares, read about [gnawa](/music/gnawa), and for the region as a whole, [North African art](/regions/north-africa).

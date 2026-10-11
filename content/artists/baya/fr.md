@@ -38,4 +38,4 @@ Des expositions récentes ont remis son œuvre en lumière, notamment *Baya: Wom
 
 ## Artistes et musiques liés
 
-Baya s'inscrit aux côtés d'autres modernistes nord-africains comme [Farid Belkahia](/artists/farid-belkahia) et l'Égyptien [Mahmoud Saïd](/artists/mahmoud-said). Les instruments de ses tableaux appartiennent à l'univers musical de l'Algérie, qui a aussi donné au monde le [raï](/music/rai). Pour d'autres femmes artistes du continent, voir les [femmes artistes africaines](/guides/african-women-artists).
+Baya s'inscrit aux côtés d'autres modernistes nord-africains comme [Farid Belkahia](/artists/farid-belkahia), l'Égyptien [Mahmoud Saïd](/artists/mahmoud-said) et ses compatriotes [M'hamed Issiakhem](/artists/mhamed-issiakhem) et [Mohammed Khadda](/artists/mohammed-khadda) ; voir nos listes d'[artistes algériens](/artists/country/algeria) et de [peintres algériens](/artists/country/algeria/painters). Les instruments de ses tableaux appartiennent à l'univers musical de l'Algérie, qui a aussi donné au monde le [raï](/music/rai). Pour d'autres femmes artistes du continent, voir les [femmes artistes africaines](/guides/african-women-artists).

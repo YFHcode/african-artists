@@ -36,7 +36,7 @@ On 16 June 1976 **[Sam Nzima](/artists/sam-nzima)** photographed the dying schoo
 
 ## Contemporary photographers
 
-**[Zanele Muholi](/artists/zanele-muholi)** (born 1972), a visual activist, documents and celebrates South Africa's Black LGBTQIA+ communities; their self-portrait series *Somnyama Ngonyama* is among the best-known photographic works of the century so far. **Omar Victor Diop** (born 1980, Senegal) restages historical portraits of Africans in the diaspora with himself as the sitter. **Aida Muluneh** (born 1974, Ethiopia) makes vivid, staged colour images and founded the Addis Foto Fest. **Lebohang Kganye** (born 1990, South Africa) works with her family's photographs. The Moroccan-French photographer **[Leila Alaoui](/artists/leila-alaoui)** (1982–2016) made a celebrated series of portraits, *Les Marocains*.
+**[Zanele Muholi](/artists/zanele-muholi)** (born 1972), a visual activist, documents and celebrates South Africa's Black LGBTQIA+ communities; their self-portrait series *Somnyama Ngonyama* is among the best-known photographic works of the century so far. **Omar Victor Diop** (born 1980, Senegal) restages historical portraits of Africans in the diaspora with himself as the sitter. **Aida Muluneh** (born 1974, Ethiopia) makes vivid, staged colour images and founded the Addis Foto Fest. **Lebohang Kganye** (born 1990, South Africa) works with her family's photographs. The Moroccan-French photographer **[Leila Alaoui](/artists/leila-alaoui)** (1982–2016) made a celebrated series of portraits, *Les Marocains*, and **[Yto Barrada](/artists/yto-barrada)** (born 1971) photographed Tangier as a waiting room for Europe in *A Life Full of Holes: The Strait Project*.
 
 ## Festivals and collecting
 

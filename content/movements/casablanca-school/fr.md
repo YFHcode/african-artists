@@ -26,7 +26,7 @@ L'œuvre des artistes suit la même logique. Melehi se fait connaître par ses a
 
 ## L'art sur la place
 
-En mai 1969, le groupe organise *Présence plastique* : des expositions en plein air sur la place Jemaa el-Fna à Marrakech puis, quelques semaines plus tard, sur une place publique de Casablanca. Les tableaux se dressent parmi les artistes de rue, les marchands et les passants. Le message est clair : l'art moderne appartient à la vie quotidienne des Marocains, pas seulement aux galeries.
+En mai 1969, le groupe — Belkahia, Melehi, Chabâa, [Mohamed Hamidi](/artists/mohamed-hamidi), Mohamed Ataallah et Mustapha Hafid — organise *Présence plastique* : des expositions en plein air sur la place Jemaa el-Fna à Marrakech puis, quelques semaines plus tard, sur une place publique de Casablanca. Les tableaux se dressent parmi les artistes de rue, les marchands et les passants. Le message est clair : l'art moderne appartient à la vie quotidienne des Marocains, pas seulement aux galeries.
 
 Les artistes conçoivent aussi pour l'imprimé et l'espace public. Melehi signe des couvertures de *Souffles*, l'influente revue littéraire et politique fondée en 1966, et le langage graphique du groupe se diffuse à travers affiches, livres et peintures murales.
 
@@ -36,4 +36,4 @@ Pendant des décennies, l'école est surtout connue au Maroc. Des expositions r�
 
 ## Pour aller plus loin
 
-Le parallèle le plus proche est l'[École de Khartoum](/movements/khartoum-school), où l'écriture et l'artisanat ont aussi été transformés en formes modernes. Pour une moderniste nord-africaine hors de l'école, voir [Baya](/artists/baya). Pour la tradition musicale des places de Marrakech, lisez notre article sur les [Gnaoua](/music/gnawa), et pour l'ensemble de la région, l'[art d'Afrique du Nord](/regions/north-africa).
+Le parallèle le plus proche est l'[École de Khartoum](/movements/khartoum-school), où l'écriture et l'artisanat ont aussi été transformés en formes modernes. Hors de l'école, [Chaïbia Talal](/artists/chaibia-talal) et [Hassan El Glaoui](/artists/hassan-el-glaoui) ont suivi leurs propres voies figuratives, et l'Algérienne [Baya](/artists/baya) est une autre moderniste nord-africaine ; voir aussi notre liste des [peintres marocains](/artists/country/morocco/painters). Pour la tradition musicale des places de Marrakech, lisez notre article sur les [Gnaoua](/music/gnawa), et pour l'ensemble de la région, l'[art d'Afrique du Nord](/regions/north-africa).

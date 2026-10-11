@@ -14,7 +14,7 @@ summary: Les femmes artistes d'Afrique ont façonné l'art moderne et contempora
 
 **Inji Efflatoun (1924–1989), Égypte.** Peintre et militante féministe et marxiste, elle est emprisonnée de 1959 à 1963 pour ses engagements politiques et continue de peindre dans la prison pour femmes : ses codétenues, des arbres et des fleurs vus à travers les barreaux. Ces peintures de prison sont souvent considérées comme le sommet de son œuvre.
 
-**Chaïbia Talal (1929–2004), Maroc.** Veuve très jeune et employée de maison, elle commence à peindre vers trente-cinq ans après un rêve. Soutenue par le critique Pierre Gaudibert, elle expose à Paris en 1966, et ses visages vifs et colorés font d'elle l'une des peintres les plus connues du Maroc.
+**[Chaïbia Talal](/artists/chaibia-talal) (1929–2004), Maroc.** Veuve très jeune et employée de maison, elle commence à peindre vers trente-cinq ans après un rêve. Soutenue par le critique Pierre Gaudibert, elle expose à Paris en 1966, et ses visages vifs et colorés font d'elle l'une des peintres les plus connues du Maroc.
 
 **Kamala Ibrahim Ishaq (née en 1939), Soudan.** Membre de l'[École de Khartoum](/movements/khartoum-school), elle s'en éloigne en 1976 pour cofonder le groupe cristalliste. Ses peintures de visages de femmes pris dans des formes de verre ont fait l'objet d'une grande exposition à la Serpentine à Londres en 2022–2023.
 

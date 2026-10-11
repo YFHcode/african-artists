@@ -34,4 +34,4 @@ Belkahia a montré qu'on pouvait faire de l'art moderne avec les matériaux et l
 
 ## Artistes et musiques liés
 
-L'usage de l'écriture et du symbole chez Belkahia trouve un écho direct dans l'œuvre calligraphique d'[Ibrahim El-Salahi](/artists/ibrahim-el-salahi) et de l'[École de Khartoum](/movements/khartoum-school). Pour une autre moderniste du Maghreb, voir la peintre algérienne [Baya](/artists/baya). Pour le son des places de Marrakech, lisez notre article sur les [Gnaoua](/music/gnawa).
+L'usage de l'écriture et du symbole chez Belkahia trouve un écho direct dans l'œuvre calligraphique d'[Ibrahim El-Salahi](/artists/ibrahim-el-salahi) et de l'[École de Khartoum](/movements/khartoum-school). Parmi les peintres qu'il fait entrer à l'école figure [Mohamed Hamidi](/artists/mohamed-hamidi) ; pour une peintre marocaine qui a suivi sa propre voie, voir [Chaïbia Talal](/artists/chaibia-talal), et pour une autre moderniste du Maghreb, la peintre algérienne [Baya](/artists/baya). Voir aussi notre liste des [peintres marocains](/artists/country/morocco/painters). Pour le son des places de Marrakech, lisez notre article sur les [Gnaoua](/music/gnawa).

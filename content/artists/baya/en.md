@@ -38,4 +38,4 @@ Recent exhibitions have brought her work back into view, including *Baya: Woman 
 
 ## Related artists and music
 
-Baya belongs with other North African modernists such as [Farid Belkahia](/artists/farid-belkahia) and the Egyptian [Mahmoud Saïd](/artists/mahmoud-said). The instruments in her paintings belong to the musical world of Algeria, which also gave the world [raï](/music/rai). For more women artists from across the continent, see [African women artists](/guides/african-women-artists).
+Baya belongs with other North African modernists such as [Farid Belkahia](/artists/farid-belkahia), the Egyptian [Mahmoud Saïd](/artists/mahmoud-said) and her fellow Algerians [M'hamed Issiakhem](/artists/mhamed-issiakhem) and [Mohammed Khadda](/artists/mohammed-khadda); see our lists of [Algerian artists](/artists/country/algeria) and [Algerian painters](/artists/country/algeria/painters). The instruments in her paintings belong to the musical world of Algeria, which also gave the world [raï](/music/rai). For more women artists from across the continent, see [African women artists](/guides/african-women-artists).

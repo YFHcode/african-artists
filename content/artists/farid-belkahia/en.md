@@ -34,4 +34,4 @@ Belkahia showed that modern art could be made from the materials and signs of No
 
 ## Related artists and music
 
-Belkahia's use of writing and symbol has a close parallel in the calligraphic work of [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) and the [Khartoum School](/movements/khartoum-school). For another Maghreb modernist, see the Algerian painter [Baya](/artists/baya). For the sound of Marrakech's squares, read about [gnawa](/music/gnawa).
+Belkahia's use of writing and symbol has a close parallel in the calligraphic work of [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) and the [Khartoum School](/movements/khartoum-school). Among the painters he brought into the school was [Mohamed Hamidi](/artists/mohamed-hamidi); for a Moroccan painter who went her own way, see [Chaïbia Talal](/artists/chaibia-talal), and for another Maghreb modernist, the Algerian painter [Baya](/artists/baya). See also our list of [Moroccan painters](/artists/country/morocco/painters). For the sound of Marrakech's squares, read about [gnawa](/music/gnawa).

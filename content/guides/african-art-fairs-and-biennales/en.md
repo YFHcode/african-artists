@@ -27,7 +27,7 @@ Dak'Art grew out of Senegal's long investment in the arts, described in our arti
 
 | Fair | Where | Since | Notes |
 |---|---|---|---|
-| **1-54 Contemporary African Art Fair** | London, New York, Marrakech | 2013 (London) | Founded by Touria El Glaoui; the name refers to the 54 countries of Africa. London edition in October during Frieze week, New York in May, Marrakech in February |
+| **1-54 Contemporary African Art Fair** | London, New York, Marrakech | 2013 (London) | Founded by Touria El Glaoui, daughter of the painter [Hassan El Glaoui](/artists/hassan-el-glaoui); the name refers to the 54 countries of Africa. London edition in October during Frieze week, New York in May, Marrakech in February |
 | **Investec Cape Town Art Fair** | Cape Town, South Africa | 2013 | Now one of the largest art fairs on the continent; usually held in February |
 | **FNB Art Joburg** | Johannesburg, South Africa | 2008 | The longest-running fair of its kind in Africa; usually in September |
 | **ART X Lagos** | Lagos, Nigeria | 2016 | Founded by Tokini Peterside-Schwebig; the leading fair in West Africa, usually in November |

@@ -213,6 +213,11 @@ Oshogbo), and the pottery page (Ladi Kwali).
 
 ## Wave 4: Morocco, Algeria, Tunisia (EN, FR and AR)
 
+**Status: released 11 October 2026, by decision on the same day as waves 1–3.**
+- **Pages:** 16 profiles (6 full, 10 short, including Tahar Ben Jelloun) in 43 editions and 7 hubs in 20 editions — 63 new URLs.
+- **Links:** new links from the North Africa region page, the Casablanca School page, the women artists and art fairs guides, the photography page, the Moroccan photographers hub, and the Baya, Belkahia, Ben Jelloun, Leila Alaoui and Hassan Hajjaj profiles.
+- **Kept out:** Rabah Driassa is profiled as the singer he was best known as; the page says plainly that he is on the painter lists because Wikidata records him as a painter.
+
 This is the strongest French and Arabic demand on the list:
 - Morocco: 84K views a year in French, 49K in Arabic.
 - Algeria: 71K in French, 21K in Arabic.

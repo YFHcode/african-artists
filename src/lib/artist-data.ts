@@ -93,6 +93,11 @@ export function dataArtist(qid: string): DataArtist | undefined {
     return load().get(qid);
 }
 
+/** Everyone the site lists, most looked-up first (the search index is built from this). */
+export function allDataArtists(): DataArtist[] {
+    return [...load().values()].sort((a, b) => b.views - a.views || a.name.localeCompare(b.name));
+}
+
 /** Everyone a hub lists, most looked-up first. */
 export function hubMembers(hub: Hub): DataArtist[] {
     return [...load().values()]

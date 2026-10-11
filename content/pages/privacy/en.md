@@ -15,6 +15,10 @@ We keep this correspondence only as long as needed to deal with your enquiry and
 
 The site uses Vercel Web Analytics to count visits and see which pages are read. It does not use cookies and does not identify individual visitors; it reports aggregated figures such as page views, referring sites, countries and device types.
 
+## Search
+
+The search box in the header works in your browser. The first time you use it, it downloads an index of this site's pages, and what you type is matched against that index on your device. If nothing on this site matches and you have typed at least three characters, the box asks Wikipedia (run by the Wikimedia Foundation) for articles with a matching name, which means Wikipedia receives what you typed and your IP address, and handles them under its own [privacy policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy). Links to Wikipedia in the results lead there only if you click them.
+
 ## Hosting
 
 The site is hosted by Vercel. Like any web host, Vercel processes technical data such as IP addresses in its server logs to deliver pages and protect the service.

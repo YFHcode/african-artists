@@ -1,6 +1,7 @@
 import Link from 'next/link';
 
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
+import { SearchBox } from '@/components/SearchBox';
 import type { Dictionary } from '@/i18n';
 import { partialEditions } from '@/content/catalog';
 import { LOCALES, LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
@@ -105,6 +106,13 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                         </div>
                     </div>
                 </details>
+            </div>
+
+            {/* A row of its own: at laptop widths the menu and language switcher already fill the line, in French edge to edge. */}
+            <div className="mx-auto max-w-6xl px-4 pb-3">
+                <div className="sm:max-w-md">
+                    <SearchBox locale={locale} labels={t.search} />
+                </div>
             </div>
         </header>
     );

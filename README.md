@@ -181,6 +181,26 @@ The plan is `docs/artist-pages-rollout.md`. Three files drive it:
 - A missing edition answers 404.
 - The tests check every internal link against the editions of its own page.
 
+## Site search
+
+The search box in the header (`src/components/SearchBox.tsx`) searches in the browser, with no
+results page, so there are no crawlable search URLs.
+
+- **Index.** `src/lib/search-index.ts` builds one JSON file per edition at build time, served
+  at `/api/search/<locale>` (about 120 KB, 30 KB compressed; under `/api/`, which robots.txt
+  disallows). It holds our pages and lists, and every artist the lists name that has no
+  profile in that edition, linked to Wikipedia. The browser fetches it the first time the box
+  is focused. A new profile or hub is in it after the next build; nothing to maintain.
+- **Matching.** `src/lib/search.ts` (tested in `scripts/search.test.mjs`): accents folded, Arabic
+  letter variants and the article ال folded, every query word must start a word of the entry.
+- **Wikipedia.** A name not in the index is looked up through Wikipedia's search API, called
+  from the browser (once, 300 ms after typing stops, three characters or more, in the
+  edition's language). Results are links labelled "Wikipedia", never an automatic redirect;
+  a "Search Wikipedia for …" link is always offered. This is disclosed in the privacy notice.
+- **Routing note.** `next.config.ts` keeps `/api/` out of the English-edition rewrite: Next.js
+  matches dynamic routes after the rewrites, so `/api/search/fr` would otherwise become
+  `/en/api/search/fr` and 404.
+
 ## Notes for future work
 
 - The 404 page is `src/app/global-not-found.tsx`, which needs `experimental.globalNotFound`

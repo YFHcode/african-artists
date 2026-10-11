@@ -86,6 +86,16 @@ const pt: Dictionary = {
         moreNote: 'Primeiro, os mais procurados. Os nomes ligam ao nosso perfil ou, quando ainda não o temos, à Wikipédia.',
         related: 'Listas relacionadas',
     },
+    search: {
+        label: 'Pesquisar artistas e páginas',
+        placeholder: 'Pesquisar um artista…',
+        results: 'Resultados da pesquisa',
+        notHere: 'Ainda não está neste site. Resultados da Wikipédia:',
+        searching: 'A pesquisar na Wikipédia…',
+        searchWikipedia: 'Pesquisar «{q}» na Wikipédia',
+        noMatch: 'Nenhum artigo correspondente na Wikipédia.',
+        wikipedia: 'Wikipédia',
+    },
     buy: {
         title: 'Comprar AfricanArtists.com — domínio premium à venda',
         description:

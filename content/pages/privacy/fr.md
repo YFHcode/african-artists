@@ -15,6 +15,10 @@ Nous conservons ces échanges uniquement le temps nécessaire au traitement de v
 
 Le site utilise Vercel Web Analytics pour compter les visites et savoir quelles pages sont lues. Ce service n'utilise pas de cookies et n'identifie pas les visiteurs ; il fournit des chiffres agrégés comme le nombre de pages vues, les sites référents, les pays et les types d'appareils.
 
+## Recherche
+
+Le champ de recherche de l'en-tête fonctionne dans votre navigateur. À la première utilisation, il télécharge un index des pages de ce site, et ce que vous saisissez est comparé à cet index sur votre appareil. Si rien sur ce site ne correspond et que vous avez saisi au moins trois caractères, le champ interroge Wikipédia (gérée par la Wikimedia Foundation) pour trouver des articles au nom correspondant : Wikipédia reçoit alors ce que vous avez saisi et votre adresse IP, et les traite selon sa propre [politique de confidentialité](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy). Les liens vers Wikipédia dans les résultats ne mènent à Wikipédia que si vous cliquez dessus.
+
 ## Hébergement
 
 Le site est hébergé par Vercel. Comme tout hébergeur, Vercel traite des données techniques telles que les adresses IP dans ses journaux de serveur pour servir les pages et protéger le service.

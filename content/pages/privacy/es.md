@@ -15,6 +15,10 @@ Conservamos esta correspondencia solo el tiempo necesario para atender su consul
 
 El sitio usa Vercel Web Analytics para contar las visitas y saber qué páginas se leen. No usa cookies y no identifica a los visitantes individuales; ofrece cifras agregadas como páginas vistas, sitios de procedencia, países y tipos de dispositivo.
 
+## Búsqueda
+
+El cuadro de búsqueda del encabezado funciona en su navegador. La primera vez que lo usa, descarga un índice de las páginas de este sitio, y lo que escribe se compara con ese índice en su dispositivo. Si nada de este sitio coincide y ha escrito al menos tres caracteres, el cuadro consulta Wikipedia (gestionada por la Fundación Wikimedia) para buscar artículos con un nombre parecido: Wikipedia recibe entonces lo que ha escrito y su dirección IP, y los trata según su propia [política de privacidad](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy). Los enlaces a Wikipedia en los resultados solo llevan allí si hace clic en ellos.
+
 ## Alojamiento
 
 El sitio está alojado en Vercel. Como cualquier proveedor de alojamiento, Vercel trata datos técnicos como las direcciones IP en sus registros de servidor para servir las páginas y proteger el servicio.

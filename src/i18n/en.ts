@@ -87,6 +87,16 @@ const en = {
         moreNote: 'Most looked-up first. Names link to our profile, or to Wikipedia where we do not have one yet.',
         related: 'Related lists',
     },
+    search: {
+        label: 'Search artists and pages',
+        placeholder: 'Search artists…',
+        results: 'Search results',
+        notHere: 'Not on this site yet. Matches from Wikipedia:',
+        searching: 'Searching Wikipedia…',
+        searchWikipedia: 'Search Wikipedia for “{q}”',
+        noMatch: 'No matching article found on Wikipedia.',
+        wikipedia: 'Wikipedia',
+    },
     buy: {
         title: 'Buy AfricanArtists.com — Premium Domain for Sale',
         description:

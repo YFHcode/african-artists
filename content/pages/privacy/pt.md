@@ -15,6 +15,10 @@ Guardamos esta correspondência apenas durante o tempo necessário para tratar o
 
 O site usa o Vercel Web Analytics para contar visitas e saber que páginas são lidas. Não usa cookies e não identifica visitantes individuais; apresenta números agregados como visualizações de páginas, sites de origem, países e tipos de dispositivo.
 
+## Pesquisa
+
+A caixa de pesquisa do cabeçalho funciona no seu navegador. Na primeira utilização, descarrega um índice das páginas deste site, e o que escreve é comparado com esse índice no seu dispositivo. Se nada neste site corresponder e tiver escrito pelo menos três carateres, a caixa consulta a Wikipédia (gerida pela Wikimedia Foundation) à procura de artigos com um nome correspondente: a Wikipédia recebe então o que escreveu e o seu endereço IP, e trata-os de acordo com a sua própria [política de privacidade](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy). As ligações para a Wikipédia nos resultados só levam até lá se clicar nelas.
+
 ## Alojamento
 
 O site está alojado na Vercel. Como qualquer serviço de alojamento, a Vercel trata dados técnicos, como endereços IP, nos registos do servidor para entregar as páginas e proteger o serviço.

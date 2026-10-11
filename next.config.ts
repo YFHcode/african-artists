@@ -17,12 +17,17 @@ import { SITE_URL } from './src/lib/site';
  * never rewritten. Redirects are evaluated on the incoming URL only, so the
  * internal /en/… destination of the rewrite does not loop back through them.
  *
+ * /api/ is excluded as well. Next.js matches dynamic routes (like
+ * /api/search/[locale]) after the afterFiles rewrites, so without the
+ * exclusion /api/search/fr would be rewritten to /en/api/search/fr and 404;
+ * non-dynamic routes such as /api/offer were never affected.
+ *
  * The lookahead must end in (?:/|$), not $ alone: the parameter's pattern is
  * embedded in a regex over the whole path, so a bare $ means "end of URL" and
  * would only exclude /fr itself — /fr/artists/… would be rewritten to
  * /en/fr/artists/… and 404.
  */
-const notAnotherEdition = `(?!(?:${PREFIXED_LOCALES.join('|')})(?:/|$))[^/]+`;
+const notAnotherEdition = `(?!(?:${[...PREFIXED_LOCALES, 'api'].join('|')})(?:/|$))[^/]+`;
 
 const nextConfig: NextConfig = {
     poweredByHeader: false,

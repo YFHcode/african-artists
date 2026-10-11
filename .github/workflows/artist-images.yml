@@ -1,0 +1,50 @@
+# Pictures for the artist profiles: a portrait and a few works per artist from
+# Wikimedia Commons, freely licensed, with credits (scripts/artist-images.mjs).
+# Monthly, a few days after the artist data, so new waves get their pictures;
+# run it by hand from the Actions tab ("Run workflow") after editing
+# data/images/exclude.txt.
+name: Artist images
+
+on:
+  schedule:
+    - cron: '41 5 6 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: artist-images
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch, convert and write
+        run: node scripts/artist-images.mjs
+
+      - name: Check
+        run: node --test scripts/artist-images.test.mjs
+
+      - name: Commit if changed
+        run: |
+          git add data/images public/images/artists
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898088+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh artist images from Wikimedia Commons"
+          git push

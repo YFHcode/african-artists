@@ -55,8 +55,8 @@ export function EntryCard({ article, t, headingLevel = 'h3' }: { article: Articl
     const countries = entry.countries.map((c) => t.countries[c]).join(' · ');
 
     return (
-        <article className="group relative flex h-full flex-col overflow-hidden rounded-xl border border-line bg-paper transition-shadow hover:shadow-md">
-            <Motif seed={entry.slug} className="block h-16 w-full" />
+        <article className="group card-lift reveal relative flex h-full flex-col overflow-hidden rounded-xl border border-line bg-paper hover:shadow-md">
+            <Motif seed={entry.slug} className="h-16 w-full" />
             <div className="flex flex-1 flex-col p-5">
                 <p className="text-xs font-semibold uppercase tracking-wide text-clay">{article.kicker}</p>
                 <Heading className="mt-1 font-display text-xl font-semibold leading-snug text-ink">

@@ -9,6 +9,8 @@ import { type DataArtist, displayName, hubMembers, lifeYears, wikipediaUrl } fro
 import { type Article, getArticle, getHubPage } from '@/lib/content';
 import { type Locale, localePath } from '@/lib/i18n';
 import { collectionSchema } from '@/lib/schema';
+import { Locator, locatorKey } from '@/components/Locator';
+import { Motif } from '@/components/Motif';
 import { SaleNote } from '@/components/Views';
 
 /**
@@ -36,6 +38,7 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
     const path = hubPath(hub);
     const kind = hubKind(hub);
     const members = hubMembers(hub);
+    const mapKey = hub.country ? locatorKey([hub.country]) : null;
 
     // Artists with a profile in this edition are shown as cards; the rest as one line each.
     const profiles = new Map<string, Article>();
@@ -95,10 +98,14 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
             />
             <Breadcrumbs locale={locale} label={t.nav.breadcrumb} trail={trail} />
 
-            <section className="mx-auto max-w-6xl px-4">
-                <h1 className="mt-6 font-display text-4xl font-semibold tracking-tight sm:text-5xl">{page.heading}</h1>
-                <p className="mt-3 text-sm font-semibold uppercase tracking-wide text-clay">{t.hub.count(members.length)}</p>
-                <div className="prose mt-5 text-lg" dangerouslySetInnerHTML={{ __html: page.html }} />
+            <section className={`mx-auto max-w-6xl px-4 ${mapKey ? 'lg:grid lg:grid-cols-[minmax(0,1fr)_16rem] lg:items-start lg:gap-10' : ''}`}>
+                <div>
+                    <Motif seed={path} className="mt-6 h-3 w-40 rounded-full" />
+                    <h1 className="mt-4 font-display text-4xl font-semibold tracking-tight sm:text-5xl">{page.heading}</h1>
+                    <p className="mt-3 text-sm font-semibold uppercase tracking-wide text-clay">{t.hub.count(members.length)}</p>
+                    <div className="prose mt-5 text-lg" dangerouslySetInnerHTML={{ __html: page.html }} />
+                </div>
+                {mapKey && <Locator mapKey={mapKey} className="mt-8 hidden lg:block" />}
             </section>
 
             {profiled.length > 0 && (

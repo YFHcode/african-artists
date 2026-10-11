@@ -3,7 +3,8 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 import { CardGrid, EntryCard } from '@/components/Blocks';
-import { Motif } from '@/components/Motif';
+import { AfricaMap } from '@/components/AfricaMap';
+import { LoomBand, Motif, MotifQuilt } from '@/components/Motif';
 import { HubDirectory } from '@/components/Views';
 import { dictionary } from '@/i18n';
 import { type Collection, entriesIn, entryPath } from '@/content/catalog';
@@ -85,19 +86,32 @@ function Regions({ locale }: { locale: Locale }) {
                     {t.home.regionsMore} <span aria-hidden="true" className="inline-block rtl:rotate-180">→</span>
                 </Link>
             </div>
-            <ul className="mt-6 grid gap-4 sm:grid-cols-3 lg:grid-cols-5">
-                {regions.map((region) => (
-                    <li key={region.entry.slug} className="relative overflow-hidden rounded-xl border border-line bg-paper hover:shadow-md">
-                        <Motif seed={region.entry.slug} className="block h-10 w-full" />
-                        <Link
-                            href={localePath(locale, entryPath(region.entry))}
-                            className="block p-4 font-display text-lg font-semibold after:absolute after:inset-0"
+            <div className="region-explorer mt-6 grid items-center gap-8 md:grid-cols-[minmax(0,22rem)_1fr] lg:grid-cols-[minmax(0,26rem)_1fr]">
+                <AfricaMap
+                    className="reveal mx-auto block w-full max-w-sm md:max-w-none"
+                    regions={regions.map((r) => ({ slug: r.entry.slug, label: r.label, href: localePath(locale, entryPath(r.entry)) }))}
+                />
+                <ul className="grid gap-3 sm:grid-cols-2">
+                    {regions.map((region) => (
+                        <li
+                            key={region.entry.slug}
+                            data-region-card={region.entry.slug}
+                            className="group card-lift relative overflow-hidden rounded-xl border border-line bg-paper transition-colors hover:shadow-md"
                         >
-                            {region.label}
-                        </Link>
-                    </li>
-                ))}
-            </ul>
+                            <Motif seed={region.entry.slug} className="h-3 w-full" />
+                            <div className="p-4">
+                                <Link
+                                    href={localePath(locale, entryPath(region.entry))}
+                                    className="font-display text-lg font-semibold after:absolute after:inset-0"
+                                >
+                                    {region.label}
+                                </Link>
+                                <p className="mt-1 line-clamp-2 text-sm text-muted">{region.description}</p>
+                            </div>
+                        </li>
+                    ))}
+                </ul>
+            </div>
         </section>
     );
 }
@@ -109,32 +123,35 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
     return (
         <>
             <section className="relative overflow-hidden border-b border-line">
-                <Motif seed="africanartists-home" className="absolute inset-x-0 top-0 block h-2 w-full" />
-                <div className="mx-auto max-w-6xl px-4 py-16 sm:py-20">
-                    <h1 className="max-w-4xl font-display text-4xl font-semibold leading-[1.1] tracking-tight sm:text-6xl">
-                        {t.home.heading}
-                    </h1>
-                    <p className="mt-6 max-w-3xl text-lg leading-relaxed text-ink/85 sm:text-xl">{t.home.lead}</p>
-                    <div className="mt-8 flex flex-wrap gap-3">
-                        <Link
-                            href={localePath(locale, '/guides/african-art-history')}
-                            className="rounded-full bg-ink px-6 py-3 font-semibold text-paper hover:bg-clay"
-                        >
-                            {t.home.exploreHistory}
-                        </Link>
-                        <Link
-                            href={localePath(locale, '/art-forms')}
-                            className="rounded-full border-2 border-ink px-6 py-3 font-semibold text-ink hover:bg-ink hover:text-paper"
-                        >
-                            {t.home.exploreArtForms}
-                        </Link>
-                        <Link
-                            href={localePath(locale, '/buy')}
-                            className="rounded-full border-2 border-indigo px-6 py-3 font-semibold text-indigo hover:bg-indigo hover:text-paper"
-                        >
-                            {t.home.buyDomain}
-                        </Link>
+                <LoomBand seed="africanartists-home" className="absolute inset-x-0 top-0" />
+                <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-16 sm:py-20 lg:grid-cols-[minmax(0,1fr)_20rem]">
+                    <div>
+                        <h1 className="max-w-4xl font-display text-4xl font-semibold leading-[1.1] tracking-tight sm:text-6xl">
+                            {t.home.heading}
+                        </h1>
+                        <p className="mt-6 max-w-3xl text-lg leading-relaxed text-ink/85 sm:text-xl">{t.home.lead}</p>
+                        <div className="mt-8 flex flex-wrap gap-3">
+                            <Link
+                                href={localePath(locale, '/guides/african-art-history')}
+                                className="rounded-full bg-ink px-6 py-3 font-semibold text-paper hover:bg-clay"
+                            >
+                                {t.home.exploreHistory}
+                            </Link>
+                            <Link
+                                href={localePath(locale, '/art-forms')}
+                                className="rounded-full border-2 border-ink px-6 py-3 font-semibold text-ink hover:bg-ink hover:text-paper"
+                            >
+                                {t.home.exploreArtForms}
+                            </Link>
+                            <Link
+                                href={localePath(locale, '/buy')}
+                                className="rounded-full border-2 border-indigo px-6 py-3 font-semibold text-indigo hover:bg-indigo hover:text-paper"
+                            >
+                                {t.home.buyDomain}
+                            </Link>
+                        </div>
                     </div>
+                    <MotifQuilt seed="africanartists-hero" count={16} animate className="hidden lg:grid" />
                 </div>
             </section>
 

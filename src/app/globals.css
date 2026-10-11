@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@import './motifs.css';
 
 /*
  * Earth pigments and indigo: the palette borrows from materials rather than
@@ -126,4 +127,183 @@ html[lang='ar'] .prose {
 .prose th {
     font-weight: 600;
     background: var(--color-sand);
+}
+
+/*
+ * Pattern compositions (src/components/Motif.tsx). The tiles are classes from
+ * motifs.css; these rules only lay them out. In the components layer, so
+ * utilities such as `hidden lg:grid` can override them.
+ */
+@layer components {
+.mtf-weave {
+    display: flex;
+    overflow: hidden;
+}
+.mtf-strip {
+    flex: 1 1 0;
+    min-width: 0;
+}
+.mtf-quilt {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.5rem;
+}
+.mtf-tile {
+    aspect-ratio: 1;
+    border-radius: 0.5rem;
+}
+.mtf-loom {
+    display: flex;
+    flex-direction: column;
+}
+.mtf-loom > span {
+    display: block;
+    height: 4px;
+}
+.mtf-loom > span:nth-child(2) {
+    height: 7px;
+}
+}
+
+/* The Africa map on the home page: regions in the brand colours, lit together with their name in the list. */
+.africa-map path {
+    stroke: var(--color-paper);
+    stroke-width: 1;
+    stroke-linejoin: round;
+}
+.africa-map__none {
+    fill: var(--color-line);
+}
+.africa-map__region {
+    cursor: pointer;
+}
+.africa-map__region path {
+    transition: fill 0.25s ease;
+}
+.africa-map [data-map-region='north-africa'] path { fill: #e0a83a; }
+.africa-map [data-map-region='west-africa'] path { fill: #a63d16; }
+.africa-map [data-map-region='central-africa'] path { fill: #2f5d50; }
+.africa-map [data-map-region='east-africa'] path { fill: #1f2a5c; }
+.africa-map [data-map-region='southern-africa'] path { fill: #8a5a12; }
+.region-explorer:has([data-map-region]:hover) .africa-map__region:not(:hover) path,
+.region-explorer:has([data-region-card]:hover) .africa-map__region path {
+    fill: var(--color-line);
+}
+.region-explorer:has([data-region-card='north-africa']:hover) [data-map-region='north-africa'] path { fill: #e0a83a; }
+.region-explorer:has([data-region-card='west-africa']:hover) [data-map-region='west-africa'] path { fill: #a63d16; }
+.region-explorer:has([data-region-card='central-africa']:hover) [data-map-region='central-africa'] path { fill: #2f5d50; }
+.region-explorer:has([data-region-card='east-africa']:hover) [data-map-region='east-africa'] path { fill: #1f2a5c; }
+.region-explorer:has([data-region-card='southern-africa']:hover) [data-map-region='southern-africa'] path { fill: #8a5a12; }
+.region-explorer:has([data-map-region='north-africa']:hover) [data-region-card='north-africa'],
+.region-explorer:has([data-map-region='west-africa']:hover) [data-region-card='west-africa'],
+.region-explorer:has([data-map-region='central-africa']:hover) [data-region-card='central-africa'],
+.region-explorer:has([data-map-region='east-africa']:hover) [data-region-card='east-africa'],
+.region-explorer:has([data-map-region='southern-africa']:hover) [data-region-card='southern-africa'] {
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    border-color: var(--color-clay);
+}
+
+/* Reading progress on articles: only where scroll-driven animations exist (otherwise it stays hidden). */
+.reading-progress {
+    display: none;
+}
+
+/*
+ * Motion. Everything below runs only for readers who have not asked their
+ * system for reduced motion, and the scroll-driven parts only in browsers
+ * that support them; without either, every element is simply shown at rest.
+ */
+@media (prefers-reduced-motion: no-preference) {
+    /* Cards lift, and their pattern strips slide like cloth, on hover or keyboard focus. */
+    /* `translate`, not `transform`: the scroll reveal animates transform on the same cards. */
+    .card-lift {
+        transition:
+            translate 0.25s ease,
+            box-shadow 0.25s ease;
+    }
+    .card-lift:hover,
+    .card-lift:focus-within {
+        translate: 0 -3px;
+    }
+    .mtf-strip {
+        transition: background-position 1.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+    }
+    .group:hover .mtf-strip,
+    .group:focus-within .mtf-strip {
+        background-position: 0 calc(var(--tw) * 2);
+    }
+    .group:hover .mtf-strip.mtf-rev,
+    .group:focus-within .mtf-strip.mtf-rev {
+        background-position: 0 calc(var(--tw) * -2);
+    }
+
+    /* Endless slow drift (loom band, a few hero tiles). Shifts by whole tiles, so the loop is seamless. */
+    .mtf-drift {
+        animation: mtf-drift var(--mtf-speed, 60s) linear infinite;
+    }
+    .mtf-drift.mtf-rev {
+        animation-direction: reverse;
+    }
+    @keyframes mtf-drift {
+        to {
+            background-position: calc(var(--tw) * 20) 0;
+        }
+    }
+
+    /* Hero tiles weave in one after the other. */
+    .mtf-weave-in {
+        animation: mtf-weave-in 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+    }
+    .mtf-weave-in.mtf-drift {
+        animation:
+            mtf-weave-in 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both,
+            mtf-drift var(--mtf-speed, 80s) linear 0.7s infinite;
+    }
+    @keyframes mtf-weave-in {
+        from {
+            opacity: 0;
+            transform: scale(0.6) rotate(-8deg);
+        }
+    }
+
+    /* Sections and cards rise into place as they scroll into view. */
+    @supports (animation-timeline: view()) {
+        .reveal {
+            animation: reveal linear both;
+            animation-timeline: view();
+            animation-range: entry 0% entry 40%;
+        }
+        @keyframes reveal {
+            from {
+                opacity: 0;
+                transform: translateY(28px);
+            }
+        }
+    }
+
+    @supports (animation-timeline: scroll()) {
+        .reading-progress {
+            display: block;
+            position: fixed;
+            inset-inline: 0;
+            top: 0;
+            z-index: 40;
+            height: 3px;
+            background: linear-gradient(90deg, var(--color-clay), var(--color-ochre));
+            transform-origin: 0 50%;
+            animation: reading-progress linear both;
+            animation-timeline: scroll(root);
+        }
+        [dir='rtl'] .reading-progress {
+            transform-origin: 100% 50%;
+        }
+        @keyframes reading-progress {
+            from {
+                transform: scaleX(0);
+            }
+            to {
+                transform: scaleX(1);
+            }
+        }
+    }
 }

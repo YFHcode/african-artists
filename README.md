@@ -201,6 +201,41 @@ results page, so there are no crawlable search URLs.
   matches dynamic routes after the rewrites, so `/api/search/fr` would otherwise become
   `/en/api/search/fr` and 404.
 
+## Design: patterns, map and motion
+
+The site's graphics are original geometric patterns and a map drawn from public data, made
+in CSS and SVG: no image files, no AI pictures, and nothing that passes itself off as a
+real artwork or a portrait of a real artist.
+
+- **Patterns.** `src/lib/motifs.ts` defines 10 pattern tiles (zigzags, diamonds, triangles,
+  dots, stripes — the shapes of strip-woven cloth and printed textiles) and 8 earth-tone
+  palettes. `node scripts/build-motifs.mjs` writes them as 80 CSS classes to
+  `src/app/motifs.css` (30 KB, about 2 KB compressed). Re-run it after editing `motifs.ts`; a
+  test fails if the file is out of date.
+- **Compositions.** `weave(seed)` lays strips side by side like strip-woven cloth; `quilt(seed)`
+  makes a grid of tiles. Both are seeded by the page path or slug, so every page has its
+  own band, the same on every build. `src/components/Motif.tsx` renders them: `Motif` (card and
+  article covers, the pill above hub titles), `MotifQuilt` (the home hero) and `LoomBand`
+  (the slowly moving band under the header on the home page).
+- **Africa map.** `src/content/africa-map.ts` is generated from Natural Earth 1:110m country
+  outlines (public domain), in an equal-area projection, by `scripts/build-africa-map.mjs`.
+  Its packages are not site dependencies:
+  `npm i --no-save world-atlas@2.0.2 topojson-client@3.1.0 d3-geo@3.1.1`, then
+  `node scripts/build-africa-map.mjs`. Cabo Verde and Mauritius are too small at this scale
+  and are not drawn; Somaliland is drawn as part of Somalia; Western Sahara has no region.
+  The home page's clickable region map is `src/components/AfricaMap.tsx`; hovering a region
+  card lights its region on the map and the other way round (CSS `:has()`).
+- **Locator maps.** Article and hub sidebars show where a country or region is:
+  `/api/map/<region-slug or country code>` serves a small static SVG, built at deploy time
+  (`src/app/api/map/[key]/route.ts`, `src/components/Locator.tsx`). Decorative, so `alt=""`.
+- **Motion.** All of it is CSS, in `src/app/globals.css`: hero tiles weaving in, slow pattern
+  drift, card lift and pattern slide on hover, cards fading in as they scroll into view, and a
+  reading-progress bar on articles. All of it sits inside `prefers-reduced-motion:
+  no-preference`, so visitors who ask for less motion get a still page with everything visible.
+  The scroll effects also need `animation-timeline` support; elsewhere the content shows at once.
+  Nothing hides content from a crawler: with a tall viewport (how Google renders) every card is
+  fully visible.
+
 ## Notes for future work
 
 - The 404 page is `src/app/global-not-found.tsx`, which needs `experimental.globalNotFound`

@@ -2,6 +2,7 @@ import Link from 'next/link';
 
 import { Breadcrumbs, CardGrid, EntryCard, FactFile, RelatedArticles } from '@/components/Blocks';
 import { JsonLd } from '@/components/JsonLd';
+import { Locator, locatorKey } from '@/components/Locator';
 import { Motif } from '@/components/Motif';
 import { dictionary } from '@/i18n';
 import { COLLECTIONS, REGIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
@@ -68,6 +69,7 @@ export function ArticleView({ article }: { article: Article }) {
     const minutes = Math.max(2, Math.round(article.words / 220));
     const artist = entry.qid ? dataArtist(entry.qid) : undefined;
     const facts = article.facts.length > 0 || !entry.qid ? article.facts : generatedFacts(article);
+    const mapKey = locatorKey(entry.countries, entry.collection === 'regions' ? entry.slug : undefined);
     const links = entry.qid
         ? [
               ...(artist && wikipediaUrl(artist, locale) ? [{ label: 'Wikipedia', href: wikipediaUrl(artist, locale)! }] : []),
@@ -99,9 +101,10 @@ export function ArticleView({ article }: { article: Article }) {
                 ]}
             />
 
+            <div className="reading-progress" aria-hidden="true" />
             <article className="mx-auto max-w-6xl px-4">
                 <header className="mt-6 max-w-3xl">
-                    <Motif seed={entry.slug} className="mb-6 block h-3 w-40 rounded-full" />
+                    <Motif seed={entry.slug} className="mb-8 h-20 w-full rounded-xl sm:h-28" />
                     <p className="text-sm font-semibold uppercase tracking-wide text-clay">
                         {[article.kicker, ...entry.countries.map((c) => t.countries[c])].join(' · ')}
                     </p>
@@ -129,6 +132,7 @@ export function ArticleView({ article }: { article: Article }) {
                 <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_18rem]">
                     <div className="prose" dangerouslySetInnerHTML={{ __html: article.html }} />
                     <div className="space-y-5 lg:sticky lg:top-6 lg:self-start">
+                        {mapKey && <Locator mapKey={mapKey} />}
                         <FactFile facts={facts} title={t.article.facts} />
                         {lists.length > 0 && (
                             <nav aria-labelledby="artist-lists" className="rounded-xl border border-line p-5">
@@ -338,7 +342,8 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
             />
 
             <section className="mx-auto max-w-6xl px-4">
-                <h1 className="mt-6 font-display text-4xl font-semibold tracking-tight sm:text-5xl">{page.heading}</h1>
+                <Motif seed={path} className="mt-6 h-3 w-40 rounded-full" />
+                <h1 className="mt-4 font-display text-4xl font-semibold tracking-tight sm:text-5xl">{page.heading}</h1>
                 <div className="prose mt-5 text-lg" dangerouslySetInnerHTML={{ __html: intro }} />
             </section>
 

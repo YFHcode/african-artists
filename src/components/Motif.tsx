@@ -1,89 +1,58 @@
 /**
- * A decorative geometric band, different for every article.
+ * Decorative pattern compositions, different for every page.
  *
  * The site shows no photographs of artworks — those belong to the artists and
- * their estates — so cards get colour and rhythm from this instead. The
- * pattern and palette are derived from the slug, so a card always looks the
- * same and no two neighbours are likely to match. Purely decorative:
- * aria-hidden, no text.
+ * their estates — so pages get colour and rhythm from geometric patterns
+ * instead. Everything here only picks class names from the pattern library
+ * (src/lib/motifs.ts, compiled to src/app/motifs.css), seeded by the page's
+ * slug, so a page always looks the same, neighbours rarely match, and the
+ * HTML carries no SVG. Purely decorative: aria-hidden, no text.
+ *
+ * Motion lives in globals.css and applies only when the reader has not asked
+ * for reduced motion.
  */
 
-import type { ReactNode } from 'react';
+import type { CSSProperties } from 'react';
 
-const PALETTES = [
-    ['#a63d16', '#e0a83a', '#1d1915'],
-    ['#1f2a5c', '#e0a83a', '#fbf7f0'],
-    ['#8a5a12', '#1f2a5c', '#f6dccd'],
-    ['#1d1915', '#a63d16', '#efe6d6'],
-    ['#2f5d50', '#e0a83a', '#1d1915'],
-    ['#6b2a3a', '#e8c48a', '#1f2a5c'],
-];
+import { quilt, weave } from '@/lib/motifs';
 
-function hash(seed: string): number {
-    let h = 2166136261;
-    for (let i = 0; i < seed.length; i += 1) {
-        h ^= seed.charCodeAt(i);
-        h = Math.imul(h, 16777619);
-    }
-    return h >>> 0;
+/** A strip-weave: wide patterned strips side by side with narrow accents between them. */
+export function Motif({ seed, className = '' }: { seed: string; className?: string }) {
+    return (
+        <div aria-hidden="true" className={`mtf-weave ${className}`}>
+            {weave(seed).map((strip, i) => (
+                <span key={i} className={`mtf-strip ${strip.motif}${strip.reverse ? ' mtf-rev' : ''}`} style={{ flexGrow: strip.grow }} />
+            ))}
+        </div>
+    );
 }
 
-export function Motif({ seed, className = '' }: { seed: string; className?: string }) {
-    const h = hash(seed);
-    const [a, b, c] = PALETTES[h % PALETTES.length];
-    const kind = (h >>> 3) % 4;
-    const id = `m${h.toString(36)}`;
-
-    let tile: ReactNode;
-    let size = 24;
-    switch (kind) {
-        case 0: // triangles
-            tile = (
-                <>
-                    <rect width="24" height="24" fill={c} />
-                    <path d="M0 24 L12 4 L24 24 Z" fill={a} />
-                    <path d="M6 24 L12 14 L18 24 Z" fill={b} />
-                </>
-            );
-            break;
-        case 1: // stripes with dots
-            size = 20;
-            tile = (
-                <>
-                    <rect width="20" height="20" fill={a} />
-                    <rect x="0" y="0" width="6" height="20" fill={c} />
-                    <circle cx="13" cy="10" r="3" fill={b} />
-                </>
-            );
-            break;
-        case 2: // diamonds
-            tile = (
-                <>
-                    <rect width="24" height="24" fill={b} />
-                    <path d="M12 2 L22 12 L12 22 L2 12 Z" fill={a} />
-                    <path d="M12 8 L16 12 L12 16 L8 12 Z" fill={c} />
-                </>
-            );
-            break;
-        default: // chevrons
-            size = 16;
-            tile = (
-                <>
-                    <rect width="16" height="16" fill={c} />
-                    <path d="M0 10 L8 2 L16 10 L16 16 L8 8 L0 16 Z" fill={a} />
-                    <rect y="14" width="16" height="2" fill={b} />
-                </>
-            );
-    }
-
+/**
+ * A quilt of square tiles. With `animate`, the tiles weave in one after the
+ * other when the page loads and a few drift slowly afterwards.
+ */
+export function MotifQuilt({ seed, count, className = '', animate = false }: { seed: string; count: number; className?: string; animate?: boolean }) {
     return (
-        <svg aria-hidden="true" focusable="false" className={className} preserveAspectRatio="none">
-            <defs>
-                <pattern id={id} width={size} height={size} patternUnits="userSpaceOnUse">
-                    {tile}
-                </pattern>
-            </defs>
-            <rect width="100%" height="100%" fill={`url(#${id})`} />
-        </svg>
+        <div aria-hidden="true" className={`mtf-quilt ${className}`}>
+            {quilt(seed, count).map((motif, i) => (
+                <span
+                    key={i}
+                    className={`mtf-tile ${motif}${animate ? ' mtf-weave-in' : ''}${animate && i % 5 === 2 ? ' mtf-drift' : ''}${i % 2 ? ' mtf-rev' : ''}`}
+                    style={animate ? ({ animationDelay: `${(i % 4) * 70 + Math.floor(i / 4) * 90}ms` } as CSSProperties) : undefined}
+                />
+            ))}
+        </div>
+    );
+}
+
+/** Three thin rows of pattern drifting at different speeds, like threads on a loom. */
+export function LoomBand({ seed, className = '' }: { seed: string; className?: string }) {
+    const [a, b, c] = quilt(seed, 3);
+    return (
+        <div aria-hidden="true" className={`mtf-loom ${className}`}>
+            <span className={`mtf-drift ${a}`} style={{ '--mtf-speed': '90s' } as CSSProperties} />
+            <span className={`mtf-drift mtf-rev ${b}`} style={{ '--mtf-speed': '70s' } as CSSProperties} />
+            <span className={`mtf-drift ${c}`} style={{ '--mtf-speed': '110s' } as CSSProperties} />
+        </div>
     );
 }

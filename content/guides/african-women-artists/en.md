@@ -44,4 +44,4 @@ Histories of African art written in the twentieth century were dominated by men,
 
 ## Related
 
-See where to find their work in [where to see African art](/guides/where-to-see-african-art), and where new work is shown in [African art fairs and biennales](/guides/african-art-fairs-and-biennales).
+More women artists have their own profiles on this site, among them the potter [Magdalene Odundo](/artists/magdalene-odundo), the painter [Lubaina Himid](/artists/lubaina-himid), the Senegalese sculptor [Seyni Awa Camara](/artists/seni-awa-camara) and the Egyptian-born artist [Ghada Amer](/artists/ghada-amer). See where to find their work in [where to see African art](/guides/where-to-see-african-art), and where new work is shown in [African art fairs and biennales](/guides/african-art-fairs-and-biennales).

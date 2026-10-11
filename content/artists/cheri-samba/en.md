@@ -32,4 +32,4 @@ Samba's international breakthrough came with *Magiciens de la Terre* at the Cent
 
 ## Why he matters
 
-Samba proved that a painter trained on the street could talk to the world without changing his language. His mix of image and text speaks to the same Kinshasa audiences as [Congolese rumba](/music/congolese-rumba), the city's other great popular art. Compare his public, outdoor ambitions with the monumental sculpture of [Ousmane Sow](/artists/ousmane-sow), exhibited on a Paris bridge in 1999.
+Samba proved that a painter trained on the street could talk to the world without changing his language. His mix of image and text speaks to the same Kinshasa audiences as [Congolese rumba](/music/congolese-rumba), the city's other great popular art. His fellow founder of Kinshasa popular painting [Chéri Chérin](/artists/cheri-cherin) took a more satirical line; see our list of [Congolese painters](/artists/country/dr-congo/painters). Compare his public, outdoor ambitions with the monumental sculpture of [Ousmane Sow](/artists/ousmane-sow), exhibited on a Paris bridge in 1999.

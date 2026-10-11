@@ -12,7 +12,7 @@ Il n'existe pas de définition fixe. Le terme désigne généralement l'art prod
 
 ## Les expositions qui ont changé le regard
 
-- **Magiciens de la Terre** (Paris, 1989), sous le commissariat de Jean-Hubert Martin, montre des artistes d'Afrique, d'Asie et d'Amérique latine aux côtés de leurs contemporains occidentaux, dont [Esther Mahlangu](/artists/esther-mahlangu) et [Chéri Samba](/artists/cheri-samba). Critiquée autant que saluée, elle rompt un schéma.
+- **Magiciens de la Terre** (Paris, 1989), sous le commissariat de Jean-Hubert Martin, montre des artistes d'Afrique, d'Asie et d'Amérique latine aux côtés de leurs contemporains occidentaux, dont [Esther Mahlangu](/artists/esther-mahlangu), [Chéri Samba](/artists/cheri-samba) et la sculptrice sénégalaise [Seyni Awa Camara](/artists/seni-awa-camara). Critiquée autant que saluée, elle rompt un schéma.
 - **Africa Explores** (New York, 1991), sous le commissariat de Susan Vogel, présente l'art africain du XXe siècle dans toute sa diversité, de la peinture urbaine au modernisme international.
 - **La Biennale de Johannesburg** (1995 et 1997) — la deuxième édition, *Trade Routes*, est dirigée par le commissaire d'origine nigériane **Okwui Enwezor** (1963-2019).
 - **The Short Century** (2001), l'exposition d'Enwezor sur les indépendances et les mouvements de libération en Afrique, et la **Documenta 11** (2002), qu'il dirige en tant que premier commissaire non européen de cette manifestation.
@@ -29,8 +29,8 @@ Sur le continent, des institutions comme le Zeitz MOCAA, le MACAAL à Marrakech,
 
 Une liste courte et loin d'être complète, classée par démarche :
 
-- **Transformer les matériaux.** [El Anatsui](/artists/el-anatsui) (capsules de bouteille) ; Romuald Hazoumè, Bénin (masques faits de bidons en plastique) ; Gonçalo Mabunda, Mozambique (trônes et masques faits d'armes désactivées de la guerre civile) ; Ibrahim Mahama, Ghana (sacs de jute recouvrant des bâtiments entiers) ; Abdoulaye Konaté, Mali (textiles monumentaux).
-- **Peinture.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) ; Julie Mehretu, née à Addis-Abeba ; [Amoako Boafo](/artists/amoako-boafo), Ghana, connu pour ses portraits peints au doigt ; Michael Armitage, Kenya, qui peint sur l'étoffe d'écorce ougandaise ; Toyin Ojih Odutola ; Marlene Dumas, née au Cap.
+- **Transformer les matériaux.** [El Anatsui](/artists/el-anatsui) (capsules de bouteille) ; [Romuald Hazoumè](/artists/romuald-hazoume), Bénin (masques faits de bidons en plastique) ; Gonçalo Mabunda, Mozambique (trônes et masques faits d'armes désactivées de la guerre civile) ; Ibrahim Mahama, Ghana (sacs de jute recouvrant des bâtiments entiers) ; Abdoulaye Konaté, Mali (textiles monumentaux).
+- **Peinture.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) ; [Lubaina Himid](/artists/lubaina-himid), née à Zanzibar, lauréate du Turner Prize 2017 ; Julie Mehretu, née à Addis-Abeba ; [Amoako Boafo](/artists/amoako-boafo), Ghana, connu pour ses portraits peints au doigt ; Michael Armitage, Kenya, qui peint sur l'étoffe d'écorce ougandaise ; Toyin Ojih Odutola ; Marlene Dumas, née au Cap.
 - **Sculpture et installation.** [Wangechi Mutu](/artists/wangechi-mutu) ; [Otobong Nkanga](/artists/otobong-nkanga), Nigeria ; [Yinka Shonibare](/artists/yinka-shonibare), britannico-nigérian, connu pour ses personnages vêtus de wax ; [William Kentridge](/artists/william-kentridge), Afrique du Sud, dont les dessins au fusain animés ont changé l'idée même de ce qu'un dessin peut être.
 - **Photographie et cinéma.** [Zanele Muholi](/artists/zanele-muholi), Omar Victor Diop et Aida Muluneh (voir la [photographie africaine](/art-forms/african-photography)) ; John Akomfrah, cinéaste britannique né au Ghana, qui a représenté le Royaume-Uni à la Biennale de Venise 2024.
 

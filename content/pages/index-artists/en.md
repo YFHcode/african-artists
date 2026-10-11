@@ -27,7 +27,7 @@ The selection spans the continent and its languages on purpose: Anglophone West 
 
 ## Sculptors and installation artists
 
-**Romuald Hazoumè** (Benin) makes masks from discarded petrol cans, many of them referring to fuel smuggling and to the Atlantic slave trade. See [African masks](/art-forms/african-masks).
+**[Romuald Hazoumè](/artists/romuald-hazoume)** (Benin) makes masks from discarded petrol cans, many of them referring to fuel smuggling and to the Atlantic slave trade. See [African masks](/art-forms/african-masks).
 
 **Yinka Shonibare MBE** (Nigeria and UK) uses Dutch wax print, a fabric sold across Africa as "African" but made in Europe, to dress headless figures in Victorian costume.
 

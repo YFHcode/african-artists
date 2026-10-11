@@ -149,7 +149,7 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q382165', slug: 'afewerk-tekle', name: 'Afewerk Tekle', wave: 6, kind: 'full', locales: ['en'], countries: ['ET'], media: ['painting'], born: 1932, died: 2012 },
     { qid: 'Q6695060', slug: 'lubaina-himid', name: 'Lubaina Himid', wave: 6, kind: 'full', locales: ['en', 'fr'], countries: ['TZ'], media: ['sculpture', 'painting'], born: 1954, died: null },
     { qid: 'Q966300', slug: 'skunder-boghossian', name: 'Skunder Boghossian', wave: 6, kind: 'short', locales: ['en'], countries: ['ET'], media: ['painting', 'visual-art'], born: 1937, died: 2003 },
-    { qid: 'Q1507782', slug: 'george-lilanga', name: 'George Lilanga', wave: 6, kind: 'short', locales: ['en'], countries: ['TZ'], media: ['painting', 'sculpture'], born: 1934, died: 2005 },
+    { qid: 'Q1507782', slug: 'george-lilanga', name: 'George Lilanga', wave: 7, kind: 'short', locales: ['en'], countries: ['TZ'], media: ['painting', 'sculpture'], born: 1934, died: 2005 },
     { qid: 'Q3481056', slug: 'seni-awa-camara', name: 'Seni Awa Camara', wave: 6, kind: 'short', locales: ['en', 'fr'], countries: ['SN'], media: ['sculpture'], born: 1945, died: 2026 },
     { qid: 'Q3676169', slug: 'cheri-cherin', name: 'Chéri Cherin', wave: 6, kind: 'short', locales: ['en', 'fr'], countries: ['CD'], media: ['painting'], born: 1955, died: 2025 },
     { qid: 'Q3346742', slug: 'nzante-spee', name: 'Nzante Spee', wave: 6, kind: 'short', locales: ['en'], countries: ['CM'], media: ['painting'], born: 1953, died: 2005 },

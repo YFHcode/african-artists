@@ -36,4 +36,4 @@ In 2023 the New Museum in New York gave Mutu its entire building for *Intertwine
 
 ## Related artists
 
-Mutu and [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) are often discussed together: two artists born in Africa, trained at Yale, who use collage to show how images shape identity. For more women who have shaped art from the continent, read our guide to [African women artists](/guides/african-women-artists).
+Mutu and [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) are often discussed together: two artists born in Africa, trained at Yale, who use collage to show how images shape identity. Another Kenyan-born artist with a worldwide reputation is the potter [Magdalene Odundo](/artists/magdalene-odundo); see our list of [Kenyan artists](/artists/country/kenya). For more women who have shaped art from the continent, read our guide to [African women artists](/guides/african-women-artists).

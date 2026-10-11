@@ -36,7 +36,7 @@ Many masks belong to societies of initiated men, and in some places of women. Wh
 
 ## Masks and modern art
 
-In Paris around 1906–07, Picasso, Matisse, Derain and Vlaminck saw and collected African sculpture, and Picasso's *Les Demoiselles d'Avignon* (1907) is the most famous result. The influence was real, but the European artists knew almost nothing about what the masks meant. African artists have since taken the mask back on their own terms: since the 1980s the Beninese artist Romuald Hazoumè has made "masks" from cut plastic jerrycans, a commentary on fuel smuggling, consumption and the Western taste for the exotic.
+In Paris around 1906–07, Picasso, Matisse, Derain and Vlaminck saw and collected African sculpture, and Picasso's *Les Demoiselles d'Avignon* (1907) is the most famous result. The influence was real, but the European artists knew almost nothing about what the masks meant. African artists have since taken the mask back on their own terms: since the 1980s the Beninese artist [Romuald Hazoumè](/artists/romuald-hazoume) has made "masks" from cut plastic jerrycans, a commentary on fuel smuggling, consumption and the Western taste for the exotic.
 
 ## Buying a mask
 

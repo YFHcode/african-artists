@@ -1,0 +1,13 @@
+---
+title: Romuald Hazoumè : masques-bidons et La Bouche du Roi
+label: Romuald Hazoumè
+heading: Romuald Hazoumè
+kicker: Artiste
+description: Romuald Hazoumè, de Porto-Novo, transforme des bidons d'essence en plastique en masques et a créé La Bouche du Roi, un navire négrier de 304 masques acquis par le British Museum.
+summary: Romuald Hazoumè (né en 1962) est un artiste béninois de Porto-Novo. Depuis les années 1980, il fabrique des « masques » à partir des bidons en plastique qui servent partout au Bénin à transporter l'eau et l'essence de contrebande, faisant d'un objet bon marché des visages pleins de caractère et un commentaire sur la consommation, le commerce et l'exploitation. Son installation La Bouche du Roi, un navire négrier composé de 304 masques, a été acquise par le British Museum en 2007. Il travaille la sculpture, l'installation, la peinture et la photographie.
+---
+Romuald Hazoumè naît à Porto-Novo, la capitale du Bénin, en 1962, dans une famille yoruba ; il grandit entre la foi catholique de ses parents et les traditions vodun qui l'entourent. Largement autodidacte, il commence au milieu des années 1980 à fabriquer des masques à partir de bidons en plastique abandonnés. Au Bénin, ces récipients sont partout : ils transportent l'eau, l'huile et surtout l'essence passée en contrebande depuis le Nigeria sur des motos chargées de bidons.
+
+En découpant, en tordant et en ajoutant quelques objets trouvés — fil de fer, peignes, bande magnétique, plumes —, il fait de chaque bidon un visage doté de sa propre personnalité, souvent baptisé du nom d'une personne qu'il connaît. Les masques sont drôles et expressifs, mais ils disent aussi quelque chose : ils répondent au goût occidental pour les masques africains « authentiques » par un objet fait des déchets de la consommation mondiale, et ils parlent du commerce dangereux de l'essence et de la manière dont les ressources de l'Afrique sont prises.
+
+Son œuvre la plus ambitieuse, *La Bouche du Roi* (1997–2005), dispose 304 masques-bidons selon le plan du *Brookes*, le navire négrier britannique dont le schéma est devenu une icône de la campagne abolitionniste, avec des sons, des odeurs et des objets qui évoquent la traite atlantique et ses échos actuels. Le British Museum l'acquiert en 2007, année du bicentenaire de l'abolition de la traite britannique, et la fait circuler au Royaume-Uni. La même année, il participe à la documenta 12 de Cassel. Voir les [masques africains](/art-forms/african-masks), l'[art africain contemporain](/guides/contemporary-african-art) et l'[Afrique de l'Ouest](/regions/west-africa).

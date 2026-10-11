@@ -27,7 +27,7 @@ La sélection couvre volontairement tout le continent et ses langues : l'Afrique
 
 ## Sculpteurs et artistes d'installation
 
-**Romuald Hazoumè** (Bénin) fabrique des masques à partir de bidons d'essence usagés, dont beaucoup évoquent la contrebande de carburant et la traite atlantique. Voir les [masques africains](/art-forms/african-masks).
+**[Romuald Hazoumè](/artists/romuald-hazoume)** (Bénin) fabrique des masques à partir de bidons d'essence usagés, dont beaucoup évoquent la contrebande de carburant et la traite atlantique. Voir les [masques africains](/art-forms/african-masks).
 
 **Yinka Shonibare MBE** (Nigeria et Royaume-Uni) utilise le wax néerlandais, un tissu vendu partout en Afrique comme « africain » mais fabriqué en Europe, pour habiller des figures sans tête en costumes victoriens.
 

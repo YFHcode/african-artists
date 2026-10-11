@@ -16,7 +16,7 @@ facts:
 
 In the early 1970s, in the city then called Kinshasa, Zaire, a number of painters without academic training began making pictures for ordinary people. Several had worked as sign and billboard painters; they knew how to make an image readable at a glance and how to sell it.
 
-Four names are usually given as the founders: [Chéri Samba](/artists/cheri-samba), Moké, Chéri Chérin and Pierre Bodo. Their pictures hung in homes, bars and barbershops, and in their own studios facing the street.
+Four names are usually given as the founders: [Chéri Samba](/artists/cheri-samba), Moké, [Chéri Chérin](/artists/cheri-cherin) and Pierre Bodo. Their pictures hung in homes, bars and barbershops, and in their own studios facing the street.
 
 ## What it shows
 
@@ -34,4 +34,4 @@ International exhibitions from 1989 onwards — beginning with *Magiciens de la 
 
 ## Related
 
-The Kinshasa painters belong to the same urban culture as [Congolese rumba](/music/congolese-rumba), whose stars and dance halls appear in their pictures. Compare them with the self-taught artists of Nigeria's [Oshogbo school](/movements/oshogbo-school), or with Tanzania's [Tingatinga](/art-forms/tingatinga) painting, another urban style born outside the academy. Before buying a painting attributed to a well-known name, read [how to buy African art](/guides/how-to-buy-african-art).
+The Kinshasa painters belong to the same urban culture as [Congolese rumba](/music/congolese-rumba), whose stars and dance halls appear in their pictures. Compare them with the self-taught artists of Nigeria's [Oshogbo school](/movements/oshogbo-school), or with Tanzania's [Tingatinga](/art-forms/tingatinga) painting, another urban style born outside the academy. Before buying a painting attributed to a well-known name, read [how to buy African art](/guides/how-to-buy-african-art). For more names, see our lists of [Congolese painters](/artists/country/dr-congo/painters) and [Congolese artists](/artists/country/dr-congo).

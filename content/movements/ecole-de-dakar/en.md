@@ -38,4 +38,4 @@ By the mid-1970s younger artists found the official style too decorative and too
 
 ## Related
 
-Senegal's later art scene includes the sculptor [Ousmane Sow](/artists/ousmane-sow) and the Dak'Art biennale, described in [African art fairs and biennales](/guides/african-art-fairs-and-biennales). For Senegal's popular music, see [mbalax](/music/mbalax). For another post-independence art movement, see the [Khartoum School](/movements/khartoum-school).
+Senegal's later art scene includes the sculptors [Ousmane Sow](/artists/ousmane-sow) and [Seyni Awa Camara](/artists/seni-awa-camara) (see our lists of [Senegalese artists](/artists/country/senegal) and [Senegalese painters](/artists/country/senegal/painters)) and the Dak'Art biennale, described in [African art fairs and biennales](/guides/african-art-fairs-and-biennales). For Senegal's popular music, see [mbalax](/music/mbalax). For another post-independence art movement, see the [Khartoum School](/movements/khartoum-school).

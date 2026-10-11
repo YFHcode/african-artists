@@ -288,6 +288,11 @@ Egypt has the largest Arabic demand on the list: 120K views a year.
 
 ## Wave 6: East, Central and Francophone West Africa
 
+**Status: released 11 October 2026, by decision on the same day as waves 1–5.**
+- **Pages:** 8 profiles (3 full, 5 short) in 12 editions and 11 hubs in 16 editions — 28 new URLs.
+- **Change from the plan:** George Lilanga's profile is written but moves to wave 7. Tanzania is below the hub minimum, so no released hub would list him until the African painters and sculptors hubs go live.
+- **Links:** new links from the East, Central and West Africa region pages, the pottery, Ethiopian art and masks pages, the contemporary art and women artists guides, the Congolese popular painting and École de Dakar pages, the artists index, and the Ousmane Sow, Chéri Samba and Wangechi Mutu profiles.
+
 | Type | Artist | Country | Views/yr | Languages |
 | --- | --- | --- | --- | --- |
 | A | Lubaina Himid | Tanzania | 24,542 | EN FR |
@@ -320,6 +325,8 @@ links to the Tingatinga page.
 **Also update:** the Congolese popular painting and École de Dakar pages.
 
 ## Wave 7: medium hubs and the whole-continent lists
+
+Also releases George Lilanga's profile (written in wave 6; see above).
 
 These broad terms come last because they need the profiles from earlier waves to link to.
 

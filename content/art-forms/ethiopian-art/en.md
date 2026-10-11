@@ -33,9 +33,9 @@ From the late nineteenth century, painters trained in the church tradition also 
 
 The **Addis Ababa School of Fine Arts**, inaugurated in 1958 and founded by the painter Ale Felege Selam, trained most of the country's modern artists. Among the best known:
 
-- **Afewerk Tekle** (1932–2012), who designed the monumental stained-glass windows of Africa Hall in Addis Ababa, the headquarters of the UN Economic Commission for Africa, inaugurated in 1961.
+- **[Afewerk Tekle](/artists/afewerk-tekle)** (1932–2012), who designed the monumental stained-glass windows of Africa Hall in Addis Ababa, the headquarters of the UN Economic Commission for Africa, inaugurated in 1961.
 - **Gebre Kristos Desta** (1932–1981), who studied in Germany and became a pioneer of abstract painting in Ethiopia.
-- **Skunder Boghossian** (1937–2003), who worked in Paris and later taught at Howard University in Washington, and whose visionary paintings mixed Ethiopian sources with surrealism.
+- **[Skunder Boghossian](/artists/skunder-boghossian)** (1937–2003), who worked in Paris and later taught at Howard University in Washington, and whose visionary paintings mixed Ethiopian sources with surrealism.
 
 ## Contemporary artists
 

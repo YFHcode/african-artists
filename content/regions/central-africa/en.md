@@ -30,7 +30,7 @@ Kuba raffia cloth, woven by men and embroidered and cut into velvet-like pile by
 
 ## Modern art
 
-In 1946 the French painter Pierre Romain-Desfossés founded a workshop known as Le Hangar in Élisabethville, today's Lubumbashi, and in 1951 Pierre Lods founded the Poto-Poto school of painting in Brazzaville — the same Lods who later helped found the [École de Dakar](/movements/ecole-de-dakar). From the 1970s, Kinshasa's [popular painters](/movements/congolese-popular-painting), led by [Chéri Samba](/artists/cheri-samba), painted the life and politics of the city. Bodys Isek Kingelez (1948–2015) built his visionary cities in paper and card, and today artists such as the photographer Sammy Baloji, from Lubumbashi, work with the region's colonial and mining history. Lubumbashi has hosted a biennale since 2008.
+In 1946 the French painter Pierre Romain-Desfossés founded a workshop known as Le Hangar in Élisabethville, today's Lubumbashi, and in 1951 Pierre Lods founded the Poto-Poto school of painting in Brazzaville — the same Lods who later helped found the [École de Dakar](/movements/ecole-de-dakar). From the 1970s, Kinshasa's [popular painters](/movements/congolese-popular-painting), led by [Chéri Samba](/artists/cheri-samba), painted the life and politics of the city. Bodys Isek Kingelez (1948–2015) built his visionary cities in paper and card, and today artists such as the photographer Sammy Baloji, from Lubumbashi, work with the region's colonial and mining history. Lubumbashi has hosted a biennale since 2008. See our lists of [Congolese artists](/artists/country/dr-congo), [Congolese painters](/artists/country/dr-congo/painters) and [Cameroonian artists](/artists/country/cameroon).
 
 ## Music
 

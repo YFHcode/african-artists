@@ -38,7 +38,7 @@ Born around 1925 in the village of Kwali, in central Nigeria, Ladi Kwali learned
 
 ## Magdalene Odundo
 
-Born in Nairobi in 1950 and trained in Britain, Magdalene Odundo makes hand-built, burnished vessels whose swelling forms recall bodies and whose surfaces are fired to deep orange or glossy black. She draws on pottery traditions from Kenya, Nigeria and beyond as well as on ancient ceramics from around the world. Her work is held by major museums, and she was made a Dame in 2020.
+Born in Nairobi in 1950 and trained in Britain, [Magdalene Odundo](/artists/magdalene-odundo) makes hand-built, burnished vessels whose swelling forms recall bodies and whose surfaces are fired to deep orange or glossy black. She draws on pottery traditions from Kenya, Nigeria and beyond as well as on ancient ceramics from around the world. Her work is held by major museums, and she was made a Dame in 2020.
 
 ## Ceramics today
 

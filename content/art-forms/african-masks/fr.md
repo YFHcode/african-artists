@@ -36,7 +36,7 @@ Beaucoup de masques appartiennent à des sociétés d'hommes initiés, et parfoi
 
 ## Les masques et l'art moderne
 
-À Paris, vers 1906-1907, Picasso, Matisse, Derain et Vlaminck découvrent et collectionnent la sculpture africaine, et *Les Demoiselles d'Avignon* de Picasso (1907) en est le résultat le plus célèbre. L'influence était réelle, mais ces artistes européens ne savaient presque rien de ce que signifiaient les masques. Les artistes africains se sont depuis réapproprié le masque : depuis les années 1980, le Béninois Romuald Hazoumè fabrique des « masques » à partir de bidons en plastique découpés, commentaire sur le trafic d'essence, la consommation et le goût occidental pour l'exotique.
+À Paris, vers 1906-1907, Picasso, Matisse, Derain et Vlaminck découvrent et collectionnent la sculpture africaine, et *Les Demoiselles d'Avignon* de Picasso (1907) en est le résultat le plus célèbre. L'influence était réelle, mais ces artistes européens ne savaient presque rien de ce que signifiaient les masques. Les artistes africains se sont depuis réapproprié le masque : depuis les années 1980, le Béninois [Romuald Hazoumè](/artists/romuald-hazoume) fabrique des « masques » à partir de bidons en plastique découpés, commentaire sur le trafic d'essence, la consommation et le goût occidental pour l'exotique.
 
 ## Acheter un masque
 

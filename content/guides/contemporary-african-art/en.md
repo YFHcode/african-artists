@@ -12,7 +12,7 @@ There is no fixed definition. The term usually covers art made in the last three
 
 ## The exhibitions that changed the picture
 
-- **Magiciens de la Terre** (Paris, 1989), curated by Jean-Hubert Martin, showed artists from Africa, Asia and Latin America alongside Western contemporaries, including [Esther Mahlangu](/artists/esther-mahlangu) and [Chéri Samba](/artists/cheri-samba). It was criticised as well as praised, but it broke a pattern.
+- **Magiciens de la Terre** (Paris, 1989), curated by Jean-Hubert Martin, showed artists from Africa, Asia and Latin America alongside Western contemporaries, including [Esther Mahlangu](/artists/esther-mahlangu), [Chéri Samba](/artists/cheri-samba) and the Senegalese sculptor [Seyni Awa Camara](/artists/seni-awa-camara). It was criticised as well as praised, but it broke a pattern.
 - **Africa Explores** (New York, 1991), curated by Susan Vogel, presented twentieth-century African art in its variety, from urban painting to international modernism.
 - **The Johannesburg Biennale** (1995 and 1997) — the second edition, *Trade Routes*, was directed by the Nigerian-born curator **Okwui Enwezor** (1963–2019).
 - **The Short Century** (2001), Enwezor's exhibition on independence and liberation movements in Africa, and **Documenta 11** (2002), which he directed as the first non-European curator of that exhibition.
@@ -29,8 +29,8 @@ On the continent, institutions such as Zeitz MOCAA, MACAAL in Marrakech, the Mus
 
 A short, far from complete list, grouped by approach:
 
-- **Transforming materials.** [El Anatsui](/artists/el-anatsui) (bottle caps); Romuald Hazoumè, Benin (masks made from plastic jerrycans); Gonçalo Mabunda, Mozambique (thrones and masks made from decommissioned weapons of the civil war); [Ibrahim Mahama](/artists/ibrahim-mahama), Ghana (jute sacks covering whole buildings); Abdoulaye Konaté, Mali (monumental textiles).
-- **Painting.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); Julie Mehretu, born in Addis Ababa; [Amoako Boafo](/artists/amoako-boafo), Ghana, known for finger-painted portraits; Michael Armitage, Kenya, who paints on Ugandan barkcloth; Toyin Ojih Odutola; Marlene Dumas, born in Cape Town.
+- **Transforming materials.** [El Anatsui](/artists/el-anatsui) (bottle caps); [Romuald Hazoumè](/artists/romuald-hazoume), Benin (masks made from plastic jerrycans); Gonçalo Mabunda, Mozambique (thrones and masks made from decommissioned weapons of the civil war); [Ibrahim Mahama](/artists/ibrahim-mahama), Ghana (jute sacks covering whole buildings); Abdoulaye Konaté, Mali (monumental textiles).
+- **Painting.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); [Lubaina Himid](/artists/lubaina-himid), born in Zanzibar, winner of the 2017 Turner Prize; Julie Mehretu, born in Addis Ababa; [Amoako Boafo](/artists/amoako-boafo), Ghana, known for finger-painted portraits; Michael Armitage, Kenya, who paints on Ugandan barkcloth; Toyin Ojih Odutola; Marlene Dumas, born in Cape Town.
 - **Sculpture and installation.** [Wangechi Mutu](/artists/wangechi-mutu); [Otobong Nkanga](/artists/otobong-nkanga), Nigeria; [Yinka Shonibare](/artists/yinka-shonibare), British-Nigerian, known for figures dressed in Dutch wax cloth; [William Kentridge](/artists/william-kentridge), South Africa, whose animated charcoal drawings changed the idea of what a drawing can be.
 - **Photography and film.** [Zanele Muholi](/artists/zanele-muholi), Omar Victor Diop and Aida Muluneh (see [African photography](/art-forms/african-photography)); John Akomfrah, the Ghana-born British filmmaker who represented the UK at the 2024 Venice Biennale.
 

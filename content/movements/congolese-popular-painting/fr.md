@@ -16,7 +16,7 @@ facts:
 
 Au début des années 1970, dans la ville alors appelée Kinshasa, au Zaïre, des peintres sans formation académique commencent à peindre pour les gens ordinaires. Plusieurs ont été peintres d'enseignes et de panneaux publicitaires : ils savent rendre une image lisible d'un coup d'œil, et la vendre.
 
-Quatre noms sont généralement cités comme fondateurs : [Chéri Samba](/artists/cheri-samba), Moké, Chéri Chérin et Pierre Bodo. Leurs tableaux sont accrochés dans les maisons, les bars et les salons de coiffure, et dans leurs propres ateliers ouverts sur la rue.
+Quatre noms sont généralement cités comme fondateurs : [Chéri Samba](/artists/cheri-samba), Moké, [Chéri Chérin](/artists/cheri-cherin) et Pierre Bodo. Leurs tableaux sont accrochés dans les maisons, les bars et les salons de coiffure, et dans leurs propres ateliers ouverts sur la rue.
 
 ## Ce qu'elle montre
 

@@ -38,4 +38,4 @@ Au milieu des années 1970, de jeunes artistes trouvent le style officiel trop d
 
 ## Pour aller plus loin
 
-La scène artistique sénégalaise ultérieure compte le sculpteur [Ousmane Sow](/artists/ousmane-sow) et la biennale Dak'Art, présentée dans [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour la musique populaire du Sénégal, voir le [mbalax](/music/mbalax). Pour un autre mouvement de l'indépendance, voir l'[École de Khartoum](/movements/khartoum-school).
+La scène artistique sénégalaise ultérieure compte les sculpteurs [Ousmane Sow](/artists/ousmane-sow) et [Seyni Awa Camara](/artists/seni-awa-camara) (voir notre liste d'[artistes sénégalais](/artists/country/senegal)) et la biennale Dak'Art, présentée dans [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour la musique populaire du Sénégal, voir le [mbalax](/music/mbalax). Pour un autre mouvement de l'indépendance, voir l'[École de Khartoum](/movements/khartoum-school).

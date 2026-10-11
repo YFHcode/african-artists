@@ -16,7 +16,7 @@ export const WAVES: Record<number, string | null> = {
     3: '2026-10-11',
     4: '2026-10-11',
     5: '2026-10-11',
-    6: null,
+    6: '2026-10-11',
     7: null,
 };
 

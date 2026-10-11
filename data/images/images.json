@@ -1,4 +1,1125 @@
 {
  "source": "Wikidata (P18, P170) and Wikimedia Commons",
- "artists": {}
+ "artists": {
+  "Q353674": {
+   "slug": "adel-abdessemed",
+   "portrait": {
+    "src": "/images/artists/adel-abdessemed-portrait.webp",
+    "width": 500,
+    "height": 332,
+    "file": "AA porttrait.jpg",
+    "author": "Studio-adelabdessemed",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:AA_porttrait.jpg"
+   },
+   "works": []
+  },
+  "Q382165": {
+   "slug": "afewerk-tekle",
+   "portrait": {
+    "src": "/images/artists/afewerk-tekle-portrait.webp",
+    "width": 500,
+    "height": 736,
+    "file": "Afewerk Tekle 1965.jpg",
+    "author": "Unknown (Mondadori Publishers)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Afewerk_Tekle_1965.jpg"
+   },
+   "works": []
+  },
+  "Q115109888": {
+   "slug": "ahmed-umar",
+   "portrait": {
+    "src": "/images/artists/ahmed-umar-portrait.webp",
+    "width": 500,
+    "height": 446,
+    "file": "Ahmed Umar during an interview.jpg",
+    "author": "masahat مساحات",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ahmed_Umar_during_an_interview.jpg"
+   },
+   "works": []
+  },
+  "Q80220002": {
+   "slug": "amoako-boafo",
+   "portrait": {
+    "src": "/images/artists/amoako-boafo-portrait.webp",
+    "width": 500,
+    "height": 333,
+    "file": "Amoako Boafo.jpg",
+    "author": "Francis Kokoroko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amoako_Boafo.jpg"
+   },
+   "works": []
+  },
+  "Q4747518": {
+   "slug": "amon-kotei",
+   "portrait": {
+    "src": "/images/artists/amon-kotei-portrait.webp",
+    "width": 500,
+    "height": 461,
+    "file": "Amon Kotei.jpg",
+    "author": "Alniinod",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amon_Kotei.jpg"
+   },
+   "works": []
+  },
+  "Q661238": {
+   "slug": "austin-stevens",
+   "portrait": {
+    "src": "/images/artists/austin-stevens-portrait.webp",
+    "width": 500,
+    "height": 335,
+    "file": "Austin Stevens in Mexico in 2008.jpg",
+    "author": "Austinjstevens ( talk ) ( Uploads )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Austin_Stevens_in_Mexico_in_2008.jpg"
+   },
+   "works": []
+  },
+  "Q2878328": {
+   "slug": "bachir-yelles",
+   "portrait": {
+    "src": "/images/artists/bachir-yelles-portrait.webp",
+    "width": 400,
+    "height": 592,
+    "file": "Bachir Yellès.jpg",
+    "author": "Yelles M.C.A.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bachir_Yell%C3%A8s.jpg"
+   },
+   "works": []
+  },
+  "Q4885605": {
+   "slug": "ben-enwonwu",
+   "portrait": {
+    "src": "/images/artists/ben-enwonwu-portrait.webp",
+    "width": 360,
+    "height": 481,
+    "file": "Ben Enonwu working on a sculpture of Ann Gerrard (1957) (cropped).jpg",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Ben_Enonwu_working_on_a_sculpture_of_Ann_Gerrard_(1957)_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q2411298": {
+   "slug": "boniface-mwangi",
+   "portrait": {
+    "src": "/images/artists/boniface-mwangi-portrait.webp",
+    "width": 500,
+    "height": 655,
+    "file": "Re publica Accra 18 – Day 2 (44534526750) (cropped).jpg",
+    "author": "re:publica from Germany",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Re_publica_Accra_18_%E2%80%93_Day_2_(44534526750)_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q364207": {
+   "slug": "breyten-breytenbach",
+   "portrait": {
+    "src": "/images/artists/breyten-breytenbach-portrait.webp",
+    "width": 500,
+    "height": 478,
+    "file": "9.13.09BreytenBreytenbachByLuigiNovi1.jpg",
+    "author": "Luigi Novi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:9.13.09BreytenBreytenbachByLuigiNovi1.jpg"
+   },
+   "works": []
+  },
+  "Q3645490": {
+   "slug": "bruce-onobrakpeya",
+   "portrait": {
+    "src": "/images/artists/bruce-onobrakpeya-portrait.webp",
+    "width": 500,
+    "height": 667,
+    "file": "Bruce Onobrakpeya The Pride of all nigerians.jpg",
+    "author": "Mudiare",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruce_Onobrakpeya_The_Pride_of_all_nigerians.jpg"
+   },
+   "works": []
+  },
+  "Q3676169": {
+   "slug": "cheri-cherin",
+   "portrait": {
+    "src": "/images/artists/cheri-cherin-portrait.webp",
+    "width": 500,
+    "height": 323,
+    "file": "20190205 tervuren africa museum165.jpg",
+    "author": "Chéri Cherin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:20190205_tervuren_africa_museum165.jpg"
+   },
+   "works": []
+  },
+  "Q2743155": {
+   "slug": "coert-steynberg",
+   "portrait": {
+    "src": "/images/artists/coert-steynberg-portrait.webp",
+    "width": 470,
+    "height": 708,
+    "file": "Coertsteynberg1.jpg",
+    "author": "Etienne Marais",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Coertsteynberg1.jpg"
+   },
+   "works": [
+    {
+     "src": "/images/artists/coert-steynberg-q20972971.webp",
+     "width": 500,
+     "height": 327,
+     "file": "Uniegebou.jpg",
+     "author": "Davinci77",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "page": "https://commons.wikimedia.org/wiki/File:Uniegebou.jpg",
+     "qid": "Q20972971",
+     "title": {
+      "en": "Equestrian Statue of Louis Botha",
+      "fr": "statue équestre de Louis Botha"
+     },
+     "year": 1946
+    },
+    {
+     "src": "/images/artists/coert-steynberg-q36692417.webp",
+     "width": 500,
+     "height": 750,
+     "file": "Nederduitse Gereformeerde Mother Church Kroonstad-003.jpg",
+     "author": "Leo za1",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nederduitse_Gereformeerde_Mother_Church_Kroonstad-003.jpg",
+     "qid": "Q36692417",
+     "title": {
+      "en": "Sarel Cilliers memorial",
+      "fr": "Statue de Sarel Cilliers"
+     },
+     "year": 1950
+    },
+    {
+     "src": "/images/artists/coert-steynberg-q36692423.webp",
+     "width": 500,
+     "height": 333,
+     "file": "A figure of former prime minister James Barry Hertzog was moved to a new spot and replaced with a giant bronze-plated Nelson Mandela statue at the Union Buildings in Pretoria 029.JPG",
+     "author": "PHParsons",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:A_figure_of_former_prime_minister_James_Barry_Hertzog_was_moved_to_a_new_spot_and_replaced_with_a_giant_bronze-plated_Nelson_Mandela_statue_at_the_Union_Buildings_in_Pretoria_029.JPG",
+     "qid": "Q36692423",
+     "title": {
+      "en": "Statue of JBM Hertzog",
+      "fr": "Statue de James Barry Hertzog"
+     },
+     "year": 1976
+    },
+    {
+     "src": "/images/artists/coert-steynberg-q20973023.webp",
+     "width": 500,
+     "height": 375,
+     "file": "Bloemfontein01.jpg",
+     "author": "Anne97432",
+     "license": "CC BY 2.5",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+     "page": "https://commons.wikimedia.org/wiki/File:Bloemfontein01.jpg",
+     "qid": "Q20973023",
+     "title": {
+      "en": "equestrian statue of Christiaan de Wet",
+      "fr": "statue équestre de Christiaan de Wet"
+     },
+     "year": 1954
+    }
+   ]
+  },
+  "Q23020546": {
+   "slug": "dumile-feni",
+   "portrait": {
+    "src": "/images/artists/dumile-feni-portrait.webp",
+    "width": 500,
+    "height": 336,
+    "file": "Dumile Feni and Louis Moholo, exiles in London in 1971.jpg",
+    "author": "George Hallett",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dumile_Feni_and_Louis_Moholo,_exiles_in_London_in_1971.jpg"
+   },
+   "works": []
+  },
+  "Q1323876": {
+   "slug": "el-anatsui",
+   "portrait": {
+    "src": "/images/artists/el-anatsui-portrait.webp",
+    "width": 500,
+    "height": 334,
+    "file": "El Anatsui - Man's Cloth.jpg",
+    "author": "hahnchen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:El_Anatsui_-_Man%27s_Cloth.jpg"
+   },
+   "works": []
+  },
+  "Q12955922": {
+   "slug": "el-seed",
+   "portrait": {
+    "src": "/images/artists/el-seed-portrait.webp",
+    "width": 500,
+    "height": 564,
+    "file": "EL Seed (cropped).jpg",
+    "author": "Christina Dimitrova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:EL_Seed_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q3733455": {
+   "slug": "esther-mahlangu",
+   "portrait": {
+    "src": "/images/artists/esther-mahlangu-portrait.webp",
+    "width": 500,
+    "height": 663,
+    "file": "Esther Mahlangu (cropped).jpg",
+    "author": "Claudia_midori",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Esther_Mahlangu_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q2319146": {
+   "slug": "farida-of-egypt",
+   "portrait": {
+    "src": "/images/artists/farida-of-egypt-portrait.webp",
+    "width": 500,
+    "height": 689,
+    "file": "Queen Farida of Egypt.jpg",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Queen_Farida_of_Egypt.jpg"
+   },
+   "works": []
+  },
+  "Q980418": {
+   "slug": "farouk-hosny",
+   "portrait": {
+    "src": "/images/artists/farouk-hosny-portrait.webp",
+    "width": 500,
+    "height": 816,
+    "file": "Mubarak's Minister of Culture Farouk Hosni وزير الثقافة المصري فاروق حسني.jpg",
+    "author": "Hossam el-Hamalawy",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mubarak%27s_Minister_of_Culture_Farouk_Hosni_%D9%88%D8%B2%D9%8A%D8%B1_%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D9%81%D8%A7%D8%B1%D9%88%D9%82_%D8%AD%D8%B3%D9%86%D9%8A.jpg"
+   },
+   "works": []
+  },
+  "Q97657288": {
+   "slug": "frank-edoho",
+   "portrait": {
+    "src": "/images/artists/frank-edoho-portrait.webp",
+    "width": 500,
+    "height": 333,
+    "file": "Frank Edoho & Gbenga Adeyinka With Mo on Win Win Win.JPG",
+    "author": "Nkemonwudiwe",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Frank_Edoho_%26_Gbenga_Adeyinka_With_Mo_on_Win_Win_Win.JPG"
+   },
+   "works": []
+  },
+  "Q1507782": {
+   "slug": "george-lilanga",
+   "portrait": {
+    "src": "/images/artists/george-lilanga-portrait.webp",
+    "width": 500,
+    "height": 398,
+    "file": "George Lilanga insieme all'opera Banana guarda ho l'acquolina in bocca.jpg",
+    "author": "Cesare Pippi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Lilanga_insieme_all%27opera_Banana_guarda_ho_l%27acquolina_in_bocca.jpg"
+   },
+   "works": []
+  },
+  "Q288793": {
+   "slug": "ghada-amer",
+   "portrait": {
+    "src": "/images/artists/ghada-amer-portrait.webp",
+    "width": 500,
+    "height": 375,
+    "file": "Ghada Amer lors d'une conférence à Tours.jpg",
+    "author": "Sarah-Anaïs Achache",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ghada_Amer_lors_d%27une_conf%C3%A9rence_%C3%A0_Tours.jpg"
+   },
+   "works": []
+  },
+  "Q3116258": {
+   "slug": "greg-marinovich",
+   "portrait": {
+    "src": "/images/artists/greg-marinovich-portrait.webp",
+    "width": 500,
+    "height": 753,
+    "file": "Greg Marinovich 2011 Shankbone.JPG",
+    "author": "David Shankbone",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Marinovich_2011_Shankbone.JPG"
+   },
+   "works": []
+  },
+  "Q19976007": {
+   "slug": "hassan-hajjaj",
+   "portrait": {
+    "src": "/images/artists/hassan-hajjaj-portrait.webp",
+    "width": 500,
+    "height": 262,
+    "file": "Hassan Hajjaj portrait.jpg",
+    "author": "MoroccanEd",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Hassan_Hajjaj_portrait.jpg"
+   },
+   "works": []
+  },
+  "Q4118622": {
+   "slug": "hussein-bicar",
+   "portrait": {
+    "src": "/images/artists/hussein-bicar-portrait.webp",
+    "width": 500,
+    "height": 468,
+    "file": "Bicar playing Bouzouki.jpg",
+    "author": "Hussein Bicar",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Bicar_playing_Bouzouki.jpg"
+   },
+   "works": []
+  },
+  "Q19800726": {
+   "slug": "ibrahim-mahama",
+   "portrait": {
+    "src": "/images/artists/ibrahim-mahama-portrait.webp",
+    "width": 500,
+    "height": 750,
+    "file": "Ibrahim Mahama at Art Basel 2025 in Basel 01.jpg",
+    "author": "Bea Phi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ibrahim_Mahama_at_Art_Basel_2025_in_Basel_01.jpg"
+   },
+   "works": []
+  },
+  "Q6034343": {
+   "slug": "inji-aflatoun",
+   "portrait": {
+    "src": "/images/artists/inji-aflatoun-portrait.webp",
+    "width": 500,
+    "height": 730,
+    "file": "Inji Aflatoun.jpg",
+    "author": "Unavailable",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Inji_Aflatoun.jpg"
+   },
+   "works": []
+  },
+  "Q16091114": {
+   "slug": "james-barnor",
+   "portrait": {
+    "src": "/images/artists/james-barnor-portrait.webp",
+    "width": 500,
+    "height": 333,
+    "file": "JamesBarnor2016Leiden2.jpg",
+    "author": "photographer: Steyn Hoogakker",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:JamesBarnor2016Leiden2.jpg"
+   },
+   "works": []
+  },
+  "Q3157630": {
+   "slug": "jh-pierneef",
+   "portrait": {
+    "src": "/images/artists/jh-pierneef-portrait.webp",
+    "width": 380,
+    "height": 434,
+    "file": "Jacobus Hendrik Pierneef00.jpg",
+    "author": "Unknown photographer",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Jacobus_Hendrik_Pierneef00.jpg"
+   },
+   "works": []
+  },
+  "Q3179715": {
+   "slug": "joao-silva",
+   "portrait": {
+    "src": "/images/artists/joao-silva-portrait.webp",
+    "width": 500,
+    "height": 749,
+    "file": "João Silva par Claude Truong-Ngoc septembre 2022.jpg",
+    "author": "Claude TRUONG-NGOC",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jo%C3%A3o_Silva_par_Claude_Truong-Ngoc_septembre_2022.jpg"
+   },
+   "works": []
+  },
+  "Q262660": {
+   "slug": "kevin-carter",
+   "portrait": {
+    "src": "/images/artists/kevin-carter-portrait.webp",
+    "width": 213,
+    "height": 275,
+    "file": "KevinCarter.jpg",
+    "author": "Rebecca_Hearfield_Photographing_Kevin_Carter.jpg : Ilagardien derivative work: Jacek555",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KevinCarter.jpg"
+   },
+   "works": []
+  },
+  "Q52203720": {
+   "slug": "kwame-akoto-bamfo",
+   "portrait": {
+    "src": "/images/artists/kwame-akoto-bamfo-portrait.webp",
+    "width": 500,
+    "height": 333,
+    "file": "Nkyinkim Installation by Kwame Akoto Bamfo at the National Memorial for Peace and Justice.jpg",
+    "author": "Soniakapadia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nkyinkim_Installation_by_Kwame_Akoto_Bamfo_at_the_National_Memorial_for_Peace_and_Justice.jpg"
+   },
+   "works": []
+  },
+  "Q16010963": {
+   "slug": "ladi-kwali",
+   "portrait": {
+    "src": "/images/artists/ladi-kwali-portrait.webp",
+    "width": 388,
+    "height": 647,
+    "file": "Image from page 179 of Bulletin (1966-1972) b2.jpg",
+    "author": "Internet Archive Book Images",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Image_from_page_179_of_Bulletin_(1966-1972)_b2.jpg"
+   },
+   "works": []
+  },
+  "Q64627129": {
+   "slug": "laetitia-ky",
+   "portrait": {
+    "src": "/images/artists/laetitia-ky-portrait.webp",
+    "width": 500,
+    "height": 492,
+    "file": "Lightbulb-braids.jpg",
+    "author": "Laetiky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lightbulb-braids.jpg"
+   },
+   "works": []
+  },
+  "Q55415": {
+   "slug": "leni-riefenstahl",
+   "portrait": {
+    "src": "/images/artists/leni-riefenstahl-portrait.webp",
+    "width": 500,
+    "height": 663,
+    "file": "Leni Riefenstahl, 1935.jpg",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Leni_Riefenstahl,_1935.jpg"
+   },
+   "works": []
+  },
+  "Q2700036": {
+   "slug": "leon-botha",
+   "portrait": {
+    "src": "/images/artists/leon-botha-portrait.webp",
+    "width": 500,
+    "height": 395,
+    "file": "Leon Botha.jpg",
+    "author": "Dplanet",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leon_Botha.jpg"
+   },
+   "works": []
+  },
+  "Q6695060": {
+   "slug": "lubaina-himid",
+   "portrait": {
+    "src": "/images/artists/lubaina-himid-portrait.webp",
+    "width": 500,
+    "height": 749,
+    "file": "Lubaina Himid Conférence-discussion au Musée cantonal des Beaux-Arts de Lausanne décembre 2022.jpg",
+    "author": "Cascade80",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lubaina_Himid_Conf%C3%A9rence-discussion_au_Mus%C3%A9e_cantonal_des_Beaux-Arts_de_Lausanne_d%C3%A9cembre_2022.jpg"
+   },
+   "works": []
+  },
+  "Q3277719": {
+   "slug": "mahi-binebine",
+   "portrait": {
+    "src": "/images/artists/mahi-binebine-portrait.webp",
+    "width": 500,
+    "height": 326,
+    "file": "Mahi Binebine.jpg",
+    "author": "Africtice",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahi_Binebine.jpg"
+   },
+   "works": []
+  },
+  "Q3277762": {
+   "slug": "mahjoubi-aherdane",
+   "portrait": {
+    "src": "/images/artists/mahjoubi-aherdane-portrait.webp",
+    "width": 500,
+    "height": 655,
+    "file": "Mahjoubi Aherdane.jpg",
+    "author": "Aldar.ma الدار",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahjoubi_Aherdane.jpg"
+   },
+   "works": []
+  },
+  "Q1459134": {
+   "slug": "mahmoud-mokhtar",
+   "portrait": {
+    "src": "/images/artists/mahmoud-mokhtar-portrait.webp",
+    "width": 500,
+    "height": 677,
+    "file": "Mahmoud Mokhtar.jpg",
+    "author": "روز اليوسف",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Mahmoud_Mokhtar.jpg"
+   },
+   "works": [
+    {
+     "src": "/images/artists/mahmoud-mokhtar-q6753132.webp",
+     "width": 500,
+     "height": 586,
+     "file": "Nahdet masr.jpg",
+     "author": "Ramsis1978",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "page": "https://commons.wikimedia.org/wiki/File:Nahdet_masr.jpg",
+     "qid": "Q6753132",
+     "title": {
+      "en": "Renascence of Egypt",
+      "ar": "تمثال نهضة مصر"
+     },
+     "year": 1928
+    },
+    {
+     "src": "/images/artists/mahmoud-mokhtar-q125954343.webp",
+     "width": 500,
+     "height": 667,
+     "file": "Mahmoud Moukhtar - The Secret Keeper - Shalalat Garden, Alexandria - nighttime view 01.jpg",
+     "author": "Marsupium",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Mahmoud_Moukhtar_-_The_Secret_Keeper_-_Shalalat_Garden,_Alexandria_-_nighttime_view_01.jpg",
+     "qid": "Q125954343",
+     "title": {
+      "en": "The Secret Keeper"
+     },
+     "year": null
+    }
+   ]
+  },
+  "Q6734398": {
+   "slug": "mahmoud-said",
+   "portrait": {
+    "src": "/images/artists/mahmoud-said-portrait.webp",
+    "width": 204,
+    "height": 217,
+    "file": "Mahmoud Saeed.jpg",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Mahmoud_Saeed.jpg"
+   },
+   "works": []
+  },
+  "Q384560": {
+   "slug": "malangatana",
+   "portrait": {
+    "src": "/images/artists/malangatana-portrait.webp",
+    "width": 500,
+    "height": 375,
+    "file": "Malangatana Ngwenya.JPG",
+    "author": "Bunks",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Malangatana_Ngwenya.JPG"
+   },
+   "works": []
+  },
+  "Q781717": {
+   "slug": "malick-sidibe",
+   "portrait": {
+    "src": "/images/artists/malick-sidibe-portrait.webp",
+    "width": 500,
+    "height": 750,
+    "file": "Karim Sidibé.jpg",
+    "author": "Mark Fischer",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Karim_Sidib%C3%A9.jpg"
+   },
+   "works": []
+  },
+  "Q260617": {
+   "slug": "marlene-dumas",
+   "portrait": {
+    "src": "/images/artists/marlene-dumas-portrait.webp",
+    "width": 500,
+    "height": 603,
+    "file": "Marlene Dumas.jpg",
+    "author": "Jan Harm Bakhuys",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marlene_Dumas.jpg"
+   },
+   "works": []
+  },
+  "Q3272339": {
+   "slug": "mhamed-issiakhem",
+   "portrait": {
+    "src": "/images/artists/mhamed-issiakhem-portrait.webp",
+    "width": 122,
+    "height": 126,
+    "file": "Issiakhem 2.jpg",
+    "author": "Yelles",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Issiakhem_2.jpg"
+   },
+   "works": []
+  },
+  "Q99528599": {
+   "slug": "misan-harriman",
+   "portrait": {
+    "src": "/images/artists/misan-harriman-portrait.webp",
+    "width": 500,
+    "height": 666,
+    "file": "2022 - Opening Night PO1 3566 (52470197912) (cropped).jpg",
+    "author": "Web Summit",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2022_-_Opening_Night_PO1_3566_(52470197912)_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q3318577": {
+   "slug": "mohamed-hamidi",
+   "portrait": {
+    "src": "/images/artists/mohamed-hamidi-portrait.webp",
+    "width": 312,
+    "height": 312,
+    "file": "Mohammed Hamidi peintre.jpg",
+    "author": "Saadtazi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Hamidi_peintre.jpg"
+   },
+   "works": []
+  },
+  "Q3318688": {
+   "slug": "mohamed-maradji",
+   "portrait": {
+    "src": "/images/artists/mohamed-maradji-portrait.webp",
+    "width": 432,
+    "height": 230,
+    "file": "Maradji.jpg",
+    "author": "Mumus1989",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maradji.jpg"
+   },
+   "works": []
+  },
+  "Q3319034": {
+   "slug": "mohammed-khadda",
+   "portrait": {
+    "src": "/images/artists/mohammed-khadda-portrait.webp",
+    "width": 500,
+    "height": 719,
+    "file": "Mohammed Khadda.jpg",
+    "author": "Michel-georges bernard",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Khadda.jpg"
+   },
+   "works": []
+  },
+  "Q21284874": {
+   "slug": "njideka-akunyili-crosby",
+   "portrait": {
+    "src": "/images/artists/njideka-akunyili-crosby-portrait.webp",
+    "width": 500,
+    "height": 500,
+    "file": "Njideka Akunyili ed.jpg",
+    "author": "Bronx Museum Teen Council",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Njideka_Akunyili_ed.jpg"
+   },
+   "works": []
+  },
+  "Q3877421": {
+   "slug": "nnenna-okore",
+   "portrait": {
+    "src": "/images/artists/nnenna-okore-portrait.webp",
+    "width": 500,
+    "height": 762,
+    "file": "Nnenna Okore in studio.jpg",
+    "author": "Pumpkinpeanut",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nnenna_Okore_in_studio.jpg"
+   },
+   "works": []
+  },
+  "Q3345980": {
+   "slug": "ntare-mwine",
+   "portrait": {
+    "src": "/images/artists/ntare-mwine-portrait.webp",
+    "width": 500,
+    "height": 750,
+    "file": "Ntare Mwine 2009.jpg",
+    "author": "Toglenn",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ntare_Mwine_2009.jpg"
+   },
+   "works": []
+  },
+  "Q2784081": {
+   "slug": "ousmane-sow",
+   "portrait": null,
+   "works": [
+    {
+     "src": "/images/artists/ousmane-sow-q120986206.webp",
+     "width": 500,
+     "height": 666,
+     "file": "L'Immigré by Ousmane Sow-IMG 3040.JPG",
+     "author": "Rama",
+     "license": "CC BY-SA 3.0 fr",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en",
+     "page": "https://commons.wikimedia.org/wiki/File:L%27Immigr%C3%A9_by_Ousmane_Sow-IMG_3040.JPG",
+     "qid": "Q120986206",
+     "title": {
+      "en": "L'Immigré",
+      "fr": "L'Immigré",
+      "es": "L'Immigré"
+     },
+     "year": 2007
+    }
+   ]
+  },
+  "Q1514491": {
+   "slug": "peter-magubane",
+   "portrait": {
+    "src": "/images/artists/peter-magubane-portrait.webp",
+    "width": 500,
+    "height": 354,
+    "file": "2023-01-03 Peter-Magubane.jpg",
+    "author": "University of Cape Town News",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2023-01-03_Peter-Magubane.jpg"
+   },
+   "works": []
+  },
+  "Q3415851": {
+   "slug": "rabah-driassa",
+   "portrait": {
+    "src": "/images/artists/rabah-driassa-portrait.webp",
+    "width": 500,
+    "height": 650,
+    "file": "Deriassa.jpg",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Deriassa.jpg"
+   },
+   "works": []
+  },
+  "Q1550279": {
+   "slug": "roger-ballen",
+   "portrait": {
+    "src": "/images/artists/roger-ballen-portrait.webp",
+    "width": 500,
+    "height": 542,
+    "file": "Roger Ballen video interview, Bogotá Photography Biennial 2015 01 (cropped).jpg",
+    "author": "Juan Carlos Pachón",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Roger_Ballen_video_interview,_Bogot%C3%A1_Photography_Biennial_2015_01_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q320622": {
+   "slug": "romuald-hazoume",
+   "portrait": {
+    "src": "/images/artists/romuald-hazoume-portrait.webp",
+    "width": 500,
+    "height": 751,
+    "file": "2010-08-09 Marrakech 54 Romuald Hazumè.jpg",
+    "author": "Saâd A. Tazi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2010-08-09_Marrakech_54_Romuald_Hazum%C3%A8.jpg"
+   },
+   "works": []
+  },
+  "Q113865925": {
+   "slug": "sani-maikatanga",
+   "portrait": {
+    "src": "/images/artists/sani-maikatanga-portrait.webp",
+    "width": 500,
+    "height": 728,
+    "file": "Sani Maikatanga.jpg",
+    "author": "HK RIGASA2",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Sani_Maikatanga.jpg"
+   },
+   "works": []
+  },
+  "Q3481056": {
+   "slug": "seni-awa-camara",
+   "portrait": {
+    "src": "/images/artists/seni-awa-camara-portrait.webp",
+    "width": 500,
+    "height": 892,
+    "file": "Seyni Awa Camara nel settembre 2008.jpg",
+    "author": "Sergio Pasini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Seyni_Awa_Camara_nel_settembre_2008.jpg"
+   },
+   "works": []
+  },
+  "Q123111935": {
+   "slug": "sharon-dede-padi",
+   "portrait": {
+    "src": "/images/artists/sharon-dede-padi-portrait.webp",
+    "width": 500,
+    "height": 417,
+    "file": "Sharon Dede Padi.jpg",
+    "author": "Heatrave",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Sharon_Dede_Padi.jpg"
+   },
+   "works": []
+  },
+  "Q966300": {
+   "slug": "skunder-boghossian",
+   "portrait": {
+    "src": "/images/artists/skunder-boghossian-portrait.webp",
+    "width": 500,
+    "height": 360,
+    "file": "\"Self-Portrait\", 1961 - NARA - 558827.jpg",
+    "author": "Skunder Boghossian",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:%22Self-Portrait%22,_1961_-_NARA_-_558827.jpg"
+   },
+   "works": []
+  },
+  "Q334989": {
+   "slug": "tahar-ben-jelloun",
+   "portrait": {
+    "src": "/images/artists/tahar-ben-jelloun-portrait.webp",
+    "width": 500,
+    "height": 750,
+    "file": "Tahar Ben Jelloun par Claude Truong-Ngoc sept 2013.jpg",
+    "author": "Photo Claude TRUONG-NGOC",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tahar_Ben_Jelloun_par_Claude_Truong-Ngoc_sept_2013.jpg"
+   },
+   "works": []
+  },
+  "Q20687449": {
+   "slug": "ty-bello",
+   "portrait": {
+    "src": "/images/artists/ty-bello-portrait.webp",
+    "width": 500,
+    "height": 500,
+    "file": "Ty Bello talking iconic photography Nov 2017.png",
+    "author": "NDaniTV",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ty_Bello_talking_iconic_photography_Nov_2017.png"
+   },
+   "works": []
+  },
+  "Q158060": {
+   "slug": "web-du-bois",
+   "portrait": {
+    "src": "/images/artists/web-du-bois-portrait.webp",
+    "width": 500,
+    "height": 716,
+    "file": "W.E.B. Du Bois by James E. Purdy, 1907 (cropped).jpg",
+    "author": "James E. Purdy / Adam Cuerden",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:W.E.B._Du_Bois_by_James_E._Purdy,_1907_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q666092": {
+   "slug": "william-kentridge",
+   "portrait": {
+    "src": "/images/artists/william-kentridge-portrait.webp",
+    "width": 500,
+    "height": 691,
+    "file": "William Kentridge (2025) (cropped).jpg",
+    "author": "Mozamaniac",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:William_Kentridge_(2025)_(cropped).jpg"
+   },
+   "works": []
+  },
+  "Q4526104": {
+   "slug": "yinka-shonibare",
+   "portrait": {
+    "src": "/images/artists/yinka-shonibare-portrait.webp",
+    "width": 500,
+    "height": 327,
+    "file": "Yinka Shonibare CBE RA in front of the Hibiscus Rising sculpture. LEEDS 2023.jpg",
+    "author": "David Lindsay on behalf of LEEDS 2023 (Leeds Culture Trust); original sculpture by Yinka Shonibare (pictured)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Yinka_Shonibare_CBE_RA_in_front_of_the_Hibiscus_Rising_sculpture._LEEDS_2023.jpg"
+   },
+   "works": [
+    {
+     "src": "/images/artists/yinka-shonibare-q122463268.webp",
+     "width": 500,
+     "height": 333,
+     "file": "Hibiscus Rising sculpture by Yinka Shonibare. LEEDS 2023.jpg",
+     "author": "David Lindsay, photographer working for LEEDS 2023 (Leeds Culture Trust)",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_Rising_sculpture_by_Yinka_Shonibare._LEEDS_2023.jpg",
+     "qid": "Q122463268",
+     "title": {
+      "en": "Hibiscus Rising",
+      "fr": "Hibiscus Rising",
+      "es": "Hibiscus Rising",
+      "pt": "Hibiscus Rising"
+     },
+     "year": null
+    },
+    {
+     "src": "/images/artists/yinka-shonibare-q57838673.webp",
+     "width": 500,
+     "height": 333,
+     "file": "Nelson's Ship in a Bottle by Yinka Shonibare.jpg",
+     "author": "QuentinUK",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nelson%27s_Ship_in_a_Bottle_by_Yinka_Shonibare.jpg",
+     "qid": "Q57838673",
+     "title": {
+      "en": "Nelson's Ship in a Bottle"
+     },
+     "year": 2010
+    }
+   ]
+  },
+  "Q4023104": {
+   "slug": "youssef-nabil",
+   "portrait": {
+    "src": "/images/artists/youssef-nabil-portrait.webp",
+    "width": 500,
+    "height": 700,
+    "file": "Youssef Nabil.jpg",
+    "author": "Youssef Nabil",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Youssef_Nabil.jpg"
+   },
+   "works": []
+  },
+  "Q453931": {
+   "slug": "yto-barrada",
+   "portrait": {
+    "src": "/images/artists/yto-barrada-portrait.webp",
+    "width": 500,
+    "height": 750,
+    "file": "Myriam Ben Salah and Yto Barrada at the Biennale di Venezia 2026.jpg",
+    "author": "Hano",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Myriam_Ben_Salah_and_Yto_Barrada_at_the_Biennale_di_Venezia_2026.jpg"
+   },
+   "works": []
+  },
+  "Q146776": {
+   "slug": "zanele-muholi",
+   "portrait": {
+    "src": "/images/artists/zanele-muholi-portrait.webp",
+    "width": 117,
+    "height": 170,
+    "file": "Zanele Muholi, 2011 (cropped).JPG",
+    "author": "International Gay and Lesbian Film Festival «Side by Side»",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Zanele_Muholi,_2011_(cropped).JPG"
+   },
+   "works": []
+  },
+  "Q3027520": {
+   "slug": "zoubeir-turki",
+   "portrait": {
+    "src": "/images/artists/zoubeir-turki-portrait.webp",
+    "width": 267,
+    "height": 364,
+    "file": "PortraitZoubeirTurki.jpg",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:PortraitZoubeirTurki.jpg"
+   },
+   "works": []
+  }
+ }
 }

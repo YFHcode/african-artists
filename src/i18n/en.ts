@@ -49,6 +49,10 @@ const en = {
         saleText:
             'A two-word .com that names a whole creative category — the artists and musicians of Africa and its diaspora. Ready for a gallery, a label, a marketplace or a foundation.',
         saleCta: 'See the details and make an offer',
+        facesTitle: 'Faces of African art',
+        facesText: 'Some of the artists profiled on this site.',
+        facesPrev: 'Previous artists',
+        facesNext: 'Next artists',
     },
     collections: {
         byCountry: 'By country',

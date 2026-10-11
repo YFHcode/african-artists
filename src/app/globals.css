@@ -307,3 +307,26 @@ html[lang='ar'] .prose {
         }
     }
 }
+
+/* The home page's artist strip: a thin scrollbar, and a gentle zoom on the hovered portrait. */
+@layer components {
+    .artist-strip {
+        scrollbar-width: thin;
+        scrollbar-color: var(--color-line) transparent;
+    }
+    .artist-strip:focus-visible {
+        outline: 2px solid var(--color-clay);
+        outline-offset: 4px;
+    }
+}
+@media (prefers-reduced-motion: no-preference) {
+    .artist-strip {
+        scroll-behavior: smooth;
+    }
+    .strip-photo {
+        transition: scale 0.4s ease;
+    }
+    .artist-strip li:hover .strip-photo {
+        scale: 1.04;
+    }
+}

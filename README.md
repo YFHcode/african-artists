@@ -251,6 +251,11 @@ pattern.
 - **Credits.** Every picture shows author, licence (linked) and its Commons page, on the
   profile and on cards (`src/components/Pictures.tsx`), as the licences require. Portraits
   are also the `image` of the Person in the profile's structured data.
+- **Home page strip.** "Faces of African art" (`src/components/ArtistStrip.tsx`) shows up to 24
+  portraits from the edition's profiles, full profiles first, then by pageviews (which alone
+  would open with people best known for other things). It scrolls only when the visitor
+  scrolls it — swipe, trackpad, keyboard, or the arrow buttons (`StripControls.tsx`) — and
+  is left out of an edition with fewer than four portraits.
 - **Review.** Look at new pictures after each run. Wikidata's "image" for an artist is
   sometimes a work, not the person: list it in `data/images/as-works.json` with the work's
   title (checked) and it is shown as that work. A wrong or doubtful picture goes in

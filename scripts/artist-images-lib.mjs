@@ -114,7 +114,8 @@ export function creditOf(info) {
     const license = plainText(meta.LicenseShortName?.value, 60);
     if (!acceptedLicense(license)) return { error: `licence "${license || 'none'}"` };
     if (!info.thumburl) return { error: 'no thumbnail' };
-    const author = plainText(meta.Artist?.value) || null;
+    // Commons sometimes renders the same name twice ("Unknown author Unknown author").
+    const author = plainText(meta.Artist?.value).replace(/^(.+) \1$/, '$1') || null;
     const isPublicDomain = /^(public domain|pd|pdm|cc0|cc[- ]zero)/i.test(license);
     if (!author && !isPublicDomain) return { error: 'no author for an attribution licence' };
     return {

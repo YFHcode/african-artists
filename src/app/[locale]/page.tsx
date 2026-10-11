@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 
 import { CardGrid, EntryCard } from '@/components/Blocks';
 import { AfricaMap } from '@/components/AfricaMap';
+import { ArtistStrip } from '@/components/ArtistStrip';
 import { LoomBand, Motif, MotifQuilt } from '@/components/Motif';
 import { HubDirectory } from '@/components/Views';
 import { dictionary } from '@/i18n';
@@ -155,6 +156,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                 </div>
             </section>
 
+            <ArtistStrip locale={locale} />
             <Section locale={locale} collection="art-forms" title={t.home.artFormsTitle} more={t.home.artFormsMore} slugs={FEATURED['art-forms']} />
             <Section locale={locale} collection="artists" title={t.home.artistsTitle} more={t.home.artistsMore} slugs={FEATURED.artists} />
             <section aria-labelledby="home-lists" className="mx-auto mt-10 max-w-6xl px-4">

@@ -48,6 +48,10 @@ const es: Dictionary = {
         saleText:
             'Un .com de dos palabras que nombra toda una categoría creativa: los artistas y músicos de África y de su diáspora. Listo para una galería, un sello discográfico, un marketplace o una fundación.',
         saleCta: 'Ver los detalles y hacer una oferta',
+        facesTitle: 'Rostros del arte africano',
+        facesText: 'Algunos de los artistas con perfil en este sitio.',
+        facesPrev: 'Artistas anteriores',
+        facesNext: 'Artistas siguientes',
     },
     collections: {
         byCountry: 'Por país',

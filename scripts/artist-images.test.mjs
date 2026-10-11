@@ -68,6 +68,7 @@ test('credits: licence checked, author required unless public domain', () => {
         thumb: 'https://upload.wikimedia.org/x.jpg',
     });
     assert.ok(creditOf(info('CC BY-SA 4.0')).error);
+    assert.equal(creditOf(info('Public domain', '<span>Unknown author</span> <span>Unknown author</span>')).author, 'Unknown author');
     assert.equal(creditOf(info('Public domain')).author, null);
     assert.ok(creditOf(info('CC BY-NC 2.0', 'Ann')).error);
     assert.ok(creditOf(null).error);

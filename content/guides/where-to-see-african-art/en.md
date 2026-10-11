@@ -21,7 +21,7 @@ summary: The leading museums for modern and contemporary African art on the cont
 | **Nairobi National Museum** | Nairobi, Kenya | — | Kenyan history, culture and contemporary art |
 | **Mohammed VI Museum of Modern and Contemporary Art (MMVI)** | Rabat, Morocco | October 2014 | Moroccan modern art, including the [Casablanca School](/movements/casablanca-school) |
 | **MACAAL** (Museum of African Contemporary Art Al Maaden) | Marrakech, Morocco | 2016 | Contemporary art from across Africa |
-| **Museum of Egyptian Modern Art** | Cairo, Egypt | — | Egyptian painting and sculpture since the early 20th century, including [Mahmoud Saïd](/artists/mahmoud-said) |
+| **Museum of Egyptian Modern Art** | Cairo, Egypt | — | Egyptian painting and sculpture since the early 20th century, including [Mahmoud Saïd](/artists/mahmoud-said); the Mahmoud Mokhtar Museum nearby shows the work of the sculptor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
 | **Grand Egyptian Museum** | Giza, Egypt | November 2025 | Ancient Egyptian art, including the treasures of Tutankhamun |
 
 Dates marked "—" are older institutions whose collections have grown over decades. Opening hours and temporary closures change; check before you go.

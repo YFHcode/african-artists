@@ -30,8 +30,8 @@ He also painted portraits of Alexandrian society, religious scenes and landscape
 
 ## Legacy
 
-Saïd is counted among the founders of modern Egyptian painting, alongside the sculptor Mahmoud Mokhtar and others of the generation that came of age around the 1919 revolution. His family home in Alexandria is now a museum dedicated to his work.
+Saïd is counted among the founders of modern Egyptian painting, alongside the sculptor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) and others of the generation that came of age around the 1919 revolution. His family home in Alexandria is now a museum dedicated to his work.
 
 ## Related artists
 
-For later modernists from the Arab world and North Africa, see the Sudanese painter [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), the Moroccan [Farid Belkahia](/artists/farid-belkahia) and the Algerian [Baya](/artists/baya). Museums where Egyptian modern art can be seen are listed in [where to see African art](/guides/where-to-see-african-art), and the region as a whole is introduced in [North African art](/regions/north-africa).
+Among the Egyptian painters who followed him were [Hussein Bicar](/artists/hussein-bicar), [Inji Aflatoun](/artists/inji-aflatoun) and [Farouk Hosny](/artists/farouk-hosny), another Alexandrian (see our list of [Egyptian painters](/artists/country/egypt/painters)); his niece, Queen [Farida](/artists/farida-of-egypt), also became a painter. For later modernists from the Arab world and North Africa, see the Sudanese painter [Ibrahim El-Salahi](/artists/ibrahim-el-salahi), the Moroccan [Farid Belkahia](/artists/farid-belkahia) and the Algerian [Baya](/artists/baya). Museums where Egyptian modern art can be seen are listed in [where to see African art](/guides/where-to-see-african-art), and the region as a whole is introduced in [North African art](/regions/north-africa).

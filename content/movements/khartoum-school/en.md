@@ -34,4 +34,4 @@ The Khartoum School is one of the clearest examples of artists building a modern
 
 ## Related movements
 
-Compare it with the [Casablanca School](/movements/casablanca-school), which made a similar move in Morocco through crafts and Amazigh signs, and with the [Zaria Art Society](/movements/zaria-art-society) and the [École de Dakar](/movements/ecole-de-dakar), two other answers to the question of what a post-independence art should be.
+Compare it with the [Casablanca School](/movements/casablanca-school), which made a similar move in Morocco through crafts and Amazigh signs, and with the [Zaria Art Society](/movements/zaria-art-society) and the [École de Dakar](/movements/ecole-de-dakar), two other answers to the question of what a post-independence art should be. For more Sudanese artists, including the painter and filmmaker [Hussein Shariffe](/artists/hussein-shariffe), see our list of [Sudanese artists](/artists/country/sudan).

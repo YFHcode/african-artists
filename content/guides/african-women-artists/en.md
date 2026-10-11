@@ -12,7 +12,7 @@ summary: Women artists from Africa have shaped modern and contemporary art from 
 
 **[Baya](/artists/baya) (1931–1998), Algeria.** Exhibited at Galerie Maeght in Paris at sixteen, with a preface by André Breton; her gouaches of women, birds and gardens are among the key works of Algerian modern art.
 
-**Inji Efflatoun (1924–1989), Egypt.** A painter and a feminist and Marxist activist, she was imprisoned from 1959 to 1963 for her political ties and kept painting in the women's prison: her fellow inmates, and trees and flowers seen through bars. Those prison paintings are often considered the high point of her work.
+**[Inji Efflatoun](/artists/inji-aflatoun) (1924–1989), Egypt.** A painter and a feminist and Marxist activist, she was imprisoned from 1959 to 1963 for her political ties and kept painting in the women's prison: her fellow inmates, and trees and flowers seen through bars. Those prison paintings are often considered the high point of her work.
 
 **[Chaïbia Talal](/artists/chaibia-talal) (1929–2004), Morocco.** Widowed young and working as a maid, she began painting in her mid-thirties after a dream. Supported by the critic Pierre Gaudibert, she exhibited in Paris in 1966, and her vivid, colourful faces made her one of Morocco's best-known painters.
 

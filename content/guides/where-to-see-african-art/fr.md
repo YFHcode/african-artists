@@ -21,7 +21,7 @@ summary: Parmi les grands musées d'art africain moderne et contemporain sur le 
 | **Nairobi National Museum** | Nairobi, Kenya | — | Histoire, culture et art contemporain du Kenya |
 | **Musée Mohammed VI d'art moderne et contemporain (MMVI)** | Rabat, Maroc | Octobre 2014 | L'art moderne marocain, dont l'[École de Casablanca](/movements/casablanca-school) |
 | **MACAAL** (Musée d'art contemporain africain Al Maaden) | Marrakech, Maroc | 2016 | Art contemporain de tout le continent |
-| **Musée d'art moderne égyptien** | Le Caire, Égypte | — | Peinture et sculpture égyptiennes depuis le début du XXe siècle, dont [Mahmoud Saïd](/artists/mahmoud-said) |
+| **Musée d'art moderne égyptien** | Le Caire, Égypte | — | Peinture et sculpture égyptiennes depuis le début du XXe siècle, dont [Mahmoud Saïd](/artists/mahmoud-said) ; le musée Mahmoud Mokhtar, tout proche, présente l'œuvre du sculpteur [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
 | **Grand Musée égyptien** | Gizeh, Égypte | Novembre 2025 | L'art de l'Égypte ancienne, dont les trésors de Toutânkhamon |
 
 Les dates marquées « — » sont celles d'institutions plus anciennes dont les collections se sont constituées au fil des décennies. Les horaires et fermetures temporaires changent ; vérifiez avant de partir.

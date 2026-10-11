@@ -256,6 +256,11 @@ It's also the home market.
 
 ## Wave 5: Egypt and Sudan (EN and AR first)
 
+**Status: released 11 October 2026, by decision on the same day as waves 1–4.**
+- **Pages:** 12 profiles (6 full, 6 short, including Farida of Egypt) in 25 editions and 4 hubs in 8 editions — 33 new URLs.
+- **Links:** new links from the North Africa region page, the Khartoum School page, the women artists and where-to-see guides, the Egyptian photographers hub, and the Mahmoud Saïd, Ibrahim El-Salahi and Farida profiles.
+- **Note:** the Sudanese list is ranked by views, so Leni Riefenstahl and Hamza Yassin come first; its intro says why they are there.
+
 Egypt has the largest Arabic demand on the list: 120K views a year.
 
 | Type | Artist | Country | Views/yr | Languages |

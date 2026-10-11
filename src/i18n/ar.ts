@@ -52,6 +52,8 @@ const ar: Dictionary = {
         facesText: 'بعض الفنانين الذين نعرّف بهم في هذا الموقع.',
         facesPrev: 'الفنانون السابقون',
         facesNext: 'الفنانون التاليون',
+        facesPause: 'إيقاف الحركة',
+        facesPlay: 'استئناف الحركة',
     },
     collections: {
         byCountry: 'حسب البلد',
@@ -103,6 +105,7 @@ const ar: Dictionary = {
         wikipedia: 'ويكيبيديا',
     },
     pictures: {
+        credits: 'حقوق الصور',
         works: 'أعمال',
         worksNote: 'صور بترخيص حر من ويكيميديا كومنز. انقر على الصورة لفتح الملف بحجمه الكامل ومعرفة صاحبه وترخيصه.',
         workAlt: (title: string, artist: string) => `${title}، ${artist}`,

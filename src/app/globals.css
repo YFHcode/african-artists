@@ -319,6 +319,11 @@ html[lang='ar'] .prose {
         outline-offset: 4px;
     }
 }
+@media (prefers-reduced-motion: reduce) {
+    .strip-copy {
+        display: none;
+    }
+}
 @media (prefers-reduced-motion: no-preference) {
     .artist-strip {
         scroll-behavior: smooth;
@@ -329,4 +334,13 @@ html[lang='ar'] .prose {
     .artist-strip li:hover .strip-photo {
         scale: 1.04;
     }
+}
+
+/* While the strip drifts, the script moves it a fraction of a pixel a frame:
+   no snapping (Tailwind's snap-mandatory, hence unlayered) or smooth
+   scrolling to fight it, and no scrollbar flicker. */
+.artist-strip.is-drifting {
+    scroll-snap-type: none;
+    scroll-behavior: auto;
+    scrollbar-width: none;
 }

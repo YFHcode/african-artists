@@ -16,9 +16,11 @@ const MIN = 4;
 
 /**
  * "Faces of African art": a row of portraits of the artists profiled in this
- * edition, full profiles first and then the most looked-up, that scrolls
- * sideways under the visitor's own hand (swipe, trackpad, keyboard, or the
- * arrow buttons). It never moves by itself. Every card is an ordinary link to the profile, with its credit.
+ * edition, full profiles first and then the most looked-up. It drifts slowly
+ * and stops whenever the visitor hovers, touches, scrolls or tabs into it,
+ * with a pause button (StripControls.tsx); with a reduced-motion preference it
+ * stays still and scrolls by hand. Every card is an ordinary link to the
+ * profile; the pictures' credits are listed under the row.
  */
 export function ArtistStrip({ locale }: { locale: Locale }) {
     const t = dictionary(locale);
@@ -32,51 +34,71 @@ export function ArtistStrip({ locale }: { locale: Locale }) {
         .slice(0, MAX);
     if (items.length < MIN) return null;
 
+    const cards = items.map(({ entry, portrait }) => ({
+        entry,
+        portrait,
+        label: getArticle(locale, 'artists', entry.slug)!.label,
+        details: [entry.countries.map((c) => t.countries[c]).join(' · '), entry.years].filter(Boolean).join(' · '),
+    }));
+    // The second set is the same cards again, for the drift to loop through
+    // seamlessly: hidden from screen readers and the keyboard, and not shown at
+    // all with a reduced-motion preference (globals.css).
+    const card = ({ entry, portrait, label, details }: (typeof cards)[number], copy: boolean) => (
+        <li
+            key={`${copy ? 'copy-' : ''}${entry.slug}`}
+            className={`group relative w-40 shrink-0 snap-start sm:w-52 ${copy ? 'strip-copy' : ''}`}
+            {...(copy ? { 'aria-hidden': true, 'data-copy': '' } : {})}
+        >
+            <div className="overflow-hidden rounded-xl bg-sand">
+                <Image
+                    src={portrait.src}
+                    alt=""
+                    width={portrait.width}
+                    height={portrait.height}
+                    unoptimized
+                    loading="lazy"
+                    className="strip-photo aspect-[4/5] w-full object-cover object-[50%_25%]"
+                />
+            </div>
+            <Link
+                href={localePath(locale, entryPath(entry))}
+                tabIndex={copy ? -1 : undefined}
+                className="mt-3 block font-display text-lg font-semibold leading-snug after:absolute after:inset-0 group-hover:text-clay"
+            >
+                {label}
+            </Link>
+            <p className="text-sm text-muted">{details}</p>
+        </li>
+    );
+
     return (
-        <section aria-labelledby="home-faces" className="mx-auto mt-14 max-w-6xl px-4">
-            <div className="flex items-end justify-between gap-6">
+        <section aria-labelledby="home-faces" className="mx-auto mt-8 max-w-6xl px-4 sm:mt-14">
+            <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-4">
                 <div>
                     <h2 id="home-faces" className="font-display text-3xl font-semibold tracking-tight">
                         {t.home.facesTitle}
                     </h2>
                     <p className="mt-2 text-muted">{t.home.facesText}</p>
                 </div>
-                <StripControls target="artist-strip" prev={t.home.facesPrev} next={t.home.facesNext} />
+                <StripControls
+                    target="artist-strip"
+                    labels={{ prev: t.home.facesPrev, next: t.home.facesNext, pause: t.home.facesPause, play: t.home.facesPlay }}
+                />
             </div>
-            <ul
-                id="artist-strip"
-                className="artist-strip mt-6 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4"
-                tabIndex={0}
-                aria-label={t.home.facesTitle}
-            >
-                {items.map(({ entry, portrait }) => {
-                    const article = getArticle(locale, 'artists', entry.slug)!;
-                    const countries = entry.countries.map((c) => t.countries[c]).join(' · ');
-                    return (
-                        <li key={entry.slug} className="group relative w-44 shrink-0 snap-start sm:w-52">
-                            <div className="overflow-hidden rounded-xl bg-sand">
-                                <Image
-                                    src={portrait.src}
-                                    alt=""
-                                    width={portrait.width}
-                                    height={portrait.height}
-                                    unoptimized
-                                    loading="lazy"
-                                    className="strip-photo aspect-[4/5] w-full object-cover object-[50%_25%]"
-                                />
-                            </div>
-                            <Link
-                                href={localePath(locale, entryPath(entry))}
-                                className="mt-3 block font-display text-lg font-semibold leading-snug after:absolute after:inset-0 group-hover:text-clay"
-                            >
-                                {article.label}
-                            </Link>
-                            <p className="text-sm text-muted">{[countries, entry.years].filter(Boolean).join(' · ')}</p>
-                            <Credit pic={portrait} locale={locale} className="relative z-10 mt-1 block text-[0.7rem]" />
-                        </li>
-                    );
-                })}
+            <ul id="artist-strip" className="artist-strip mt-6 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-3" tabIndex={0} aria-label={t.home.facesTitle}>
+                {cards.map((c) => card(c, false))}
+                {cards.map((c) => card(c, true))}
             </ul>
+            <details className="mt-2 text-xs text-muted">
+                <summary className="cursor-pointer select-none hover:text-ink">{t.pictures.credits}</summary>
+                <ul className="mt-2 space-y-1">
+                    {cards.map(({ entry, portrait, label }) => (
+                        <li key={entry.slug}>
+                            {label} — <Credit pic={portrait} locale={locale} />
+                        </li>
+                    ))}
+                </ul>
+            </details>
         </section>
     );
 }

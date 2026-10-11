@@ -125,7 +125,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
         <>
             <section className="relative overflow-hidden border-b border-line">
                 <LoomBand seed="africanartists-home" className="absolute inset-x-0 top-0" />
-                <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-16 sm:py-20 lg:grid-cols-[minmax(0,1fr)_20rem]">
+                <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 pb-12 pt-16 sm:py-20 lg:grid-cols-[minmax(0,1fr)_20rem]">
                     <div>
                         <h1 className="max-w-4xl font-display text-4xl font-semibold leading-[1.1] tracking-tight sm:text-6xl">
                             {t.home.heading}

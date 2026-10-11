@@ -52,6 +52,8 @@ const fr: Dictionary = {
         facesText: 'Quelques-uns des artistes présentés sur ce site.',
         facesPrev: 'Artistes précédents',
         facesNext: 'Artistes suivants',
+        facesPause: 'Mettre en pause',
+        facesPlay: 'Reprendre le défilement',
     },
     collections: {
         byCountry: 'Par pays',
@@ -101,6 +103,7 @@ const fr: Dictionary = {
         wikipedia: 'Wikipédia',
     },
     pictures: {
+        credits: 'Crédits des images',
         works: 'Œuvres',
         worksNote: 'Photographies sous licence libre, issues de Wikimedia Commons. Cliquez sur une image pour le fichier en grand format, son auteur et sa licence.',
         workAlt: (title: string, artist: string) => `${title}, par ${artist}`,

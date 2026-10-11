@@ -53,6 +53,8 @@ const en = {
         facesText: 'Some of the artists profiled on this site.',
         facesPrev: 'Previous artists',
         facesNext: 'Next artists',
+        facesPause: 'Pause the strip',
+        facesPlay: 'Play the strip',
     },
     collections: {
         byCountry: 'By country',
@@ -102,6 +104,7 @@ const en = {
         wikipedia: 'Wikipedia',
     },
     pictures: {
+        credits: 'Image credits',
         works: 'Works',
         worksNote: 'Freely licensed photographs from Wikimedia Commons. Select a picture for the full-size file, its author and its licence.',
         workAlt: (title: string, artist: string) => `${title} by ${artist}`,

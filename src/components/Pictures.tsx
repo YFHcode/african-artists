@@ -15,7 +15,7 @@ export function Credit({ pic, locale, className = '' }: { pic: Picture; locale: 
     const t = dictionary(locale).pictures;
     const license = isPublicDomain(pic.license) && /^public domain$/i.test(pic.license) ? t.publicDomain : pic.license;
     return (
-        <span className={`text-xs leading-snug text-muted ${className}`}>
+        <span className={`text-xs leading-snug text-muted [overflow-wrap:anywhere] ${className}`}>
             {t.credit}: {pic.author ? `${pic.author} · ` : ''}
             {pic.licenseUrl && !isPublicDomain(pic.license) ? (
                 <a href={pic.licenseUrl} rel="noopener license" className="underline underline-offset-2">

@@ -4,10 +4,10 @@
 //
 //   node scripts/artists-data.mjs
 //
-// 1. Pages through Wikidata 500 people at a time until a short page says the end
-//    has been reached: painters, sculptors, photographers, visual artists,
-//    printmakers and ceramicists with citizenship of a present-day African country
-//    and at least MIN_SITELINKS Wikipedia/Wikimedia articles.
+// 1. Asks Wikidata for the IDs of every painter, sculptor, photographer, visual
+//    artist, printmaker and ceramicist with citizenship of a present-day African
+//    country and at least MIN_SITELINKS Wikipedia/Wikimedia articles (one light
+//    query per occupation), then fetches their details 100 at a time to the end.
 // 2. Sums the last twelve months of Wikipedia pageviews in the site's five
 //    languages, which is the best free measure of how often people look someone up.
 // 3. Ranks by those views and writes data/artists/artists.{json,csv}.
@@ -17,13 +17,15 @@
 import { readFile, writeFile, mkdir, appendFile } from 'node:fs/promises';
 import {
     WIKIS,
-    buildQuery,
+    OCCUPATIONS,
+    buildDetailsQuery,
+    buildIdsQuery,
     mergeRows,
     pageviewUrl,
     pageviewWindow,
     parseBindings,
     parseExclude,
-    peopleOn,
+    qidOf,
     rank,
     toCsv,
 } from './artists-data-lib.mjs';
@@ -31,7 +33,7 @@ import {
 const MIN_SITELINKS = Number(process.env.MIN_SITELINKS || 4);
 const PAGE_COUNT = Number(process.env.PAGE_COUNT || 150);
 const MIN_VIEWS = Number(process.env.MIN_VIEWS || 5000);
-const PAGE_SIZE = 500;
+const BATCH = 100;
 const OUT = new URL('../data/artists/', import.meta.url);
 
 // Wikimedia asks every client to identify itself with a contact.
@@ -41,10 +43,10 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // GET with retries on rate limits, server errors and network failures.
 // 404 is a real answer (no pageviews recorded), returned as null.
-async function getJson(url, tries = 5) {
+async function getJson(url, init = {}, tries = 5) {
     for (let attempt = 1; ; attempt++) {
         try {
-            const res = await fetch(url, { headers: HEADERS, signal: AbortSignal.timeout(90_000) });
+            const res = await fetch(url, { ...init, headers: { ...HEADERS, ...init.headers }, signal: AbortSignal.timeout(90_000) });
             if (res.status === 404) return null;
             if (res.ok) return await res.json();
             if (res.status !== 429 && res.status < 500) throw new Error(`${res.status} ${res.statusText} for ${url}`);
@@ -58,16 +60,31 @@ async function getJson(url, tries = 5) {
     }
 }
 
-// 1. Wikidata, page by page.
+// SPARQL by POST, so a batch of 100 QIDs never runs into URL length limits.
+const sparql = async (query) =>
+    parseBindings(
+        await getJson('https://query.wikidata.org/sparql', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded', Accept: 'application/sparql-results+json' },
+            body: new URLSearchParams({ query }),
+        })
+    );
+
+// 1a. Wikidata IDs, one occupation at a time.
+const ids = new Set();
+for (const [occupation, name] of Object.entries(OCCUPATIONS)) {
+    const rows = await sparql(buildIdsQuery({ occupation, minSitelinks: MIN_SITELINKS }));
+    for (const r of rows) ids.add(qidOf(r.p));
+    console.log(`Wikidata ${name}: ${rows.length} (${ids.size} distinct people so far)`);
+    await sleep(1000);
+}
+
+// 1b. Details, batch by batch to the end of the list.
 const people = new Map();
-for (let offset = 0; ; offset += PAGE_SIZE) {
-    const query = buildQuery({ minSitelinks: MIN_SITELINKS, limit: PAGE_SIZE, offset });
-    const json = await getJson(`https://query.wikidata.org/sparql?format=json&query=${encodeURIComponent(query)}`);
-    const rows = parseBindings(json);
-    mergeRows(rows, people);
-    const count = peopleOn(rows);
-    console.log(`Wikidata offset ${offset}: ${count} people (${people.size} total)`);
-    if (count < PAGE_SIZE) break;
+const queue = [...ids].sort();
+for (let i = 0; i < queue.length; i += BATCH) {
+    mergeRows(await sparql(buildDetailsQuery(queue.slice(i, i + BATCH))), people);
+    console.log(`Wikidata details: ${Math.min(i + BATCH, queue.length)} of ${queue.length}`);
     await sleep(1000);
 }
 if (people.size === 0) throw new Error('Wikidata returned nobody; refusing to overwrite the data');

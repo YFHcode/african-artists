@@ -22,24 +22,25 @@ const ART_WORDS = /\b(painter|sculptor|photographer|photojournalist|artist|print
 
 const occValues = () => Object.keys(OCCUPATIONS).map((q) => `wd:${q}`).join(' ');
 
-// One page of candidates. The inner query picks a stable, ordered page of
-// people; the outer query fetches their details, which may multiply rows
-// (several countries, occupations or birth dates), merged later by mergeRows.
-export function buildQuery({ minSitelinks, limit, offset }) {
+// Step 1: the IDs of everyone holding one occupation. Kept deliberately light
+// (no labels, no sorting, no OFFSET) so Wikidata answers well inside its
+// 60-second limit; one query per occupation keeps each result small.
+export function buildIdsQuery({ occupation, minSitelinks }) {
+    return `SELECT DISTINCT ?p WHERE {
+  ?p wdt:P106 wd:${occupation}; wdt:P27 ?c; wikibase:sitelinks ?l.
+  ?c wdt:P30 wd:Q15; wdt:P31 wd:Q6256.
+  FILTER(?l >= ${Number(minSitelinks)})
+}`;
+}
+
+// Step 2: details for one batch of people, named by QID. The rows may repeat a
+// person (several countries, occupations or birth dates); mergeRows folds them.
+export function buildDetailsQuery(qids) {
     const wikis = WIKIS.map(
         (w) => `  OPTIONAL { ?${w}Page schema:about ?p; schema:isPartOf <https://${w}.wikipedia.org/>; schema:name ?${w} }`
     ).join('\n');
     return `SELECT ?p ?pLabel ?desc ?countryLabel ?occ ?birth ?links ?bornAfrica ${WIKIS.map((w) => `?${w}`).join(' ')} WHERE {
-  {
-    SELECT DISTINCT ?p WHERE {
-      VALUES ?o { ${occValues()} }
-      ?p wdt:P106 ?o; wdt:P27 ?c; wikibase:sitelinks ?l.
-      ?c wdt:P30 wd:Q15; wdt:P31 wd:Q6256.
-      FILTER(?l >= ${Number(minSitelinks)})
-    }
-    ORDER BY ?p
-    LIMIT ${Number(limit)} OFFSET ${Number(offset)}
-  }
+  VALUES ?p { ${qids.map((q) => `wd:${q}`).join(' ')} }
   VALUES ?occ { ${occValues()} }
   ?p wdt:P106 ?occ; wdt:P27 ?country; wikibase:sitelinks ?links.
   ?country wdt:P30 wd:Q15; wdt:P31 wd:Q6256.
@@ -56,10 +57,7 @@ export function parseBindings(json) {
     return json.results.bindings.map((b) => Object.fromEntries(Object.entries(b).map(([k, v]) => [k, v.value])));
 }
 
-// The number of distinct people on a page of rows (to know when paging ends).
-export const peopleOn = (rows) => new Set(rows.map((r) => r.p)).size;
-
-const qidOf = (uri) => uri.slice(uri.lastIndexOf('/') + 1);
+export const qidOf = (uri) => uri.slice(uri.lastIndexOf('/') + 1);
 const add = (list, value) => (value && !list.includes(value) ? [...list, value] : list);
 
 // Rows -> one record per person, keyed by QID.

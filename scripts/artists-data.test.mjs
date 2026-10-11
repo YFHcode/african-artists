@@ -2,7 +2,7 @@
 // runs in GitHub Actions; everything it relies on is checked here offline.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildQuery, mergeRows, pageviewUrl, pageviewWindow, parseExclude, peopleOn, rank, toCsv } from './artists-data-lib.mjs';
+import { buildDetailsQuery, buildIdsQuery, mergeRows, pageviewUrl, pageviewWindow, parseExclude, rank, toCsv } from './artists-data-lib.mjs';
 
 const row = (over) => ({
     p: 'http://www.wikidata.org/entity/Q1',
@@ -17,11 +17,13 @@ const row = (over) => ({
     ...over,
 });
 
-test('the query pages through people in a stable order', () => {
-    const q = buildQuery({ minSitelinks: 4, limit: 500, offset: 1500 });
-    assert.match(q, /ORDER BY \?p\s+LIMIT 500 OFFSET 1500/);
-    assert.match(q, /FILTER\(\?l >= 4\)/);
-    assert.match(q, /wdt:P31 wd:Q6256/, 'present-day countries only, not empires');
+test('the ID query stays light and the details query names its batch', () => {
+    const ids = buildIdsQuery({ occupation: 'Q1028181', minSitelinks: 4 });
+    assert.match(ids, /wdt:P106 wd:Q1028181/);
+    assert.match(ids, /FILTER\(\?l >= 4\)/);
+    assert.match(ids, /wdt:P31 wd:Q6256/, 'present-day countries only, not empires');
+    assert.doesNotMatch(ids, /ORDER BY|OFFSET|SERVICE/, 'no sorting, paging or labels: those made Wikidata time out');
+    assert.match(buildDetailsQuery(['Q1', 'Q22']), /VALUES \?p \{ wd:Q1 wd:Q22 \}/);
 });
 
 test('rows for one person merge into one record', () => {
@@ -37,7 +39,6 @@ test('rows for one person merge into one record', () => {
     assert.equal(ama.birthYear, 1969, 'the earliest recorded birth year wins');
     assert.deepEqual(ama.titles, { en: 'Ama (painter)', fr: 'Ama' });
     assert.equal(people.get('Q2').birthYear, null);
-    assert.equal(peopleOn([row({}), row({}), row({ p: 'x/Q9' })]), 2);
 });
 
 test('the pageview window is the last twelve complete months', () => {

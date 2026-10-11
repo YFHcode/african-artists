@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-import { DEFAULT_LOCALE, isLocale, localePath } from '@/lib/i18n';
+import { DEFAULT_LOCALE, localePath, toLocale } from '@/lib/i18n';
 import { type Offer, offerEmail, validateOffer } from '@/lib/offer';
 
 /**
@@ -77,7 +77,7 @@ export async function POST(request: Request) {
         raw = {};
     }
 
-    const locale = isLocale(raw.locale) ? raw.locale : DEFAULT_LOCALE;
+    const locale = toLocale(raw.locale) ?? DEFAULT_LOCALE;
     const origin = new URL(request.url).origin;
 
     const reply = (status: number, code?: ErrorCode, fields?: string[]) => {

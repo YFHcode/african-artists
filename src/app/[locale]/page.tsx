@@ -8,7 +8,7 @@ import { HubDirectory } from '@/components/Views';
 import { dictionary } from '@/i18n';
 import { type Collection, entriesIn, entryPath } from '@/content/catalog';
 import { getArticle, listArticles } from '@/lib/content';
-import { type Locale, isLocale, localePath } from '@/lib/i18n';
+import { type Locale, localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
 
 /** Which articles the home page features, in order. Everything else is one click away on its index. */
@@ -20,8 +20,7 @@ const FEATURED: Partial<Record<Collection, string[]>> = {
 };
 
 export async function generateMetadata({ params }: PageProps<'/[locale]'>): Promise<Metadata> {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
     return pageMetadata({
         locale,
@@ -104,8 +103,7 @@ function Regions({ locale }: { locale: Locale }) {
 }
 
 export default async function Home({ params }: PageProps<'/[locale]'>) {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
 
     return (

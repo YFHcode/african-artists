@@ -1,4 +1,4 @@
-import { LOCALES, isLocale } from '@/lib/i18n';
+import { LOCALES, toLocale } from '@/lib/i18n';
 import { searchIndex } from '@/lib/search-index';
 
 /**
@@ -14,7 +14,7 @@ export function generateStaticParams() {
 }
 
 export async function GET(_request: Request, { params }: { params: Promise<{ locale: string }> }) {
-    const { locale } = await params;
-    if (!isLocale(locale)) return new Response('Not found', { status: 404 });
+    const locale = toLocale((await params).locale);
+    if (!locale) return new Response('Not found', { status: 404 });
     return Response.json(searchIndex(locale), { headers: { 'Cache-Control': 'public, max-age=3600' } });
 }

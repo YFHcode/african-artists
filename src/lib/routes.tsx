@@ -19,7 +19,7 @@ import {
     releasedHubs,
 } from '@/content/hubs';
 import { getArticle, getHubPage, getPage } from '@/lib/content';
-import { type Locale, isLocale } from '@/lib/i18n';
+import { type Locale, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
 
 /**
@@ -36,8 +36,7 @@ type LocaleParams = { params: Promise<{ locale: string }> };
 type SlugParams = { params: Promise<{ locale: string; slug: string }> };
 
 function requireLocale(value: string): Locale {
-    if (!isLocale(value)) notFound();
-    return value;
+    return toLocale(value) ?? notFound();
 }
 
 export function articleRoute(collection: Collection) {

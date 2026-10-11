@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
 
-import { LOCALES, localePath, splitLocalePath } from '../src/lib/i18n.ts';
+import { LOCALES, localePath, splitLocalePath, toLocale } from '../src/lib/i18n.ts';
 
 test('English is unprefixed, other editions use a folder', () => {
     assert.equal(localePath('en', '/'), '/');
@@ -11,6 +11,16 @@ test('English is unprefixed, other editions use a folder', () => {
     assert.equal(localePath('ar', '/music/rai'), '/ar/music/rai');
     assert.equal(localePath('es', '/art-forms/kente-cloth'), '/es/art-forms/kente-cloth');
     assert.throws(() => localePath('fr', 'artists'));
+});
+
+test('toLocale returns the LOCALES constant itself, and nothing for anything else', () => {
+    for (const locale of LOCALES) {
+        // A string built at runtime, as Next.js builds route params from the URL.
+        const built = `/${locale}/x`.split('/')[1];
+        assert.equal(LOCALES.indexOf(toLocale(built)), LOCALES.indexOf(locale));
+        assert.equal(localePath(toLocale(built), '/artists'), localePath(locale, '/artists'));
+    }
+    for (const bad of ['EN', 'en-US', '', 'api', undefined, null, 1, ['en']]) assert.equal(toLocale(bad), undefined);
 });
 
 test('splitLocalePath inverts localePath for every edition', () => {

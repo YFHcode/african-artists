@@ -39,8 +39,16 @@ export const LOCALE_INFO: Record<Locale, LocaleInfo> = {
     ar: { endonym: 'العربية', lang: 'ar', dir: 'rtl', ogLocale: 'ar_AR' },
 };
 
-export function isLocale(value: unknown): value is Locale {
-    return typeof value === 'string' && (LOCALES as readonly string[]).includes(value);
+/**
+ * The edition a route parameter or form field names, returned as the LOCALES
+ * constant itself rather than the incoming string. During `next build`, V8's
+ * optimized code was seen answering 'en' !== 'en' for the locale string
+ * Next.js passes in params, now and then, which gave English pages links into
+ * /en/… (redirects). Comparisons against the interned constant hold.
+ */
+export function toLocale(value: unknown): Locale | undefined {
+    const index = (LOCALES as readonly unknown[]).indexOf(value);
+    return index < 0 ? undefined : LOCALES[index];
 }
 
 /**

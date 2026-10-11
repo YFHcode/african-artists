@@ -5,20 +5,18 @@ import { Breadcrumbs } from '@/components/Blocks';
 import { Motif } from '@/components/Motif';
 import { OfferForm } from '@/components/OfferForm';
 import { dictionary } from '@/i18n';
-import { isLocale, localePath } from '@/lib/i18n';
+import { localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
 import { MARKETPLACE } from '@/lib/site';
 
 export async function generateMetadata({ params }: PageProps<'/[locale]/buy'>): Promise<Metadata> {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
     return pageMetadata({ locale, path: '/buy', title: t.buy.title, description: t.buy.description, ogAlt: t.meta.ogAlt });
 }
 
 export default async function BuyPage({ params }: PageProps<'/[locale]/buy'>) {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
 
     return (

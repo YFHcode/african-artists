@@ -215,3 +215,7 @@ results page, so there are no crawlable search URLs.
   another: Next.js 16 then drops the whole route in every locale. The hub routes list every
   released hub in every edition and answer 404 for a missing edition (see `hubRoute` in
   `src/lib/routes.tsx`).
+- Read a locale from params or a form with `toLocale()` (`src/lib/i18n.ts`), never by checking
+  the incoming string and keeping it. During `next build` the optimized code has been seen to
+  answer `'en' !== 'en'` for the string Next.js passes in params, at random, so English hub
+  pages got `/en/…` links (redirects). The crawl in the playbook audit catches this as 308s.

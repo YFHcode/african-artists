@@ -8,7 +8,7 @@ import '../globals.css';
 import { JsonLd } from '@/components/JsonLd';
 import { Footer, Header, SaleBar } from '@/components/SiteChrome';
 import { dictionary } from '@/i18n';
-import { LOCALES, LOCALE_INFO, isLocale } from '@/lib/i18n';
+import { LOCALES, LOCALE_INFO, toLocale } from '@/lib/i18n';
 import { siteSchema } from '@/lib/schema';
 import { SITE_NAME, SITE_URL } from '@/lib/site';
 
@@ -53,8 +53,7 @@ export const viewport: Viewport = {
 };
 
 export default async function LocaleLayout({ children, params }: LayoutProps<'/[locale]'>) {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
 
     const info = LOCALE_INFO[locale];
     const t = dictionary(locale);

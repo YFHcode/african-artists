@@ -3,13 +3,12 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 import { dictionary } from '@/i18n';
-import { isLocale, localePath } from '@/lib/i18n';
+import { localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
 
 /** Where a sent offer lands. noindex and outside the sitemap: nothing here for a searcher. */
 export async function generateMetadata({ params }: PageProps<'/[locale]/buy/thanks'>): Promise<Metadata> {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
     return pageMetadata({
         locale,
@@ -22,8 +21,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/buy/than
 }
 
 export default async function ThanksPage({ params }: PageProps<'/[locale]/buy/thanks'>) {
-    const { locale } = await params;
-    if (!isLocale(locale)) notFound();
+    const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
 
     return (

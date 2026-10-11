@@ -155,20 +155,6 @@
    },
    "works": []
   },
-  "Q3676169": {
-   "slug": "cheri-cherin",
-   "portrait": {
-    "src": "/images/artists/cheri-cherin-portrait.webp",
-    "width": 500,
-    "height": 323,
-    "file": "20190205 tervuren africa museum165.jpg",
-    "author": "Chéri Cherin",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:20190205_tervuren_africa_museum165.jpg"
-   },
-   "works": []
-  },
   "Q2743155": {
    "slug": "coert-steynberg",
    "portrait": {
@@ -264,17 +250,24 @@
   },
   "Q1323876": {
    "slug": "el-anatsui",
-   "portrait": {
-    "src": "/images/artists/el-anatsui-portrait.webp",
-    "width": 500,
-    "height": 334,
-    "file": "El Anatsui - Man's Cloth.jpg",
-    "author": "hahnchen",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:El_Anatsui_-_Man%27s_Cloth.jpg"
-   },
-   "works": []
+   "portrait": null,
+   "works": [
+    {
+     "src": "/images/artists/el-anatsui-p18.webp",
+     "width": 500,
+     "height": 334,
+     "file": "El Anatsui - Man's Cloth.jpg",
+     "author": "hahnchen",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "page": "https://commons.wikimedia.org/wiki/File:El_Anatsui_-_Man%27s_Cloth.jpg",
+     "qid": "P18",
+     "title": {
+      "en": "Man's Cloth"
+     },
+     "year": null
+    }
+   ]
   },
   "Q12955922": {
    "slug": "el-seed",
@@ -502,17 +495,24 @@
   },
   "Q52203720": {
    "slug": "kwame-akoto-bamfo",
-   "portrait": {
-    "src": "/images/artists/kwame-akoto-bamfo-portrait.webp",
-    "width": 500,
-    "height": 333,
-    "file": "Nkyinkim Installation by Kwame Akoto Bamfo at the National Memorial for Peace and Justice.jpg",
-    "author": "Soniakapadia",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Nkyinkim_Installation_by_Kwame_Akoto_Bamfo_at_the_National_Memorial_for_Peace_and_Justice.jpg"
-   },
-   "works": []
+   "portrait": null,
+   "works": [
+    {
+     "src": "/images/artists/kwame-akoto-bamfo-p18.webp",
+     "width": 500,
+     "height": 333,
+     "file": "Nkyinkim Installation by Kwame Akoto Bamfo at the National Memorial for Peace and Justice.jpg",
+     "author": "Soniakapadia",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "page": "https://commons.wikimedia.org/wiki/File:Nkyinkim_Installation_by_Kwame_Akoto_Bamfo_at_the_National_Memorial_for_Peace_and_Justice.jpg",
+     "qid": "P18",
+     "title": {
+      "en": "Nkyinkyim Installation"
+     },
+     "year": null
+    }
+   ]
   },
   "Q16010963": {
    "slug": "ladi-kwali",

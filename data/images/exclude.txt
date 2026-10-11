@@ -1,3 +1,4 @@
 # Pictures never to use: a Commons file name (File: prefix optional) or a
 # Wikidata ID (a work, or an artist to skip entirely), one per line. Run
 # scripts/artist-images.mjs (or the Artist images workflow) after editing.
+20190205 tervuren africa museum165.jpg  # chéri-chérin: a painting, not a portrait, and the file does not say whose

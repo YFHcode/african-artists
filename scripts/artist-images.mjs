@@ -14,12 +14,14 @@
 //    are deleted.
 //
 // A picture that turns out wrong goes in data/images/exclude.txt (its Commons
-// file name, or a Wikidata ID to skip a whole work or artist).
+// file name, or a Wikidata ID to skip a whole work or artist). An artist's
+// image that shows a work rather than the person goes in
+// data/images/as-works.json with the work's title, and is shown as that work.
 import { mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import sharp from 'sharp';
 
 import { ORIGINAL_ARTISTS, ROSTER } from '../src/content/roster.ts';
-import { THUMB_WIDTH, collect, creditOf, parseBindings, portraitQuery, storedName, worksQuery } from './artist-images-lib.mjs';
+import { MAX_WORKS, THUMB_WIDTH, collect, creditOf, parseBindings, portraitQuery, storedName, worksQuery } from './artist-images-lib.mjs';
 
 const DATA = new URL('../data/images/', import.meta.url);
 const PUBLIC = new URL('../public/images/artists/', import.meta.url);
@@ -78,6 +80,13 @@ for (let i = 0; i < qids.length; i += 50) {
     await sleep(1000);
 }
 const found = collect(portraitRows, workRows);
+const asWorks = JSON.parse(await readFile(new URL('as-works.json', DATA), 'utf8'));
+for (const a of found.values()) {
+    const title = a.portrait && asWorks[a.portrait];
+    if (!title) continue;
+    a.works = [{ qid: 'P18', file: a.portrait, year: null, title }, ...a.works.filter((w) => w.file !== a.portrait)].slice(0, MAX_WORKS);
+    a.portrait = null;
+}
 console.log(`Wikidata: ${portraitRows.length} portrait rows, ${workRows.length} work rows for ${qids.length} artists`);
 
 // 2. Commons: licence, author and a thumbnail URL, 50 files a request.

@@ -3,14 +3,15 @@ import path from 'node:path';
 
 import type { CountryCode } from '@/content/catalog';
 import { type Hub, type Medium, OCCUPATION_MEDIUM, WIKIDATA_COUNTRIES } from '@/content/hubs';
+import { ORIGINAL_ARTISTS, ROSTER } from '@/content/roster';
 import type { Locale } from '@/lib/i18n';
 
 /**
  * data/artists/artists.json, read once at build time: every African visual
  * artist on Wikidata, ranked by Wikipedia pageviews (scripts/artists-data.mjs,
  * refreshed monthly). Hub lists and the generated facts on profiles come from
- * here. Only the `page` and `list` tiers are used; `review` and `excluded`
- * rows are people Wikidata mislabels as visual artists.
+ * here. The `page` and `list` tiers are used, plus anyone with a planned
+ * profile; other `review` rows and everyone on exclude.txt are left out.
  */
 
 export interface DataArtist {
@@ -39,6 +40,8 @@ interface RawArtist {
 
 let cache: Map<string, DataArtist> | null = null;
 
+const PROFILED = new Set([...Object.values(ORIGINAL_ARTISTS).map((o) => o.qid), ...ROSTER.map((r) => r.qid)]);
+
 const DATA_DIR = path.join(process.cwd(), 'data', 'artists');
 
 /**
@@ -64,7 +67,10 @@ function load(): Map<string, DataArtist> {
     const { corrections, exclude } = readFixes();
     cache = new Map();
     for (const original of raw.artists) {
-        if (original.tier !== 'page' && original.tier !== 'list') continue;
+        // The page and list tiers, plus anyone with a planned profile: a person
+        // the job flagged for review (or that an old exclude list removed) is
+        // in once someone decided to profile them.
+        if (original.tier !== 'page' && original.tier !== 'list' && !PROFILED.has(original.qid)) continue;
         // Excluded people, and Wikidata items with no English label (the name is the QID).
         if (exclude.has(original.qid) || /^Q\d+$/.test(original.name)) continue;
         const a = { ...original, ...corrections[original.qid] };

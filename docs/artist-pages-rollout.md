@@ -86,6 +86,7 @@ wave 1 goes live.
 - **Pages:** 26 profiles in 46 language editions, 7 hubs in 16 editions, and the Bang-Bang Club guide in 4 editions — 66 new URLs.
 - **Links:** new links in the photography page, the Southern and East Africa region pages, the women artists and contemporary art guides, and the Sidibé and Keïta profiles.
 - **Gate for wave 2:** check indexing of these 66 URLs in Search Console in early November.
+- **Added on 11 October 2026, by decision:** short profiles of five people the data job had excluded or flagged for review — W. E. B. Du Bois, Leni Riefenstahl, Foday Sankoh, Hamza Yassin and Ntare Guma Mbaho Mwine — 17 more editions. Each profile says plainly what the person is mainly known for and what their link to photography is. Tahar Ben Jelloun and Queen Farida, both painters, were added the same day to waves 4 and 5; their texts are written and wait for those waves.
 
 Photographers draw 1.24M yearly views, almost as many as painters, and far fewer sites cover them.
 The Bang-Bang Club (Carter, Oosterbroek, Marinovich, Silva) is a search topic of its own.
@@ -330,7 +331,7 @@ These broad terms come last because they need the profiles from earlier waves to
 | | Count |
 | --- | --- |
 | New full profiles | 35 |
-| New short profiles | 54 |
+| New short profiles | 61 |
 | Existing profiles updated | 13 (plus Farid Belkahia, list tier) |
 | Hubs | 49 (wave 1: 7, wave 2: 9, wave 3: 6, wave 4: 7, wave 5: 4, wave 6: 11, wave 7: 5) |
 | List-tier artists placed on hubs | 786 |

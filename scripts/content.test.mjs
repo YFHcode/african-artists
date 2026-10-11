@@ -50,11 +50,16 @@ const ALL_FILES = [
 
 const words = (text) => text.split(/\s+/).filter(Boolean).length;
 
-/** The artists a hub lists, as the site computes them (page and list tiers only). */
+const PROFILED = new Set([...Object.values(ORIGINAL_ARTISTS).map((o) => o.qid), ...ROSTER.map((r) => r.qid)]);
+const EXCLUDED = new Set(fs.readFileSync(path.join(import.meta.dirname, '..', 'data', 'artists', 'exclude.txt'), 'utf8').split('\n').map((l) => l.replace(/#.*/, '').trim()).filter(Boolean));
+
+/** The artists a hub lists, as the site computes them (src/lib/artist-data.ts). */
 function hubMembers(hub) {
     return DATA.filter(
         (a) =>
-            (a.tier === 'page' || a.tier === 'list') &&
+            (a.tier === 'page' || a.tier === 'list' || PROFILED.has(a.qid)) &&
+            !EXCLUDED.has(a.qid) &&
+            !/^Q\d+$/.test(a.name) &&
             (!hub.country || a.countries.some((c) => WIKIDATA_COUNTRIES[c] === hub.country)) &&
             (!hub.medium || a.occupations.some((o) => OCCUPATION_MEDIUM[o] === hub.medium))
     );

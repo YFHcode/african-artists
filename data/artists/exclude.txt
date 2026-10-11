@@ -1,0 +1,11 @@
+# People Wikidata lists as African painters, sculptors or photographers
+# whom nobody searches for as such. One QID per line; text after # is a note.
+# Rows the job marks "review" are the candidates to add here.
+Q55415     # Leni Riefenstahl: German filmmaker
+Q158060    # W. E. B. Du Bois: American sociologist
+Q334989    # Tahar Ben Jelloun: known as a writer
+Q2319146   # Farida of Egypt: queen consort
+Q443070    # Foday Sankoh: rebel leader
+Q772733    # Alessandro Mendini: Italian designer
+Q32280528  # Toni Tones: actress
+Q15869     # Freddie Mercury: musician

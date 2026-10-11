@@ -1,0 +1,57 @@
+# Monthly refresh of data/artists/: every African visual artist on Wikidata,
+# ranked by twelve months of Wikipedia pageviews. Pageviews are monthly, so a
+# monthly run is the most that can change anything. Run it by hand from the
+# Actions tab ("Run workflow") to change the thresholds.
+name: Artist data
+
+on:
+  schedule:
+    - cron: '17 4 3 * *'
+  workflow_dispatch:
+    inputs:
+      min_sitelinks:
+        description: Minimum Wikipedia/Wikimedia articles about the person
+        default: '4'
+      page_count:
+        description: How many top artists get their own page
+        default: '150'
+      min_views:
+        description: Minimum pageviews a year for an own page
+        default: '5000'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: artist-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch, rank and write
+        run: node scripts/artists-data.mjs
+        env:
+          MIN_SITELINKS: ${{ inputs.min_sitelinks || '4' }}
+          PAGE_COUNT: ${{ inputs.page_count || '150' }}
+          MIN_VIEWS: ${{ inputs.min_views || '5000' }}
+
+      - name: Commit if changed
+        run: |
+          git add data/artists
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898088+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh artist data from Wikidata and Wikipedia pageviews"
+          git push

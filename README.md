@@ -105,7 +105,28 @@ npm test           content integrity, offer validation, URL helpers
 npm run lint
 npm run typecheck
 npm run indexnow -- <paths> | --all
+node scripts/artists-data.mjs   refresh data/artists/ (needs access to Wikidata)
 ```
+
+## Artist data
+
+`data/artists/artists.{json,csv}` lists every African painter, sculptor, photographer, visual
+artist, printmaker and ceramicist on Wikidata (present-day African citizenship, at least four
+Wikipedia/Wikimedia articles), ranked by twelve months of Wikipedia pageviews in the site's five
+languages. It is the source for programmatic artist pages. The `Artist data` GitHub Action
+rebuilds it on the 3rd of each month and commits only when something changed; run it by hand from
+the Actions tab to change the thresholds.
+
+Each row has a tier:
+
+- `page`: among the 150 most viewed artists with 5,000+ views a year; worth its own page.
+- `list`: a real artist with less search demand; appears on country and medium lists only.
+- `review`: the Wikidata description does not mention art. Check by hand, then either leave
+  it or add the QID to `data/artists/exclude.txt`.
+- `excluded`: on the exclude list (Wikidata calls Du Bois a photographer; nobody searches for
+  him as one).
+
+Wikidata is CC0; facts on generated pages still need a sanity check before publishing.
 
 ## Notes for future work
 

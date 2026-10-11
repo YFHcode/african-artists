@@ -44,4 +44,4 @@ Zimbabwe became independent in 1980, and the sculpture became a national pride a
 
 ## Related
 
-The movement is one chapter in the long story of [African sculpture](/art-forms/african-sculpture). Compare it with the blackwood carving of the [Makonde](/art-forms/makonde-art) to the north-east and the life-size figures of [Ousmane Sow](/artists/ousmane-sow). For the region, see [Southern African art](/regions/southern-africa).
+The movement is one chapter in the long story of [African sculpture](/art-forms/african-sculpture). Compare it with the blackwood carving of the [Makonde](/art-forms/makonde-art) to the north-east and the life-size figures of [Ousmane Sow](/artists/ousmane-sow). For the region, see [Southern African art](/regions/southern-africa). See our lists of [Zimbabwean sculptors](/artists/country/zimbabwe/sculptors) and [Zimbabwean artists](/artists/country/zimbabwe).

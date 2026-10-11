@@ -137,6 +137,11 @@ The Bang-Bang Club (Carter, Oosterbroek, Marinovich, Silva) is a search topic of
 
 ## Wave 2: South Africa and Southern Africa
 
+**Status: released 11 October 2026, the same day as wave 1, by decision (without waiting for the indexing gate).**
+- **Pages:** 10 profiles in 18 editions and 9 hubs in 15 editions — 33 new URLs.
+- **Links:** new links from the Southern Africa region page, the contemporary art and women artists guides, the Shona sculpture page, and the Esther Mahlangu and Malangatana profiles.
+- **Gate:** check indexing of waves 1 and 2 together before wave 3.
+
 South Africa has the most demand of any country: 1.07M views a year across 226 artists.
 
 | Type | Artist | Country | Views/yr | Languages |

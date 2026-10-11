@@ -30,7 +30,7 @@ summary: Women artists from Africa have shaped modern and contemporary art from 
 
 **Julie Mehretu (born 1970), Ethiopia and USA.** Born in Addis Ababa and raised in the United States, she paints vast, layered abstractions built from architectural plans, maps and gestural marks.
 
-**Marlene Dumas (born 1953), South Africa and the Netherlands.** Born in Cape Town and based in Amsterdam, she is one of the most influential figurative painters of her generation.
+**[Marlene Dumas](/artists/marlene-dumas) (born 1953), South Africa and the Netherlands.** Born in Cape Town and based in Amsterdam, she is one of the most influential figurative painters of her generation.
 
 **[Zanele Muholi](/artists/zanele-muholi) (born 1972), South Africa.** A visual activist whose photographs document and celebrate South Africa's Black lesbian, gay, trans, queer and intersex communities. Their series *Faces and Phases*, begun in 2006, is a living archive of hundreds of portraits; Tate Modern presented a major survey of their work in 2020–21.
 

@@ -30,7 +30,7 @@ summary: Las mujeres artistas de África han dado forma al arte moderno y contem
 
 **Julie Mehretu (nacida en 1970), Etiopía y Estados Unidos.** Nacida en Adís Abeba y criada en Estados Unidos, pinta vastas abstracciones estratificadas construidas a partir de planos arquitectónicos, mapas y trazos gestuales.
 
-**Marlene Dumas (nacida en 1953), Sudáfrica y Países Bajos.** Nacida en Ciudad del Cabo y radicada en Ámsterdam, es una de las pintoras figurativas más influyentes de su generación.
+**[Marlene Dumas](/artists/marlene-dumas) (nacida en 1953), Sudáfrica y Países Bajos.** Nacida en Ciudad del Cabo y radicada en Ámsterdam, es una de las pintoras figurativas más influyentes de su generación.
 
 **[Zanele Muholi](/artists/zanele-muholi) (n. 1972), Sudáfrica.** Activista visual cuyas fotografías documentan y celebran las comunidades negras lesbianas, gais, trans, queer e intersexuales de Sudáfrica. Su serie *Faces and Phases*, iniciada en 2006, es un archivo vivo de cientos de retratos; la Tate Modern presentó una gran muestra de su obra en 2020–21.
 

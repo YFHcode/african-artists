@@ -30,9 +30,11 @@ In apartheid South Africa, art centres offered Black artists training they were 
 
 In Rhodesia, now Zimbabwe, a modern movement of [stone sculpture](/art-forms/shona-sculpture) grew from the late 1950s. In Mozambique, [Malangatana](/artists/malangatana) painted visionary canvases and murals, and in the north the [Makonde](/art-forms/makonde-art) carved masks and blackwood sculpture.
 
+Among the painters, [J. H. Pierneef](/artists/jh-pierneef) defined the South African landscape in ordered, geometric views; [Irma Stern](/artists/irma-stern) brought German Expressionism home in the 1920s and painted her celebrated portraits in Zanzibar and the Congo; and [Vladimir Tretchikoff](/artists/vladimir-tretchikoff), scorned by critics, made *Chinese Girl* one of the most reproduced pictures of the century. See our list of [South African artists](/artists/country/south-africa).
+
 ## Contemporary art
 
-South Africa has one of the strongest contemporary art scenes on the continent, with Zeitz MOCAA and the Norval Foundation in Cape Town, the Johannesburg Art Gallery, and fairs in both cities. Its best-known artists include William Kentridge, known for animated charcoal drawings, the painter Marlene Dumas, and the photographer and visual activist [Zanele Muholi](/artists/zanele-muholi). See [contemporary African art](/guides/contemporary-african-art) and [African photography](/art-forms/african-photography).
+South Africa has one of the strongest contemporary art scenes on the continent, with Zeitz MOCAA and the Norval Foundation in Cape Town, the Johannesburg Art Gallery, and fairs in both cities. Its best-known artists include [William Kentridge](/artists/william-kentridge), known for animated charcoal drawings, the painter [Marlene Dumas](/artists/marlene-dumas), and the photographer and visual activist [Zanele Muholi](/artists/zanele-muholi). See [contemporary African art](/guides/contemporary-african-art) and [African photography](/art-forms/african-photography).
 
 The country's photographers documented apartheid at great risk: [Peter Magubane](/artists/peter-magubane) and [Ernest Cole](/artists/ernest-cole) in the 1950s and 1960s, [David Goldblatt](/artists/david-goldblatt) over six decades, and [Sam Nzima](/artists/sam-nzima), whose 1976 photograph of the dying schoolboy Hector Pieterson went around the world. In the early 1990s [the Bang-Bang Club](/guides/bang-bang-club) covered the township violence before the 1994 election. See our list of [South African photographers](/artists/country/south-africa/photographers).
 

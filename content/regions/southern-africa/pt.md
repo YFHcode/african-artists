@@ -30,6 +30,8 @@ Na África do Sul do apartheid, alguns centros de arte ofereceram aos artistas n
 
 Na Rodésia, o atual Zimbabué, cresceu a partir do final dos anos 1950 um movimento moderno de [escultura em pedra](/art-forms/shona-sculpture). Em Moçambique, [Malangatana](/artists/malangatana) pintou telas visionárias e murais, e no norte os [macondes](/art-forms/makonde-art) esculpiram máscaras e escultura em pau-preto.
 
+Entre os pintores, J. H. Pierneef fixou a imagem da paisagem sul-africana em vistas ordenadas e geométricas; Irma Stern trouxe o expressionismo alemão nos anos 1920 e pintou os seus célebres retratos em Zanzibar e no Congo; e Vladimir Tretchikoff, desprezado pela crítica, fez de *Chinese Girl* uma das imagens mais reproduzidas do século. Veja a nossa lista de [artistas sul-africanos](/artists/country/south-africa).
+
 ## A arte contemporânea
 
 A África do Sul tem uma das cenas de arte contemporânea mais fortes do continente, com o Zeitz MOCAA e a Norval Foundation na Cidade do Cabo, a Johannesburg Art Gallery e feiras nas duas cidades. Entre os seus artistas mais conhecidos estão William Kentridge, conhecido pelos desenhos animados a carvão, a pintora Marlene Dumas e [Zanele Muholi](/artists/zanele-muholi), que alia fotografia e ativismo visual. Veja a [arte africana contemporânea](/guides/contemporary-african-art) e a [fotografia africana](/art-forms/african-photography).

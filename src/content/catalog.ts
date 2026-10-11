@@ -249,6 +249,10 @@ const REVISED_IN_WAVE: Record<number, string[]> = {
         'art-forms/african-photography', 'regions/southern-africa', 'regions/east-africa',
         'guides/african-women-artists', 'guides/contemporary-african-art', 'artists/malick-sidibe', 'artists/seydou-keita',
     ],
+    2: [
+        'regions/southern-africa', 'guides/contemporary-african-art', 'guides/african-women-artists',
+        'art-forms/shona-sculpture', 'artists/esther-mahlangu', 'artists/malangatana',
+    ],
 };
 for (const [wave, keys] of Object.entries(REVISED_IN_WAVE)) {
     if (!isReleased(Number(wave))) continue;

@@ -30,9 +30,11 @@ En la Sudáfrica del apartheid, algunos centros de arte ofrecieron a los artista
 
 En Rodesia, la actual Zimbabue, un movimiento moderno de [escultura en piedra](/art-forms/shona-sculpture) creció desde finales de los años cincuenta. En Mozambique, [Malangatana](/artists/malangatana) pintó lienzos visionarios y murales, y en el norte los [makonde](/art-forms/makonde-art) tallaron máscaras y escultura en madera negra.
 
+Entre los pintores, J. H. Pierneef fijó la imagen del paisaje sudafricano en vistas ordenadas y geométricas; Irma Stern trajo el expresionismo alemán en los años veinte y pintó sus célebres retratos en Zanzíbar y el Congo; y Vladimir Tretchikoff, despreciado por la crítica, hizo de *Chinese Girl* una de las imágenes más reproducidas del siglo. Vea nuestra lista de [artistas sudafricanos](/artists/country/south-africa).
+
 ## El arte contemporáneo
 
-Sudáfrica tiene una de las escenas de arte contemporáneo más fuertes del continente, con el Zeitz MOCAA y la Norval Foundation en Ciudad del Cabo, la Johannesburg Art Gallery y ferias en ambas ciudades. Entre sus artistas más conocidos están William Kentridge, conocido por sus dibujos animados al carboncillo, la pintora Marlene Dumas y [Zanele Muholi](/artists/zanele-muholi), que une fotografía y activismo visual. Vea el [arte africano contemporáneo](/guides/contemporary-african-art) y la [fotografía africana](/art-forms/african-photography).
+Sudáfrica tiene una de las escenas de arte contemporáneo más fuertes del continente, con el Zeitz MOCAA y la Norval Foundation en Ciudad del Cabo, la Johannesburg Art Gallery y ferias en ambas ciudades. Entre sus artistas más conocidos están [William Kentridge](/artists/william-kentridge), conocido por sus dibujos animados al carboncillo, la pintora [Marlene Dumas](/artists/marlene-dumas) y [Zanele Muholi](/artists/zanele-muholi), que une fotografía y activismo visual. Vea el [arte africano contemporáneo](/guides/contemporary-african-art) y la [fotografía africana](/art-forms/african-photography).
 
 Los fotógrafos del país documentaron el apartheid arriesgando la vida: Peter Magubane y Ernest Cole en los años cincuenta y sesenta, David Goldblatt durante seis décadas y Sam Nzima, cuya fotografía de 1976 del joven Hector Pieterson agonizante dio la vuelta al mundo. A principios de los noventa, el [Bang-Bang Club](/guides/bang-bang-club) cubrió la violencia de los townships antes de las elecciones de 1994. Vea nuestra lista de [fotógrafos sudafricanos](/artists/country/south-africa/photographers).
 

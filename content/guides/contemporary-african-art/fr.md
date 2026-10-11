@@ -31,7 +31,7 @@ Une liste courte et loin d'être complète, classée par démarche :
 
 - **Transformer les matériaux.** [El Anatsui](/artists/el-anatsui) (capsules de bouteille) ; Romuald Hazoumè, Bénin (masques faits de bidons en plastique) ; Gonçalo Mabunda, Mozambique (trônes et masques faits d'armes désactivées de la guerre civile) ; Ibrahim Mahama, Ghana (sacs de jute recouvrant des bâtiments entiers) ; Abdoulaye Konaté, Mali (textiles monumentaux).
 - **Peinture.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) ; Julie Mehretu, née à Addis-Abeba ; Amoako Boafo, Ghana, connu pour ses portraits peints au doigt ; Michael Armitage, Kenya, qui peint sur l'étoffe d'écorce ougandaise ; Toyin Ojih Odutola ; Marlene Dumas, née au Cap.
-- **Sculpture et installation.** [Wangechi Mutu](/artists/wangechi-mutu) ; Otobong Nkanga, Nigeria ; Yinka Shonibare, britannico-nigérian, connu pour ses personnages vêtus de wax ; William Kentridge, Afrique du Sud, dont les dessins au fusain animés ont changé l'idée même de ce qu'un dessin peut être.
+- **Sculpture et installation.** [Wangechi Mutu](/artists/wangechi-mutu) ; Otobong Nkanga, Nigeria ; Yinka Shonibare, britannico-nigérian, connu pour ses personnages vêtus de wax ; [William Kentridge](/artists/william-kentridge), Afrique du Sud, dont les dessins au fusain animés ont changé l'idée même de ce qu'un dessin peut être.
 - **Photographie et cinéma.** [Zanele Muholi](/artists/zanele-muholi), Omar Victor Diop et Aida Muluneh (voir la [photographie africaine](/art-forms/african-photography)) ; John Akomfrah, cinéaste britannique né au Ghana, qui a représenté le Royaume-Uni à la Biennale de Venise 2024.
 
 Pour les femmes artistes en particulier, voir les [femmes artistes africaines](/guides/african-women-artists).

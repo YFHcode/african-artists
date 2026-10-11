@@ -27,7 +27,7 @@ In many communities pottery is women's work, passed from mother to daughter; in 
 ## Regional traditions
 
 - **Nubia** (Sudan): the potters of the Kerma culture, from around 2500 to 1500 BCE, made thin-walled red vessels with glossy black rims, among the finest pottery of the ancient world.
-- **West Africa**: Gbari (Gwari) water jars in central Nigeria — the tradition Ladi Kwali grew up in — and the terracotta figures of [Nok](/art-forms/african-sculpture) and of Djenné-Djenno in Mali.
+- **West Africa**: Gbari (Gwari) water jars in central Nigeria — the tradition [Ladi Kwali](/artists/ladi-kwali) grew up in — and the terracotta figures of [Nok](/art-forms/african-sculpture) and of Djenné-Djenno in Mali.
 - **Central Africa**: the Mangbetu of the DR Congo made vessels whose necks are elegant human heads with the elongated hairstyles admired at their court.
 - **Southern Africa**: Zulu beer pots (*ukhamba*), burnished black and decorated with raised patterns, are used to serve sorghum beer. **Nesta Nala** (1940–2005) became their most celebrated maker.
 - **North Africa**: here the Islamic world's techniques arrived — the wheel, the kiln and glaze. Fez is known for blue-and-white wares, Safi for its potters' quarter, and Tamegroute for green-glazed pottery; the same skills produce the glazed tiles of [North African architecture](/regions/north-africa).

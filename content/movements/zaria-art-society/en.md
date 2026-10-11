@@ -20,7 +20,7 @@ Independence was coming in 1960, and a group of students decided that this was t
 
 ## Who they were
 
-The society's members included Uche Okeke, Demas Nwoko, Yusuf Grillo, Bruce Onobrakpeya, Simon Okeke, Jimoh Akolo, Oseloka Osadebe, Emmanuel Odita, Ogbonaya Nwagbara and Solomon Wangboje. Many went on to become the most influential painters, sculptors, printmakers and teachers of independent Nigeria.
+The society's members included [Uche Okeke](/artists/uche-okeke), Demas Nwoko, Yusuf Grillo, [Bruce Onobrakpeya](/artists/bruce-onobrakpeya), Simon Okeke, Jimoh Akolo, Oseloka Osadebe, Emmanuel Odita, Ogbonaya Nwagbara and Solomon Wangboje. Many went on to become the most influential painters, sculptors, printmakers and teachers of independent Nigeria.
 
 ## Natural synthesis
 

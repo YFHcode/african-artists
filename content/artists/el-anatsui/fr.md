@@ -40,4 +40,4 @@ Les œuvres de métal d'Anatsui figurent dans de grands musées d'Afrique, d'Eur
 
 ## Artistes liés
 
-Anatsui est souvent rapproché de [Ben Enwonwu](/artists/ben-enwonwu), le moderniste nigérian de la génération précédente, et d'artistes qui transforment des matériaux du quotidien, comme la peintre ndébélé [Esther Mahlangu](/artists/esther-mahlangu). Ses installations publiques monumentales invitent à la comparaison avec le sculpteur sénégalais [Ousmane Sow](/artists/ousmane-sow), et son travail sur les matériaux trouvés avec le collage et la sculpture de [Wangechi Mutu](/artists/wangechi-mutu).
+Anatsui est souvent rapproché de [Ben Enwonwu](/artists/ben-enwonwu), le moderniste nigérian de la génération précédente, et d'artistes qui transforment des matériaux du quotidien, comme la peintre ndébélé [Esther Mahlangu](/artists/esther-mahlangu). Ses installations publiques monumentales invitent à la comparaison avec le sculpteur sénégalais [Ousmane Sow](/artists/ousmane-sow), et son travail sur les matériaux trouvés avec le collage et la sculpture de [Wangechi Mutu](/artists/wangechi-mutu). Voir notre liste des [artistes nigérians](/artists/country/nigeria).

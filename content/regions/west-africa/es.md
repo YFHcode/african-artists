@@ -40,6 +40,8 @@ Los estudios de Bamako produjeron a dos de los fotógrafos más admirados del si
 
 Lagos, Dakar, Acra y Abiyán tienen escenas de arte contemporáneo muy activas, con citas como Dak'Art y ART X Lagos (vea [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales)) y nuevas instituciones como el Museum of West African Art de Benin City.
 
+Nigeria y Ghana tienen las mayores escenas artísticas de la región: entre los artistas de Nigeria, la ceramista Ladi Kwali, Twins Seven-Seven, de la escuela de Oshogbo, y hoy Yinka Shonibare y Otobong Nkanga; entre los de Ghana, Ibrahim Mahama y Amoako Boafo.
+
 ## La música
 
 La música de África Occidental —el [highlife](/music/highlife), el [afrobeat](/music/afrobeat), el [afrobeats](/music/afrobeats), el [mbalax](/music/mbalax) senegalés y la [morna](/music/morna) caboverdiana— es tan influyente como sus artes visuales.

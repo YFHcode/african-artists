@@ -111,7 +111,7 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q52203720', slug: 'kwame-akoto-bamfo', name: 'Kwame Akoto-Bamfo', wave: 3, kind: 'short', locales: ['en'], countries: ['GH'], media: ['sculpture'], born: 1983, died: null },
     { qid: 'Q123111935', slug: 'sharon-dede-padi', name: 'Sharon Dede Padi', wave: 3, kind: 'short', locales: ['en'], countries: ['GH'], media: ['painting'], born: 1976, died: 2026 },
     { qid: 'Q97657288', slug: 'frank-edoho', name: 'Frank Edoho', wave: 3, kind: 'short', locales: ['en'], countries: ['NG'], media: ['photography'], born: 1972, died: null },
-    { qid: 'Q20687449', slug: 'toyin-sokefun-bello', name: 'Toyin Sokefun-Bello', wave: 3, kind: 'short', locales: ['en'], countries: ['NG'], media: ['photography'], born: 1978, died: null },
+    { qid: 'Q20687449', slug: 'ty-bello', name: 'TY Bello', wave: 3, kind: 'short', locales: ['en'], countries: ['NG'], media: ['photography'], born: 1978, died: null },
     { qid: 'Q105357569', slug: 'caleb-azumah-nelson', name: 'Caleb Azumah Nelson', wave: 3, kind: 'short', locales: ['en'], countries: ['GH'], media: ['photography'], born: 1993, died: null },
     { qid: 'Q101982384', slug: 'caleb-femi', name: 'Caleb Femi', wave: 3, kind: 'short', locales: ['en'], countries: ['NG'], media: ['photography'], born: 1990, died: null },
     // Wave 4

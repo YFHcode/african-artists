@@ -171,6 +171,11 @@ South Africa has the most demand of any country: 1.07M views a year across 226 a
 
 ## Wave 3: Nigeria and Ghana
 
+**Status: released 11 October 2026, by decision on the same day as waves 1 and 2.**
+- **Pages:** 18 profiles in 21 editions and 6 hubs in 9 editions — 30 new URLs.
+- **Change from the plan:** "Toyin Sokefun-Bello" is the photographer and singer TY Bello; her profile is at /artists/ty-bello.
+- **Links:** new links from the contemporary art and women artists guides, the pottery page, the Oshogbo and Zaria pages, the West Africa region page, and the El Anatsui, Akunyili Crosby and Enwonwu profiles.
+
 Second and fifth in demand: Nigeria has 470K views a year across 138 artists, Ghana 181K across 45.
 
 | Type | Artist | Country | Views/yr | Languages |

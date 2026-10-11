@@ -29,9 +29,9 @@ On the continent, institutions such as Zeitz MOCAA, MACAAL in Marrakech, the Mus
 
 A short, far from complete list, grouped by approach:
 
-- **Transforming materials.** [El Anatsui](/artists/el-anatsui) (bottle caps); Romuald Hazoumè, Benin (masks made from plastic jerrycans); Gonçalo Mabunda, Mozambique (thrones and masks made from decommissioned weapons of the civil war); Ibrahim Mahama, Ghana (jute sacks covering whole buildings); Abdoulaye Konaté, Mali (monumental textiles).
-- **Painting.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); Julie Mehretu, born in Addis Ababa; Amoako Boafo, Ghana, known for finger-painted portraits; Michael Armitage, Kenya, who paints on Ugandan barkcloth; Toyin Ojih Odutola; Marlene Dumas, born in Cape Town.
-- **Sculpture and installation.** [Wangechi Mutu](/artists/wangechi-mutu); Otobong Nkanga, Nigeria; Yinka Shonibare, British-Nigerian, known for figures dressed in Dutch wax cloth; [William Kentridge](/artists/william-kentridge), South Africa, whose animated charcoal drawings changed the idea of what a drawing can be.
+- **Transforming materials.** [El Anatsui](/artists/el-anatsui) (bottle caps); Romuald Hazoumè, Benin (masks made from plastic jerrycans); Gonçalo Mabunda, Mozambique (thrones and masks made from decommissioned weapons of the civil war); [Ibrahim Mahama](/artists/ibrahim-mahama), Ghana (jute sacks covering whole buildings); Abdoulaye Konaté, Mali (monumental textiles).
+- **Painting.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); Julie Mehretu, born in Addis Ababa; [Amoako Boafo](/artists/amoako-boafo), Ghana, known for finger-painted portraits; Michael Armitage, Kenya, who paints on Ugandan barkcloth; Toyin Ojih Odutola; Marlene Dumas, born in Cape Town.
+- **Sculpture and installation.** [Wangechi Mutu](/artists/wangechi-mutu); [Otobong Nkanga](/artists/otobong-nkanga), Nigeria; [Yinka Shonibare](/artists/yinka-shonibare), British-Nigerian, known for figures dressed in Dutch wax cloth; [William Kentridge](/artists/william-kentridge), South Africa, whose animated charcoal drawings changed the idea of what a drawing can be.
 - **Photography and film.** [Zanele Muholi](/artists/zanele-muholi), Omar Victor Diop and Aida Muluneh (see [African photography](/art-forms/african-photography)); John Akomfrah, the Ghana-born British filmmaker who represented the UK at the 2024 Venice Biennale.
 
 For women artists in particular, see [African women artists](/guides/african-women-artists).

@@ -40,6 +40,8 @@ Bamako's studios produced two of the most admired photographers of the twentieth
 
 Lagos, Dakar, Accra and Abidjan have busy contemporary art scenes, with events such as Dak'Art and ART X Lagos (see [African art fairs and biennales](/guides/african-art-fairs-and-biennales)) and new institutions such as the Museum of West African Art in Benin City.
 
+Nigeria and Ghana have the region's largest art scenes. Among Nigeria's artists are the potter [Ladi Kwali](/artists/ladi-kwali), [Twins Seven-Seven](/artists/twins-seven-seven) of the Oshogbo school, and today [Yinka Shonibare](/artists/yinka-shonibare) and [Otobong Nkanga](/artists/otobong-nkanga); among Ghana's, [Ibrahim Mahama](/artists/ibrahim-mahama) and [Amoako Boafo](/artists/amoako-boafo). See our lists of [Nigerian artists](/artists/country/nigeria) and [Ghanaian artists](/artists/country/ghana).
+
 ## Music
 
 West Africa's music — [highlife](/music/highlife), [Afrobeat](/music/afrobeat), [Afrobeats](/music/afrobeats), Senegal's [mbalax](/music/mbalax) and Cabo Verde's [morna](/music/morna) — is as influential as its visual art.

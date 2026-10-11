@@ -36,4 +36,4 @@ The originals disappeared from view for decades. One was rediscovered in a Londo
 
 Enwonwu made the case, decades before the art market caught up, that an African artist could be fully modern on his own terms. The artists of the [Zaria Art Society](/movements/zaria-art-society) argued with his generation's choices, but they were arguing on ground he had cleared. Later artists such as [El Anatsui](/artists/el-anatsui) and [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) work in a world where his question — what is modern African art? — no longer needs defending.
 
-If you are thinking of collecting work from this period, read our guide on [how to buy African art](/guides/how-to-buy-african-art): Enwonwu's success means the market has seen copies and misattributions.
+If you are thinking of collecting work from this period, read our guide on [how to buy African art](/guides/how-to-buy-african-art): Enwonwu's success means the market has seen copies and misattributions. See our lists of [Nigerian artists](/artists/country/nigeria) and [Nigerian painters](/artists/country/nigeria/painters).

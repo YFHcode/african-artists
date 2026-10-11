@@ -134,15 +134,30 @@ export function ArticleView({ article }: { article: Article }) {
                     </p>
                 </header>
 
+                {/* Phones and tablets: the portrait and the key facts come straight after the
+                    introduction, as an infobox would. On a wide screen they sit in the sidebar. */}
+                {(pictures?.portrait || facts.length > 0) && (
+                    <div className="mt-8 grid max-w-3xl gap-5 sm:grid-cols-[minmax(0,15rem)_minmax(0,1fr)] sm:items-start lg:hidden">
+                        {pictures?.portrait && <Portrait pic={pictures.portrait} name={article.label} className="max-h-80" />}
+                        <FactFile facts={facts} title={t.article.facts} />
+                    </div>
+                )}
+
                 <div className="mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_18rem]">
                     <div>
                         <div className="prose" dangerouslySetInnerHTML={{ __html: article.html }} />
                         {pictures && pictures.works.length > 0 && <WorksGallery works={pictures.works} artist={article.label} locale={locale} />}
                     </div>
                     <div className="space-y-5 lg:sticky lg:top-6 lg:self-start">
-                        {pictures?.portrait && <Portrait pic={pictures.portrait} name={article.label} />}
+                        {pictures?.portrait && (
+                            <div className="hidden lg:block">
+                                <Portrait pic={pictures.portrait} name={article.label} />
+                            </div>
+                        )}
                         {mapKey && <Locator mapKey={mapKey} />}
-                        <FactFile facts={facts} title={t.article.facts} />
+                        <div className="hidden lg:block">
+                            <FactFile facts={facts} title={t.article.facts} />
+                        </div>
                         {lists.length > 0 && (
                             <nav aria-labelledby="artist-lists" className="rounded-xl border border-line p-5">
                                 <h2 id="artist-lists" className="text-sm font-semibold uppercase tracking-wide text-muted">

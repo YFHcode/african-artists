@@ -33,7 +33,7 @@ export function Credit({ pic, locale, className = '' }: { pic: Picture; locale: 
     );
 }
 
-export function Portrait({ pic, name }: { pic: Picture; name: string }) {
+export function Portrait({ pic, name, className = 'max-h-[26rem]' }: { pic: Picture; name: string; className?: string }) {
     return (
         <a href={pic.page} rel="noopener" className="block overflow-hidden rounded-xl border border-line bg-sand">
             <Image
@@ -43,7 +43,7 @@ export function Portrait({ pic, name }: { pic: Picture; name: string }) {
                 height={pic.height}
                 unoptimized
                 loading="eager"
-                className="max-h-[26rem] w-full object-cover object-top"
+                className={`w-full object-cover object-top ${className}`}
             />
         </a>
     );

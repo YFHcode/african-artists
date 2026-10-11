@@ -128,6 +128,11 @@ Each row has a tier:
 
 Wikidata is CC0; facts on generated pages still need a sanity check before publishing.
 
+Wikidata errors go in `data/artists/corrections.json` (a wrong birth or death year) or
+`data/artists/exclude.txt` (not a visual artist). The site applies both at build time, so a fix
+is live with the next deploy; the data job applies them too on its next run. The job runs only
+on its monthly schedule or when started by hand from the Actions tab — never on push.
+
 The monthly job's summary also lists page-tier artists with no planned profile: candidates for
 the next wave.
 

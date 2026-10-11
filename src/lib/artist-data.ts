@@ -39,21 +39,43 @@ interface RawArtist {
 
 let cache: Map<string, DataArtist> | null = null;
 
+const DATA_DIR = path.join(process.cwd(), 'data', 'artists');
+
+/**
+ * corrections.json and exclude.txt are applied here as well as in the monthly
+ * data job, so a fix goes live with the next deploy instead of waiting for the
+ * job to run.
+ */
+function readFixes(): { corrections: Record<string, { birthYear?: number | null; deathYear?: number | null }>; exclude: Set<string> } {
+    const corrections = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'corrections.json'), 'utf8'));
+    const exclude = new Set(
+        fs
+            .readFileSync(path.join(DATA_DIR, 'exclude.txt'), 'utf8')
+            .split('\n')
+            .map((line) => line.replace(/#.*/, '').trim())
+            .filter(Boolean)
+    );
+    return { corrections, exclude };
+}
+
 function load(): Map<string, DataArtist> {
     if (cache) return cache;
-    const file = path.join(process.cwd(), 'data', 'artists', 'artists.json');
-    const raw = JSON.parse(fs.readFileSync(file, 'utf8')) as { artists: RawArtist[] };
+    const raw = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'artists.json'), 'utf8')) as { artists: RawArtist[] };
+    const { corrections, exclude } = readFixes();
     cache = new Map();
-    for (const a of raw.artists) {
-        if (a.tier !== 'page' && a.tier !== 'list') continue;
+    for (const original of raw.artists) {
+        if (original.tier !== 'page' && original.tier !== 'list') continue;
+        // Excluded people, and Wikidata items with no English label (the name is the QID).
+        if (exclude.has(original.qid) || /^Q\d+$/.test(original.name)) continue;
+        const a = { ...original, ...corrections[original.qid] };
         cache.set(a.qid, {
             qid: a.qid,
             name: a.name,
             countries: a.countries.map((c) => WIKIDATA_COUNTRIES[c]).filter(Boolean),
             media: a.occupations.map((o) => OCCUPATION_MEDIUM[o]).filter(Boolean),
-            born: a.birthYear,
+            born: a.birthYear ?? null,
             // The data job already drops impossible death years; this is a safety net.
-            died: a.deathYear != null && (a.birthYear === null || a.deathYear > a.birthYear) ? a.deathYear : null,
+            died: a.deathYear != null && (a.birthYear == null || a.deathYear > a.birthYear) ? a.deathYear : null,
             views: a.views.total,
             titles: a.titles,
         });

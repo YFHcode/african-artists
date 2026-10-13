@@ -41,6 +41,20 @@ const nextConfig: NextConfig = {
             { source: '/en/:path*', destination: '/:path*', permanent: true },
         ];
 
+        // www.africanartists.com serves the same site; Google crawled both and
+        // filed the www pages as "Alternate page with proper canonical tag".
+        // One permanent redirect sends visitors and links to the canonical host.
+        // (Skipped if SITE_URL is itself a www host, which would loop.)
+        const canonicalHost = new URL(SITE_URL).host;
+        if (!canonicalHost.startsWith('www.')) {
+            rules.unshift({
+                source: '/:path*',
+                has: [{ type: 'host', value: `www\\.${canonicalHost.replace(/\./g, '\\.')}` }],
+                destination: `${SITE_URL}/:path*`,
+                permanent: true,
+            } as (typeof rules)[number]);
+        }
+
         // The production deployment also answers on <project>.vercel.app — a
         // full duplicate of the site on another host. Send it to the real one.
         // Preview deployments keep their own hosts (Vercel marks them noindex).

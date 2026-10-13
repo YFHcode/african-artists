@@ -1,4 +1,4 @@
-import type { Picture } from '@/lib/artist-images';
+import { type Picture, isPublicDomain } from '@/lib/artist-images';
 import type { Article } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 import { SITE_NAME, SITE_URL, absoluteUrl } from '@/lib/site';
@@ -65,18 +65,24 @@ export interface PersonFacts {
 
 /**
  * A picture with the credit and licence its Commons licence asks for, in the
- * fields Google Images reads (creator, creditText, license, acquireLicensePage).
+ * fields Google Images reads (creator, creditText, copyrightNotice, license,
+ * acquireLicensePage). A public-domain file has no licence URL on Commons; its
+ * Commons page, which states its status, stands in.
  */
 export function imageObject(pic: Picture, name?: string): Json {
+    const publicDomain = isPublicDomain(pic.license);
+    // Commons fills the author field with "Unknown author", "Unavailable"… when there is none.
+    const author = pic.author && !/^(unknown|unavailable|anonym)/i.test(pic.author) ? pic.author : null;
     return {
         '@type': 'ImageObject',
         contentUrl: absoluteUrl(pic.src),
         width: pic.width,
         height: pic.height,
         ...(name ? { name } : {}),
-        ...(pic.author ? { creator: { '@type': 'Person', name: pic.author } } : {}),
-        creditText: [pic.author, pic.license, 'Wikimedia Commons'].filter(Boolean).join(' / '),
-        ...(pic.licenseUrl ? { license: pic.licenseUrl } : {}),
+        ...(author ? { creator: { '@type': 'Person', name: author } } : {}),
+        creditText: [author, pic.license, 'Wikimedia Commons'].filter(Boolean).join(' / '),
+        copyrightNotice: publicDomain || !author ? pic.license : author,
+        license: pic.licenseUrl ?? pic.page,
         acquireLicensePage: pic.page,
     };
 }

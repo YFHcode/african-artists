@@ -33,4 +33,4 @@ facts:
 
 ## انظر أيضًا
 
-[فنانات أفريقيات](/guides/african-women-artists)؛ والرسّامان [حسين بيكار](/artists/hussein-bicar) و[محمود سعيد](/artists/mahmoud-said)؛ وقائمتَي [الرسّامين المصريين](/artists/country/egypt/painters) و[الفنانين المصريين](/artists/country/egypt).
+[فنانات أفريقيات](/guides/african-women-artists)؛ والرسّامان [حسين بيكار](/artists/hussein-bicar) و[محمود سعيد](/artists/mahmoud-said)؛ والفنانة المعاصرة [غادة عامر](/artists/ghada-amer)؛ وقائمتَي [الرسّامين المصريين](/artists/country/egypt/painters) و[الفنانين المصريين](/artists/country/egypt).

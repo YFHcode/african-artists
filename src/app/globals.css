@@ -135,6 +135,13 @@ html[lang='ar'] .prose {
     font-size: 1.125rem;
     line-height: 1.9;
 }
+
+/* Latin titles in italics inside Arabic text — «…» (*Five Black Women*، 1983) —
+   are isolated and take their own direction, so the comma, year and brackets
+   around them stay where the Arabic sentence puts them. */
+html[dir='rtl'] .prose :is(em, cite) {
+    unicode-bidi: plaintext;
+}
 .prose > * + * {
     margin-top: 1.1em;
 }

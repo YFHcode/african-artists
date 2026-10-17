@@ -292,6 +292,10 @@ pattern.
     only the Arabic edition preloads it; loaded late it shifted the page (CLS 0.17).
   - The artist strip's second set of cards is cloned in the browser, and the drift waits two
     seconds after load.
+  - A hub's "More artists" list runs to 400 lines, so each line is as few elements as possible
+    (the portrait sits in the line's padding, no wrapper), styled from the `<ul>`, and on phones
+    off-screen lines skip rendering (`content-visibility: auto`). A first version with a
+    wrapper per line took the painters hub from 87 to 76 (52 in French); this one scores 86–87.
 
 - The 404 page is `src/app/global-not-found.tsx`, which needs `experimental.globalNotFound`
   (Next.js 16.4). With the root layout under `[locale]`, the regular `not-found.tsx` rendered an

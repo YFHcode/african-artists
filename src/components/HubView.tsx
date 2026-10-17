@@ -76,34 +76,33 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
         const pic = listPortrait(a.qid);
         const description = artistDescription(a.qid, locale);
         // Styled from the <ul>: a list of 400 names repeats nothing per line,
-        // which keeps the HTML and its hydration copy small. A free portrait
-        // from Commons where there is one, else the artist's pattern; the
-        // Wikidata description in the reader's language; "EN" when the link
-        // has to fall back to English Wikipedia.
+        // and each line is as few elements as it can be, which keeps the HTML,
+        // its hydration and its layout cheap. A free portrait from Commons
+        // where there is one, else the artist's pattern, set in the line's
+        // padding; the Wikidata description in the reader's language; "EN"
+        // when the link has to fall back to English Wikipedia.
         return (
             <li key={a.qid}>
                 {pic ? (
                     // eslint-disable-next-line @next/next/no-img-element -- 120px copies already, served as they are
-                    <img src={pic.src} alt="" width={40} height={40} loading="lazy" decoding="async" />
+                    <img src={pic.src} alt="" width={40} height={40} loading="lazy" />
                 ) : (
                     <span className={quilt(a.qid, 1)[0]} />
                 )}
-                <div>
-                    {href ? (
-                        <a href={href} rel="noopener" hrefLang={lang ?? undefined}>
-                            {displayName(a, locale)}
-                        </a>
-                    ) : (
-                        <b>{displayName(a, locale)}</b>
-                    )}
-                    {lang && lang !== locale && (
-                        <abbr title={t.hub.inEnglish} lang="en">
-                            EN
-                        </abbr>
-                    )}
-                    {details.length > 0 && <small>{` · ${details.join(' · ')}`}</small>}
-                    {description && <p>{description}</p>}
-                </div>
+                {href ? (
+                    <a href={href} rel="noopener" hrefLang={lang ?? undefined}>
+                        {displayName(a, locale)}
+                    </a>
+                ) : (
+                    <b>{displayName(a, locale)}</b>
+                )}
+                {lang && lang !== locale && (
+                    <abbr title={t.hub.inEnglish} lang="en">
+                        EN
+                    </abbr>
+                )}
+                {details.length > 0 && <small>{` · ${details.join(' · ')}`}</small>}
+                {description && <p>{description}</p>}
             </li>
         );
     };
@@ -157,7 +156,7 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                             {t.footer.credits}
                         </Link>
                     </p>
-                    <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3 [&_a]:font-medium [&_a]:text-clay [&_a]:underline [&_a]:underline-offset-4 [&_abbr]:ms-1.5 [&_abbr]:rounded [&_abbr]:border [&_abbr]:border-line [&_abbr]:px-1 [&_abbr]:align-middle [&_abbr]:text-[0.65rem] [&_abbr]:font-semibold [&_abbr]:text-muted [&_abbr]:no-underline [&_b]:font-medium [&_img]:size-10 [&_img]:shrink-0 [&_img]:rounded-full [&_img]:bg-sand [&_img]:object-cover [&_img]:object-[50%_20%] [&_li]:flex [&_li]:break-inside-avoid [&_li]:items-start [&_li]:gap-3 [&_li]:py-1.5 [&_li>span]:size-10 [&_li>span]:shrink-0 [&_li>span]:rounded-full [&_p]:text-sm [&_p]:leading-snug [&_p]:text-ink/75 [&_small]:text-sm [&_small]:text-muted">
+                    <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3 [&_a]:font-medium [&_a]:text-clay [&_a]:underline [&_a]:underline-offset-4 [&_abbr]:ms-1.5 [&_abbr]:[unicode-bidi:isolate] [&_abbr]:rounded [&_abbr]:border [&_abbr]:border-line [&_abbr]:px-1 [&_abbr]:align-middle [&_abbr]:text-[0.65rem] [&_abbr]:font-semibold [&_abbr]:text-muted [&_abbr]:no-underline [&_b]:font-medium [&_img]:absolute [&_img]:start-0 [&_img]:top-1.5 [&_img]:size-10 [&_img]:rounded-full [&_img]:bg-sand [&_img]:object-cover [&_img]:object-[50%_20%] [&_li]:relative [&_li]:min-h-13 [&_li]:break-inside-avoid [&_li]:py-1.5 [&_li]:ps-13 max-sm:[&_li]:[content-visibility:auto] max-sm:[&_li]:[contain-intrinsic-size:auto_3.75rem] [&_li>span]:absolute [&_li>span]:start-0 [&_li>span]:top-1.5 [&_li>span]:size-10 [&_li>span]:rounded-full [&_p]:text-sm [&_p]:leading-snug [&_p]:text-ink/75 [&_small]:text-sm [&_small]:text-muted">
                         {others.map(line)}
                     </ul>
                 </section>

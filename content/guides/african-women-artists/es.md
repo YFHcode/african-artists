@@ -8,13 +8,13 @@ summary: Las mujeres artistas de África han dado forma al arte moderno y contem
 ---
 ## Pioneras del siglo XX
 
-**Ladi Kwali (h. 1925–1984), Nigeria.** Nacida en una familia de alfareras del pueblo de Kwali, hacía tinajas tradicionales gwari antes de incorporarse en 1954 al Centro de Formación en Cerámica de Michael Cardew en Abuja (la actual Suleja), donde aprendió a tornear y esmaltar gres. En 1962 recorrió Inglaterra con demostraciones de cerámica; fue nombrada MBE en 1963 y aparece en el billete de 20 nairas de Nigeria. Su historia se cuenta en nuestra guía de la [cerámica africana](/art-forms/african-pottery).
+**[Ladi Kwali](/artists/ladi-kwali) (h. 1925–1984), Nigeria.** Nacida en una familia de alfareras del pueblo de Kwali, hacía tinajas tradicionales gwari antes de incorporarse en 1954 al Centro de Formación en Cerámica de Michael Cardew en Abuja (la actual Suleja), donde aprendió a tornear y esmaltar gres. En 1962 recorrió Inglaterra con demostraciones de cerámica; fue nombrada MBE en 1963 y aparece en el billete de 20 nairas de Nigeria. Su historia se cuenta en nuestra guía de la [cerámica africana](/art-forms/african-pottery).
 
 **[Baya](/artists/baya) (1931–1998), Argelia.** Expuso en la Galerie Maeght de París a los dieciséis años, con un prefacio de André Breton; sus gouaches de mujeres, pájaros y jardines están entre las obras clave del arte moderno argelino.
 
-**Inji Efflatoun (1924–1989), Egipto.** Pintora y activista feminista y marxista, estuvo presa de 1959 a 1963 por sus vínculos políticos y siguió pintando en la cárcel de mujeres: a sus compañeras de prisión, y árboles y flores vistos entre barrotes. Esas pinturas de la cárcel suelen considerarse la cumbre de su obra.
+**[Inji Efflatoun](/artists/inji-aflatoun) (1924–1989), Egipto.** Pintora y activista feminista y marxista, estuvo presa de 1959 a 1963 por sus vínculos políticos y siguió pintando en la cárcel de mujeres: a sus compañeras de prisión, y árboles y flores vistos entre barrotes. Esas pinturas de la cárcel suelen considerarse la cumbre de su obra.
 
-**Chaïbia Talal (1929–2004), Marruecos.** Viuda muy joven y empleada doméstica, empezó a pintar pasados los treinta años tras un sueño. Apoyada por el crítico Pierre Gaudibert, expuso en París en 1966, y sus rostros vivos y coloridos la convirtieron en una de las pintoras más conocidas de Marruecos.
+**[Chaïbia Talal](/artists/chaibia-talal) (1929–2004), Marruecos.** Viuda muy joven y empleada doméstica, empezó a pintar pasados los treinta años tras un sueño. Apoyada por el crítico Pierre Gaudibert, expuso en París en 1966, y sus rostros vivos y coloridos la convirtieron en una de las pintoras más conocidas de Marruecos.
 
 **Kamala Ibrahim Ishaq (nacida en 1939), Sudán.** Miembro de la [Escuela de Jartum](/movements/khartoum-school) que se separó en 1976 para cofundar el grupo cristalista. Sus pinturas de rostros de mujeres atrapados en formas parecidas al cristal fueron objeto de una gran exposición en la Serpentine de Londres en 2022–23.
 

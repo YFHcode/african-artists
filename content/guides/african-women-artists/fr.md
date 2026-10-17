@@ -8,11 +8,11 @@ summary: Les femmes artistes d'Afrique ont façonné l'art moderne et contempora
 ---
 ## Les pionnières du XXe siècle
 
-**Ladi Kwali (vers 1925–1984), Nigeria.** Née dans une famille de potiers du village de Kwali, elle fabrique des jarres à eau gwari traditionnelles avant de rejoindre en 1954 le Pottery Training Centre de Michael Cardew à Abuja (l'actuelle Suleja), où elle apprend le tournage et la glaçure du grès. En 1962, elle fait une tournée de démonstrations en Angleterre ; elle est nommée MBE en 1963 et figure sur le billet nigérian de 20 nairas. Son histoire est racontée dans notre guide de la [céramique africaine](/art-forms/african-pottery).
+**[Ladi Kwali](/artists/ladi-kwali) (vers 1925–1984), Nigeria.** Née dans une famille de potiers du village de Kwali, elle fabrique des jarres à eau gwari traditionnelles avant de rejoindre en 1954 le Pottery Training Centre de Michael Cardew à Abuja (l'actuelle Suleja), où elle apprend le tournage et la glaçure du grès. En 1962, elle fait une tournée de démonstrations en Angleterre ; elle est nommée MBE en 1963 et figure sur le billet nigérian de 20 nairas. Son histoire est racontée dans notre guide de la [céramique africaine](/art-forms/african-pottery).
 
 **[Baya](/artists/baya) (1931–1998), Algérie.** Exposée à seize ans à la galerie Maeght à Paris, avec une préface d'André Breton ; ses gouaches de femmes, d'oiseaux et de jardins comptent parmi les œuvres majeures de l'art moderne algérien.
 
-**Inji Efflatoun (1924–1989), Égypte.** Peintre et militante féministe et marxiste, elle est emprisonnée de 1959 à 1963 pour ses engagements politiques et continue de peindre dans la prison pour femmes : ses codétenues, des arbres et des fleurs vus à travers les barreaux. Ces peintures de prison sont souvent considérées comme le sommet de son œuvre.
+**[Inji Efflatoun](/artists/inji-aflatoun) (1924–1989), Égypte.** Peintre et militante féministe et marxiste, elle est emprisonnée de 1959 à 1963 pour ses engagements politiques et continue de peindre dans la prison pour femmes : ses codétenues, des arbres et des fleurs vus à travers les barreaux. Ces peintures de prison sont souvent considérées comme le sommet de son œuvre.
 
 **[Chaïbia Talal](/artists/chaibia-talal) (1929–2004), Maroc.** Veuve très jeune et employée de maison, elle commence à peindre vers trente-cinq ans après un rêve. Soutenue par le critique Pierre Gaudibert, elle expose à Paris en 1966, et ses visages vifs et colorés font d'elle l'une des peintres les plus connues du Maroc.
 

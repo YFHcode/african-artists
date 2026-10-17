@@ -8,13 +8,13 @@ summary: As mulheres artistas de África moldaram a arte moderna e contemporâne
 ---
 ## As pioneiras do século XX
 
-**Ladi Kwali (c. 1925–1984), Nigéria.** Nascida numa família de oleiros na aldeia de Kwali, fazia jarros de água gwari tradicionais antes de entrar, em 1954, no Pottery Training Centre de Michael Cardew em Abuja (a atual Suleja), onde aprendeu a trabalhar na roda e a vidrar grés. Em 1962 fez uma digressão de demonstrações em Inglaterra; foi nomeada MBE em 1963 e figura na nota de 20 nairas da Nigéria. A sua história é contada no nosso guia da [cerâmica africana](/art-forms/african-pottery).
+**[Ladi Kwali](/artists/ladi-kwali) (c. 1925–1984), Nigéria.** Nascida numa família de oleiros na aldeia de Kwali, fazia jarros de água gwari tradicionais antes de entrar, em 1954, no Pottery Training Centre de Michael Cardew em Abuja (a atual Suleja), onde aprendeu a trabalhar na roda e a vidrar grés. Em 1962 fez uma digressão de demonstrações em Inglaterra; foi nomeada MBE em 1963 e figura na nota de 20 nairas da Nigéria. A sua história é contada no nosso guia da [cerâmica africana](/art-forms/african-pottery).
 
 **[Baya](/artists/baya) (1931–1998), Argélia.** Exposta aos dezasseis anos na Galerie Maeght, em Paris, com prefácio de André Breton; os seus guaches de mulheres, pássaros e jardins estão entre as obras-chave da arte moderna argelina.
 
-**Inji Efflatoun (1924–1989), Egito.** Pintora e ativista feminista e marxista, esteve presa de 1959 a 1963 pelas suas ligações políticas e continuou a pintar na prisão feminina: as companheiras de cela, e árvores e flores vistas através das grades. Essas pinturas da prisão são muitas vezes consideradas o ponto alto da sua obra.
+**[Inji Efflatoun](/artists/inji-aflatoun) (1924–1989), Egito.** Pintora e ativista feminista e marxista, esteve presa de 1959 a 1963 pelas suas ligações políticas e continuou a pintar na prisão feminina: as companheiras de cela, e árvores e flores vistas através das grades. Essas pinturas da prisão são muitas vezes consideradas o ponto alto da sua obra.
 
-**Chaïbia Talal (1929–2004), Marrocos.** Viúva muito jovem e empregada doméstica, começou a pintar perto dos trinta e cinco anos, depois de um sonho. Apoiada pelo crítico Pierre Gaudibert, expôs em Paris em 1966, e os seus rostos vivos e coloridos fizeram dela uma das pintoras mais conhecidas de Marrocos.
+**[Chaïbia Talal](/artists/chaibia-talal) (1929–2004), Marrocos.** Viúva muito jovem e empregada doméstica, começou a pintar perto dos trinta e cinco anos, depois de um sonho. Apoiada pelo crítico Pierre Gaudibert, expôs em Paris em 1966, e os seus rostos vivos e coloridos fizeram dela uma das pintoras mais conhecidas de Marrocos.
 
 **Kamala Ibrahim Ishaq (nascida em 1939), Sudão.** Membro da [Escola de Cartum](/movements/khartoum-school) que se afastou em 1976 para cofundar o grupo cristalista. As suas pinturas de rostos de mulheres presos em formas de vidro foram tema de uma grande exposição na Serpentine, em Londres, em 2022–23.
 
@@ -30,7 +30,7 @@ summary: As mulheres artistas de África moldaram a arte moderna e contemporâne
 
 **Julie Mehretu (nascida em 1970), Etiópia e EUA.** Nascida em Adis Abeba e criada nos Estados Unidos, pinta vastas abstrações em camadas construídas a partir de plantas de arquitetura, mapas e gestos.
 
-**Marlene Dumas (nascida em 1953), África do Sul e Países Baixos.** Nascida na Cidade do Cabo e radicada em Amesterdão, é uma das pintoras figurativas mais influentes da sua geração.
+**[Marlene Dumas](/artists/marlene-dumas) (nascida em 1953), África do Sul e Países Baixos.** Nascida na Cidade do Cabo e radicada em Amesterdão, é uma das pintoras figurativas mais influentes da sua geração.
 
 **[Zanele Muholi](/artists/zanele-muholi) (n. 1972), África do Sul.** Ativista visual cujas fotografias documentam e celebram as comunidades negras lésbicas, gays, trans, queer e intersexo da África do Sul. A série *Faces and Phases*, iniciada em 2006, é um arquivo vivo de centenas de retratos; a Tate Modern apresentou uma grande exposição do seu trabalho em 2020–21.
 

@@ -29,4 +29,4 @@ Amer travaille aussi hors de la toile. Elle réalise des sculptures, notamment d
 
 ## Voir aussi
 
-[Wael Shawky](/artists/wael-shawky), autre artiste égyptien à la carrière internationale ; la peintre [Farida d'Égypte](/artists/farida-of-egypt) ; les [femmes artistes africaines](/guides/african-women-artists) ; et notre liste d'[artistes égyptiens](/artists/country/egypt).
+La peintre égyptienne [Inji Aflatoun](/artists/inji-aflatoun), qui peignit des femmes prisonnières dans les années 1960 ; [Wael Shawky](/artists/wael-shawky) et [Anna Boghiguian](/artists/anna-boghiguian), autres artistes égyptiens à la carrière internationale ; la peintre [Farida d'Égypte](/artists/farida-of-egypt) ; les [femmes artistes africaines](/guides/african-women-artists) ; et notre liste d'[artistes égyptiens](/artists/country/egypt).

@@ -4,7 +4,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { test } from 'node:test';
 
-import { MAX_WORKS, acceptedLicense, collect, commonsFileName, creditOf, plainText, worksQuery } from './artist-images-lib.mjs';
+import {
+    MAX_WORKS,
+    acceptedLicense,
+    cleanDescription,
+    collect,
+    commonsFileName,
+    creditOf,
+    descriptionQuery,
+    listedArtists,
+    plainText,
+    worksQuery,
+} from './artist-images-lib.mjs';
 
 const ROOT = path.join(import.meta.dirname, '..');
 
@@ -91,4 +102,52 @@ test('stored images: every entry has its file, credit and size; no stray files',
     const dir = path.join(ROOT, 'public/images/artists');
     const stored = fs.existsSync(dir) ? fs.readdirSync(dir) : [];
     assert.deepEqual(stored.filter((f) => !listed.has(f)), []);
+});
+
+test('listed artists: page and list tiers, minus exclusions, unlabelled items and profiles', () => {
+    const raw = { artists: [
+        { qid: 'Q1', name: 'Ann', tier: 'page' },
+        { qid: 'Q2', name: 'Ben', tier: 'list' },
+        { qid: 'Q3', name: 'Cy', tier: 'review' },
+        { qid: 'Q4', name: 'Q4', tier: 'list' },
+        { qid: 'Q5', name: 'Dee', tier: 'list' },
+        { qid: 'Q6', name: 'Eve', tier: 'list' },
+    ] };
+    assert.deepEqual(listedArtists(raw, new Set(['Q5']), new Set(['Q6'])).map((a) => a.qid), ['Q1', 'Q2']);
+});
+
+test('Wikidata descriptions: one clean line or nothing', () => {
+    assert.equal(cleanDescription('  Ghanaian   sculptor. ', 'Ann'), 'Ghanaian sculptor');
+    assert.equal(cleanDescription('peintre nigérian', 'Ann'), 'peintre nigérian');
+    assert.equal(cleanDescription('Ann', 'Ann'), null);
+    assert.equal(cleanDescription('see https://example.com', 'Ann'), null);
+    assert.equal(cleanDescription('Wikimedia disambiguation page', 'Ann'), null);
+    assert.equal(cleanDescription('x'.repeat(121), 'Ann'), null);
+    assert.equal(cleanDescription('', 'Ann'), null);
+    assert.match(descriptionQuery(['Q1']), /schema:description/);
+});
+
+test('list portraits and descriptions: files exist, licences hold, no strays, known languages', () => {
+    const { artists: pics } = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/images/list-portraits.json'), 'utf8'));
+    const listed = new Set();
+    for (const [qid, pic] of Object.entries(pics)) {
+        assert.match(qid, /^Q\d+$/);
+        assert.equal(pic.src, `/images/list/${qid.toLowerCase()}.webp`);
+        assert.ok(fs.existsSync(path.join(ROOT, 'public', pic.src)), pic.src);
+        assert.ok(acceptedLicense(pic.license), `${pic.src}: ${pic.license}`);
+        assert.match(pic.page, /^https:\/\/commons\.wikimedia\.org\/wiki\/File:/);
+        listed.add(path.basename(pic.src));
+    }
+    const dir = path.join(ROOT, 'public/images/list');
+    const stored = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f !== '.gitkeep') : [];
+    assert.deepEqual(stored.filter((f) => !listed.has(f)), []);
+
+    const { artists: descriptions } = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/artists/descriptions.json'), 'utf8'));
+    for (const [qid, byLang] of Object.entries(descriptions)) {
+        assert.match(qid, /^Q\d+$/);
+        for (const [lang, d] of Object.entries(byLang)) {
+            assert.ok(['en', 'fr', 'es', 'pt', 'ar'].includes(lang), `${qid}: ${lang}`);
+            assert.ok(d.length > 2 && d.length <= 120, `${qid} ${lang}`);
+        }
+    }
 });

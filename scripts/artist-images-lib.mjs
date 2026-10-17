@@ -131,3 +131,35 @@ export function creditOf(info) {
 export function storedName(slug, what) {
     return `${slug}-${what.toLowerCase()}.webp`;
 }
+
+/** Width of the small portraits shown beside names in the lists (a Wikimedia standard step). */
+export const LIST_THUMB_WIDTH = 120;
+
+/**
+ * The artists the lists show without a profile: the page and list tiers of
+ * data/artists/artists.json, minus data/artists/exclude.txt, items with no
+ * English label, and anyone profiled (they have their own pictures).
+ */
+export function listedArtists(raw, exclude, profiled) {
+    return raw.artists
+        .filter((a) => (a.tier === 'page' || a.tier === 'list') && !exclude.has(a.qid) && !/^Q\d+$/.test(a.name) && !profiled.has(a.qid))
+        .map((a) => ({ qid: a.qid, name: a.name }));
+}
+
+/** Short Wikidata descriptions of the artists, in the site's languages. */
+export function descriptionQuery(qids) {
+    return `SELECT ?p ?d (LANG(?d) AS ?lang) WHERE { VALUES ?p { ${values(qids)} } ?p schema:description ?d . FILTER(LANG(?d) IN (${LANGS.map((l) => `"${l}"`).join(', ')})) }`;
+}
+
+/**
+ * A Wikidata description fit to show beside a name: one line, plain text, not
+ * a link, not the name again, at most 120 characters. Anything else is dropped.
+ */
+export function cleanDescription(text, name) {
+    const d = String(text ?? '').replace(/\s+/g, ' ').trim().replace(/[.;,]+$/, '');
+    if (d.length < 3 || d.length > 120) return null;
+    if (/https?:|www\.|<|>|\{|\}/i.test(d)) return null;
+    if (d.toLowerCase() === String(name ?? '').toLowerCase()) return null;
+    if (/^(wikimedia|wikipedia)\b/i.test(d)) return null;
+    return d;
+}

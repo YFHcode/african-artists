@@ -1,9 +1,11 @@
-# Pictures for the artist profiles: a portrait and a few works per artist from
-# Wikimedia Commons, freely licensed, with credits (scripts/artist-images.mjs).
+# Pictures for the artist profiles (a portrait and a few works per artist) and
+# small portraits for the artists in the lists, from Wikimedia Commons, freely
+# licensed, with credits (scripts/artist-images.mjs); then the lists' short
+# descriptions from Wikidata (scripts/artist-descriptions.mjs).
 # Monthly, a few days after the artist data, so new waves get their pictures;
 # run it by hand from the Actions tab ("Run workflow") after editing
 # data/images/exclude.txt.
-name: Artist images
+name: Artist images and descriptions
 
 on:
   schedule:
@@ -34,17 +36,20 @@ jobs:
       - name: Fetch, convert and write
         run: node scripts/artist-images.mjs
 
+      - name: Descriptions
+        run: node scripts/artist-descriptions.mjs
+
       - name: Check
         run: node --test scripts/artist-images.test.mjs
 
       - name: Commit if changed
         run: |
-          git add data/images public/images/artists
+          git add data/images public/images/artists public/images/list data/artists/descriptions.json
           if git diff --cached --quiet; then
             echo "No change."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898088+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Refresh artist images from Wikimedia Commons"
+          git commit -m "Refresh artist images and descriptions from Wikimedia Commons and Wikidata"
           git push

@@ -70,3 +70,23 @@ export function workTitle(work: Work, locale: Locale): string {
 export function isPublicDomain(license: string): boolean {
     return /^(public domain|pd|pdm|cc0|cc[- ]zero)/i.test(license);
 }
+
+let listCache: Map<string, Picture> | undefined;
+
+/**
+ * The small portrait (120px) of an artist the lists show without a profile,
+ * from data/images/list-portraits.json; undefined when there is none.
+ */
+export function listPortrait(qid: string): Picture | undefined {
+    if (!listCache) {
+        const file = path.join(process.cwd(), 'data', 'images', 'list-portraits.json');
+        listCache = new Map(Object.entries((JSON.parse(fs.readFileSync(file, 'utf8')) as { artists: Record<string, Picture> }).artists));
+    }
+    return listCache.get(qid);
+}
+
+/** Every list portrait, by Wikidata ID (for the credits page). */
+export function allListPortraits(): [string, Picture][] {
+    listPortrait('');
+    return [...listCache!];
+}

@@ -242,7 +242,7 @@ Profiles show a portrait and up to four works when Wikimedia Commons has freely 
 pictures of them; 69 profiled artists do at the first run. Artists without one keep their
 pattern.
 
-- **Source.** `scripts/artist-images.mjs`, run by the "Artist images" workflow (monthly, or by
+- **Source.** `scripts/artist-images.mjs`, run by the "Artist images and descriptions" workflow (monthly, or by
   hand from the Actions tab), takes each profiled artist's Wikidata image (P18) and the works
   they created (P170) that have one. Only public domain, CC0, CC BY and CC BY-SA files are kept.
   A work's year is shown only when Wikidata knows it to the year.
@@ -262,10 +262,21 @@ pattern.
   touches, scrolls or tabs into it, starting again four seconds later; the pause button stops
   it for good (`StripControls.tsx`). With a reduced-motion preference it never drifts and
   scrolls by hand only. It is left out of an edition with fewer than four portraits.
+- **Lists.** Each name in a hub's "More artists" list has a 40px round portrait where Commons
+  has one (120px WebP copies in `public/images/list/`, credits in
+  `data/images/list-portraits.json`, also on `/credits`), else the artist's pattern; the
+  artist's short Wikidata description in the reader's language under the name
+  (`data/artists/descriptions.json`, from `scripts/artist-descriptions.mjs` in the same
+  workflow, now "Artist images and descriptions"); and an "EN" tag when the name links to
+  English Wikipedia because there is no article in the reader's language. Descriptions lose
+  trailing life dates (the line shows them) and are dropped when a single word. Profiled
+  artists are included: an edition without their profile lists them. At the first run 249
+  portraits passed review (52 files excluded) and about 770 artists had a description.
 - **Review.** Look at new pictures after each run. Wikidata's "image" for an artist is
   sometimes a work, not the person: list it in `data/images/as-works.json` with the work's
   title (checked) and it is shown as that work. A wrong or doubtful picture goes in
-  `data/images/exclude.txt`. Then run the workflow again.
+  `data/images/exclude.txt`; for the lists that includes a portrait where the artist is too
+  small to recognise in a 40px circle. Then run the workflow again.
 
 ## Notes for future work
 

@@ -10,7 +10,6 @@
 // here, add the artist's QID to data/images/exclude.txt.
 import { readFile, writeFile } from 'node:fs/promises';
 
-import { ORIGINAL_ARTISTS, ROSTER } from '../src/content/roster.ts';
 import { LANGS, cleanDescription, descriptionQuery, listedArtists, parseBindings, qidOf } from './artist-images-lib.mjs';
 
 const ROOT = new URL('../', import.meta.url);
@@ -40,8 +39,7 @@ async function sparql(query, tries = 5) {
 const lines = async (path) => (await readFile(new URL(path, ROOT), 'utf8').catch(() => '')).split('\n').map((l) => l.replace(/#.*/, '').trim()).filter(Boolean);
 const raw = JSON.parse(await readFile(new URL('data/artists/artists.json', ROOT), 'utf8'));
 const exclude = new Set([...(await lines('data/artists/exclude.txt')), ...(await lines('data/images/exclude.txt'))]);
-const profiled = new Set([...Object.values(ORIGINAL_ARTISTS).map((a) => a.qid), ...ROSTER.map((r) => r.qid)]);
-const listed = listedArtists(raw, exclude, profiled);
+const listed = listedArtists(raw, exclude);
 const nameOf = new Map(listed.map((a) => [a.qid, a.name]));
 
 const out = {};

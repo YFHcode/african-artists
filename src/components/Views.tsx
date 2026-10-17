@@ -8,7 +8,7 @@ import { Portrait, WorksGallery } from '@/components/Pictures';
 import { dictionary } from '@/i18n';
 import { COLLECTIONS, REGIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
 import { type Article, getArticle, getPage, listArticles, relatedArticles } from '@/lib/content';
-import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
+import { LOCALE_INFO, type Locale, joinList, localePath } from '@/lib/i18n';
 import { articleSchema, collectionSchema } from '@/lib/schema';
 import { type Hub, hubPath, hubsListing, liveHubs } from '@/content/hubs';
 import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
@@ -59,8 +59,8 @@ function generatedFacts(article: Article): Fact[] {
     const facts: Fact[] = [];
     if (artist?.born != null) facts.push({ label: t.profile.born, value: String(artist.born) });
     if (artist?.died != null) facts.push({ label: t.profile.died, value: String(artist.died) });
-    if (entry.countries.length > 0) facts.push({ label: t.profile.country, value: entry.countries.map((c) => t.countries[c]).join(', ') });
-    if (entry.media?.length) facts.push({ label: t.profile.disciplines, value: entry.media.map((m) => t.media[m]).join(', ') });
+    if (entry.countries.length > 0) facts.push({ label: t.profile.country, value: joinList(entry.countries.map((c) => t.countries[c]), locale) });
+    if (entry.media?.length) facts.push({ label: t.profile.disciplines, value: joinList(entry.media.map((m) => t.media[m]), locale) });
     return facts;
 }
 
@@ -231,7 +231,7 @@ function RegionIndex({ locale, slug }: { locale: Locale; slug: string }) {
                                     <Link prefetch={false} href={localePath(locale, entryPath(a.entry))} className="font-medium text-clay underline underline-offset-4">
                                         {a.label}
                                     </Link>
-                                    <span className="text-sm text-muted"> · {a.entry.countries.map((c) => t.countries[c]).join(', ')}</span>
+                                    <span className="text-sm text-muted"> · {joinList(a.entry.countries.map((c) => t.countries[c]), locale)}</span>
                                 </li>
                             ))}
                         </ul>

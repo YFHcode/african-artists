@@ -91,6 +91,8 @@ const pt: Dictionary = {
         more: 'Mais artistas',
         moreNote: 'Primeiro, os mais procurados. Os nomes ligam ao nosso perfil ou, quando ainda não o temos, à Wikipédia.',
         related: 'Listas relacionadas',
+        inEnglish: 'Artigo da Wikipédia em inglês',
+        sources: 'Descrições curtas do Wikidata; retratos do Wikimedia Commons.',
     },
     search: {
         label: 'Pesquisar artistas e páginas',
@@ -103,6 +105,7 @@ const pt: Dictionary = {
         wikipedia: 'Wikipédia',
     },
     pictures: {
+        listCredits: 'Artistas das nossas listas',
         creditsTitle: 'Créditos das imagens',
         creditsText: 'As imagens deste site vêm do Wikimedia Commons. Cada uma está no domínio público ou tem uma licença Creative Commons; aqui estão os seus autores, licenças e páginas de origem.',
         portrait: 'Retrato',

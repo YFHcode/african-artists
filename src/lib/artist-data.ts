@@ -115,9 +115,28 @@ export function displayName(artist: DataArtist, locale: Locale): string {
     return title ? title.replace(/\s*\([^)]*\)\s*$/, '') : artist.name;
 }
 
+/** Which Wikipedia the artist's link goes to: the reader's language, else English, else none. */
+export function wikipediaLanguage(artist: DataArtist, locale: Locale): Locale | null {
+    return artist.titles[locale] ? locale : artist.titles.en ? 'en' : null;
+}
+
+let descriptions: Record<string, Partial<Record<Locale, string>>> | null = null;
+
+/**
+ * The artist's short Wikidata description in the reader's language ("Ghanaian
+ * sculptor"), from data/artists/descriptions.json (scripts/artist-descriptions.mjs,
+ * refreshed monthly).
+ */
+export function artistDescription(qid: string, locale: Locale): string | undefined {
+    descriptions ??= (JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'descriptions.json'), 'utf8')) as {
+        artists: Record<string, Partial<Record<Locale, string>>>;
+    }).artists;
+    return descriptions[qid]?.[locale];
+}
+
 /** The artist's Wikipedia article in the reader's language, or in English. */
 export function wikipediaUrl(artist: DataArtist, locale: Locale): string | null {
-    const lang = artist.titles[locale] ? locale : artist.titles.en ? 'en' : null;
+    const lang = wikipediaLanguage(artist, locale);
     if (!lang) return null;
     return `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(artist.titles[lang]!.replaceAll(' ', '_'))}`;
 }

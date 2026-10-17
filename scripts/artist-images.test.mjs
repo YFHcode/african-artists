@@ -104,16 +104,16 @@ test('stored images: every entry has its file, credit and size; no stray files',
     assert.deepEqual(stored.filter((f) => !listed.has(f)), []);
 });
 
-test('listed artists: page and list tiers, minus exclusions, unlabelled items and profiles', () => {
+test('listed artists: page and list tiers, minus exclusions and unlabelled items', () => {
     const raw = { artists: [
         { qid: 'Q1', name: 'Ann', tier: 'page' },
         { qid: 'Q2', name: 'Ben', tier: 'list' },
         { qid: 'Q3', name: 'Cy', tier: 'review' },
         { qid: 'Q4', name: 'Q4', tier: 'list' },
         { qid: 'Q5', name: 'Dee', tier: 'list' },
-        { qid: 'Q6', name: 'Eve', tier: 'list' },
+        { qid: 'Q6', name: 'Eve', tier: 'excluded' },
     ] };
-    assert.deepEqual(listedArtists(raw, new Set(['Q5']), new Set(['Q6'])).map((a) => a.qid), ['Q1', 'Q2']);
+    assert.deepEqual(listedArtists(raw, new Set(['Q5'])).map((a) => a.qid), ['Q1', 'Q2']);
 });
 
 test('Wikidata descriptions: one clean line or nothing', () => {
@@ -124,6 +124,12 @@ test('Wikidata descriptions: one clean line or nothing', () => {
     assert.equal(cleanDescription('Wikimedia disambiguation page', 'Ann'), null);
     assert.equal(cleanDescription('x'.repeat(121), 'Ann'), null);
     assert.equal(cleanDescription('', 'Ann'), null);
+    assert.equal(cleanDescription('Ivorian sculptor (1925–1978)', 'Ann'), 'Ivorian sculptor');
+    assert.equal(cleanDescription('Moroccan painter, printmaker (born c.1938)', 'Ann'), 'Moroccan painter, printmaker');
+    assert.equal(cleanDescription('peintre et graveuse soudanaise (1988-)', 'Ann'), 'peintre et graveuse soudanaise');
+    assert.equal(cleanDescription('artist (born 1971)', 'Ann'), null);
+    assert.equal(cleanDescription('فنان', 'Ann'), null);
+    assert.equal(cleanDescription('Nigerian artist (Igbo)', 'Ann'), 'Nigerian artist (Igbo)');
     assert.match(descriptionQuery(['Q1']), /schema:description/);
 });
 

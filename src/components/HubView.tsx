@@ -5,9 +5,11 @@ import { JsonLd } from '@/components/JsonLd';
 import { dictionary } from '@/i18n';
 import { CATALOG, entryPath, findEntry, isAvailable, regionOf } from '@/content/catalog';
 import { type Hub, findHub, hubKind, hubPath, liveHubs } from '@/content/hubs';
-import { type DataArtist, displayName, hubMembers, lifeYears, wikipediaUrl } from '@/lib/artist-data';
+import { type DataArtist, artistDescription, displayName, hubMembers, lifeYears, wikipediaLanguage, wikipediaUrl } from '@/lib/artist-data';
+import { listPortrait } from '@/lib/artist-images';
+import { quilt } from '@/lib/motifs';
 import { type Article, getArticle, getHubPage } from '@/lib/content';
-import { type Locale, localePath } from '@/lib/i18n';
+import { type Locale, joinList, localePath } from '@/lib/i18n';
 import { collectionSchema } from '@/lib/schema';
 import { Locator, locatorKey } from '@/components/Locator';
 import { Motif } from '@/components/Motif';
@@ -64,23 +66,44 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
 
     const line = (a: DataArtist) => {
         const details = [
-            kind === 'medium' || kind === 'contemporary' ? a.countries.map((c) => t.countries[c]).join(', ') : '',
-            kind === 'country' || kind === 'contemporary' ? a.media.map((m) => t.media[m]).join(', ') : '',
-            lifeYears(a),
+            kind === 'medium' || kind === 'contemporary' ? joinList(a.countries.map((c) => t.countries[c]), locale) : '',
+            kind === 'country' || kind === 'contemporary' ? joinList(a.media.map((m) => t.media[m]), locale) : '',
+            // A word joiner keeps '1904–2002' on one line.
+            lifeYears(a).replace('–', '–\u2060'),
         ].filter(Boolean);
         const href = wikipediaUrl(a, locale);
+        const lang = wikipediaLanguage(a, locale);
+        const pic = listPortrait(a.qid);
+        const description = artistDescription(a.qid, locale);
         // Styled from the <ul>: a list of 400 names repeats nothing per line,
-        // which keeps the HTML and its hydration copy small.
+        // which keeps the HTML and its hydration copy small. A free portrait
+        // from Commons where there is one, else the artist's pattern; the
+        // Wikidata description in the reader's language; "EN" when the link
+        // has to fall back to English Wikipedia.
         return (
             <li key={a.qid}>
-                {href ? (
-                    <a href={href} rel="noopener">
-                        {displayName(a, locale)}
-                    </a>
+                {pic ? (
+                    // eslint-disable-next-line @next/next/no-img-element -- 120px copies already, served as they are
+                    <img src={pic.src} alt="" width={40} height={40} loading="lazy" decoding="async" />
                 ) : (
-                    <b>{displayName(a, locale)}</b>
+                    <span className={quilt(a.qid, 1)[0]} />
                 )}
-                {details.length > 0 && <small>{` · ${details.join(' · ')}`}</small>}
+                <div>
+                    {href ? (
+                        <a href={href} rel="noopener" hrefLang={lang ?? undefined}>
+                            {displayName(a, locale)}
+                        </a>
+                    ) : (
+                        <b>{displayName(a, locale)}</b>
+                    )}
+                    {lang && lang !== locale && (
+                        <abbr title={t.hub.inEnglish} lang="en">
+                            EN
+                        </abbr>
+                    )}
+                    {details.length > 0 && <small>{` · ${details.join(' · ')}`}</small>}
+                    {description && <p>{description}</p>}
+                </div>
             </li>
         );
     };
@@ -128,8 +151,13 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                     <h2 id="hub-more" className="font-display text-2xl font-semibold">
                         {t.hub.more}
                     </h2>
-                    <p className="mt-2 text-sm text-muted">{t.hub.moreNote}</p>
-                    <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3 [&_a]:font-medium [&_a]:text-clay [&_a]:underline [&_a]:underline-offset-4 [&_b]:font-medium [&_li]:break-inside-avoid [&_li]:py-1 [&_small]:text-sm [&_small]:text-muted">
+                    <p className="mt-2 text-sm text-muted">
+                        {t.hub.moreNote} {t.hub.sources}{' '}
+                        <Link prefetch={false} href={localePath(locale, '/credits')} className="underline underline-offset-2">
+                            {t.footer.credits}
+                        </Link>
+                    </p>
+                    <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3 [&_a]:font-medium [&_a]:text-clay [&_a]:underline [&_a]:underline-offset-4 [&_abbr]:ms-1.5 [&_abbr]:rounded [&_abbr]:border [&_abbr]:border-line [&_abbr]:px-1 [&_abbr]:align-middle [&_abbr]:text-[0.65rem] [&_abbr]:font-semibold [&_abbr]:text-muted [&_abbr]:no-underline [&_b]:font-medium [&_img]:size-10 [&_img]:shrink-0 [&_img]:rounded-full [&_img]:bg-sand [&_img]:object-cover [&_img]:object-[50%_20%] [&_li]:flex [&_li]:break-inside-avoid [&_li]:items-start [&_li]:gap-3 [&_li]:py-1.5 [&_li>span]:size-10 [&_li>span]:shrink-0 [&_li>span]:rounded-full [&_p]:text-sm [&_p]:leading-snug [&_p]:text-ink/75 [&_small]:text-sm [&_small]:text-muted">
                         {others.map(line)}
                     </ul>
                 </section>

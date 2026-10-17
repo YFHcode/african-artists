@@ -92,6 +92,8 @@ const en = {
         more: 'More artists',
         moreNote: 'Most looked-up first. Names link to our profile, or to Wikipedia where we do not have one yet.',
         related: 'Related lists',
+        inEnglish: 'Wikipedia article in English',
+        sources: 'Short descriptions from Wikidata; portraits from Wikimedia Commons.',
     },
     search: {
         label: 'Search artists and pages',
@@ -104,6 +106,7 @@ const en = {
         wikipedia: 'Wikipedia',
     },
     pictures: {
+        listCredits: 'Artists in our lists',
         creditsTitle: 'Image credits',
         creditsText: 'The pictures on this site come from Wikimedia Commons. Each is in the public domain or under a Creative Commons licence; here are their authors, licences and source pages.',
         portrait: 'Portrait',

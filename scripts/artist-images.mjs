@@ -191,13 +191,14 @@ const portraits = Object.values(sorted).filter((a) => a.portrait).length;
 const works = Object.values(sorted).reduce((n, a) => n + a.works.length, 0);
 console.log(`Stored ${portraits} portraits and ${works} works for ${Object.keys(sorted).length} of ${artists.length} artists.`);
 
-// 4. Small portraits for the artists the lists show without a profile.
+// 4. Small portraits for the artists in the lists, profiled ones included (an
+// edition without their profile lists them).
 const listExclude = (await readFile(new URL('../data/artists/exclude.txt', import.meta.url), 'utf8').catch(() => ''))
     .split('\n')
     .map((l) => l.replace(/#.*/, '').trim())
     .filter(Boolean);
 const raw = JSON.parse(await readFile(new URL('../data/artists/artists.json', import.meta.url), 'utf8'));
-const listed = listedArtists(raw, new Set([...listExclude, ...exclude]), new Set(slugOf.keys()));
+const listed = listedArtists(raw, new Set([...listExclude, ...exclude]));
 const listFile = new Map();
 for (let i = 0; i < listed.length; i += 50) {
     for (const r of await sparql(portraitQuery(listed.slice(i, i + 50).map((a) => a.qid)))) {

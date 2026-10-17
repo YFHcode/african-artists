@@ -5,7 +5,8 @@ import { notFound } from 'next/navigation';
 import { Credit } from '@/components/Pictures';
 import { dictionary } from '@/i18n';
 import { entriesIn, entryPath, isAvailable } from '@/content/catalog';
-import { artistPictures, workTitle } from '@/lib/artist-images';
+import { dataArtist, displayName } from '@/lib/artist-data';
+import { allListPortraits, artistPictures, workTitle } from '@/lib/artist-images';
 import { getArticle } from '@/lib/content';
 import { localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
@@ -36,6 +37,16 @@ export default async function CreditsPage({ params }: PageProps<'/[locale]/credi
         .map((entry) => ({ entry, pictures: artistPictures(entry.qid), label: getArticle(locale, 'artists', entry.slug)!.label }))
         .filter((a) => a.pictures)
         .sort((a, b) => a.label.localeCompare(b.label, locale));
+    // The small portraits beside the names in the artist lists, but for the
+    // portraits of this edition's profiles, credited above.
+    const credited = new Set(artists.map((a) => a.pictures!.portrait?.file));
+    const listed = allListPortraits()
+        .flatMap(([qid, pic]) => {
+            const artist = dataArtist(qid);
+            if (!artist || credited.has(pic.file)) return [];
+            return [{ qid, pic, name: displayName(artist, locale) }];
+        })
+        .sort((a, b) => a.name.localeCompare(b.name, locale));
 
     return (
         <section className="mx-auto max-w-3xl px-4 py-16">
@@ -64,6 +75,19 @@ export default async function CreditsPage({ params }: PageProps<'/[locale]/credi
                     </li>
                 ))}
             </ul>
+            {listed.length > 0 && (
+                <>
+                    <h2 className="mt-14 font-display text-2xl font-semibold tracking-tight">{t.pictures.listCredits}</h2>
+                    <ul className="mt-4 divide-y divide-line">
+                        {listed.map(({ qid, pic, name }) => (
+                            <li key={qid} id={qid.toLowerCase()} className="py-2">
+                                <span className="text-sm font-semibold">{name}. </span>
+                                <Credit pic={pic} locale={locale} />
+                            </li>
+                        ))}
+                    </ul>
+                </>
+            )}
         </section>
     );
 }

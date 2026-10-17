@@ -3,7 +3,7 @@ import { CATALOG, isAvailable, type Collection } from '@/content/catalog';
 import { hubPath, liveHubs } from '@/content/hubs';
 import { allDataArtists, displayName, lifeYears } from '@/lib/artist-data';
 import { getArticle, getHubPage } from '@/lib/content';
-import type { Locale } from '@/lib/i18n';
+import { type Locale, joinList } from '@/lib/i18n';
 import { entryPath } from '@/content/catalog';
 import { type SearchEntry, normalize } from '@/lib/search';
 
@@ -38,7 +38,7 @@ export function searchIndex(locale: Locale): SearchEntry[] {
             if (entry.qid) profiled.add(entry.qid);
             const meta =
                 collection === 'artists'
-                    ? [entry.countries.map((c) => t.countries[c]).join(', '), entry.years].filter(Boolean).join(' · ')
+                    ? [joinList(entry.countries.map((c) => t.countries[c]), locale), entry.years].filter(Boolean).join(' · ')
                     : t.nav[collection];
             const names = [article.label, article.heading, entry.slug.replaceAll('-', ' ')];
             if (data) names.push(data.name, ...Object.values(data.titles));
@@ -67,7 +67,7 @@ export function searchIndex(locale: Locale): SearchEntry[] {
             k: 'wikipedia',
             l: displayName(a, locale),
             h: `${lang}:${a.titles[lang]}`,
-            m: [a.countries.map((c) => t.countries[c]).join(', '), years].filter(Boolean).join(' · '),
+            m: [joinList(a.countries.map((c) => t.countries[c]), locale), years].filter(Boolean).join(' · '),
             s: [...new Set([a.name, displayName(a, locale), ...Object.values(a.titles)].map(normalize))].join(' '),
         });
     }

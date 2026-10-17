@@ -2,3 +2,58 @@
 # Wikidata ID (a work, or an artist to skip entirely), one per line. Run
 # scripts/artist-images.mjs (or the Artist images workflow) after editing.
 20190205 tervuren africa museum165.jpg  # chéri-chérin: a painting, not a portrait, and the file does not say whose
+
+# Small portraits for the lists (data/images/list-portraits.json) that show
+# something other than the artist, or the artist too small for a 40px circle.
+Afriart Gallery at Art X Lagos 2022.jpg  # a gallery view
+Neils Walwin Holm from Accra.jpg  # a group photograph
+Skander Tej 01.jpg  # a mural, the artist small below it
+Daniel Mensah "Hello" 2006. Foto Regula Tschumi.jpg  # a coffin
+Hezekiah Andrew Shanu-Anciens rois de Boma.jpg  # his photograph of the kings of Boma
+JohnMuafangejo.jpg  # a linocut
+Michael Nelson Jagamarra BMW Art Car.jpg  # a car
+Deborah Poynton - Beyond Belief - exhibition at the Drents Museum in Assen.jpg  # an exhibition view
+Mukomberanwa farming.jpg  # a field, the figure too small
+Paa Joe mit Sandalettensarg 2006.jpeg  # a coffin
+Reconciliation Amos Supuni Woerden.jpg  # a sculpture
+Sculpture in Elthorne Park.jpg  # a sculpture
+Omar Victor Diop Paris Photo.jpg  # an exhibition wall
+Wild Iris 1974 Witkin 1.JPG  # a sculpture
+Ataa Oko and Kudjo Affutu with Oko's red coq coffin 2009. Foto Regula Tschumi.JPG  # a coffin, two people
+Sarah Richards modeling a life-size Boy.jpg  # the sculpture's face fills the small crop
+British Museum Great Court, London, UK - Diliff (cropped).jpg  # a building
+Ouanes Amor (1995).png  # a painting
+Tapices de Bela Duarte en el CNAD (1).jpg  # tapestries
+Colleen Madamombe und Agnes Nyanhongo.jpg  # two artists
+YahiaTurkiAbdelazizGorgiAmmarFarhatTunis1953.jpg  # a group photograph
+Forestfred.png  # a collage
+Archive MAMCO African artist exibition n. 2727.jpg  # an exhibition view
+Boris Nzebo, Têtes de rêve 01.JPG  # a painting
+Mon atelier à Brazzaville.jpg  # a studio
+Ginette Daleu exhibition off SUD 2013 03.JPG  # an exhibition view
+Performance Joel Mpah Dooh.jpg  # a performance, the figures too small
+Leslie Hammond (1978).jpg  # a crowd
+Safaa-erruas-alta.JPG  # a work
+Roberto Paci Dalò - SUD Salon Urbain de Douala 2010 (191).jpg  # the file does not say who it shows
+Leila Babirye.jpg  # a street, the artist too small
+Boris nzebo peinture 3536 moy.jpg  # a painting by Boris Nzebo, on Tracey Rose's item
+AfrikahausFreibergSkulpturenAkpan.jpg  # sculptures
+SUD Salon Urbain de Douala 2010 - 07.JPG  # an installation
+Adolph-Jentsch-Commemorative-First-Day-Cover-SWA-1973.jpg  # a stamp cover
+Alberto Chissano and the baobab.jpg  # a tree, the figure too small
+Armand Photo Shop.jpg  # a shop front
+Diane-Victor-Atelier-le-grand-village-Artskop3437-Nontron.jpg  # the artist from behind
+CHLDR O S Ben 1 61.jpg  # a sculpture
+Ethel Dixie - Amaryllis belladonna.jpg  # a botanical drawing
+Uli Aschenborn with his changing painting Girl-Elephant BIG.gif  # the painting fills the crop
+Nyanhongo sculpture.jpg  # a sculpture
+©CDimitriadis HHeshmat 18.jpg  # a sculpture
+Hafida Zizi au musée de la femme Marrakech.jpg  # an exhibition panel
+Tribe and Tribulation - a 2022 sculpture by Serge Attukwei Clottey.jpg  # a sculpture
+Smith Le Roux met wandschilderingen voor Jagersfontein, 1949.jpg  # a mural, the artist small
+Lisa swerling wiki.jpg  # a studio, the artist small
+Moses Kottler "FrankWunder".jpg  # a sculpture
+Nazir Tanbouli, painter; portrait 2011.jpg  # a mural, the artist small
+YorubaBowl.jpg  # a carving
+Thakor Patel Drawing.jpg  # a drawing
+Winifred Mabel Brunton House Brunton JHF 003.jpg  # a drawing

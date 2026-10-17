@@ -63,6 +63,11 @@ export function localePath(locale: Locale, path: string): string {
     return path === '/' ? `/${locale}` : `/${locale}${path}`;
 }
 
+/** 'Ghana, Nigeria', with the Arabic comma on the Arabic edition. */
+export function joinList(items: readonly string[], locale: Locale): string {
+    return items.join(locale === 'ar' ? '، ' : ', ');
+}
+
 /**
  * The inverse of localePath: which edition a public path belongs to, and its
  * edition-independent form.

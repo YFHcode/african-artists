@@ -136,13 +136,14 @@ export function storedName(slug, what) {
 export const LIST_THUMB_WIDTH = 120;
 
 /**
- * The artists the lists show without a profile: the page and list tiers of
- * data/artists/artists.json, minus data/artists/exclude.txt, items with no
- * English label, and anyone profiled (they have their own pictures).
+ * The artists the lists can show: the page and list tiers of
+ * data/artists/artists.json, minus data/artists/exclude.txt and items with no
+ * English label. Profiled artists are in too, since an edition without their
+ * profile lists them like anyone else.
  */
-export function listedArtists(raw, exclude, profiled) {
+export function listedArtists(raw, exclude) {
     return raw.artists
-        .filter((a) => (a.tier === 'page' || a.tier === 'list') && !exclude.has(a.qid) && !/^Q\d+$/.test(a.name) && !profiled.has(a.qid))
+        .filter((a) => (a.tier === 'page' || a.tier === 'list') && !exclude.has(a.qid) && !/^Q\d+$/.test(a.name))
         .map((a) => ({ qid: a.qid, name: a.name }));
 }
 
@@ -153,11 +154,18 @@ export function descriptionQuery(qids) {
 
 /**
  * A Wikidata description fit to show beside a name: one line, plain text, not
- * a link, not the name again, at most 120 characters. Anything else is dropped.
+ * a link, not the name again, at most 120 characters. Life dates at the end
+ * ("(born 1961)", "(1925–1978)") go, since the line shows them already, and a
+ * lone word ("artist", "فنان") is dropped as saying nothing the list does not.
  */
 export function cleanDescription(text, name) {
-    const d = String(text ?? '').replace(/\s+/g, ' ').trim().replace(/[.;,]+$/, '');
-    if (d.length < 3 || d.length > 120) return null;
+    const d = String(text ?? '')
+        .replace(/\s+/g, ' ')
+        .trim()
+        .replace(/[.;,]+$/, '')
+        .replace(/\s*\([^()]*\d{3,4}[^()]*\)$/, '')
+        .replace(/[.;,]+$/, '');
+    if (d.length < 3 || d.length > 120 || !/\s/.test(d)) return null;
     if (/https?:|www\.|<|>|\{|\}/i.test(d)) return null;
     if (d.toLowerCase() === String(name ?? '').toLowerCase()) return null;
     if (/^(wikimedia|wikipedia)\b/i.test(d)) return null;

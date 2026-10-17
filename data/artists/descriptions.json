@@ -17,6 +17,9 @@
    "pt": "artista ganês",
    "ar": "فنان غاني"
   },
+  "Q101982384": {
+   "en": "Nigerian Author, Photographer and Filmmaker"
+  },
   "Q102113346": {
    "en": "Ghanaian artist and educator",
    "fr": "sculptrice ghanéenne",
@@ -33,6 +36,10 @@
   },
   "Q103909213": {
    "en": "visual artist of Igbo (Nigerian) ancestry"
+  },
+  "Q105357569": {
+   "en": "English-Ghanaian novelist and photographer",
+   "fr": "romancier et photographe anglo-ghanéen"
   },
   "Q105696486": {
    "en": "Ghanaian photographer",
@@ -250,9 +257,20 @@
    "es": "artista nigeriana",
    "ar": "فنانة نيجيرية"
   },
+  "Q113865925": {
+   "en": "Nigerian photographer",
+   "fr": "photographe nigérien",
+   "es": "fotógrafo nigeriano",
+   "ar": "مصور نيجيري"
+  },
   "Q114613179": {
    "en": "British photographer and filmmaker",
    "fr": "photographe et cinéaste britannique"
+  },
+  "Q115109888": {
+   "en": "Sudanese-Norwegian artist and LGBT activist",
+   "es": "artista y activista LGBT de Sudán-Noruega",
+   "ar": "فنان تشكيلي سوداني"
   },
   "Q115292107": {
    "en": "Sudanese photojournalist",
@@ -348,6 +366,10 @@
    "es": "pintor argelino",
    "ar": "رسام جزائري"
   },
+  "Q123111935": {
+   "en": "Ghanaian artist and poet",
+   "fr": "artiste ghanaienne"
+  },
   "Q123478083": {
    "en": "Beninese visual artist",
    "fr": "artiste plasticienne béninoise"
@@ -369,6 +391,11 @@
   },
   "Q127503911": {
    "en": "nigerian-born New Zealand painter"
+  },
+  "Q12955922": {
+   "en": "French-Tunisian artist",
+   "fr": "artiste franco-tunisien",
+   "ar": "فنان و رسام فرنسي من أصل تونسي"
   },
   "Q13034866": {
    "en": "South African actor and sculptor"
@@ -396,6 +423,12 @@
    "en": "Photojournalist in Democratic republic of the Congo",
    "fr": "photojournaliste en république démocratique du Congo"
   },
+  "Q1323876": {
+   "en": "Ghanaian painter and sculptor",
+   "fr": "artiste ghanéen",
+   "es": "artista ghanés",
+   "ar": "فنان غاني"
+  },
   "Q133333058": {
    "en": "Tanzanian artist, writer and researcher",
    "fr": "Artiste, écrivaine et chercheuse tanzanienne"
@@ -418,11 +451,31 @@
    "fr": "artiste installationniste",
    "es": "artista africano"
   },
+  "Q1384960": {
+   "en": "Moroccan Artist - Painter",
+   "fr": "artiste peintre marocain",
+   "es": "pintor marroquí",
+   "pt": "pintor marroquino",
+   "ar": "رسام مغربي"
+  },
   "Q1458265": {
    "en": "Ivorian sculptor",
    "fr": "sculpteur ivoirien",
    "es": "escultor marfileño",
    "ar": "نحات إيفواري"
+  },
+  "Q1459134": {
+   "en": "Egyptian sculptor",
+   "fr": "sculpteur égyptien",
+   "es": "escultor egipcio",
+   "pt": "escultor egípcio",
+   "ar": "نَحّات مصري"
+  },
+  "Q146776": {
+   "en": "South African artist and visual activist",
+   "fr": "photographe sud-africaine",
+   "es": "artista y activista visual de Sudáfrica",
+   "ar": "مصورة جنوب أفريقية"
   },
   "Q1471865": {
    "en": "American artist",
@@ -450,6 +503,12 @@
    "pt": "escultor ganês",
    "ar": "نحات غاني"
   },
+  "Q1507782": {
+   "en": "Tanzanian artist",
+   "fr": "artiste tanzanien",
+   "es": "artista tanzano",
+   "ar": "فنان تنزاني"
+  },
   "Q1508012": {
    "en": "Nigerian photographer",
    "fr": "photographe nigérien",
@@ -463,6 +522,12 @@
    "es": "artista sudafricano",
    "pt": "pintor sul-africano",
    "ar": "فنان جنوب أفريقي"
+  },
+  "Q1514491": {
+   "en": "South African photographer",
+   "fr": "photographe sud-africain",
+   "es": "fotógrafo sudafricano",
+   "ar": "مصور جنوب أفريقي"
   },
   "Q15298677": {
    "en": "Beninese photographer",
@@ -492,6 +557,12 @@
    "pt": "pintor nigeriano",
    "ar": "رسام نيجيري"
   },
+  "Q15461959": {
+   "en": "Nigerian artist",
+   "fr": "peintre, illustrateur et théoricien de l'art nigérian",
+   "es": "artista nigeriano",
+   "ar": "فنان نيجيري"
+  },
   "Q15485701": {
    "en": "South African artist",
    "fr": "artiste sud-africaine",
@@ -505,11 +576,25 @@
    "es": "artista sudafricano",
    "ar": "فنان جنوب أفريقي"
   },
+  "Q1550279": {
+   "en": "American photographer",
+   "fr": "photographe américain",
+   "es": "fotógrafo estadounidense",
+   "pt": "fotógrafo norte-americano",
+   "ar": "مصور أمريكي"
+  },
   "Q15917774": {
    "en": "Egyptian photographer",
    "fr": "photographe français",
    "es": "fotógrafo egipcio",
    "ar": "مصور مصري"
+  },
+  "Q16010963": {
+   "en": "Nigerian potter",
+   "fr": "potière nigériane",
+   "es": "ceramista nigeriana",
+   "pt": "ceramista nigeriana",
+   "ar": "خزافة نيجيرية"
   },
   "Q16014885": {
    "en": "Moroccan writer and artist",
@@ -553,6 +638,12 @@
    "es": "escultor zimbabuense",
    "pt": "escultor zimbabuense",
    "ar": "نحات زيمبابوي"
+  },
+  "Q16091114": {
+   "en": "Ghanaian photographer",
+   "fr": "photographe ghanéen",
+   "es": "fotógrafo ghanés",
+   "ar": "مصور غاني"
   },
   "Q16105509": {
    "en": "South African photographer",
@@ -822,6 +913,13 @@
    "pt": "fotógrafa sul-africana",
    "ar": "فنانة جنوب أفريقية"
   },
+  "Q17183810": {
+   "en": "French sculptor",
+   "fr": "sculpteur français",
+   "es": "escultor francés",
+   "pt": "escultor francês",
+   "ar": "نحات فرنسي"
+  },
   "Q17233130": {
    "en": "South African sculptor",
    "fr": "sculpteur sud-africain",
@@ -991,6 +1089,12 @@
    "pt": "escultor sul-africano",
    "ar": "نحات جنوب أفريقي"
   },
+  "Q19800726": {
+   "en": "Ghanaian contemporary artist",
+   "fr": "artiste ghanéen",
+   "es": "artista ghanés",
+   "ar": "فنان غاني"
+  },
   "Q19800984": {
    "en": "artist from Mozambique",
    "pt": "artista moçambicano"
@@ -1030,6 +1134,11 @@
    "pt": "escultor nigeriano",
    "ar": "نحات نيجيري"
   },
+  "Q19976007": {
+   "en": "Moroccan creator, designer and photographer",
+   "fr": "créateur, designer et photographe marocain, né en 1961",
+   "ar": "فنان مغربي معاصر"
+  },
   "Q20047924": {
    "en": "plastic artist of Portuguese origin",
    "fr": "artiste plasticien d'origine portugaise",
@@ -1040,6 +1149,13 @@
    "en": "Moroccan-French visual artist",
    "es": "artista visual franco-marroquí",
    "ar": "فنانة تشكيلية مغربية"
+  },
+  "Q2016818": {
+   "en": "Moroccan painter",
+   "fr": "peintre marocaine",
+   "es": "pintora marroquí",
+   "pt": "pintora marroquina",
+   "ar": "رسامة مغربية"
   },
   "Q20202363": {
    "en": "South African painter",
@@ -1059,6 +1175,16 @@
    "fr": "artiste béninois",
    "es": "artista beninés",
    "ar": "فنان بنيني"
+  },
+  "Q20381812": {
+   "en": "Egyptian sculptor",
+   "fr": "sculpteur égyptien",
+   "es": "escultor egipcio",
+   "ar": "نحات مصري"
+  },
+  "Q20394418": {
+   "en": "Sudanese painter and filmmaker",
+   "ar": "مخرج وفنان تشكيلي سوداني"
   },
   "Q2044980": {
    "fr": "artiste contemporain ghanéen"
@@ -1104,11 +1230,22 @@
    "pt": "fotógrafo namibiano",
    "ar": "مصور ناميبي"
   },
+  "Q20687449": {
+   "en": "Nigerian singer,singerwritter, photographer and Philanthropist",
+   "fr": "chanteuse nigériane",
+   "es": "cantante nigeriana",
+   "ar": "مغنية نيجيرية"
+  },
   "Q2071033": {
    "en": "Ivorian artist",
    "fr": "dessinateur et poète ivoirien",
    "es": "artista marfileño",
    "ar": "فنان إيفواري"
+  },
+  "Q20724924": {
+   "en": "Egyptian-Canadian contemporary artist",
+   "es": "artista plástica armenia",
+   "ar": "فنانة تشكيلية مصرية"
   },
   "Q20727656": {
    "en": "DR Congolese and French artist",
@@ -1176,12 +1313,22 @@
    "pt": "escultor nigeriano",
    "ar": "نحات نيجيري"
   },
+  "Q20988972": {
+   "en": "Egyptian artist",
+   "fr": "artiste égyptienne",
+   "es": "artista egipcia",
+   "ar": "رسامة مصرية"
+  },
   "Q21062609": {
    "en": "Beninese painter and graphic artist",
    "fr": "artiste plasticien béninois"
   },
   "Q21063924": {
    "en": "an art historian, painter and artist"
+  },
+  "Q21284874": {
+   "en": "Nigerian-American visual artist",
+   "fr": "artiste visuelle nigériano-américaine"
   },
   "Q2131453": {
    "en": "South African photographer",
@@ -1197,6 +1344,12 @@
    "en": "Egyptian-born artist, writer and patron of the arts",
    "fr": "artiste peintre, écrivain et mécène d'origine égyptienne",
    "ar": "كاتبة مصرية"
+  },
+  "Q21467258": {
+   "en": "Ghanaian artist",
+   "fr": "artiste ghanéen",
+   "es": "artista ghanés",
+   "ar": "فنان غاني"
   },
   "Q21511496": {
    "en": "Moroccan painter and draughtsperson",
@@ -1278,9 +1431,23 @@
    "pt": "pintora argelina",
    "ar": "رسامة جزائرية"
   },
+  "Q22083293": {
+   "en": "Moroccan-French photographer & video artist",
+   "fr": "photographe et vidéaste franco-marocaine",
+   "es": "fotógrafa y vídeoartista francesa",
+   "pt": "fotógrafo franco-marroquino",
+   "ar": "مصورة مغربية"
+  },
   "Q22087436": {
    "en": "South African painter",
    "ar": "رسام جنوب أفريقي"
+  },
+  "Q2216589": {
+   "en": "South African photographer",
+   "fr": "photographe sud-africain",
+   "es": "fotógrafo sudafricano",
+   "pt": "fotógrafo sul-africano",
+   "ar": "مصور جنوب أفريقي"
   },
   "Q22237568": {
    "en": "contemporary artist"
@@ -1302,6 +1469,10 @@
   "Q2298056": {
    "en": "Nigerian sculptor and painter",
    "es": "artista nigeriana"
+  },
+  "Q23020546": {
+   "en": "South African painter",
+   "ar": "رسام جنوب أفريقي"
   },
   "Q23068108": {
    "en": "Jewish sculptor",
@@ -1371,6 +1542,13 @@
   "Q24062851": {
    "en": "Egyptian painter,mixed media artist and lecturer"
   },
+  "Q2411298": {
+   "en": "Kenyan photojournalist politician and activist involved in social-political activism",
+   "fr": "photographe kenyan",
+   "es": "fotógrafo keniano",
+   "pt": "fotógrafo queniano",
+   "ar": "مصور كيني"
+  },
   "Q24236535": {
    "en": "Kenyan Filmmaker, Artist, fashion photographer and Art director",
    "fr": "cinéaste, artiste visuelle, photographe de mode et directrice artistique kenyane"
@@ -1380,6 +1558,12 @@
    "fr": "photographe égyptienne",
    "es": "fotógrafa egipcia",
    "ar": "مصورة مصرية"
+  },
+  "Q243830": {
+   "en": "South African artist",
+   "fr": "artiste sud-africain",
+   "es": "artista sudafricano",
+   "ar": "فنان جنوب أفريقي"
   },
   "Q24572749": {
    "en": "Nigerian Swedish photographer and travel writer",
@@ -1433,6 +1617,25 @@
   "Q25999443": {
    "en": "South African electronica producer and visual artist"
   },
+  "Q260617": {
+   "en": "South African painter and draftsperson",
+   "fr": "artiste sud-africaine",
+   "es": "artista sudafricana",
+   "ar": "فنانة جنوب أفريقية"
+  },
+  "Q2617109": {
+   "en": "Congolese painter",
+   "fr": "peintre congolais",
+   "es": "pintor congoleño",
+   "pt": "pintor da República Democrática do Congo",
+   "ar": "رسام كونغولي"
+  },
+  "Q262660": {
+   "en": "South African photojournalist",
+   "fr": "reporter photo sud-africain",
+   "es": "reportero gráfico sudafricano",
+   "ar": "مصورا صحفيا من جنوب أفريقيا"
+  },
   "Q2644222": {
    "en": "South African photographer",
    "fr": "photographe sud-africain",
@@ -1457,6 +1660,11 @@
    "pt": "artista marroquino",
    "ar": "فنان مغربي"
   },
+  "Q2662098": {
+   "en": "Sudanese visual artist and former diplomat",
+   "fr": "peintre et homme politique soudanais",
+   "ar": "سياسي سوداني"
+  },
   "Q26816982": {
    "en": "Nigerian artist",
    "fr": "artiste nigérien",
@@ -1474,6 +1682,12 @@
    "fr": "peintre ghanéen",
    "es": "pintor ghanés",
    "pt": "pintor ganês"
+  },
+  "Q2700036": {
+   "en": "South African artist and DJ",
+   "fr": "artiste et DJ sud-africain",
+   "es": "artista sudafricano",
+   "ar": "فنان جنوب أفريقي"
   },
   "Q27050243": {
    "en": "Nigerian photographer",
@@ -1501,6 +1715,13 @@
    "es": "escultora zimbabuense",
    "pt": "escultora zimbabuense",
    "ar": "نحاتة زيمبابوية"
+  },
+  "Q2743155": {
+   "en": "South African sculptor",
+   "fr": "sculpteur sud-africain",
+   "es": "escultor sudafricano",
+   "pt": "escultor sul-africano",
+   "ar": "نحات جنوب أفريقي"
   },
   "Q27500870": {
    "en": "Egyptian photojournalist",
@@ -1531,6 +1752,13 @@
    "en": "Ethiopian writer and artist",
    "fr": "écrivaine et artiste éthiopienne"
   },
+  "Q2784081": {
+   "en": "Senegalese sculptor",
+   "fr": "sculpteur sénégalais",
+   "es": "escultor senegalés",
+   "pt": "escultor senegalês",
+   "ar": "نحات سنغالي"
+  },
   "Q27968960": {
    "en": "Tunisian sculptor and engraver",
    "fr": "sculpteur et graveur tunisien"
@@ -1541,6 +1769,19 @@
    "es": "fotógrafa tunecina",
    "pt": "fotógrafa tunisina",
    "ar": "مصورة تونسية"
+  },
+  "Q28059083": {
+   "en": "Egyptian artist",
+   "fr": "artiste égyptien",
+   "es": "artista egipcio",
+   "ar": "فنان مصري"
+  },
+  "Q281203": {
+   "en": "South African artist",
+   "fr": "artiste sud-africaine",
+   "es": "artista sudafricana",
+   "pt": "pintora sul-africana",
+   "ar": "فنانة جنوب أفريقية"
   },
   "Q28153429": {
    "en": "Moroccan painter",
@@ -1669,6 +1910,13 @@
    "pt": "fotógrafo angolano",
    "ar": "فنان أنغولي"
   },
+  "Q2878328": {
+   "en": "Algerian painter",
+   "fr": "peintre algérien",
+   "es": "pintor argelino",
+   "pt": "pintor argelino",
+   "ar": "رسام جزائري"
+  },
   "Q2878362": {
    "fr": "sculpteur zimbabwéen",
    "es": "escultor zimbabuense",
@@ -1728,6 +1976,12 @@
    "fr": "peintre nigérien",
    "es": "pintor nigeriano",
    "ar": "رسام نيجيري"
+  },
+  "Q288793": {
+   "en": "Egyptian American artist",
+   "fr": "artiste plasticienne égyptienne",
+   "es": "artista plástica egipcia",
+   "ar": "رسامة مصرية"
   },
   "Q28911657": {
    "en": "South African artist",
@@ -1843,6 +2097,13 @@
    "en": "French-Senegalese photographer",
    "fr": "photographe franco-sénégalaise"
   },
+  "Q3027520": {
+   "en": "Tunisian artist",
+   "fr": "artiste tunisien",
+   "es": "artista tunecino",
+   "pt": "pintor tunisino",
+   "ar": "فنان تونسي"
+  },
   "Q30323546": {
    "en": "Nigerian-British photographer and filmmaker"
   },
@@ -1853,11 +2114,23 @@
    "pt": "fotógrafo costa-marfinense",
    "ar": "مصور إفواري"
   },
+  "Q30501964": {
+   "en": "Gambian-British photographer",
+   "fr": "photographe gambienne et britannique",
+   "pt": "fotógrafa gambiana-britânica"
+  },
   "Q3057074": {
    "en": "South African artist",
    "fr": "artiste sud-africain",
    "es": "artista sudafricano",
    "ar": "فنان جنوب أفريقي"
+  },
+  "Q3066863": {
+   "en": "Moroccan painter",
+   "fr": "peintre marocain",
+   "es": "pintor argelino",
+   "pt": "pintor argelino",
+   "ar": "رسام مغربي"
   },
   "Q3066875": {
    "en": "Algerian actor and photographer",
@@ -1887,6 +2160,13 @@
    "en": "Egyptian and French painter",
    "fr": "peintre français d'origine égyptienne",
    "ar": "فنان مصري فرنسي"
+  },
+  "Q3116258": {
+   "en": "South African photographer",
+   "fr": "photographe sud-africain",
+   "es": "fotógrafo sudafricano",
+   "pt": "fotojornalista sul-africano",
+   "ar": "مصور جنوب أفريقي"
   },
   "Q3116569": {
    "en": "South African photographer",
@@ -1946,6 +2226,13 @@
    "pt": "fotógrafo nigeriano",
    "ar": "مصور نيجيري"
   },
+  "Q3157630": {
+   "en": "South African landscape artist",
+   "fr": "artiste sud-africain",
+   "es": "artista sudafricano",
+   "pt": "pintor sul-africano",
+   "ar": "فنان جنوب أفريقي"
+  },
   "Q3171674": {
    "en": "Angolan Congolese photographer",
    "fr": "photographe congolais",
@@ -1960,9 +2247,23 @@
    "pt": "pintor marroquino",
    "ar": "رسام مغربي"
   },
+  "Q3179715": {
+   "en": "South African photojournalist",
+   "fr": "photographe de guerre sud-africain"
+  },
+  "Q3182608": {
+   "en": "Kenyan photojournalist",
+   "ar": "محمد أمين (صحفي كيني)"
+  },
   "Q3184249": {
    "en": "Cameroonian artist and sculptor",
    "fr": "peintre et sculpteur camerounais"
+  },
+  "Q3195075": {
+   "en": "South African photographer",
+   "fr": "photographe sud-africain",
+   "es": "fotógrafo sudafricano",
+   "ar": "مصور جنوب أفريقي"
   },
   "Q3195118": {
    "en": "South African artist",
@@ -1974,6 +2275,12 @@
    "fr": "peintre sénégalais",
    "es": "pintor senegalés",
    "ar": "رسام سنغالي"
+  },
+  "Q320622": {
+   "en": "Yoruba artist from the Republic of Bénin",
+   "fr": "artiste béninois",
+   "es": "artista beninés",
+   "ar": "فنان بنيني"
   },
   "Q3229173": {
    "en": "Algerian painter",
@@ -2000,6 +2307,25 @@
    "en": "Moroccan contemporary artist",
    "fr": "artiste contemporaine marocaine",
    "ar": "فنانة تشكيلية مغربية"
+  },
+  "Q3272339": {
+   "en": "Algerian painter and postage stamp designer",
+   "fr": "peintre algérien",
+   "es": "pintor argelino",
+   "ar": "رسام جزائري"
+  },
+  "Q3277719": {
+   "en": "Moroccan artist",
+   "fr": "artiste marocain",
+   "es": "artista marroquí",
+   "ar": "فنان مغربي"
+  },
+  "Q3277762": {
+   "en": "Moroccan politician and painter",
+   "fr": "homme politique, amazighiste, poète et peintre marocain",
+   "es": "pintor, Marruecos",
+   "pt": "pintor, Marrocos",
+   "ar": "سياسي مغربي"
   },
   "Q3277827": {
    "en": "Tunisian painter",
@@ -2039,16 +2365,42 @@
    "es": "escultor argelino",
    "ar": "نحات جزائري"
   },
+  "Q3318577": {
+   "en": "Moroccan painter",
+   "fr": "peintre marocain",
+   "es": "pintor marroquí",
+   "pt": "pintor marroquino",
+   "ar": "رسام مغربي"
+  },
   "Q3318619": {
    "en": "Moroccan painter and poet",
    "fr": "peintre et poëte marocain",
    "ar": "فنان تشكيلي مغربي"
+  },
+  "Q3318688": {
+   "en": "Moroccan photographer",
+   "fr": "photographe marocain",
+   "es": "fotógrafo marroquí",
+   "pt": "fotógrafo marroquino",
+   "ar": "مصور مغربي"
   },
   "Q3318855": {
    "en": "Algerian painter and postage stamp designer",
    "fr": "peintre algérien",
    "es": "pintor argelino",
    "ar": "رسام جزائري"
+  },
+  "Q3319034": {
+   "en": "Algerian artist",
+   "fr": "artiste algérien",
+   "es": "artista argelino",
+   "pt": "pintor argelino",
+   "ar": "فنان جزائري"
+  },
+  "Q3319051": {
+   "en": "Moroccan writer, artist and storyteller",
+   "fr": "conteur marocain",
+   "ar": "كاتب وفنان وقاص مغربي"
   },
   "Q3326375": {
    "en": "Senegalese film director and photographer",
@@ -2076,6 +2428,13 @@
    "es": "artista tunecino",
    "ar": "فنان تونسي"
   },
+  "Q3346742": {
+   "en": "Cameroonian artist",
+   "fr": "artiste camerounais",
+   "es": "artista camerunés",
+   "pt": "pintor camaronense",
+   "ar": "فنان كاميروني"
+  },
   "Q3347013": {
    "en": "Tunisian painter",
    "fr": "peintre tunisien",
@@ -2099,6 +2458,13 @@
    "es": "fotógrafo marfileño",
    "pt": "fotógrafo costa-marfinense",
    "ar": "مصور إيفواري"
+  },
+  "Q3415851": {
+   "en": "Algerian painter and singer",
+   "fr": "chanteur algérien",
+   "es": "cantante argelino",
+   "pt": "cantor argelino",
+   "ar": "مغني ورسَّام جزائري"
   },
   "Q3416180": {
    "en": "Algerian artist",
@@ -2150,12 +2516,30 @@
    "es": "artista tunecina",
    "ar": "رسامة تونسية"
   },
+  "Q3471115": {
+   "en": "Cameroonian-born Nigerian photographer",
+   "fr": "photographe camerounais",
+   "es": "fotógrafo camerunés",
+   "ar": "مصور كاميروني"
+  },
   "Q3476652": {
    "en": "Senegalese painter",
    "fr": "artiste plasticien sénégalais",
    "es": "pintor senegalés",
    "pt": "pintor senegalês",
    "ar": "رسام سنغالي"
+  },
+  "Q3481056": {
+   "en": "Senegalese artist",
+   "fr": "sculptrice et potière sénégalaise",
+   "es": "artista senegalesa",
+   "ar": "فنانة سنغالية"
+  },
+  "Q353674": {
+   "fr": "artiste, photographe, sculpteur et vidéaste français d'origine algérienne",
+   "es": "artista francés",
+   "pt": "artista francês",
+   "ar": "فنان فرنسي"
   },
   "Q3561678": {
    "en": "Senegalese painter",
@@ -2170,6 +2554,12 @@
    "es": "pintor sudafricano",
    "pt": "pintor sul-africano",
    "ar": "رسام جنوب أفريقي"
+  },
+  "Q357005": {
+   "en": "Nigerian artist",
+   "fr": "artiste nigérien",
+   "es": "artista nigeriano",
+   "ar": "فنان نيجيري"
   },
   "Q3571313": {
    "en": "Tunisian painter",
@@ -2202,6 +2592,19 @@
    "pt": "pintor ganês",
    "ar": "فنان غاني"
   },
+  "Q364207": {
+   "en": "South African writer and painter",
+   "fr": "peintre et écrivain sud-africain",
+   "es": "escritor y poeta sudafricano",
+   "pt": "escritor e pintor sul-africano",
+   "ar": "شاعر وكاتب جنوب إفريقي"
+  },
+  "Q3645490": {
+   "en": "Nigerian painter and sculptor",
+   "fr": "graveur, peintre et sculpteur nigérian",
+   "es": "artista nigeriano",
+   "ar": "فنان نيجيري"
+  },
   "Q3651428": {
    "en": "Congolese artist",
    "fr": "artiste congolais",
@@ -2215,6 +2618,13 @@
    "es": "artista nigeriano",
    "pt": "artista nigeriano",
    "ar": "فنان نيجيري"
+  },
+  "Q3676169": {
+   "en": "Congolese painter",
+   "fr": "peintre de la république démocratique du Congo",
+   "es": "pintor congoleño",
+   "pt": "pintor da República Democrática do Congo",
+   "ar": "رسام كونغولي"
   },
   "Q3704392": {
    "en": "South African artist",
@@ -2234,6 +2644,12 @@
    "es": "escultora sudafricana",
    "pt": "escultora sul-africana",
    "ar": "نحاتة جنوب أفريقية"
+  },
+  "Q3733455": {
+   "en": "South African artist",
+   "fr": "artiste sud-africaine",
+   "es": "artista sudafricana",
+   "ar": "فنانة جنوب أفريقية"
   },
   "Q3733800": {
    "en": "Ethiopian-born Danish sculptor",
@@ -2309,12 +2725,24 @@
    "es": "artista ghanés",
    "ar": "فنان غاني"
   },
+  "Q382165": {
+   "en": "Ethiopian artist",
+   "fr": "artiste éthiopien",
+   "es": "artista etíope",
+   "ar": "فنان إثيوبي"
+  },
   "Q3830907": {
    "en": "South African photographer",
    "fr": "photographe sud-africain",
    "es": "fotógrafo sudafricano",
    "pt": "fotógrafo sul-africano",
    "ar": "مصور جنوب أفريقي"
+  },
+  "Q384560": {
+   "en": "Mozambican artist",
+   "fr": "artiste mozambicain",
+   "es": "artista mozambiqueño",
+   "ar": "فنان موزمبيقي"
   },
   "Q3874050": {
    "en": "Moroccan singer-songwriter, poet and painter",
@@ -2328,11 +2756,23 @@
    "pt": "escultora nigeriana",
    "ar": "فنانة نيجيرية"
   },
+  "Q3877421": {
+   "en": "Nigerian artist",
+   "fr": "artiste nigériane",
+   "es": "artista nigeriana",
+   "ar": "فنانة نيجيرية"
+  },
   "Q3881996": {
    "en": "American artist",
    "fr": "artiste américain",
    "es": "artista estadounidense",
    "ar": "فنان أمريكي"
+  },
+  "Q3887122": {
+   "en": "Nigerian visual artist",
+   "fr": "artiste nigérienne",
+   "es": "artista nigeriana",
+   "ar": "فنانة نيجيرية"
   },
   "Q3887749": {
    "en": "German artist",
@@ -2387,6 +2827,12 @@
    "es": "artista etíope",
    "ar": "فنان إثيوبي"
   },
+  "Q4023104": {
+   "en": "Egyptian photographer and artist",
+   "fr": "photographe et artiste égyptien",
+   "es": "fotógrafo egipcio",
+   "ar": "مصور مصري"
+  },
   "Q40628497": {
    "en": "Mozambican painter and sculptor",
    "fr": "peintre et sculptrice mozambicaine",
@@ -2402,6 +2848,12 @@
    "fr": "peintre français",
    "es": "pintor francés",
    "ar": "رسام مصري فرنسي"
+  },
+  "Q4118622": {
+   "en": "Egyptian artist",
+   "fr": "artiste égyptien",
+   "es": "artista egipcio",
+   "ar": "فنان مصري"
   },
   "Q4118816": {
    "en": "Egyptian painter",
@@ -2524,12 +2976,36 @@
    "es": "pintor marroquí",
    "ar": "فنان تشكيلي مغربي"
   },
+  "Q4526104": {
+   "en": "British-Nigerian artist",
+   "fr": "artiste britannique",
+   "es": "artista británico",
+   "ar": "فنان بريطاني"
+  },
+  "Q453931": {
+   "en": "Franco-Moroccan multimedia visual artist living and working in Tangier, Morocco and New York City",
+   "fr": "artiste franco-marocaine",
+   "es": "artista marroquí",
+   "ar": "فنانة مغربية"
+  },
   "Q454676": {
    "en": "French-Tunisian painter",
    "fr": "peintre franco-tunisien",
    "es": "pintor francés",
    "pt": "pintor francês",
    "ar": "رسام فرنسي"
+  },
+  "Q457420": {
+   "en": "Kenyan sculptor",
+   "fr": "artiste américano-kényane",
+   "es": "artista keniano-estadounidense",
+   "ar": "فنانة أمريكية"
+  },
+  "Q460639": {
+   "en": "American photographer",
+   "fr": "photographe américain",
+   "es": "fotógrafo estadounidense",
+   "ar": "مصور أمريكي"
   },
   "Q462323": {
    "en": "Cameroonian artist born in Yaounde, Cameroon in 1967",
@@ -2600,6 +3076,13 @@
    "es": "pintora gabonesa",
    "ar": "رسامة غابونية"
   },
+  "Q4697376": {
+   "en": "Nigerian artist",
+   "fr": "artiste nigérien",
+   "es": "artista nigeriano",
+   "pt": "pintor nigeriano",
+   "ar": "فنان نيجيري"
+  },
   "Q46998918": {
    "en": "Nigerian visual artist"
   },
@@ -2632,6 +3115,12 @@
    "en": "Kenyan-born British sculptor",
    "fr": "sculptrice britannique d'origine kényane"
   },
+  "Q4747518": {
+   "en": "Ghanaian artist",
+   "fr": "artiste ghanéen",
+   "es": "artista ghanés",
+   "ar": "فنان غاني"
+  },
   "Q4754137": {
    "en": "Zimbabwean sculptor",
    "fr": "sculpteur zimbabwéen",
@@ -2652,6 +3141,9 @@
    "es": "director de cine marroquí",
    "pt": "diretor de cinema canadiano",
    "ar": "مخرج أفلام مغربي"
+  },
+  "Q4775789": {
+   "en": "South African photojournalist"
   },
   "Q4783330": {
    "en": "British painter, botanical and scientific illustrator",
@@ -2709,6 +3201,13 @@
    "fr": "artiste nigérien",
    "es": "artista nigeriano",
    "ar": "فنان نيجيري"
+  },
+  "Q4885605": {
+   "en": "Nigerian artist",
+   "fr": "peintre nigérian",
+   "es": "pintor y escultor nigeriano",
+   "pt": "pintor nigeriano",
+   "ar": "رسام نيجيري"
   },
   "Q4886859": {
    "fr": "sculpteur zimbabwéen",
@@ -2959,8 +3458,17 @@
    "es": "artista sudafricano",
    "ar": "فنان جنوب أفريقي"
   },
+  "Q5213449": {
+   "en": "Kenyan photojournalist, artist and activist"
+  },
   "Q52150752": {
    "en": "Irish-born South African artist"
+  },
+  "Q52203720": {
+   "en": "Ghanaian sculptor",
+   "fr": "sculpteur ghanéen",
+   "es": "escultor ghanés",
+   "ar": "نحات غاني"
   },
   "Q522397": {
    "en": "South African visual artist and activist",
@@ -3111,6 +3619,13 @@
    "es": "fotógrafa nigeriana",
    "ar": "مصورة نيجيرية"
   },
+  "Q5392913": {
+   "en": "South African photographer",
+   "fr": "photographe sud-africain",
+   "es": "fotógrafo sudafricano",
+   "pt": "fotógrafo sul-africano",
+   "ar": "مصور جنوب أفريقي"
+  },
   "Q5403161": {
    "en": "South African artist",
    "fr": "artiste sud-africaine",
@@ -3143,6 +3658,13 @@
    "es": "pintor sudafricano",
    "pt": "pintor sul-africano",
    "ar": "رسام جنوب أفريقي"
+  },
+  "Q542171": {
+   "en": "Algerian painter",
+   "fr": "peintre algérienne",
+   "es": "pintora argelina",
+   "pt": "pintora argelina",
+   "ar": "رسامة جزائرية"
   },
   "Q5423443": {
    "en": "South African sculptor",
@@ -3454,6 +3976,12 @@
    "pt": "fotógrafo camaronense",
    "ar": "مصور كاميروني"
   },
+  "Q569669": {
+   "en": "South African photographer",
+   "fr": "photographe sud-africain",
+   "pt": "fotógrafo sul-africano",
+   "ar": "مصور جنوب أفريقي"
+  },
   "Q5700067": {
    "en": "German-born artist, illustrator and cartoonist"
   },
@@ -3531,6 +4059,12 @@
   "Q6023163": {
    "en": "Nigerian journalist, photographer and writer",
    "fr": "journaliste, photographe et écrivain nigérian"
+  },
+  "Q6034343": {
+   "en": "Egyptian painter",
+   "fr": "peintre égyptienne",
+   "es": "pintora egipcia",
+   "ar": "رسامة مصرية"
   },
   "Q60737246": {
    "en": "South African documentary photographer"
@@ -3752,6 +4286,11 @@
    "pt": "pintor ugandês",
    "ar": "فنان أوغندي"
   },
+  "Q64627129": {
+   "en": "Ivory Coast feminist artist",
+   "fr": "artiste ivoirienne féministe",
+   "es": "artista capilar marfileña"
+  },
   "Q64785553": {
    "en": "Zambian-born Zimbabwean painter and printmaker",
    "fr": "peintre zimbabwéenne",
@@ -3823,6 +4362,10 @@
    "fr": "artiste et auteure sud-africaine/britannique",
    "ar": "فنانة جنوب أفريقية"
   },
+  "Q661238": {
+   "en": "South African photographer and filmmaker",
+   "fr": "herpétologiste et photographe sud-africaine"
+  },
   "Q66311684": {
    "en": "Nigerian-American documentary filmmaker and photographer",
    "fr": "photographe nigériane"
@@ -3845,12 +4388,25 @@
    "es": "artista egipcia",
    "ar": "فنانة مصرية"
   },
+  "Q666092": {
+   "en": "South African artist",
+   "fr": "artiste sud-africain",
+   "es": "artista sudafricano",
+   "ar": "فنان جنوب أفريقي"
+  },
   "Q6664727": {
    "en": "Zimbabwean sculptor",
    "fr": "sculptrice zimbabwéenne",
    "es": "escultora zimbabuense",
    "pt": "escultora zimbabuense",
    "ar": "نحاتة زيمبابوية"
+  },
+  "Q6695060": {
+   "en": "British painter",
+   "fr": "peintre britannique",
+   "es": "pintora británica",
+   "pt": "pintora británica",
+   "ar": "رسامة بريطانية"
   },
   "Q6702553": {
    "en": "Nigerian artist",
@@ -3865,12 +4421,23 @@
    "pt": "artista sul-africano",
    "ar": "فنان جنوب أفريقي"
   },
+  "Q6729929": {
+   "en": "Kenyan-British artist",
+   "fr": "artiste kenyanne",
+   "es": "ceramista keniana",
+   "ar": "فنانة كينية"
+  },
   "Q6730265": {
    "en": "South African painter and printmaker",
    "fr": "peintre et lithographe sud-africaine",
    "es": "pintora y litógrafa sudafricana",
    "pt": "pintora e gravadora sul-africana",
    "ar": "رسامة جنوب أفريقية"
+  },
+  "Q6734398": {
+   "en": "Alexandrian judge and modern painter",
+   "fr": "juriste et peintre égyptien",
+   "ar": "فنان تشكيلي مصري"
   },
   "Q6739560": {
    "en": "Zimbabwean sculptor",
@@ -4015,6 +4582,13 @@
    "es": "pintora zimbabuense",
    "pt": "pintora zimbabuense",
    "ar": "رسامة زيمبابوية"
+  },
+  "Q716596": {
+   "en": "Russian artist",
+   "fr": "artiste russe",
+   "es": "artista ruso",
+   "pt": "pintor sul-africano",
+   "ar": "فنان روسي"
   },
   "Q71704890": {
    "en": "South African film director, photographer and screenwriter",
@@ -4205,6 +4779,13 @@
    "pt": "designer marroquino",
    "ar": "فنان تشكيلي مغربي"
   },
+  "Q781717": {
+   "en": "Malian photographer",
+   "fr": "photographe malien",
+   "es": "fotógrafo maliense",
+   "pt": "fotógrafo maliano",
+   "ar": "مصور مالي"
+  },
   "Q78620402": {
    "en": "Tunisian sculptor and painter",
    "fr": "sculpteur et peintre tunisien",
@@ -4249,6 +4830,10 @@
   "Q80077437": {
    "en": "South African sculptor and visual artist",
    "fr": "sculptrice et artiste visuelle sud-africaine"
+  },
+  "Q80220002": {
+   "en": "Ghanaian painter and visual artist",
+   "fr": "peintre ghanéen"
   },
   "Q8025368": {
    "en": "British and South African artist and egyptologist",
@@ -4398,15 +4983,38 @@
    "es": "artista canadiense",
    "ar": "فنان كندي"
   },
+  "Q962958": {
+   "en": "Malian photographer",
+   "fr": "photographe malien",
+   "es": "fotógrafo maliense",
+   "pt": "fotógrafo maliano",
+   "ar": "مصور مالي"
+  },
+  "Q966300": {
+   "en": "Ethiopian artist",
+   "fr": "artiste éthiopien",
+   "es": "artista etíope",
+   "ar": "فنان إثيوبي"
+  },
   "Q97155765": {
    "en": "Ugandan journalist, blogger, filmmaker and still photographer",
    "fr": "personnalité ougandaise du cinéma"
+  },
+  "Q97657288": {
+   "en": "TV host, filmmaker, and photographer"
   },
   "Q97957004": {
    "en": "Nigerian celebrity, portrait photographer and creative director",
    "fr": "photographe nigérian",
    "es": "fotógrafo nigeriano",
    "pt": "fotógrafo nigeriano"
+  },
+  "Q980418": {
+   "en": "Egyptian artist",
+   "fr": "artiste égyptien",
+   "es": "artista egipcio",
+   "pt": "pintor, Egito",
+   "ar": "وزير الثقافة المصري"
   },
   "Q98238085": {
    "en": "Nigerian sculptor"
@@ -4435,6 +5043,13 @@
    "fr": "artiste sud-africain",
    "es": "artista sudafricano",
    "ar": "فنان جنوب أفريقي"
+  },
+  "Q99528599": {
+   "en": "British photographer",
+   "fr": "photographe britannique",
+   "es": "fotógrafo británico",
+   "pt": "fotógrafo britânico",
+   "ar": "مصور بريطاني"
   }
  }
 }

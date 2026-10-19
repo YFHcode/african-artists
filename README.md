@@ -40,7 +40,10 @@ the page, no fabricated facts, every article reachable within three clicks.
 
 3. **Domain** (Project → Settings → Domains): add `africanartists.com` **and** `www.africanartists.com`,
    make the **bare domain primary** and let `www` redirect to it. If you change that choice, set
-   `NEXT_PUBLIC_SITE_URL` to match, or every canonical will point at the wrong host.
+   `NEXT_PUBLIC_SITE_URL` to match, or every canonical will point at the wrong host. Vercel's
+   default when adding a domain is the opposite (bare domain redirects to `www`): change it.
+   Do not add a host redirect in `next.config.ts` as well; if it points the other way from
+   Vercel's, every page loops with "too many redirects".
    The production `*.vercel.app` address redirects to the real domain automatically.
 4. **Analytics:** enable Web Analytics in the Vercel project. A successful offer is recorded as the
    custom event `offer_sent`.

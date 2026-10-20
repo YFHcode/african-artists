@@ -21,7 +21,7 @@ Vivió en Madrid y después en Nueva York, de 1994 a 1999, donde su obra entró 
 
 Los cuadros de Binebine están llenos de figuras: cuerpos apretados, rostros escondidos tras máscaras, personas atadas, hacinadas en barcas o a la espera. Trabaja con pigmentos, cera y resina sobre lienzo y madera, a menudo en colores terrosos con súbitos toques de rojo o azul. También hace esculturas, muchas en bronce, que repiten las mismas cabezas anónimas como máscaras.
 
-El encierro atraviesa su obra, y tiene una historia familiar. En 1971, su hermano mayor Aziz, un joven oficial del ejército, se vio envuelto en un golpe fallido contra el rey Hasán II. Pasó dieciocho años en la prisión secreta de Tazmamart, en el desierto, donde murió la mitad de los presos; su testimonio inspiró la novela de [Tahar Ben Jelloun](/artists/tahar-ben-jelloun) *Esa cegadora ausencia de luz*. Su padre, mientras tanto, era compañero y bufón en la corte del rey, una historia que Mahi contó en su novela *Le Fou du roi* (2017).
+El encierro atraviesa su obra, y tiene una historia familiar. En 1971, su hermano mayor Aziz, un joven oficial del ejército, se vio envuelto en un golpe fallido contra el rey Hasán II. Pasó dieciocho años en la prisión secreta de Tazmamart, en el desierto, donde murió la mitad de los presos; su testimonio inspiró la novela de [Tahar Ben Jelloun](/artists/tahar-ben-jelloun) *Cette aveuglante absence de lumière*. Su padre, mientras tanto, era compañero y bufón en la corte del rey, una historia que Mahi contó en su novela *Le Fou du roi* (2017).
 
 ## Las novelas
 

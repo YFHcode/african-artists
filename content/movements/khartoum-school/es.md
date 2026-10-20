@@ -34,4 +34,4 @@ La Escuela de Jartum es uno de los ejemplos más claros de artistas que construy
 
 ## Movimientos relacionados
 
-Compárela con la [Escuela de Casablanca](/movements/casablanca-school), que dio un paso parecido en Marruecos a través de la artesanía y los signos amazigh, y con la [Zaria Art Society](/movements/zaria-art-society) y la [Escuela de Dakar](/movements/ecole-de-dakar), otras dos respuestas a la pregunta de cómo debía ser el arte de la posindependencia.
+Compárela con la [Escuela de Casablanca](/movements/casablanca-school), que dio un paso parecido en Marruecos a través de la artesanía y los signos amazigh, y con la [Zaria Art Society](/movements/zaria-art-society) y la [Escuela de Dakar](/movements/ecole-de-dakar), otras dos respuestas a la pregunta de cómo debía ser el arte de la posindependencia. Entre otros artistas sudaneses está el pintor y cineasta [Hussein Shariffe](/artists/hussein-shariffe).

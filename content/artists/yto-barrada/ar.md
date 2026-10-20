@@ -31,4 +31,4 @@ facts:
 
 ## انظر أيضًا
 
-المصوّرتان [ليلى العلوي](/artists/leila-alaoui) و[ليتيسيا كي](/artists/laetitia-ky)؛ و[التصوير الفوتوغرافي الأفريقي](/art-forms/african-photography)؛ وقائمتَي [المصوّرين الأفارقة](/artists/medium/photographers) و[الفنانين المغاربة](/artists/country/morocco).
+المصوّرون [ليلى العلوي](/artists/leila-alaoui) و[حسن حجاج](/artists/hassan-hajjaj) و[ليتيسيا كي](/artists/laetitia-ky)؛ و[التصوير الفوتوغرافي الأفريقي](/art-forms/african-photography)؛ وقائمتَي [المصوّرين الأفارقة](/artists/medium/photographers) و[الفنانين المغاربة](/artists/country/morocco).

@@ -29,4 +29,4 @@ Na Bienal de Veneza de 1999 recebeu um Prémio UNESCO e, desde então, a sua obr
 
 ## Veja também
 
-A pintora egípcia [Inji Aflatoun](/artists/inji-aflatoun), que pintou mulheres presas nos anos 1960; [Anna Boghiguian](/artists/anna-boghiguian) e [Farida do Egito](/artists/farida-of-egypt), outras artistas egípcias; o guia das [mulheres artistas africanas](/guides/african-women-artists); e a nossa lista de [pintores africanos](/artists/medium/painters).
+A pintora egípcia [Inji Aflatoun](/artists/inji-aflatoun), que pintou mulheres presas nos anos 1960; [Wael Shawky](/artists/wael-shawky), [Anna Boghiguian](/artists/anna-boghiguian) e [Farida do Egito](/artists/farida-of-egypt), outros artistas egípcios; o guia das [mulheres artistas africanas](/guides/african-women-artists); e a nossa lista de [pintores africanos](/artists/medium/painters).

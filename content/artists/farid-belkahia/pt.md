@@ -34,4 +34,4 @@ Belkahia mostrou que se podia fazer arte moderna com os materiais e os sinais do
 
 ## Artistas e música relacionados
 
-O uso da escrita e do símbolo em Belkahia tem um paralelo próximo na obra caligráfica de [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) e da [Escola de Cartum](/movements/khartoum-school). Para outra modernista do Magrebe, veja a pintora argelina [Baya](/artists/baya). Para o som das praças de Marraquexe, leia sobre os [gnawa](/music/gnawa).
+O uso da escrita e do símbolo em Belkahia tem um paralelo próximo na obra caligráfica de [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) e da [Escola de Cartum](/movements/khartoum-school). Entre os pintores que trouxe para a escola estava [Mohamed Hamidi](/artists/mohamed-hamidi); para uma pintora marroquina que seguiu o seu próprio caminho, veja [Chaïbia Talal](/artists/chaibia-talal) e, para outra modernista do Magrebe, a pintora argelina [Baya](/artists/baya). Para o som das praças de Marraquexe, leia sobre os [gnawa](/music/gnawa).

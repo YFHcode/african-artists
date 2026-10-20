@@ -31,4 +31,4 @@ A sua obra posterior circula livremente entre cinema, escultura, colagem, gravur
 
 ## Veja também
 
-As fotógrafas [Leila Alaoui](/artists/leila-alaoui) e [Laetitia Ky](/artists/laetitia-ky); a [fotografia africana](/art-forms/african-photography); e a nossa lista de [fotógrafos africanos](/artists/medium/photographers).
+Os fotógrafos [Leila Alaoui](/artists/leila-alaoui), [Hassan Hajjaj](/artists/hassan-hajjaj) e [Laetitia Ky](/artists/laetitia-ky); a [fotografia africana](/art-forms/african-photography); e a nossa lista de [fotógrafos africanos](/artists/medium/photographers).

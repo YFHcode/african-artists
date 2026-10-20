@@ -36,4 +36,4 @@ Em 2023 o New Museum de Nova Iorque dedicou-lhe todo o edifício com *Intertwine
 
 ## Artistas relacionadas
 
-Mutu e [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) são muitas vezes referidas em conjunto: duas artistas nascidas em África, formadas em Yale, que usam a colagem para mostrar como as imagens moldam a identidade. Para outras mulheres que marcaram a arte do continente, leia o nosso guia das [mulheres artistas africanas](/guides/african-women-artists).
+Mutu e [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) são muitas vezes referidas em conjunto: duas artistas nascidas em África, formadas em Yale, que usam a colagem para mostrar como as imagens moldam a identidade. Outra artista nascida no Quénia com reputação mundial é a ceramista [Magdalene Odundo](/artists/magdalene-odundo). Para outras mulheres que marcaram a arte do continente, leia o nosso guia das [mulheres artistas africanas](/guides/african-women-artists).

@@ -31,4 +31,4 @@ Il meurt au Caire en 1934, à 43 ans seulement. Un musée sur l'île de Gezira, 
 
 ## Héritage
 
-Mokhtar est considéré comme le père de la sculpture égyptienne moderne, pendant du peintre [Mahmoud Saïd](/artists/mahmoud-said). Les sculpteurs égyptiens qui l'ont suivi ont poursuivi sa recherche d'un art moderne enraciné dans les formes de l'Égypte ancienne. Voir aussi l'[art d'Afrique du Nord](/regions/north-africa), la peintre [Farida d'Égypte](/artists/farida-of-egypt) et notre liste d'[artistes égyptiens](/artists/country/egypt).
+Mokhtar est considéré comme le père de la sculpture égyptienne moderne, pendant du peintre [Mahmoud Saïd](/artists/mahmoud-said). Les sculpteurs égyptiens qui l'ont suivi, au premier rang desquels [Adam Henein](/artists/adam-henein), ont poursuivi sa recherche d'un art moderne enraciné dans les formes de l'Égypte ancienne. Voir aussi l'[art d'Afrique du Nord](/regions/north-africa), la peintre [Farida d'Égypte](/artists/farida-of-egypt) et notre liste d'[artistes égyptiens](/artists/country/egypt).

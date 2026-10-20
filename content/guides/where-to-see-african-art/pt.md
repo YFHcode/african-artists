@@ -21,7 +21,7 @@ summary: Entre os principais museus de arte africana moderna e contemporânea no
 | **Nairobi National Museum** | Nairobi, Quénia | — | História, cultura e arte contemporânea do Quénia |
 | **Museu Mohammed VI de Arte Moderna e Contemporânea (MMVI)** | Rabat, Marrocos | Outubro de 2014 | Arte moderna marroquina, incluindo a [Escola de Casablanca](/movements/casablanca-school) |
 | **MACAAL** (Museu de Arte Contemporânea Africana Al Maaden) | Marraquexe, Marrocos | 2016 | Arte contemporânea de todo o continente |
-| **Museu de Arte Moderna Egípcia** | Cairo, Egito | — | Pintura e escultura egípcias desde o início do século XX, incluindo [Mahmoud Saïd](/artists/mahmoud-said) |
+| **Museu de Arte Moderna Egípcia** | Cairo, Egito | — | Pintura e escultura egípcias desde o início do século XX, incluindo [Mahmoud Saïd](/artists/mahmoud-said); o Museu Mahmoud Mokhtar, ali perto, mostra a obra do escultor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
 | **Grande Museu Egípcio** | Gizé, Egito | Novembro de 2025 | Arte do Egito antigo, incluindo os tesouros de Tutankhamon |
 
 As datas marcadas com «—» são de instituições mais antigas cujas coleções cresceram ao longo de décadas. Horários e encerramentos temporários mudam; confirme antes de ir.

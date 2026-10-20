@@ -12,7 +12,7 @@ No hay una definición fija. El término suele abarcar el arte hecho en las últ
 
 ## Las exposiciones que cambiaron la mirada
 
-- **Magiciens de la Terre** (París, 1989), comisariada por Jean-Hubert Martin, mostró a artistas de África, Asia y América Latina junto a sus contemporáneos occidentales, entre ellos [Esther Mahlangu](/artists/esther-mahlangu) y [Chéri Samba](/artists/cheri-samba). Fue criticada además de elogiada, pero rompió un esquema.
+- **Magiciens de la Terre** (París, 1989), comisariada por Jean-Hubert Martin, mostró a artistas de África, Asia y América Latina junto a sus contemporáneos occidentales, entre ellos [Esther Mahlangu](/artists/esther-mahlangu), [Chéri Samba](/artists/cheri-samba) y la escultora senegalesa [Seyni Awa Camara](/artists/seni-awa-camara). Fue criticada además de elogiada, pero rompió un esquema.
 - **Africa Explores** (Nueva York, 1991), comisariada por Susan Vogel, presentó el arte africano del siglo XX en toda su variedad, de la pintura urbana al modernismo internacional.
 - **La Bienal de Johannesburgo** (1995 y 1997): la segunda edición, *Trade Routes*, la dirigió el comisario de origen nigeriano **Okwui Enwezor** (1963–2019).
 - **The Short Century** (2001), la exposición de Enwezor sobre las independencias y los movimientos de liberación en África, y la **Documenta 11** (2002), que dirigió como primer comisario no europeo de esa muestra.
@@ -30,7 +30,7 @@ En el continente, instituciones como el Zeitz MOCAA, el MACAAL de Marrakech, el 
 Una lista breve y lejos de completa, agrupada por enfoque:
 
 - **Transformar materiales.** [El Anatsui](/artists/el-anatsui) (chapas de botella); [Romuald Hazoumè](/artists/romuald-hazoume), Benín (máscaras hechas con bidones de plástico); Gonçalo Mabunda, Mozambique (tronos y máscaras hechos con armas desactivadas de la guerra civil); [Ibrahim Mahama](/artists/ibrahim-mahama), Ghana (sacos de yute que cubren edificios enteros); Abdoulaye Konaté, Malí (textiles monumentales).
-- **Pintura.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); Julie Mehretu, nacida en Adís Abeba; [Amoako Boafo](/artists/amoako-boafo), Ghana, conocido por sus retratos pintados con los dedos; Michael Armitage, Kenia, que pinta sobre tela de corteza ugandesa; Toyin Ojih Odutola; Marlene Dumas, nacida en Ciudad del Cabo.
+- **Pintura.** [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby); [Lubaina Himid](/artists/lubaina-himid), nacida en Zanzíbar, ganadora del premio Turner de 2017; Julie Mehretu, nacida en Adís Abeba; [Amoako Boafo](/artists/amoako-boafo), Ghana, conocido por sus retratos pintados con los dedos; Michael Armitage, Kenia, que pinta sobre tela de corteza ugandesa; Toyin Ojih Odutola; Marlene Dumas, nacida en Ciudad del Cabo.
 - **Escultura e instalación.** [Wangechi Mutu](/artists/wangechi-mutu); [Otobong Nkanga](/artists/otobong-nkanga), Nigeria; [Yinka Shonibare](/artists/yinka-shonibare), británico-nigeriano, conocido por sus figuras vestidas con tela wax; [William Kentridge](/artists/william-kentridge), Sudáfrica, cuyos dibujos animados al carboncillo cambiaron la idea de lo que puede ser un dibujo.
 - **Fotografía y cine.** [Zanele Muholi](/artists/zanele-muholi), Omar Victor Diop y Aida Muluneh (vea la [fotografía africana](/art-forms/african-photography)); John Akomfrah, cineasta británico nacido en Ghana que representó al Reino Unido en la Bienal de Venecia de 2024.
 

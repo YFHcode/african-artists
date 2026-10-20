@@ -36,7 +36,7 @@ El 16 de junio de 1976, **[Sam Nzima](/artists/sam-nzima)** fotografió en Sowet
 
 ## Fotógrafos contemporáneos
 
-**[Zanele Muholi](/artists/zanele-muholi)** (n. 1972), activista visual, documenta y celebra las comunidades LGBTQIA+ negras de Sudáfrica; la serie de autorretratos *Somnyama Ngonyama* está entre las obras fotográficas más conocidas de lo que va de siglo. **Omar Victor Diop** (nacido en 1980, Senegal) recrea retratos históricos de africanos de la diáspora posando él mismo. **Aida Muluneh** (nacida en 1974, Etiopía) crea imágenes en color vivas y escenificadas y fundó el Addis Foto Fest. **Lebohang Kganye** (nacida en 1990, Sudáfrica) trabaja con las fotografías de su familia. La fotógrafa franco-marroquí **[Leila Alaoui](/artists/leila-alaoui)** (1982–2016) realizó una célebre serie de retratos, *Les Marocains*.
+**[Zanele Muholi](/artists/zanele-muholi)** (n. 1972), activista visual, documenta y celebra las comunidades LGBTQIA+ negras de Sudáfrica; la serie de autorretratos *Somnyama Ngonyama* está entre las obras fotográficas más conocidas de lo que va de siglo. **Omar Victor Diop** (nacido en 1980, Senegal) recrea retratos históricos de africanos de la diáspora posando él mismo. **Aida Muluneh** (nacida en 1974, Etiopía) crea imágenes en color vivas y escenificadas y fundó el Addis Foto Fest. **Lebohang Kganye** (nacida en 1990, Sudáfrica) trabaja con las fotografías de su familia. La fotógrafa franco-marroquí **[Leila Alaoui](/artists/leila-alaoui)** (1982–2016) realizó una célebre serie de retratos, *Les Marocains*, y **[Yto Barrada](/artists/yto-barrada)** (nacida en 1971) fotografió Tánger como una sala de espera de Europa en *A Life Full of Holes: The Strait Project*.
 
 ## Festivales y coleccionismo
 

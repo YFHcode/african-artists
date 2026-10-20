@@ -38,4 +38,4 @@ facts:
 
 ## ذات صلة
 
-تضمّ الساحة الفنية السنغالية اللاحقة النحّات [عثمان سو](/artists/ousmane-sow) وبينالي داك آرت الموصوف في [معارض الفن الأفريقي وبيناليّاته](/guides/african-art-fairs-and-biennales). ولموسيقى السنغال الشعبية، انظر [المبالاكس](/music/mbalax). ولحركة استقلال أخرى، انظر [مدرسة الخرطوم](/movements/khartoum-school).
+تضمّ الساحة الفنية السنغالية اللاحقة النحّاتَين [عثمان سو](/artists/ousmane-sow) و[سيني آوا كامارا](/artists/seni-awa-camara)، وبينالي داك آرت الموصوف في [معارض الفن الأفريقي وبيناليّاته](/guides/african-art-fairs-and-biennales). ولموسيقى السنغال الشعبية، انظر [المبالاكس](/music/mbalax). ولحركة استقلال أخرى، انظر [مدرسة الخرطوم](/movements/khartoum-school).

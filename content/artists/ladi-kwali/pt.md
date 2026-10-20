@@ -25,4 +25,4 @@ Exposições em Londres no fim dos anos 1950 e nos anos 1960, e digressões com 
 
 ## Legado
 
-Ladi Kwali morreu em 1984. O seu retrato está na nota nigeriana de 20 nairas, e uma rua e uma sala de conferências de Abuja têm o seu nome. Para saber mais, veja a [cerâmica africana](/art-forms/african-pottery), o nosso guia das [mulheres artistas africanas](/guides/african-women-artists) e a [África Ocidental](/regions/west-africa).
+Ladi Kwali morreu em 1984. O seu retrato está na nota nigeriana de 20 nairas, e uma rua e uma sala de conferências de Abuja têm o seu nome. Para saber mais, veja a [cerâmica africana](/art-forms/african-pottery), [Twins Seven-Seven](/artists/twins-seven-seven), o nosso guia das [mulheres artistas africanas](/guides/african-women-artists) e a [África Ocidental](/regions/west-africa).

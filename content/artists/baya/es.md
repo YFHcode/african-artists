@@ -38,4 +38,4 @@ Exposiciones recientes han devuelto su obra a la vista, entre ellas *Baya: Woman
 
 ## Artistas y música relacionados
 
-Baya pertenece a la familia de otros modernistas del norte de África como [Farid Belkahia](/artists/farid-belkahia) y el egipcio [Mahmoud Saïd](/artists/mahmoud-said). Los instrumentos de sus cuadros pertenecen al mundo musical de Argelia, que también dio al mundo el [raï](/music/rai). Para más mujeres artistas de todo el continente, vea [mujeres artistas africanas](/guides/african-women-artists).
+Baya pertenece a la familia de otros modernistas del norte de África como [Farid Belkahia](/artists/farid-belkahia), el egipcio [Mahmoud Saïd](/artists/mahmoud-said) y sus compatriotas argelinos [M'hamed Issiakhem](/artists/mhamed-issiakhem) y [Mohammed Khadda](/artists/mohammed-khadda). Los instrumentos de sus cuadros pertenecen al mundo musical de Argelia, que también dio al mundo el [raï](/music/rai). Para más mujeres artistas de todo el continente, vea [mujeres artistas africanas](/guides/african-women-artists).

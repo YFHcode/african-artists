@@ -34,4 +34,4 @@ L'École de Khartoum est l'un des exemples les plus clairs d'artistes bâtissant
 
 ## Mouvements liés
 
-Comparez-la avec l'[École de Casablanca](/movements/casablanca-school), qui a fait un geste semblable au Maroc à partir de l'artisanat et des signes amazighs, ainsi qu'avec la [Zaria Art Society](/movements/zaria-art-society) et l'[École de Dakar](/movements/ecole-de-dakar), deux autres réponses à la question de ce que devait être un art de l'indépendance.
+Comparez-la avec l'[École de Casablanca](/movements/casablanca-school), qui a fait un geste semblable au Maroc à partir de l'artisanat et des signes amazighs, ainsi qu'avec la [Zaria Art Society](/movements/zaria-art-society) et l'[École de Dakar](/movements/ecole-de-dakar), deux autres réponses à la question de ce que devait être un art de l'indépendance. Parmi les autres artistes soudanais figure le peintre et cinéaste [Hussein Shariffe](/artists/hussein-shariffe).

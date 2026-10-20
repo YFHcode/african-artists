@@ -36,4 +36,4 @@ En 2023, le New Museum de New York lui consacre l'ensemble de son bâtiment avec
 
 ## Artistes liées
 
-Mutu et [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) sont souvent évoquées ensemble : deux artistes nées en Afrique, formées à Yale, qui utilisent le collage pour montrer comment les images façonnent l'identité. Pour d'autres femmes qui ont marqué l'art du continent, lisez notre guide des [femmes artistes africaines](/guides/african-women-artists).
+Mutu et [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) sont souvent évoquées ensemble : deux artistes nées en Afrique, formées à Yale, qui utilisent le collage pour montrer comment les images façonnent l'identité. Une autre artiste née au Kenya jouit d'une réputation mondiale : la potière [Magdalene Odundo](/artists/magdalene-odundo). Pour d'autres femmes qui ont marqué l'art du continent, lisez notre guide des [femmes artistes africaines](/guides/african-women-artists).

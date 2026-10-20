@@ -34,4 +34,4 @@ A Escola de Cartum é um dos exemplos mais claros de artistas a construir uma ar
 
 ## Movimentos relacionados
 
-Compare-a com a [Escola de Casablanca](/movements/casablanca-school), que fez um gesto semelhante em Marrocos a partir do artesanato e dos sinais amazigh, e com a [Zaria Art Society](/movements/zaria-art-society) e a [Escola de Dacar](/movements/ecole-de-dakar), duas outras respostas à pergunta sobre o que devia ser uma arte da independência.
+Compare-a com a [Escola de Casablanca](/movements/casablanca-school), que fez um gesto semelhante em Marrocos a partir do artesanato e dos sinais amazigh, e com a [Zaria Art Society](/movements/zaria-art-society) e a [Escola de Dacar](/movements/ecole-de-dakar), duas outras respostas à pergunta sobre o que devia ser uma arte da independência. Entre outros artistas sudaneses conta-se o pintor e cineasta [Hussein Shariffe](/artists/hussein-shariffe).

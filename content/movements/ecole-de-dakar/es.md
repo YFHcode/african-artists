@@ -38,4 +38,4 @@ A mediados de los años setenta, artistas más jóvenes veían el estilo oficial
 
 ## Relacionados
 
-La escena artística posterior de Senegal incluye al escultor [Ousmane Sow](/artists/ousmane-sow) y la bienal Dak'Art, descrita en [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales). Para la música popular de Senegal, vea el [mbalax](/music/mbalax). Para otro movimiento artístico de la posindependencia, vea la [Escuela de Jartum](/movements/khartoum-school).
+La escena artística posterior de Senegal incluye a los escultores [Ousmane Sow](/artists/ousmane-sow) y [Seyni Awa Camara](/artists/seni-awa-camara), así como la bienal Dak'Art, descrita en [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales). Para la música popular de Senegal, vea el [mbalax](/music/mbalax). Para otro movimiento artístico de la posindependencia, vea la [Escuela de Jartum](/movements/khartoum-school).

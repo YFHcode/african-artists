@@ -29,4 +29,4 @@ En 2022, il a ouvert à Accra dot.ateliers, un lieu avec ateliers, résidence et
 
 ## Voir aussi
 
-[Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) et l'[art africain contemporain](/guides/contemporary-african-art).
+[Ibrahim Mahama](/artists/ibrahim-mahama) ; [Njideka Akunyili Crosby](/artists/njideka-akunyili-crosby) et l'[art africain contemporain](/guides/contemporary-african-art).

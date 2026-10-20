@@ -26,7 +26,7 @@ La obra de los propios artistas siguió la misma lógica. Melehi se dio a conoce
 
 ## El arte en la plaza
 
-En mayo de 1969 el grupo organizó *Présence plastique*: exposiciones al aire libre en la plaza Yamaa el Fna de Marrakech y, pocas semanas después, en una plaza pública de Casablanca. Las pinturas se alzaban entre artistas callejeros, comerciantes y transeúntes. El mensaje era claro: el arte moderno pertenecía a la vida cotidiana marroquí, no solo a las galerías.
+En mayo de 1969 el grupo —Belkahia, Melehi, Chabâa, [Mohamed Hamidi](/artists/mohamed-hamidi), Mohamed Ataallah y Mustapha Hafid— organizó *Présence plastique*: exposiciones al aire libre en la plaza Yamaa el Fna de Marrakech y, pocas semanas después, en una plaza pública de Casablanca. Las pinturas se alzaban entre artistas callejeros, comerciantes y transeúntes. El mensaje era claro: el arte moderno pertenecía a la vida cotidiana marroquí, no solo a las galerías.
 
 Los artistas también diseñaron para la imprenta y el espacio público. Melehi creó portadas para *Souffles*, la influyente revista literaria y política fundada en 1966, y el lenguaje gráfico del grupo se difundió en carteles, libros y murales.
 
@@ -36,4 +36,4 @@ Durante décadas la escuela se conoció sobre todo en Marruecos. Exposiciones re
 
 ## Relacionados
 
-El paralelo más cercano es la [Escuela de Jartum](/movements/khartoum-school), donde la escritura y la artesanía también se convirtieron en forma moderna. Para otra modernista del norte de África ajena a la escuela, vea a [Baya](/artists/baya). Para la tradición musical de las plazas de Marrakech, lea sobre el [gnawa](/music/gnawa), y para el conjunto de la región, el [arte del norte de África](/regions/north-africa).
+El paralelo más cercano es la [Escuela de Jartum](/movements/khartoum-school), donde la escritura y la artesanía también se convirtieron en forma moderna. Fuera de la escuela, [Chaïbia Talal](/artists/chaibia-talal) y [Hassan El Glaoui](/artists/hassan-el-glaoui) siguieron sus propios caminos figurativos, y la argelina [Baya](/artists/baya) es otra modernista del norte de África. Para la tradición musical de las plazas de Marrakech, lea sobre el [gnawa](/music/gnawa), y para el conjunto de la región, el [arte del norte de África](/regions/north-africa).

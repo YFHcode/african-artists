@@ -26,7 +26,7 @@ A obra dos próprios artistas seguia a mesma lógica. Melehi ficou conhecido pel
 
 ## Arte na praça
 
-Em maio de 1969 o grupo organizou *Présence plastique*: exposições ao ar livre na praça Jemaa el-Fna, em Marraquexe, e, semanas depois, numa praça pública de Casablanca. Os quadros ficaram entre artistas de rua, vendedores e transeuntes. A mensagem era clara: a arte moderna pertencia ao quotidiano marroquino, não só às galerias.
+Em maio de 1969 o grupo — Belkahia, Melehi, Chabâa, [Mohamed Hamidi](/artists/mohamed-hamidi), Mohamed Ataallah e Mustapha Hafid — organizou *Présence plastique*: exposições ao ar livre na praça Jemaa el-Fna, em Marraquexe, e, semanas depois, numa praça pública de Casablanca. Os quadros ficaram entre artistas de rua, vendedores e transeuntes. A mensagem era clara: a arte moderna pertencia ao quotidiano marroquino, não só às galerias.
 
 Os artistas também desenharam para o impresso e o espaço público. Melehi criou capas para a *Souffles*, a influente revista literária e política fundada em 1966, e a linguagem gráfica do grupo espalhou-se por cartazes, livros e murais.
 
@@ -36,4 +36,4 @@ Durante décadas a escola foi conhecida sobretudo em Marrocos. Exposições rece
 
 ## Relacionados
 
-O paralelo mais próximo é a [Escola de Cartum](/movements/khartoum-school), onde a escrita e o artesanato também foram transformados em forma moderna. Para uma modernista do Norte de África fora da escola, veja [Baya](/artists/baya). Para a tradição musical das praças de Marraquexe, leia sobre os [gnawa](/music/gnawa), e, para a região no seu conjunto, a [arte do Norte de África](/regions/north-africa).
+O paralelo mais próximo é a [Escola de Cartum](/movements/khartoum-school), onde a escrita e o artesanato também foram transformados em forma moderna. Fora da escola, [Chaïbia Talal](/artists/chaibia-talal) e [Hassan El Glaoui](/artists/hassan-el-glaoui) seguiram os seus próprios caminhos figurativos, e a argelina [Baya](/artists/baya) é outra modernista do Norte de África. Para a tradição musical das praças de Marraquexe, leia sobre os [gnawa](/music/gnawa), e, para a região no seu conjunto, a [arte do Norte de África](/regions/north-africa).

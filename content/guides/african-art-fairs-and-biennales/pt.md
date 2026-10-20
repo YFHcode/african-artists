@@ -27,7 +27,7 @@ A Dak'Art nasceu do longo investimento do Senegal nas artes, descrito no nosso a
 
 | Feira | Onde | Desde | Notas |
 |---|---|---|---|
-| **1-54 Contemporary African Art Fair** | Londres, Nova Iorque, Marraquexe | 2013 (Londres) | Fundada por Touria El Glaoui; o nome refere-se aos 54 países de África. Edição de Londres em outubro, na semana da Frieze; Nova Iorque em maio; Marraquexe em fevereiro |
+| **1-54 Contemporary African Art Fair** | Londres, Nova Iorque, Marraquexe | 2013 (Londres) | Fundada por Touria El Glaoui, filha do pintor [Hassan El Glaoui](/artists/hassan-el-glaoui); o nome refere-se aos 54 países de África. Edição de Londres em outubro, na semana da Frieze; Nova Iorque em maio; Marraquexe em fevereiro |
 | **Investec Cape Town Art Fair** | Cidade do Cabo, África do Sul | 2013 | Hoje uma das maiores feiras de arte do continente; normalmente em fevereiro |
 | **FNB Art Joburg** | Joanesburgo, África do Sul | 2008 | A feira do género mais antiga de África; normalmente em setembro |
 | **ART X Lagos** | Lagos, Nigéria | 2016 | Fundada por Tokini Peterside-Schwebig; a principal feira da África Ocidental, normalmente em novembro |

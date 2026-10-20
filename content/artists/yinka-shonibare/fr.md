@@ -31,4 +31,4 @@ Shonibare a été nommé au Turner Prize en 2004, élu à la Royal Academy en 20
 
 ## Voir aussi
 
-[Otobong Nkanga](/artists/otobong-nkanga) ; l'[art africain contemporain](/guides/contemporary-african-art) ; et nos listes des [artistes nigérians](/artists/country/nigeria) et des [sculpteurs nigérians](/artists/country/nigeria/sculptors).
+[Otobong Nkanga](/artists/otobong-nkanga) et [Ibrahim Mahama](/artists/ibrahim-mahama), qui font eux aussi des matériaux du commerce et de l'empire leur sujet ; l'[art africain contemporain](/guides/contemporary-african-art) ; et nos listes des [artistes nigérians](/artists/country/nigeria) et des [sculpteurs nigérians](/artists/country/nigeria/sculptors).

@@ -29,4 +29,4 @@ La reconnaissance arrive tard, puis d'un coup. En 2017, à 63 ans, elle remporte
 
 ## Voir aussi
 
-La peinture [Tingatinga](/art-forms/tingatinga) et l'[art makondé](/art-forms/makonde-art) de Tanzanie ; les [femmes artistes africaines](/guides/african-women-artists) ; l'[art africain contemporain](/guides/contemporary-african-art) ; et l'[art d'Afrique de l'Est](/regions/east-africa).
+La peinture [Tingatinga](/art-forms/tingatinga) et l'[art makondé](/art-forms/makonde-art) de Tanzanie ; la potière née au Kenya [Magdalene Odundo](/artists/magdalene-odundo) ; les [femmes artistes africaines](/guides/african-women-artists) ; l'[art africain contemporain](/guides/contemporary-african-art) ; et l'[art d'Afrique de l'Est](/regions/east-africa).

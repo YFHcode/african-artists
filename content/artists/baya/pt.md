@@ -38,4 +38,4 @@ Exposições recentes voltaram a pôr a sua obra em destaque, entre elas *Baya: 
 
 ## Artistas e música relacionados
 
-Baya está ao lado de outros modernistas do Norte de África, como [Farid Belkahia](/artists/farid-belkahia) e o egípcio [Mahmoud Saïd](/artists/mahmoud-said). Os instrumentos dos seus quadros pertencem ao universo musical da Argélia, que também deu ao mundo o [raï](/music/rai). Para mais mulheres artistas do continente, veja [mulheres artistas africanas](/guides/african-women-artists).
+Baya está ao lado de outros modernistas do Norte de África, como [Farid Belkahia](/artists/farid-belkahia), o egípcio [Mahmoud Saïd](/artists/mahmoud-said) e os seus compatriotas argelinos [M'hamed Issiakhem](/artists/mhamed-issiakhem) e [Mohammed Khadda](/artists/mohammed-khadda). Os instrumentos dos seus quadros pertencem ao universo musical da Argélia, que também deu ao mundo o [raï](/music/rai). Para mais mulheres artistas do continente, veja [mulheres artistas africanas](/guides/african-women-artists).

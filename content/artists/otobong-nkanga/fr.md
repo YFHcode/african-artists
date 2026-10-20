@@ -27,4 +27,4 @@ Elle a reçu une mention spéciale à la Biennale de Venise 2019 et a eu des exp
 
 ## Voir aussi
 
-[Yinka Shonibare](/artists/yinka-shonibare) ; l'[art africain contemporain](/guides/contemporary-african-art) ; et notre liste des [artistes nigérians](/artists/country/nigeria).
+[Yinka Shonibare](/artists/yinka-shonibare) ; [Nnenna Okore](/artists/nnenna-okore) ; l'[art africain contemporain](/guides/contemporary-african-art) ; et notre liste des [artistes nigérians](/artists/country/nigeria).

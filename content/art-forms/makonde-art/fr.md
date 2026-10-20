@@ -28,7 +28,7 @@ Dans les années 1950, des sculpteurs makondé installés en Tanzanie, et d'autr
 
 ## Les artistes
 
-**George Lilanga** (1934-2005), Tanzanien d'origine makondé, est devenu l'un des artistes les plus connus d'Afrique de l'Est. D'abord sculpteur de shetani, il a développé une peinture et une sculpture joyeuses où des foules de figures dansantes aux longues oreilles remplissent la surface, et son œuvre a été exposée dans le monde entier.
+**[George Lilanga](/artists/george-lilanga)** (1934-2005), Tanzanien d'origine makondé, est devenu l'un des artistes les plus connus d'Afrique de l'Est. D'abord sculpteur de shetani, il a développé une peinture et une sculpture joyeuses où des foules de figures dansantes aux longues oreilles remplissent la surface, et son œuvre a été exposée dans le monde entier.
 
 **Reinata Sadimba**, née dans le nord du Mozambique dans les années 1940, fait figure d'exception en tant que femme dans une tradition de sculpture dominée par les hommes. Ses figures en argile et en bois, souvent de femmes, de mères et d'êtres fantastiques, sont conservées dans des collections au Mozambique et à l'étranger.
 

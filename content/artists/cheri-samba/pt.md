@@ -24,7 +24,7 @@ O texto é a sua assinatura. Legendas, balões e longos parágrafos explicativos
 
 ## Os pintores populares de Kinshasa
 
-Samba é uma das figuras fundadoras da chamada [pintura popular congolesa](/movements/congolese-popular-painting), um movimento de artistas de Kinshasa em grande parte autodidatas — entre eles Moké, Chéri Chérin e Pierre Bodo — que, a partir dos anos 1970, pintaram a vida, os escândalos e a história da cidade para compradores locais, num estilo mais próximo da publicidade e da banda desenhada do que da escola de belas-artes.
+Samba é uma das figuras fundadoras da chamada [pintura popular congolesa](/movements/congolese-popular-painting), um movimento de artistas de Kinshasa em grande parte autodidatas — entre eles Moké, [Chéri Chérin](/artists/cheri-cherin) e Pierre Bodo — que, a partir dos anos 1970, pintaram a vida, os escândalos e a história da cidade para compradores locais, num estilo mais próximo da publicidade e da banda desenhada do que da escola de belas-artes.
 
 ## Carreira internacional
 

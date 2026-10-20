@@ -40,7 +40,7 @@ Em 1937, a artista britânica Margaret Trowell começou a ensinar arte no Makere
 
 Os artistas da África Oriental estão hoje em destaque: a queniana [Wangechi Mutu](/artists/wangechi-mutu), cujos bronzes ocuparam a fachada do Metropolitan Museum; a pintora nascida na Etiópia Julie Mehretu; o artista etíope Elias Sime, que constrói obras com eletrónica reciclada; e o pintor queniano Michael Armitage, que pinta sobre pano de casca ugandês. Veja a [arte africana contemporânea](/guides/contemporary-african-art).
 
-O Quénia deu também alguns dos fotojornalistas mais importantes de África. Mohamed Amin cobriu a África Oriental durante três décadas a partir da sua agência Camerapix, em Nairobi; as suas imagens da fome na Etiópia em 1984 deram origem ao Band Aid e ao Live Aid. Uma geração depois, Boniface Mwangi fotografou a violência que se seguiu às eleições quenianas de 2007. Veja a nossa lista de [fotógrafos africanos](/artists/medium/photographers).
+O Quénia deu também alguns dos fotojornalistas mais importantes de África. [Mohamed Amin](/artists/mohamed-amin) cobriu a África Oriental durante três décadas a partir da sua agência Camerapix, em Nairobi; as suas imagens da fome na Etiópia em 1984 deram origem ao Band Aid e ao Live Aid. Uma geração depois, [Boniface Mwangi](/artists/boniface-mwangi) fotografou a violência que se seguiu às eleições quenianas de 2007. Veja a nossa lista de [fotógrafos africanos](/artists/medium/photographers).
 
 ## A música
 

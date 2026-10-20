@@ -19,10 +19,10 @@ Quand Nelson Mandela est sorti de prison en février 1990, l'Afrique du Sud a en
 
 Une poignée de photographes y passaient leurs journées. Quatre d'entre eux, jeunes Sud-Africains blancs — Silva étant né au Portugal —, sont devenus amis et travaillaient souvent ensemble :
 
-- **Ken Oosterbroek**, photographe en chef du *Star*, le plus organisé et le plus ambitieux du groupe.
+- **[Ken Oosterbroek](/artists/ken-oosterbroek)**, photographe en chef du *Star*, le plus organisé et le plus ambitieux du groupe.
 - **[Kevin Carter](/artists/kevin-carter)**, doué, instable et tourmenté.
-- **Greg Marinovich**, lauréat en 1991 du prix Pulitzer de la photographie d'actualité pour des images d'un meurtre à Soweto.
-- **João Silva**, né à Lisbonne, calme sous le feu, devenu ensuite photographe de guerre pour le *New York Times*.
+- **[Greg Marinovich](/artists/greg-marinovich)**, lauréat en 1991 du prix Pulitzer de la photographie d'actualité pour des images d'un meurtre à Soweto.
+- **[João Silva](/artists/joao-silva)**, né à Lisbonne, calme sous le feu, devenu ensuite photographe de guerre pour le *New York Times*.
 
 Un magazine sud-africain les a appelés les « Bang-Bang Paparazzi » ; le nom est devenu le Bang-Bang Club. Ils ne l'avaient pas choisi, et certains le détestaient.
 

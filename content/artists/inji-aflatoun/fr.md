@@ -33,4 +33,4 @@ Après sa libération, son style change. Ses paysages du Nil, du désert et de l
 
 ## Voir aussi
 
-Les [femmes artistes africaines](/guides/african-women-artists) ; les peintres Hussein Bicar et [Mahmoud Saïd](/artists/mahmoud-said) ; l'artiste contemporaine [Ghada Amer](/artists/ghada-amer) ; la peintre [Effat Nagy](/artists/effat-nagy) ; et notre liste d'[artistes égyptiens](/artists/country/egypt).
+Les [femmes artistes africaines](/guides/african-women-artists) ; les peintres [Hussein Bicar](/artists/hussein-bicar) et [Mahmoud Saïd](/artists/mahmoud-said) ; l'artiste contemporaine [Ghada Amer](/artists/ghada-amer) ; la peintre [Effat Nagy](/artists/effat-nagy) ; et notre liste d'[artistes égyptiens](/artists/country/egypt).

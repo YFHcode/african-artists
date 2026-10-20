@@ -33,9 +33,9 @@ Le roi Ezana d'Aksoum adopte le christianisme au IVe siècle, et l'Église ortho
 
 L'**École des beaux-arts d'Addis-Abeba**, inaugurée en 1958 et fondée par le peintre Ale Felege Selam, a formé la plupart des artistes modernes du pays. Parmi les plus connus :
 
-- **Afewerk Tekle** (1932-2012), qui a conçu les vitraux monumentaux de l'Africa Hall d'Addis-Abeba, siège de la Commission économique des Nations unies pour l'Afrique, inauguré en 1961.
+- **[Afewerk Tekle](/artists/afewerk-tekle)** (1932-2012), qui a conçu les vitraux monumentaux de l'Africa Hall d'Addis-Abeba, siège de la Commission économique des Nations unies pour l'Afrique, inauguré en 1961.
 - **Gebre Kristos Desta** (1932-1981), formé en Allemagne, pionnier de la peinture abstraite en Éthiopie.
-- **Skunder Boghossian** (1937-2003), qui a travaillé à Paris puis enseigné à l'université Howard à Washington, et dont la peinture visionnaire mêle sources éthiopiennes et surréalisme.
+- **[Skunder Boghossian](/artists/skunder-boghossian)** (1937-2003), qui a travaillé à Paris puis enseigné à l'université Howard à Washington, et dont la peinture visionnaire mêle sources éthiopiennes et surréalisme.
 
 ## Artistes contemporains
 

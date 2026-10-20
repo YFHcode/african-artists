@@ -22,7 +22,7 @@ Entre 1962 y 1966 el club acogió una serie de talleres breves dirigidos por art
 
 Los talleres dieron artistas de estilos muy personales, todos inspirados en los relatos, los dioses, las fiestas y la vida cotidiana yorubas:
 
-- **Twins Seven-Seven**, que llegó al club en 1963 y se convirtió en uno de los pintores más conocidos de Nigeria, con imágenes intrincadas y llenas de motivos sobre espíritus y mitos;
+- **[Twins Seven-Seven](/artists/twins-seven-seven)**, que llegó al club en 1963 y se convirtió en uno de los pintores más conocidos de Nigeria, con imágenes intrincadas y llenas de motivos sobre espíritus y mitos;
 - **Jimoh Buraimoh**, que desarrolló una pintura con cuentas, adaptación de los [abalorios](/art-forms/african-beadwork) yorubas;
 - **Muraina Oyelami**, pintor y también célebre tamborilero;
 - **Rufus Ogundele**, **Jacob Afolabi** y **Adebisi Fabunmi**, pintores y grabadores;

@@ -13,7 +13,7 @@ facts:
 ---
 ## Activismo visual
 
-Zanele Muholi creció en Umlazi, un township al sur de Durban, se formó en el Market Photo Workshop de Johannesburgo, la escuela fundada por el fotógrafo David Goldblatt, y continuó sus estudios en Toronto. Desde el principio, la fotografía de Muholi estuvo unida al activismo: la Constitución sudafricana de 1996 fue la primera del mundo en prohibir la discriminación por orientación sexual, pero las lesbianas negras y las personas trans eran —y son— blanco de violencia, incluidas las llamadas violaciones «correctivas» y los asesinatos.
+Zanele Muholi creció en Umlazi, un township al sur de Durban, se formó en el Market Photo Workshop de Johannesburgo, la escuela fundada por el fotógrafo [David Goldblatt](/artists/david-goldblatt), y continuó sus estudios en Toronto. Desde el principio, la fotografía de Muholi estuvo unida al activismo: la Constitución sudafricana de 1996 fue la primera del mundo en prohibir la discriminación por orientación sexual, pero las lesbianas negras y las personas trans eran —y son— blanco de violencia, incluidas las llamadas violaciones «correctivas» y los asesinatos.
 
 Muholi eligió llamarse activista visual en lugar de artista. El propósito: que las personas queer negras de Sudáfrica sean vistas, recordadas y representadas por sí mismas y no por otros.
 

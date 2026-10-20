@@ -18,7 +18,7 @@ Kevin Carter a grandi à Johannesburg et a commencé à travailler comme photogr
 
 ## Le Bang-Bang Club
 
-Entre la libération de Nelson Mandela en 1990 et les premières élections démocratiques d'avril 1994, les affrontements entre partisans du Congrès national africain et du parti Inkatha ont fait des milliers de morts dans les townships du Reef. Carter y travaillait avec Ken Oosterbroek, Greg Marinovich et João Silva. Un magazine les a surnommés le « Bang-Bang Club », et le nom est resté. Leur histoire est racontée dans notre guide du [Bang-Bang Club](/guides/bang-bang-club).
+Entre la libération de Nelson Mandela en 1990 et les premières élections démocratiques d'avril 1994, les affrontements entre partisans du Congrès national africain et du parti Inkatha ont fait des milliers de morts dans les townships du Reef. Carter y travaillait avec [Ken Oosterbroek](/artists/ken-oosterbroek), [Greg Marinovich](/artists/greg-marinovich) et [João Silva](/artists/joao-silva). Un magazine les a surnommés le « Bang-Bang Club », et le nom est resté. Leur histoire est racontée dans notre guide du [Bang-Bang Club](/guides/bang-bang-club).
 
 ## Soudan, 1993
 

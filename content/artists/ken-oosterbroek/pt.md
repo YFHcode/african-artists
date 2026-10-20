@@ -20,7 +20,7 @@ Os colegas recordavam-no como o mais organizado e ambicioso do grupo: um fotógr
 
 ## A guerra dos townships
 
-A partir de 1990, os townships a leste e a sul de Joanesburgo foram o centro de um conflito entre apoiantes do Congresso Nacional Africano e do partido Inkatha, muitas vezes atiçado por elementos das forças de segurança. Oosterbroek cobriu-o dia após dia com [Kevin Carter](/artists/kevin-carter), Greg Marinovich e João Silva — o grupo a que uma revista chamou «Bang-Bang Club». A sua história é contada no nosso guia do [Bang-Bang Club](/guides/bang-bang-club).
+A partir de 1990, os townships a leste e a sul de Joanesburgo foram o centro de um conflito entre apoiantes do Congresso Nacional Africano e do partido Inkatha, muitas vezes atiçado por elementos das forças de segurança. Oosterbroek cobriu-o dia após dia com [Kevin Carter](/artists/kevin-carter), [Greg Marinovich](/artists/greg-marinovich) e [João Silva](/artists/joao-silva) — o grupo a que uma revista chamou «Bang-Bang Club». A sua história é contada no nosso guia do [Bang-Bang Club](/guides/bang-bang-club).
 
 ## Thokoza, 18 de abril de 1994
 

@@ -21,8 +21,8 @@ Um punhado de fotógrafos passava ali os dias. Quatro deles, jovens sul-africano
 
 - **[Ken Oosterbroek](/artists/ken-oosterbroek)**, fotógrafo-chefe do *The Star*, o mais organizado e ambicioso do grupo.
 - **[Kevin Carter](/artists/kevin-carter)**, talentoso, inquieto e atormentado.
-- **Greg Marinovich**, vencedor em 1991 do Prémio Pulitzer de fotografia noticiosa pelas imagens de um assassínio no Soweto.
-- **João Silva**, nascido em Lisboa, calmo debaixo de fogo, mais tarde fotógrafo de guerra do *The New York Times*.
+- **[Greg Marinovich](/artists/greg-marinovich)**, vencedor em 1991 do Prémio Pulitzer de fotografia noticiosa pelas imagens de um assassínio no Soweto.
+- **[João Silva](/artists/joao-silva)**, nascido em Lisboa, calmo debaixo de fogo, mais tarde fotógrafo de guerra do *The New York Times*.
 
 Uma revista sul-africana chamou-lhes os «Bang-Bang Paparazzi»; o nome tornou-se Bang-Bang Club. Não o escolheram, e alguns não gostavam dele.
 

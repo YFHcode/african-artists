@@ -27,4 +27,4 @@ Dumas representou os Países Baixos na Bienal de Veneza em 1995. A sua retrospet
 
 ## Veja também
 
-William Kentridge; o nosso guia das [mulheres artistas africanas](/guides/african-women-artists); [Irma Stern](/artists/irma-stern), a pintora modernista sul-africana pioneira de uma geração anterior; e a nossa lista de [artistas sul-africanos](/artists/country/south-africa).
+[William Kentridge](/artists/william-kentridge); o nosso guia das [mulheres artistas africanas](/guides/african-women-artists); [Irma Stern](/artists/irma-stern), a pintora modernista sul-africana pioneira de uma geração anterior; e a nossa lista de [artistas sul-africanos](/artists/country/south-africa).

@@ -28,7 +28,7 @@ En los años cincuenta, tallistas makonde instalados en Tanzania, y otros del la
 
 ## Los artistas
 
-**George Lilanga** (1934–2005), tanzano de origen makonde, se convirtió en uno de los artistas más conocidos de África Oriental. Empezó tallando shetani y desarrolló una pintura y una escultura alegres en las que multitudes de figuras bailarinas de orejas largas llenan la superficie; su obra se expuso internacionalmente.
+**[George Lilanga](/artists/george-lilanga)** (1934–2005), tanzano de origen makonde, se convirtió en uno de los artistas más conocidos de África Oriental. Empezó tallando shetani y desarrolló una pintura y una escultura alegres en las que multitudes de figuras bailarinas de orejas largas llenan la superficie; su obra se expuso internacionalmente.
 
 **Reinata Sadimba**, nacida en el norte de Mozambique en los años cuarenta, es una excepción como mujer en una tradición de talla dominada por hombres. Sus figuras de barro y madera, a menudo de mujeres, madres y seres fantásticos, están en colecciones de Mozambique y del extranjero.
 

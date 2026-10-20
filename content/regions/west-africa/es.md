@@ -40,7 +40,7 @@ Los estudios de Bamako produjeron a dos de los fotógrafos más admirados del si
 
 Lagos, Dakar, Acra y Abiyán tienen escenas de arte contemporáneo muy activas, con citas como Dak'Art y ART X Lagos (vea [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales)) y nuevas instituciones como el Museum of West African Art de Benin City.
 
-Nigeria y Ghana tienen las mayores escenas artísticas de la región: entre los artistas de Nigeria, la ceramista Ladi Kwali, Twins Seven-Seven, de la escuela de Oshogbo, y hoy Yinka Shonibare y Otobong Nkanga; entre los de Ghana, Ibrahim Mahama y Amoako Boafo.
+Nigeria y Ghana tienen las mayores escenas artísticas de la región: entre los artistas de Nigeria, la ceramista [Ladi Kwali](/artists/ladi-kwali), [Twins Seven-Seven](/artists/twins-seven-seven), de la escuela de Oshogbo, y hoy [Yinka Shonibare](/artists/yinka-shonibare) y [Otobong Nkanga](/artists/otobong-nkanga); entre los de Ghana, [Ibrahim Mahama](/artists/ibrahim-mahama) y [Amoako Boafo](/artists/amoako-boafo).
 
 ## La música
 

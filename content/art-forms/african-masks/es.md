@@ -36,7 +36,7 @@ Muchas máscaras pertenecen a sociedades de hombres iniciados, y en algunos luga
 
 ## Las máscaras y el arte moderno
 
-En París, hacia 1906–07, Picasso, Matisse, Derain y Vlaminck vieron y coleccionaron escultura africana, y *Las señoritas de Aviñón* de Picasso (1907) es su resultado más famoso. La influencia fue real, pero esos artistas europeos no sabían casi nada de lo que significaban las máscaras. Los artistas africanos han recuperado la máscara en sus propios términos: desde los años ochenta, el beninés Romuald Hazoumè hace «máscaras» con bidones de plástico recortados, un comentario sobre el contrabando de combustible, el consumo y el gusto occidental por lo exótico.
+En París, hacia 1906–07, Picasso, Matisse, Derain y Vlaminck vieron y coleccionaron escultura africana, y *Las señoritas de Aviñón* de Picasso (1907) es su resultado más famoso. La influencia fue real, pero esos artistas europeos no sabían casi nada de lo que significaban las máscaras. Los artistas africanos han recuperado la máscara en sus propios términos: desde los años ochenta, el beninés [Romuald Hazoumè](/artists/romuald-hazoume) hace «máscaras» con bidones de plástico recortados, un comentario sobre el contrabando de combustible, el consumo y el gusto occidental por lo exótico.
 
 ## Comprar una máscara
 

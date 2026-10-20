@@ -29,4 +29,4 @@ facts:
 
 ## انظر أيضًا
 
-معاصراها ج. هـ. بيرنيف وفلاديمير تريتشيكوف؛ و[مارلين دوماس](/artists/marlene-dumas)؛ و[الجنوب الأفريقي](/regions/southern-africa)؛ وقائمة [الرسّامين الأفارقة](/artists/medium/painters).
+معاصراها [ج. هـ. بيرنيف](/artists/jh-pierneef) و[فلاديمير تريتشيكوف](/artists/vladimir-tretchikoff)؛ و[مارلين دوماس](/artists/marlene-dumas)؛ و[الجنوب الأفريقي](/regions/southern-africa)؛ وقائمة [الرسّامين الأفارقة](/artists/medium/painters).

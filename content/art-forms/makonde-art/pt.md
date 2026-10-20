@@ -28,7 +28,7 @@ Nos anos 1950, escultores macondes fixados na Tanzânia, e outros do lado moçam
 
 ## Os artistas
 
-**George Lilanga** (1934–2005), tanzaniano de origem maconde, tornou-se um dos artistas mais conhecidos da África Oriental. Começou por esculpir shetani e desenvolveu uma pintura e uma escultura alegres, em que multidões de figuras dançantes de orelhas compridas enchem a superfície; a sua obra foi exposta internacionalmente.
+**[George Lilanga](/artists/george-lilanga)** (1934–2005), tanzaniano de origem maconde, tornou-se um dos artistas mais conhecidos da África Oriental. Começou por esculpir shetani e desenvolveu uma pintura e uma escultura alegres, em que multidões de figuras dançantes de orelhas compridas enchem a superfície; a sua obra foi exposta internacionalmente.
 
 **Reinata Sadimba**, nascida no norte de Moçambique nos anos 1940, é uma exceção como mulher numa tradição de escultura dominada por homens. As suas figuras em barro e madeira, muitas vezes de mulheres, mães e seres fantásticos, estão em coleções em Moçambique e no estrangeiro.
 

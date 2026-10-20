@@ -33,4 +33,4 @@ Depois de libertada, o seu estilo mudou. As paisagens do Nilo, do deserto e do c
 
 ## Veja também
 
-O guia das [mulheres artistas africanas](/guides/african-women-artists); os pintores Hussein Bicar e [Mahmoud Saïd](/artists/mahmoud-said); a artista contemporânea [Ghada Amer](/artists/ghada-amer); a pintora [Effat Nagy](/artists/effat-nagy); e a nossa lista de [pintores africanos](/artists/medium/painters).
+O guia das [mulheres artistas africanas](/guides/african-women-artists); os pintores [Hussein Bicar](/artists/hussein-bicar) e [Mahmoud Saïd](/artists/mahmoud-said); a artista contemporânea [Ghada Amer](/artists/ghada-amer); a pintora [Effat Nagy](/artists/effat-nagy); e a nossa lista de [pintores africanos](/artists/medium/painters).

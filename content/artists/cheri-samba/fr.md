@@ -24,7 +24,7 @@ Le texte est sa signature. Légendes, bulles et longs paragraphes explicatifs en
 
 ## Les peintres populaires de Kinshasa
 
-Samba est l'une des figures fondatrices de ce qu'on appelle la [peinture populaire congolaise](/movements/congolese-popular-painting), un mouvement d'artistes kinois en grande partie autodidactes — parmi lesquels Moké, Chéri Chérin et Pierre Bodo — qui, à partir des années 1970, ont peint la vie de la ville, ses scandales et son histoire pour des acheteurs locaux, dans un style plus proche de la publicité et de la bande dessinée que de l'école des beaux-arts.
+Samba est l'une des figures fondatrices de ce qu'on appelle la [peinture populaire congolaise](/movements/congolese-popular-painting), un mouvement d'artistes kinois en grande partie autodidactes — parmi lesquels Moké, [Chéri Chérin](/artists/cheri-cherin) et Pierre Bodo — qui, à partir des années 1970, ont peint la vie de la ville, ses scandales et son histoire pour des acheteurs locaux, dans un style plus proche de la publicité et de la bande dessinée que de l'école des beaux-arts.
 
 ## Carrière internationale
 

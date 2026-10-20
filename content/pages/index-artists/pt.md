@@ -9,31 +9,31 @@ A seleção cobre de propósito todo o continente e as suas línguas: a África 
 
 ## Pioneiros e escolas
 
-**Mahmoud Mokhtar** (Egito, 1891-1934) fez *O Despertar do Egito*, uma escultura monumental no Cairo que se tornou um símbolo nacional nos anos 1920.
+**[Mahmoud Mokhtar](/artists/mahmoud-mokhtar)** (Egito, 1891-1934) fez *O Despertar do Egito*, uma escultura monumental no Cairo que se tornou um símbolo nacional nos anos 1920.
 
 **Gerard Sekoto** (África do Sul, 1913-1993) pintou a vida dos townships, partiu para Paris em 1947 e tornou-se uma figura fundadora do modernismo negro sul-africano.
 
 **Inji Efflatoun** (Egito, 1924-1989) pintou as suas companheiras de prisão a partir da própria cela, unindo arte, política e feminismo. Veja as [mulheres artistas africanas](/guides/african-women-artists).
 
-**Chaïbia Talal** (Marrocos, 1929–2004) foi uma pintora autodidata de telas vivas e espontâneas que não pertenceu a nenhuma escola, em contraste com a [Escola de Casablanca](/movements/casablanca-school) à sua volta.
+**[Chaïbia Talal](/artists/chaibia-talal)** (Marrocos, 1929–2004) foi uma pintora autodidata de telas vivas e espontâneas que não pertenceu a nenhuma escola, em contraste com a [Escola de Casablanca](/movements/casablanca-school) à sua volta.
 
 **Mohamed Melehi** (Marrocos) ajudou a fundar a Escola de Casablanca com [Farid Belkahia](/artists/farid-belkahia), e é conhecido pelos seus motivos rítmicos de ondas em cores fortes.
 
-**Uche Okeke** (Nigéria) ajudou a moldar a [Zaria Art Society](/movements/zaria-art-society) e a sua ideia de «síntese natural», segundo a qual a arte nigeriana moderna deve partir das suas próprias tradições.
+**[Uche Okeke](/artists/uche-okeke)** (Nigéria) ajudou a moldar a [Zaria Art Society](/movements/zaria-art-society) e a sua ideia de «síntese natural», segundo a qual a arte nigeriana moderna deve partir das suas próprias tradições.
 
-**Bruce Onobrakpeya** (Nigéria) é gravador e pintor, também ligado à Zaria Art Society, cuja obra se inspira nas texturas e nas histórias dos muitos povos da Nigéria.
+**[Bruce Onobrakpeya](/artists/bruce-onobrakpeya)** (Nigéria) é gravador e pintor, também ligado à Zaria Art Society, cuja obra se inspira nas texturas e nas histórias dos muitos povos da Nigéria.
 
 **Bodys Isek Kingelez** (RD do Congo, 1948-2015) construiu cidades fantásticas em miniatura com papel, cartão e materiais encontrados, imaginando um Kinshasa do futuro.
 
 ## Escultores e artistas de instalação
 
-**Romuald Hazoumè** (Benim) faz máscaras com bidões de gasolina descartados, muitos deles a referir o contrabando de combustível e o tráfico atlântico. Veja as [máscaras africanas](/art-forms/african-masks).
+**[Romuald Hazoumè](/artists/romuald-hazoume)** (Benim) faz máscaras com bidões de gasolina descartados, muitos deles a referir o contrabando de combustível e o tráfico atlântico. Veja as [máscaras africanas](/art-forms/african-masks).
 
-**Yinka Shonibare MBE** (Nigéria e Reino Unido) usa o wax holandês, um tecido vendido por toda a África como «africano» mas fabricado na Europa, para vestir figuras sem cabeça com trajes vitorianos.
+**[Yinka Shonibare](/artists/yinka-shonibare) MBE** (Nigéria e Reino Unido) usa o wax holandês, um tecido vendido por toda a África como «africano» mas fabricado na Europa, para vestir figuras sem cabeça com trajes vitorianos.
 
 **Serge Attukwei Clottey** (Gana) transforma bidões amarelos de plástico em painéis e esculturas tecidos, numa prática a que chama afrogalonismo.
 
-**Ibrahim Mahama** (Gana) envolve edifícios, monumentos e vagões de comboio em sacos de juta, para falar do comércio que por eles circula. Veja os [têxteis africanos](/art-forms/african-textiles).
+**[Ibrahim Mahama](/artists/ibrahim-mahama)** (Gana) envolve edifícios, monumentos e vagões de comboio em sacos de juta, para falar do comércio que por eles circula. Veja os [têxteis africanos](/art-forms/african-textiles).
 
 **Gonçalo Mabunda** (Moçambique) cria tronos, máscaras e esculturas com armas desativadas que restaram da guerra civil. Veja a [escultura africana](/art-forms/african-sculpture).
 
@@ -47,25 +47,25 @@ A seleção cobre de propósito todo o continente e as suas línguas: a África 
 
 ## Pintores
 
-**William Kentridge** (África do Sul) desenha a carvão, apaga e volta a desenhar cada imagem, e filma o resultado, desde *Felix in Exile*. Veja a [arte africana contemporânea](/guides/contemporary-african-art).
+**[William Kentridge](/artists/william-kentridge)** (África do Sul) desenha a carvão, apaga e volta a desenhar cada imagem, e filma o resultado, desde *Felix in Exile*. Veja a [arte africana contemporânea](/guides/contemporary-african-art).
 
-**Marlene Dumas** (África do Sul, a viver em Amesterdão) pinta retratos a partir de fotografias, com uma intimidade inquietante e inacabada.
+**[Marlene Dumas](/artists/marlene-dumas)** (África do Sul, a viver em Amesterdão) pinta retratos a partir de fotografias, com uma intimidade inquietante e inacabada.
 
 **Julie Mehretu** (Etiópia, a viver nos Estados Unidos) constrói grandes desenhos e pinturas sobrepostos de cidades, mapas e arquiteturas.
 
 **Michael Armitage** (Quénia) pinta grandes telas que sobrepõem o folclore queniano, a história e a iconografia da época colonial.
 
-**Amoako Boafo** (Gana) pinta retratos de amigos e desconhecidos, com cor intensa e uma pincelada expressiva e escultórica.
+**[Amoako Boafo](/artists/amoako-boafo)** (Gana) pinta retratos de amigos e desconhecidos, com cor intensa e uma pincelada expressiva e escultórica.
 
 ## Fotógrafos e artistas visuais
 
-**Samuel Fosso** (Camarões) faz autorretratos encenados e disfarçados que brincam com a identidade, a moda e os estereótipos. Veja a [fotografia africana](/art-forms/african-photography).
+**[Samuel Fosso](/artists/samuel-fosso)** (Camarões) faz autorretratos encenados e disfarçados que brincam com a identidade, a moda e os estereótipos. Veja a [fotografia africana](/art-forms/african-photography).
 
 **Lalla Essaydi** (Marrocos) fotografa mulheres em tecidos bordados cobertos de caligrafia com henna, para contestar os estereótipos sobre as mulheres árabes.
 
-**Hassan Hajjaj** (Marrocos e Reino Unido) emoldura retratos coloridos com tecidos marroquinos, latas e objetos do quotidiano, entre Marraquexe e Londres.
+**[Hassan Hajjaj](/artists/hassan-hajjaj)** (Marrocos e Reino Unido) emoldura retratos coloridos com tecidos marroquinos, latas e objetos do quotidiano, entre Marraquexe e Londres.
 
-**Youssef Nabil** (Egito) colore à mão retratos fotográficos, à maneira do cinema dos primeiros tempos e do retrato de estúdio.
+**[Youssef Nabil](/artists/youssef-nabil)** (Egito) colore à mão retratos fotográficos, à maneira do cinema dos primeiros tempos e do retrato de estúdio.
 
 **Sammy Baloji** (RD do Congo) faz fotografias e filmes sobre a história mineira do Catanga e os arquivos coloniais. Veja a [fotografia africana](/art-forms/african-photography).
 

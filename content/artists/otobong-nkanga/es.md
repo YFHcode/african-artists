@@ -27,4 +27,4 @@ Recibió una Mención Especial en la Bienal de Venecia de 2019 y ha tenido expos
 
 ## Véase también
 
-Yinka Shonibare; [Nnenna Okore](/artists/nnenna-okore); la guía de [mujeres artistas africanas](/guides/african-women-artists); el [arte africano contemporáneo](/guides/contemporary-african-art); y nuestra lista de [artistas africanos contemporáneos](/artists/contemporary).
+[Yinka Shonibare](/artists/yinka-shonibare); [Nnenna Okore](/artists/nnenna-okore); la guía de [mujeres artistas africanas](/guides/african-women-artists); el [arte africano contemporáneo](/guides/contemporary-african-art); y nuestra lista de [artistas africanos contemporáneos](/artists/contemporary).

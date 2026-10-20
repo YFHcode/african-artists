@@ -27,4 +27,4 @@ facts:
 
 ## انظر أيضًا
 
-ينكا شونيباري، الذي يجعل هو أيضًا من مواد التجارة والإمبراطورية موضوعًا لفنه؛ والنحّاتة [نينا أوكوري](/artists/nnenna-okore)، التي تحوّل الخيش والورق والطين إلى أشكال تستحضر الأرض وتآكلها؛ و[فنانات أفريقيات](/guides/african-women-artists)؛ و[الفن الأفريقي المعاصر](/guides/contemporary-african-art)؛ و[غرب أفريقيا](/regions/west-africa)؛ وقائمة [الفنانين الأفارقة المعاصرين](/artists/contemporary).
+[ينكا شونيباري](/artists/yinka-shonibare)، الذي يجعل هو أيضًا من مواد التجارة والإمبراطورية موضوعًا لفنه؛ والنحّاتة [نينا أوكوري](/artists/nnenna-okore)، التي تحوّل الخيش والورق والطين إلى أشكال تستحضر الأرض وتآكلها؛ و[فنانات أفريقيات](/guides/african-women-artists)؛ و[الفن الأفريقي المعاصر](/guides/contemporary-african-art)؛ و[غرب أفريقيا](/regions/west-africa)؛ وقائمة [الفنانين الأفارقة المعاصرين](/artists/contemporary).

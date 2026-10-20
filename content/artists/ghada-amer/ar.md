@@ -29,4 +29,4 @@ facts:
 
 ## انظر أيضًا
 
-الرسّامة المصرية [إنجي أفلاطون](/artists/inji-aflatoun)، التي رسمت السجينات في الستينيات؛ و[آنا بوغيغيان](/artists/anna-boghiguian) ووائل شوقي، وهما فنانان مصريان آخران يعملان على المستوى الدولي؛ و[فنانات أفريقيات](/guides/african-women-artists)؛ وقائمتَي [الفنانين المصريين](/artists/country/egypt) و[النحّاتين المصريين](/artists/country/egypt/sculptors).
+الرسّامة المصرية [إنجي أفلاطون](/artists/inji-aflatoun)، التي رسمت السجينات في الستينيات؛ و[آنا بوغيغيان](/artists/anna-boghiguian) و[وائل شوقي](/artists/wael-shawky)، وهما فنانان مصريان آخران يعملان على المستوى الدولي؛ و[فنانات أفريقيات](/guides/african-women-artists)؛ وقائمتَي [الفنانين المصريين](/artists/country/egypt) و[النحّاتين المصريين](/artists/country/egypt/sculptors).

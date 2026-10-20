@@ -27,7 +27,7 @@ En muchas comunidades la alfarería es trabajo de mujeres, transmitido de madre 
 ## Tradiciones regionales
 
 - **Nubia** (Sudán): los alfareros de la cultura de Kerma, entre aproximadamente el 2500 y el 1500 a. C., hicieron vasijas rojas de paredes finas con el borde negro brillante, entre la cerámica más fina del mundo antiguo.
-- **África Occidental**: las tinajas de agua gbari (gwari) del centro de Nigeria —la tradición en la que creció Ladi Kwali— y las figuras de terracota de [Nok](/art-forms/african-sculpture) y de Djenné-Djenno, en Malí.
+- **África Occidental**: las tinajas de agua gbari (gwari) del centro de Nigeria —la tradición en la que creció [Ladi Kwali](/artists/ladi-kwali)— y las figuras de terracota de [Nok](/art-forms/african-sculpture) y de Djenné-Djenno, en Malí.
 - **África Central**: los mangbetu de la RD del Congo hicieron vasijas cuyo cuello es una elegante cabeza humana, con los peinados alargados que se admiraban en su corte.
 - **Sur de África**: las jarras de cerveza zulúes (*ukhamba*), bruñidas en negro y decoradas con motivos en relieve, sirven la cerveza de sorgo. **Nesta Nala** (1940–2005) fue su creadora más célebre.
 - **Norte de África**: aquí llegaron las técnicas del mundo islámico: el torno, el horno y el vidriado. Fez es conocida por su cerámica azul y blanca, Safi por su barrio de alfareros y Tamegroute por su cerámica de vidriado verde; los mismos oficios producen los azulejos de la [arquitectura del norte de África](/regions/north-africa).
@@ -38,7 +38,7 @@ Nacida hacia 1925 en el pueblo de Kwali, en el centro de Nigeria, Ladi Kwali apr
 
 ## Magdalene Odundo
 
-Nacida en Nairobi en 1950 y formada en Gran Bretaña, Magdalene Odundo hace vasijas modeladas a mano y bruñidas, de formas abombadas que evocan cuerpos y superficies cocidas hasta un naranja profundo o un negro brillante. Se inspira en las tradiciones cerámicas de Kenia, Nigeria y otros lugares, así como en la cerámica antigua de todo el mundo. Su obra está en grandes museos, y en 2020 fue nombrada Dama del Imperio Británico.
+Nacida en Nairobi en 1950 y formada en Gran Bretaña, [Magdalene Odundo](/artists/magdalene-odundo) hace vasijas modeladas a mano y bruñidas, de formas abombadas que evocan cuerpos y superficies cocidas hasta un naranja profundo o un negro brillante. Se inspira en las tradiciones cerámicas de Kenia, Nigeria y otros lugares, así como en la cerámica antigua de todo el mundo. Su obra está en grandes museos, y en 2020 fue nombrada Dama del Imperio Británico.
 
 ## La cerámica hoy
 

@@ -27,7 +27,7 @@ Em muitas comunidades a olaria é trabalho de mulheres, passado de mãe para fil
 ## Tradições regionais
 
 - **Núbia** (Sudão): os oleiros da cultura de Kerma, entre cerca de 2500 e 1500 a.C., fizeram vasos vermelhos de paredes finas com bordos negros brilhantes, entre a mais fina cerâmica do mundo antigo.
-- **África Ocidental**: as talhas de água gbari (gwari) do centro da Nigéria — a tradição em que Ladi Kwali cresceu — e as figuras de terracota de [Nok](/art-forms/african-sculpture) e de Djenné-Djenno, no Mali.
+- **África Ocidental**: as talhas de água gbari (gwari) do centro da Nigéria — a tradição em que [Ladi Kwali](/artists/ladi-kwali) cresceu — e as figuras de terracota de [Nok](/art-forms/african-sculpture) e de Djenné-Djenno, no Mali.
 - **África Central**: os mangbetu da RD Congo fizeram vasos cujo gargalo é uma elegante cabeça humana, com os penteados alongados admirados na sua corte.
 - **África Austral**: os potes de cerveja zulu (*ukhamba*), brunidos a negro e decorados com motivos em relevo, servem a cerveja de sorgo. **Nesta Nala** (1940–2005) tornou-se a sua criadora mais célebre.
 - **Norte de África**: aqui chegaram as técnicas do mundo islâmico — a roda, o forno e o vidrado. Fez é conhecida pela cerâmica azul e branca, Safi pelo seu bairro de oleiros e Tamegroute pela cerâmica de vidrado verde; os mesmos ofícios produzem os azulejos da [arquitetura do Norte de África](/regions/north-africa).
@@ -38,7 +38,7 @@ Nascida por volta de 1925 na aldeia de Kwali, no centro da Nigéria, Ladi Kwali 
 
 ## Magdalene Odundo
 
-Nascida em Nairobi em 1950 e formada na Grã-Bretanha, Magdalene Odundo faz vasos modelados à mão e brunidos, de formas bojudas que lembram corpos e superfícies cozidas até um laranja profundo ou um negro brilhante. Inspira-se nas tradições cerâmicas do Quénia, da Nigéria e de outros lugares, bem como na cerâmica antiga de todo o mundo. As suas obras estão em grandes museus, e em 2020 recebeu o título de Dame.
+Nascida em Nairobi em 1950 e formada na Grã-Bretanha, [Magdalene Odundo](/artists/magdalene-odundo) faz vasos modelados à mão e brunidos, de formas bojudas que lembram corpos e superfícies cozidas até um laranja profundo ou um negro brilhante. Inspira-se nas tradições cerâmicas do Quénia, da Nigéria e de outros lugares, bem como na cerâmica antiga de todo o mundo. As suas obras estão em grandes museus, e em 2020 recebeu o título de Dame.
 
 ## A cerâmica hoje
 

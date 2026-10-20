@@ -20,7 +20,7 @@ A independência chegaria em 1960, e um grupo de estudantes decidiu que aquela e
 
 ## Quem eram
 
-Entre os membros estavam Uche Okeke, Demas Nwoko, Yusuf Grillo, Bruce Onobrakpeya, Simon Okeke, Jimoh Akolo, Oseloka Osadebe, Emmanuel Odita, Ogbonaya Nwagbara e Solomon Wangboje. Muitos tornaram-se os pintores, escultores, gravadores e professores mais influentes da Nigéria independente.
+Entre os membros estavam [Uche Okeke](/artists/uche-okeke), Demas Nwoko, Yusuf Grillo, [Bruce Onobrakpeya](/artists/bruce-onobrakpeya), Simon Okeke, Jimoh Akolo, Oseloka Osadebe, Emmanuel Odita, Ogbonaya Nwagbara e Solomon Wangboje. Muitos tornaram-se os pintores, escultores, gravadores e professores mais influentes da Nigéria independente.
 
 ## A síntese natural
 

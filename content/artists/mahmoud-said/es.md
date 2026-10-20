@@ -30,7 +30,7 @@ También pintó retratos de la sociedad alejandrina, escenas religiosas y paisaj
 
 ## Legado
 
-Saïd figura entre los fundadores de la pintura egipcia moderna, junto al escultor Mahmoud Mokhtar y otros miembros de la generación que llegó a la madurez en torno a la revolución de 1919. La casa familiar en Alejandría es hoy un museo dedicado a su obra.
+Saïd figura entre los fundadores de la pintura egipcia moderna, junto al escultor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) y otros miembros de la generación que llegó a la madurez en torno a la revolución de 1919. La casa familiar en Alejandría es hoy un museo dedicado a su obra.
 
 ## Artistas relacionados
 

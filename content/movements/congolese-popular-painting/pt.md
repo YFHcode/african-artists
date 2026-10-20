@@ -16,7 +16,7 @@ facts:
 
 No início dos anos 1970, na cidade então chamada Kinshasa, no Zaire, vários pintores sem formação académica começaram a fazer quadros para pessoas comuns. Alguns tinham sido pintores de letreiros e painéis publicitários: sabiam tornar uma imagem legível num relance, e sabiam vendê-la.
 
-Quatro nomes são geralmente apontados como fundadores: [Chéri Samba](/artists/cheri-samba), Moké, Chéri Chérin e Pierre Bodo. Os seus quadros estavam pendurados em casas, bares e barbearias, e nos próprios ateliês abertos para a rua.
+Quatro nomes são geralmente apontados como fundadores: [Chéri Samba](/artists/cheri-samba), Moké, [Chéri Chérin](/artists/cheri-cherin) e Pierre Bodo. Os seus quadros estavam pendurados em casas, bares e barbearias, e nos próprios ateliês abertos para a rua.
 
 ## O que mostra
 

@@ -29,4 +29,4 @@ Viveu quase quarenta anos numa casa chamada The Firs, em Rosebank, na Cidade do 
 
 ## Veja também
 
-Os seus contemporâneos J. H. Pierneef e Vladimir Tretchikoff; [Marlene Dumas](/artists/marlene-dumas); a [África Austral](/regions/southern-africa); e a nossa lista de [artistas sul-africanos](/artists/country/south-africa).
+Os seus contemporâneos [J. H. Pierneef](/artists/jh-pierneef) e [Vladimir Tretchikoff](/artists/vladimir-tretchikoff); [Marlene Dumas](/artists/marlene-dumas); a [África Austral](/regions/southern-africa); e a nossa lista de [artistas sul-africanos](/artists/country/south-africa).

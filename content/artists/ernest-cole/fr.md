@@ -32,4 +32,4 @@ Pendant des décennies, une grande partie de son œuvre a été considérée com
 
 ## Voir aussi
 
-L'œuvre de Cole s'inscrit aux côtés de celles de Peter Magubane et de David Goldblatt dans la photographie documentaire de l'apartheid. Lire la [photographie africaine](/art-forms/african-photography) et notre liste des [photographes sud-africains](/artists/country/south-africa/photographers).
+L'œuvre de Cole s'inscrit aux côtés de celles de [Peter Magubane](/artists/peter-magubane) et de [David Goldblatt](/artists/david-goldblatt) dans la photographie documentaire de l'apartheid. Lire la [photographie africaine](/art-forms/african-photography) et notre liste des [photographes sud-africains](/artists/country/south-africa/photographers).

@@ -19,9 +19,9 @@ La sélection couvre volontairement tout le continent et ses langues : l'Afrique
 
 **Mohamed Melehi** (Maroc) a contribué à fonder l'École de Casablanca avec [Farid Belkahia](/artists/farid-belkahia) ; il est connu pour ses motifs rythmiques de vagues en couleurs franches.
 
-**Uche Okeke** (Nigeria) a contribué à façonner la [Zaria Art Society](/movements/zaria-art-society) et son idée de « synthèse naturelle », selon laquelle l'art nigérian moderne doit puiser dans ses propres traditions.
+**[Uche Okeke](/artists/uche-okeke)** (Nigeria) a contribué à façonner la [Zaria Art Society](/movements/zaria-art-society) et son idée de « synthèse naturelle », selon laquelle l'art nigérian moderne doit puiser dans ses propres traditions.
 
-**Bruce Onobrakpeya** (Nigeria) est un graveur et peintre, lui aussi lié à la Zaria Art Society, dont l'œuvre s'inspire des textures et des récits des nombreux peuples du Nigeria.
+**[Bruce Onobrakpeya](/artists/bruce-onobrakpeya)** (Nigeria) est un graveur et peintre, lui aussi lié à la Zaria Art Society, dont l'œuvre s'inspire des textures et des récits des nombreux peuples du Nigeria.
 
 **Bodys Isek Kingelez** (RD Congo, 1948-2015) a construit des villes miniatures fantastiques en papier, carton et matériaux récupérés, imaginant un Kinshasa du futur.
 
@@ -33,7 +33,7 @@ La sélection couvre volontairement tout le continent et ses langues : l'Afrique
 
 **Serge Attukwei Clottey** (Ghana) transforme des bidons jaunes en plastique en panneaux et sculptures tressés, une pratique qu'il appelle l'afrogallonisme.
 
-**Ibrahim Mahama** (Ghana) enveloppe bâtiments, monuments et wagons de chemin de fer dans des sacs de jute, pour évoquer le commerce qui y transite. Voir les [textiles africains](/art-forms/african-textiles).
+**[Ibrahim Mahama](/artists/ibrahim-mahama)** (Ghana) enveloppe bâtiments, monuments et wagons de chemin de fer dans des sacs de jute, pour évoquer le commerce qui y transite. Voir les [textiles africains](/art-forms/african-textiles).
 
 **Gonçalo Mabunda** (Mozambique) fabrique trônes, masques et sculptures à partir d'armes désarmées, restées après la guerre civile. Voir la [sculpture africaine](/art-forms/african-sculpture).
 

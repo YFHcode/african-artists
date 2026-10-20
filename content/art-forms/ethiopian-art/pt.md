@@ -33,9 +33,9 @@ A partir do final do século XIX, pintores formados na tradição eclesiástica 
 
 A **Escola de Belas-Artes de Adis Abeba**, inaugurada em 1958 e fundada pelo pintor Ale Felege Selam, formou a maioria dos artistas modernos do país. Entre os mais conhecidos:
 
-- **Afewerk Tekle** (1932–2012), que desenhou os monumentais vitrais do Africa Hall de Adis Abeba, sede da Comissão Económica das Nações Unidas para África, inaugurado em 1961.
+- **[Afewerk Tekle](/artists/afewerk-tekle)** (1932–2012), que desenhou os monumentais vitrais do Africa Hall de Adis Abeba, sede da Comissão Económica das Nações Unidas para África, inaugurado em 1961.
 - **Gebre Kristos Desta** (1932–1981), formado na Alemanha, pioneiro da pintura abstrata na Etiópia.
-- **Skunder Boghossian** (1937–2003), que trabalhou em Paris e depois ensinou na Universidade Howard, em Washington, e cuja pintura visionária misturava fontes etíopes e surrealismo.
+- **[Skunder Boghossian](/artists/skunder-boghossian)** (1937–2003), que trabalhou em Paris e depois ensinou na Universidade Howard, em Washington, e cuja pintura visionária misturava fontes etíopes e surrealismo.
 
 ## Artistas contemporâneos
 

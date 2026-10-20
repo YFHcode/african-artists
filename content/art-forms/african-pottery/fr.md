@@ -27,7 +27,7 @@ Dans de nombreuses communautés, la poterie est un travail de femmes, transmis d
 ## Traditions régionales
 
 - **Nubie** (Soudan) : les potiers de la culture de Kerma, entre 2500 et 1500 av. J.-C. environ, ont fait des vases rouges à parois fines et à bord noir brillant, parmi les plus belles céramiques du monde antique.
-- **Afrique de l'Ouest** : les jarres à eau gbari (gwari) du centre du Nigeria — la tradition dans laquelle a grandi Ladi Kwali — et les figures en terre cuite de [Nok](/art-forms/african-sculpture) et de Djenné-Djenno, au Mali.
+- **Afrique de l'Ouest** : les jarres à eau gbari (gwari) du centre du Nigeria — la tradition dans laquelle a grandi [Ladi Kwali](/artists/ladi-kwali) — et les figures en terre cuite de [Nok](/art-forms/african-sculpture) et de Djenné-Djenno, au Mali.
 - **Afrique centrale** : les Mangbetu de RD Congo ont fait des récipients dont le col est une élégante tête humaine, avec les coiffures allongées admirées à leur cour.
 - **Afrique australe** : les pots à bière zoulous (*ukhamba*), lustrés au noir et ornés de motifs en relief, servent la bière de sorgho. **Nesta Nala** (1940-2005) en est devenue la créatrice la plus célèbre.
 - **Afrique du Nord** : là sont arrivées les techniques du monde islamique — le tour, le four et la glaçure. Fès est connue pour ses céramiques bleu et blanc, Safi pour son quartier des potiers, et Tamegroute pour ses poteries à glaçure verte ; les mêmes savoir-faire produisent les carreaux émaillés de l'[architecture d'Afrique du Nord](/regions/north-africa).
@@ -38,7 +38,7 @@ Née vers 1925 dans le village de Kwali, au centre du Nigeria, Ladi Kwali appren
 
 ## Magdalene Odundo
 
-Née à Nairobi en 1950 et formée en Grande-Bretagne, Magdalene Odundo fabrique des vases montés à la main et lustrés, dont les formes renflées évoquent des corps et dont les surfaces sont cuites jusqu'à un orange profond ou un noir brillant. Elle puise dans les traditions céramiques du Kenya, du Nigeria et d'ailleurs, comme dans la céramique ancienne du monde entier. Ses œuvres sont conservées par de grands musées, et elle a été faite Dame en 2020.
+Née à Nairobi en 1950 et formée en Grande-Bretagne, [Magdalene Odundo](/artists/magdalene-odundo) fabrique des vases montés à la main et lustrés, dont les formes renflées évoquent des corps et dont les surfaces sont cuites jusqu'à un orange profond ou un noir brillant. Elle puise dans les traditions céramiques du Kenya, du Nigeria et d'ailleurs, comme dans la céramique ancienne du monde entier. Ses œuvres sont conservées par de grands musées, et elle a été faite Dame en 2020.
 
 ## La céramique aujourd'hui
 

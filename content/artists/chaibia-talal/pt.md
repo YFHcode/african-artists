@@ -35,4 +35,4 @@ Nas décadas seguintes expôs pela Europa, pelo mundo árabe e pelas Américas, 
 
 ## Veja também
 
-O seu contemporâneo Hassan El Glaoui, cuja pintura figurativa também se manteve à margem da Escola de Casablanca; a pintora argelina [Baya](/artists/baya), outra mulher autodidata que expôs em Paris; o guia das [mulheres artistas africanas](/guides/african-women-artists); e a nossa lista de [pintores africanos](/artists/medium/painters).
+O seu contemporâneo [Hassan El Glaoui](/artists/hassan-el-glaoui), cuja pintura figurativa também se manteve à margem da Escola de Casablanca; a pintora argelina [Baya](/artists/baya), outra mulher autodidata que expôs em Paris; o guia das [mulheres artistas africanas](/guides/african-women-artists); e a nossa lista de [pintores africanos](/artists/medium/painters).

@@ -36,7 +36,7 @@ Muitas máscaras pertencem a sociedades de homens iniciados e, nalguns lugares, 
 
 ## As máscaras e a arte moderna
 
-Em Paris, por volta de 1906–07, Picasso, Matisse, Derain e Vlaminck viram e colecionaram escultura africana, e *Les Demoiselles d'Avignon* de Picasso (1907) é o seu resultado mais famoso. A influência foi real, mas esses artistas europeus não sabiam quase nada do que as máscaras significavam. Os artistas africanos retomaram desde então a máscara nos seus próprios termos: desde os anos 1980, o beninense Romuald Hazoumè faz «máscaras» com bidões de plástico recortados, um comentário sobre o contrabando de combustível, o consumo e o gosto ocidental pelo exótico.
+Em Paris, por volta de 1906–07, Picasso, Matisse, Derain e Vlaminck viram e colecionaram escultura africana, e *Les Demoiselles d'Avignon* de Picasso (1907) é o seu resultado mais famoso. A influência foi real, mas esses artistas europeus não sabiam quase nada do que as máscaras significavam. Os artistas africanos retomaram desde então a máscara nos seus próprios termos: desde os anos 1980, o beninense [Romuald Hazoumè](/artists/romuald-hazoume) faz «máscaras» com bidões de plástico recortados, um comentário sobre o contrabando de combustível, o consumo e o gosto ocidental pelo exótico.
 
 ## Comprar uma máscara
 

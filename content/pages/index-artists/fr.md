@@ -13,7 +13,7 @@ La sélection couvre volontairement tout le continent et ses langues : l'Afrique
 
 **Gerard Sekoto** (Afrique du Sud, 1913-1993) a peint la vie des townships, a quitté l'Afrique du Sud pour Paris en 1947 et est devenu une figure fondatrice du modernisme noir sud-africain.
 
-**Inji Efflatoun** (Égypte, 1924-1989) a peint ses codétenues depuis sa propre cellule, en reliant l'art, la politique et le féminisme. Voir les [femmes artistes africaines](/guides/african-women-artists).
+**[Inji Efflatoun](/artists/inji-aflatoun)** (Égypte, 1924-1989) a peint ses codétenues depuis sa propre cellule, en reliant l'art, la politique et le féminisme. Voir les [femmes artistes africaines](/guides/african-women-artists).
 
 **[Chaïbia Talal](/artists/chaibia-talal)** (Maroc, 1929–2004) est une peintre autodidacte aux toiles vives et spontanées, qui n'appartenait à aucune école, en contraste avec l'[École de Casablanca](/movements/casablanca-school) qui l'entourait.
 

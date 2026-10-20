@@ -13,7 +13,7 @@ A seleção cobre de propósito todo o continente e as suas línguas: a África 
 
 **Gerard Sekoto** (África do Sul, 1913-1993) pintou a vida dos townships, partiu para Paris em 1947 e tornou-se uma figura fundadora do modernismo negro sul-africano.
 
-**Inji Efflatoun** (Egito, 1924-1989) pintou as suas companheiras de prisão a partir da própria cela, unindo arte, política e feminismo. Veja as [mulheres artistas africanas](/guides/african-women-artists).
+**[Inji Efflatoun](/artists/inji-aflatoun)** (Egito, 1924-1989) pintou as suas companheiras de prisão a partir da própria cela, unindo arte, política e feminismo. Veja as [mulheres artistas africanas](/guides/african-women-artists).
 
 **[Chaïbia Talal](/artists/chaibia-talal)** (Marrocos, 1929–2004) foi uma pintora autodidata de telas vivas e espontâneas que não pertenceu a nenhuma escola, em contraste com a [Escola de Casablanca](/movements/casablanca-school) à sua volta.
 

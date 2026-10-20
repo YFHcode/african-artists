@@ -30,7 +30,7 @@ Las mujeres maasái y samburu de Kenia y Tanzania son famosas por sus collares y
 
 ## Tanzania: makonde y tingatinga
 
-Tanzania es la cuna de dos de las formas de arte modernas más conocidas de África Oriental: la escultura en madera negra de los [makonde](/art-forms/makonde-art), con sus «árboles familiares» ujamaa y sus espíritus shetani, y el [tingatinga](/art-forms/tingatinga), la pintura brillante de esmalte creada en Dar es Salaam hacia 1968.
+Tanzania es la cuna de dos de las formas de arte modernas más conocidas de África Oriental: la escultura en madera negra de los [makonde](/art-forms/makonde-art), con sus «árboles familiares» ujamaa y sus espíritus shetani, y el [tingatinga](/art-forms/tingatinga), la pintura brillante de esmalte creada en Dar es Salaam hacia 1968. El artista makonde [George Lilanga](/artists/george-lilanga) convirtió a los espíritus shetani en pinturas abarrotadas y alegres, y [Lubaina Himid](/artists/lubaina-himid), nacida en Zanzíbar, ganó el premio Turner en 2017.
 
 ## Makerere y el arte moderno
 
@@ -38,7 +38,7 @@ En 1937 la artista británica Margaret Trowell empezó a enseñar arte en el Mak
 
 ## Artistas contemporáneos
 
-Los artistas de África Oriental tienen hoy gran visibilidad: la keniana [Wangechi Mutu](/artists/wangechi-mutu), cuyos bronces ocuparon la fachada del Metropolitan Museum; la pintora nacida en Etiopía Julie Mehretu; el artista etíope Elias Sime, que construye obras con electrónica reciclada; y el pintor keniano Michael Armitage, que pinta sobre tela de corteza ugandesa. Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
+Los artistas de África Oriental tienen hoy gran visibilidad: la keniana [Wangechi Mutu](/artists/wangechi-mutu), cuyos bronces ocuparon la fachada del Metropolitan Museum; la pintora nacida en Etiopía Julie Mehretu; el artista etíope Elias Sime, que construye obras con electrónica reciclada; y el pintor keniano Michael Armitage, que pinta sobre tela de corteza ugandesa. La ceramista nacida en Kenia [Magdalene Odundo](/artists/magdalene-odundo) y la pintora nacida en Zanzíbar [Lubaina Himid](/artists/lubaina-himid), ganadora del premio Turner de 2017, están entre las artistas más distinguidas de Gran Bretaña, y los maestros modernos etíopes [Afewerk Tekle](/artists/afewerk-tekle) y [Skunder Boghossian](/artists/skunder-boghossian) abrieron el camino. Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
 
 Kenia ha dado también algunos de los fotoperiodistas más importantes de África. [Mohamed Amin](/artists/mohamed-amin) cubrió África Oriental durante tres décadas desde su agencia Camerapix, en Nairobi; sus imágenes de la hambruna de Etiopía de 1984 dieron origen a Band Aid y Live Aid. Una generación después, [Boniface Mwangi](/artists/boniface-mwangi) fotografió la violencia que siguió a las elecciones kenianas de 2007. Vea nuestra lista de [fotógrafos africanos](/artists/medium/photographers).
 

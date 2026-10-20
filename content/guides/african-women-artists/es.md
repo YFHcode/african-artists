@@ -44,4 +44,4 @@ Las historias del arte africano escritas en el siglo XX estuvieron dominadas por
 
 ## Relacionados
 
-Vea dónde encontrar su obra en [dónde ver arte africano](/guides/where-to-see-african-art), y dónde se muestra la obra nueva en [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales).
+Otras mujeres artistas tienen su propio perfil en este sitio, entre ellas la ceramista [Magdalene Odundo](/artists/magdalene-odundo), la pintora [Lubaina Himid](/artists/lubaina-himid), la escultora senegalesa [Seyni Awa Camara](/artists/seni-awa-camara), la artista nacida en Egipto [Ghada Amer](/artists/ghada-amer), las pintoras egipcias [Effat Nagy](/artists/effat-nagy) y [Anna Boghiguian](/artists/anna-boghiguian), y la artista marroquí [Yto Barrada](/artists/yto-barrada). Vea dónde encontrar su obra en [dónde ver arte africano](/guides/where-to-see-african-art), y dónde se muestra la obra nueva en [ferias y bienales de arte africano](/guides/african-art-fairs-and-biennales).

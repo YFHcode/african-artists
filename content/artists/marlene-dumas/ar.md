@@ -27,4 +27,4 @@ facts:
 
 ## انظر أيضًا
 
-ويليام كنتريدج؛ ودليل [فنانات أفريقيات](/guides/african-women-artists)؛ و[إيرما ستيرن](/artists/irma-stern)، رائدة الحداثة الجنوب أفريقية من جيل سابق؛ وقائمة [الرسّامين الأفارقة](/artists/medium/painters).
+ويليام كينتريدج؛ ودليل [فنانات أفريقيات](/guides/african-women-artists)؛ و[إيرما ستيرن](/artists/irma-stern)، رائدة الحداثة الجنوب أفريقية من جيل سابق؛ وقائمة [الرسّامين الأفارقة](/artists/medium/painters).

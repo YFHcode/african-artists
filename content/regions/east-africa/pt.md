@@ -30,7 +30,7 @@ As mulheres maasai e samburu do Quénia e da Tanzânia são famosas pelos colare
 
 ## Tanzânia: macondes e tingatinga
 
-A Tanzânia é a pátria de duas das formas de arte modernas mais conhecidas da África Oriental: a escultura em pau-preto dos [macondes](/art-forms/makonde-art), com as suas «árvores de família» ujamaa e os seus espíritos shetani, e o [tingatinga](/art-forms/tingatinga), a pintura brilhante a esmalte criada em Dar es Salaam por volta de 1968.
+A Tanzânia é a pátria de duas das formas de arte modernas mais conhecidas da África Oriental: a escultura em pau-preto dos [macondes](/art-forms/makonde-art), com as suas «árvores de família» ujamaa e os seus espíritos shetani, e o [tingatinga](/art-forms/tingatinga), a pintura brilhante a esmalte criada em Dar es Salaam por volta de 1968. O artista maconde [George Lilanga](/artists/george-lilanga) transformou os espíritos shetani em pinturas apinhadas e alegres, e [Lubaina Himid](/artists/lubaina-himid), nascida em Zanzibar, venceu o Prémio Turner em 2017.
 
 ## Makerere e a arte moderna
 
@@ -38,7 +38,7 @@ Em 1937, a artista britânica Margaret Trowell começou a ensinar arte no Makere
 
 ## Artistas contemporâneos
 
-Os artistas da África Oriental estão hoje em destaque: a queniana [Wangechi Mutu](/artists/wangechi-mutu), cujos bronzes ocuparam a fachada do Metropolitan Museum; a pintora nascida na Etiópia Julie Mehretu; o artista etíope Elias Sime, que constrói obras com eletrónica reciclada; e o pintor queniano Michael Armitage, que pinta sobre pano de casca ugandês. Veja a [arte africana contemporânea](/guides/contemporary-african-art).
+Os artistas da África Oriental estão hoje em destaque: a queniana [Wangechi Mutu](/artists/wangechi-mutu), cujos bronzes ocuparam a fachada do Metropolitan Museum; a pintora nascida na Etiópia Julie Mehretu; o artista etíope Elias Sime, que constrói obras com eletrónica reciclada; e o pintor queniano Michael Armitage, que pinta sobre pano de casca ugandês. A ceramista nascida no Quénia [Magdalene Odundo](/artists/magdalene-odundo) e a pintora nascida em Zanzibar [Lubaina Himid](/artists/lubaina-himid), vencedora do Prémio Turner de 2017, estão entre as artistas mais distinguidas da Grã-Bretanha, e os mestres modernos etíopes [Afewerk Tekle](/artists/afewerk-tekle) e [Skunder Boghossian](/artists/skunder-boghossian) abriram caminho. Veja a [arte africana contemporânea](/guides/contemporary-african-art).
 
 O Quénia deu também alguns dos fotojornalistas mais importantes de África. [Mohamed Amin](/artists/mohamed-amin) cobriu a África Oriental durante três décadas a partir da sua agência Camerapix, em Nairobi; as suas imagens da fome na Etiópia em 1984 deram origem ao Band Aid e ao Live Aid. Uma geração depois, [Boniface Mwangi](/artists/boniface-mwangi) fotografou a violência que se seguiu às eleições quenianas de 2007. Veja a nossa lista de [fotógrafos africanos](/artists/medium/photographers).
 

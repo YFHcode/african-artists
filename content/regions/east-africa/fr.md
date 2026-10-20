@@ -30,7 +30,7 @@ Les femmes maasaï et samburu du Kenya et de Tanzanie sont célèbres pour leurs
 
 ## Tanzanie : Makondé et tingatinga
 
-La Tanzanie est la patrie de deux des formes d'art modernes les plus connues d'Afrique de l'Est : la sculpture en bois noir des [Makondé](/art-forms/makonde-art), avec ses « arbres de famille » ujamaa et ses esprits shetani, et le [tingatinga](/art-forms/tingatinga), la peinture brillante à l'émail créée à Dar es Salaam vers 1968.
+La Tanzanie est la patrie de deux des formes d'art modernes les plus connues d'Afrique de l'Est : la sculpture en bois noir des [Makondé](/art-forms/makonde-art), avec ses « arbres de famille » ujamaa et ses esprits shetani, et le [tingatinga](/art-forms/tingatinga), la peinture brillante à l'émail créée à Dar es Salaam vers 1968. L'artiste makondé [George Lilanga](/artists/george-lilanga) a transformé les esprits shetani en peintures foisonnantes et joyeuses, et [Lubaina Himid](/artists/lubaina-himid), née à Zanzibar, a remporté le Turner Prize en 2017.
 
 ## Makerere et l'art moderne
 
@@ -38,7 +38,7 @@ En 1937, l'artiste britannique Margaret Trowell commence à enseigner l'art au M
 
 ## Artistes contemporains
 
-Les artistes d'Afrique de l'Est sont aujourd'hui en vue : la Kényane [Wangechi Mutu](/artists/wangechi-mutu), dont les bronzes ont pris place sur la façade du Metropolitan Museum ; la peintre née en Éthiopie Julie Mehretu ; l'artiste éthiopien Elias Sime, qui construit ses œuvres à partir d'électronique recyclée ; et le peintre kényan Michael Armitage, qui peint sur l'étoffe d'écorce ougandaise. La peintre née à Zanzibar [Lubaina Himid](/artists/lubaina-himid), lauréate du Turner Prize 2017, compte parmi les artistes les plus distinguées de Grande-Bretagne. Voir l'[art africain contemporain](/guides/contemporary-african-art).
+Les artistes d'Afrique de l'Est sont aujourd'hui en vue : la Kényane [Wangechi Mutu](/artists/wangechi-mutu), dont les bronzes ont pris place sur la façade du Metropolitan Museum ; la peintre née en Éthiopie Julie Mehretu ; l'artiste éthiopien Elias Sime, qui construit ses œuvres à partir d'électronique recyclée ; et le peintre kényan Michael Armitage, qui peint sur l'étoffe d'écorce ougandaise. La potière née au Kenya [Magdalene Odundo](/artists/magdalene-odundo) et la peintre née à Zanzibar [Lubaina Himid](/artists/lubaina-himid), lauréate du Turner Prize 2017, comptent parmi les artistes les plus distinguées de Grande-Bretagne, et les maîtres modernes éthiopiens [Afewerk Tekle](/artists/afewerk-tekle) et [Skunder Boghossian](/artists/skunder-boghossian) ont ouvert la voie. Voir l'[art africain contemporain](/guides/contemporary-african-art).
 
 Le Kenya a aussi donné à l'Afrique certains de ses plus grands photojournalistes. [Mohamed Amin](/artists/mohamed-amin) a couvert l'Afrique de l'Est pendant trente ans depuis son agence Camerapix, à Nairobi ; ses images de la famine éthiopienne de 1984 ont mené au Band Aid et au Live Aid. Une génération plus tard, [Boniface Mwangi](/artists/boniface-mwangi) a photographié les violences qui ont suivi l'élection kényane de 2007. Voir notre liste des [photographes africains](/artists/medium/photographers).
 

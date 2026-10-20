@@ -6,8 +6,10 @@
  * - kind 'full': researched profile like the original fourteen (600+ words, hand-written facts).
  * - kind 'short': about 200 words written once; the facts box is generated from the data.
  *
- * `locales` follows the plan's rule: English always, plus each language whose
- * Wikipedia has an article on the person with 1,000+ views a year.
+ * `locales` lists the editions a profile exists in. A new profile starts with
+ * the plan's rule (English, plus each language whose Wikipedia has an article
+ * on the person with 1,000+ views a year) and gains the rest when translated;
+ * since October 2026 every profile here is in all five.
  * `countries`, `media` and the years come from Wikidata and may be corrected
  * here by hand; a correction belongs in Wikidata too.
  *

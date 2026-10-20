@@ -182,7 +182,9 @@ The plan is `docs/artist-pages-rollout.md`. Three files drive it:
 
 **Editions.**
 
-- Not every page exists in all five languages.
+- Not every page exists in all five languages. Every article and artist profile does (since
+  October 2026); hubs have the editions `hubs.ts` gives them, and a new wave's profiles may
+  start with fewer.
 - hreflang, the sitemap and `llms.txt` list only the editions that exist.
 - The language switcher sends a missing edition to that language's section index.
 - A missing edition answers 404.
@@ -310,7 +312,9 @@ pattern.
 - English lives at the root through an `afterFiles` rewrite to `/en/…` in `next.config.ts`;
   `/en/…` redirects back. Keep the `(?:/|$)` in the rewrite pattern — see the comment there.
 - Translations were written for this site, not machine-translated in bulk, but a native-speaker
-  review of the French, Spanish, Portuguese and especially Arabic editions is worth doing.
+  review of the French, Spanish, Portuguese and especially Arabic editions is worth doing. The
+  235 profiles translated in October 2026 follow the English pages closely and add no facts;
+  Arabic names follow each profile's `label` everywhere on the site.
 - After deploying new pages, ping IndexNow with just those paths (see "After launch").
 - `generateStaticParams` must never return `[]` for one locale while returning pages for
   another: Next.js 16 then drops the whole route in every locale. The hub routes list every

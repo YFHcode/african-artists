@@ -18,7 +18,8 @@ Wikipedias). Re-check them against the latest monthly run before each wave.
   joins the next wave as a short profile.
 - **Language rule for profiles.** EN always. FR, ES, PT or AR only if that Wikipedia has an
   article on the person and it gets 1,000+ views a year. The existing 14 profiles stay in all
-  five languages.
+  five languages. This is the minimum for a new profile: in October 2026 every profile was
+  translated into all five languages from its checked English page, adding no new facts.
 - **Language rule for hubs.** A hub gets a language version when its artists' views in that
   language total 10,000+ a year.
 - **Hubs need a minimum size.** A country hub needs 8+ artists, and a country-and-medium hub

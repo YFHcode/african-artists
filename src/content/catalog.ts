@@ -235,10 +235,8 @@ CATALOG.push(...rosterEntries);
 const WAVE_ARTICLES: { wave: number; make: (published: string) => Entry }[] = [
     {
         wave: 1,
-        make: (published) => ({
-            ...entry('guides', 'bang-bang-club', ['ZA'], '1990–1994', ['artists/kevin-carter', 'artists/ken-oosterbroek', 'artists/greg-marinovich', 'artists/joao-silva'], published),
-            locales: ['en', 'fr', 'es', 'pt'],
-        }),
+        make: (published) =>
+            entry('guides', 'bang-bang-club', ['ZA'], '1990–1994', ['artists/kevin-carter', 'artists/ken-oosterbroek', 'artists/greg-marinovich', 'artists/joao-silva'], published),
     },
 ];
 for (const { wave, make } of WAVE_ARTICLES) if (isReleased(wave)) CATALOG.push(make(releaseDate(wave)));

@@ -1,0 +1,35 @@
+# Checks the live site (scripts/site-check.mjs): both hosts, every edition and
+# every sitemap URL, for redirect loops, errors and redirects where there
+# should be none. Runs when Vercel reports a production deploy, and daily in
+# case something outside the code changes (domain settings, DNS). A failed
+# run is what sends the email; the run's summary lists what is wrong.
+name: Live site check
+
+on:
+  deployment_status:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site-check
+  cancel-in-progress: true
+
+jobs:
+  check:
+    # Vercel reports every deployment; only a finished production one is the live site.
+    if: github.event_name != 'deployment_status' || (github.event.deployment_status.state == 'success' && github.event.deployment.environment == 'Production')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Check https://africanartists.com
+        run: node scripts/site-check.mjs

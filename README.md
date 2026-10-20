@@ -44,6 +44,10 @@ the page, no fabricated facts, every article reachable within three clicks.
    default when adding a domain is the opposite (bare domain redirects to `www`): change it.
    Do not add a host redirect in `next.config.ts` as well; if it points the other way from
    Vercel's, every page loops with "too many redirects".
+   The "Live site check" workflow (`scripts/site-check.mjs`) loads both hosts, a page per
+   edition and every sitemap URL after each production deploy and daily, and fails (GitHub
+   emails you) on a redirect loop, an error, or a redirect where there should be none. Its
+   warnings flag pages whose canonical is not the address they were served from.
    The production `*.vercel.app` address redirects to the real domain automatically.
 4. **Analytics:** enable Web Analytics in the Vercel project. A successful offer is recorded as the
    custom event `offer_sent`.

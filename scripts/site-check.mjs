@@ -8,7 +8,8 @@
 // the bare domain and www ending on different addresses, an error status, or
 // any sitemap URL that does not answer 200 directly. Warns when a page's
 // canonical is not the address it was served from (the domain settings point
-// the other way from NEXT_PUBLIC_SITE_URL; see the README, "Domain").
+// the other way from NEXT_PUBLIC_SITE_URL; see the README, "Domain"), and when
+// Vercel Web Analytics' script does not answer.
 // Run by .github/workflows/site-check.yml after each production deploy and
 // daily; a failed run is what sends the email.
 import { appendFileSync } from 'node:fs';
@@ -113,6 +114,13 @@ if (home.final && wwwHome.final && bare(home.final) !== bare(wwwHome.final)) {
     failures.push(`${SITE}/ ends at ${home.final} but ${WWW}/ ends at ${wwwHome.final}: one host should redirect to the other`);
 }
 if (home.final) notes.push(`Home page served from ${home.final}${home.hops.length ? ` (via ${home.hops.join(' → ')})` : ''}`);
+
+// Vercel Web Analytics: its script answers only once Web Analytics is enabled in
+// the project and a deploy has happened since. Missing analytics is not an
+// outage, so this warns instead of failing.
+const [insights] = await run([{ url: `${SITE}/_vercel/insights/script.js` }]);
+if (insights.problem) warnings.unshift(`Vercel Web Analytics is not collecting: ${insights.url}: ${insights.problem}. Enable Web Analytics in the Vercel project, then redeploy.`);
+else notes.push('Vercel Web Analytics script answers 200');
 
 // 2. Every URL in the sitemap answers 200 directly: no redirect, no error.
 let sitemapUrls = [];

@@ -47,10 +47,14 @@ the page, no fabricated facts, every article reachable within three clicks.
    The "Live site check" workflow (`scripts/site-check.mjs`) loads both hosts, a page per
    edition and every sitemap URL after each production deploy and daily, and fails (GitHub
    emails you) on a redirect loop, an error, or a redirect where there should be none. Its
-   warnings flag pages whose canonical is not the address they were served from.
+   warnings flag pages whose canonical is not the address they were served from, and Web
+   Analytics not answering.
    The production `*.vercel.app` address redirects to the real domain automatically.
-4. **Analytics:** enable Web Analytics in the Vercel project. A successful offer is recorded as the
-   custom event `offer_sent`.
+4. **Analytics:** enable Web Analytics in the Vercel project, then redeploy: its routes
+   (`/_vercel/insights/*`) only exist on deploys made after it is enabled. The code is already in
+   place (`@vercel/analytics`, `<Analytics />` in the layout) and the English rewrite in
+   `next.config.ts` leaves `/_vercel/` alone. A successful offer is recorded as the custom event
+   `offer_sent`.
 
 > **If the domain is currently parked at a marketplace** (Sedo, Dan.com, Afternic landing page), pointing
 > its DNS at Vercel replaces that parking page with this site. Afternic's "Fast Transfer" network keeps

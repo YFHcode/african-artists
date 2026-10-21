@@ -22,12 +22,16 @@ import { SITE_URL } from './src/lib/site';
  * exclusion /api/search/fr would be rewritten to /en/api/search/fr and 404;
  * non-dynamic routes such as /api/offer were never affected.
  *
+ * /_vercel/ is excluded too: Vercel Web Analytics loads /_vercel/insights/script.js
+ * and posts page views to /_vercel/insights/view, and those must reach Vercel,
+ * not /en/_vercel/… and a 404.
+ *
  * The lookahead must end in (?:/|$), not $ alone: the parameter's pattern is
  * embedded in a regex over the whole path, so a bare $ means "end of URL" and
  * would only exclude /fr itself — /fr/artists/… would be rewritten to
  * /en/fr/artists/… and 404.
  */
-const notAnotherEdition = `(?!(?:${[...PREFIXED_LOCALES, 'api'].join('|')})(?:/|$))[^/]+`;
+const notAnotherEdition = `(?!(?:${[...PREFIXED_LOCALES, 'api', '_vercel'].join('|')})(?:/|$))[^/]+`;
 
 const nextConfig: NextConfig = {
     poweredByHeader: false,

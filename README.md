@@ -162,9 +162,13 @@ The plan is `docs/artist-pages-rollout.md`. Three files drive it:
 
 - **Profiles** go in `content/artists/<slug>/<locale>.md`, only for the editions the roster
   declares.
-  - A full profile is written like the original fourteen.
-  - A short profile has the same header fields but no `facts`: its facts box (life dates,
-    country, disciplines) is generated from the data. Its body needs 700+ characters.
+  - A full profile has 600+ words of text below the header, hand-written `facts` and a section on
+    where to see the work.
+  - A short profile has 300+ words and the same header fields but no `facts`: its facts box (life
+    dates, country, disciplines) is generated from the data.
+  - The targets live in `src/content/expansion.ts` and the tests enforce them. Profiles written
+    before them (27 October 2026) are exempt until a batch of `docs/profile-expansion-plan.md`
+    expands them. Sources for every added fact go in `data/sources/<slug>.md`.
 - **Hub introductions** go in one of:
   - `content/hubs/country/<country>/<locale>.md`
   - `content/hubs/country/<country>/<medium>/<locale>.md`

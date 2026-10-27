@@ -1,7 +1,8 @@
 # Artist profiles: expansion plan
 
-**Status: proposed, 27 October 2026.** Word counts are for the English pages as of that date;
-yearly views are from the first data run (October 2025 – September 2026, five Wikipedias).
+**Status: approved 27 October 2026, with 600+ and 300+ words as the targets. Batch 0 done; batch 1
+(the pilot) in progress.** Word counts are for the English pages as of that date; yearly views are
+from the first data run (October 2025 – September 2026, five Wikipedias).
 
 ## The two problems
 
@@ -18,16 +19,34 @@ yearly views are from the first data run (October 2025 – September 2026, five 
 ## Targets
 
 Counted in English, in the text below the header (not the summary or the facts box). The
-content tests enforce them.
+content tests enforce them (`src/content/expansion.ts`).
 
 | Kind | Words | Must contain |
 |---|---|---|
-| Full | 500+ (about 600+ on the page) | Life and training; the work, with at least two named and dated works or series; recognition (exhibitions, prizes, collections); where to see the work; related artists |
-| Short | 250+ | The kind of work, with one named work or series; at least one dated milestone; links to related pages |
+| Full | 600+ | Life and training; the work, with at least two named and dated works or series; recognition (exhibitions, prizes, collections); where to see the work; related artists |
+| Short | 300+ | The kind of work, with one named work or series; at least one dated milestone; links to related pages |
 
 Translations must stay within 85% of the English length in French, Spanish and Portuguese, and
 70% in Arabic. Today the lowest are 94% (Portuguese) and 73% (Arabic), so the check only catches
 a dropped paragraph.
+
+## Worth reading, not a Wikipedia summary
+
+Length is the floor, not the point. Every expanded profile gives readers something a Wikipedia
+article does not:
+
+- **How to look at the work.** What to notice in specific pieces: materials, technique, scale,
+  how they were made, what changed over time. Described from sources that show or discuss them.
+- **Where to see it,** confirmed on each museum's own website.
+- **Context across the site.** How the artist relates to the people, movements, places and art
+  forms covered here, with links. Comparisons the site draws are framed as its own reading;
+  claims of influence or teaching need a source.
+- **The artist's own words,** when an interview gives them: a short quotation, copied from the
+  source itself.
+- **Sources beyond Wikipedia:** museum and gallery texts, interviews, catalogues, obituaries and
+  serious press. Wikipedia can point to them, but it is never the only source for a fact, and its
+  structure and wording are never followed.
+- **Plain, specific writing:** names, dates, places and works; no praise without a reason.
 
 ## Rules
 
@@ -49,35 +68,37 @@ a dropped paragraph.
 
 ## What each profile gets
 
-- **Full profiles (49): expand to the full target.** Most need 100–250 more words, and the "where
-  to see the work" section supplies much of that. Six are already at 400–499 words and El Anatsui
-  is at 501; they mainly need that section.
+- **Full profiles (49): expand to the full target.** Most need 200–350 more words, and the "where
+  to see the work" section supplies part of that. Seven are already at 400–501 words.
 - **Short profiles of artists (47): a source check splits them.**
   - **Promote to full (26, provisional):** artists with 10,000+ yearly views or articles in 11+
     Wikipedias. Marked † in the batches below.
-  - **Enrich and keep short (21):** to 250+ words. The source check moves any of them up to full
+  - **Enrich and keep short (21):** to 300+ words. The source check moves any of them up to full
     when the material is there. That is likely for well-documented names such as James Barnor,
     Wael Shawky, Youssef Nabil and Hassan Hajjaj. Moves are recorded in this file.
-- **Short profiles of people known mainly for something else (14): enrich and keep short.** Art
-  is one part of a career known for writing, politics, television or film. Expand the art part to
-  250+ words, and don't turn these pages into general biographies, which would drift off the
-  site's subject.
+- **Short profiles of people known mainly for something else (14): enrich and keep short**
+  (decided 27 October). Art is one part of a career known for writing, politics, television or
+  film. Expand the art part to 300+ words, and don't turn these pages into general biographies,
+  which would drift off the site's subject.
 
 ## Batches
 
 Ten pages a batch, highest demand first. Each batch goes live in all five languages at once.
 
-**Batch 0: code, before any writing.**
+**Batch 0: code, before any writing. Done 27 October 2026.**
 
+- `src/content/expansion.ts`: the targets, the frozen list of the 110 profiles written before
+  them, and `EXPANSION_BATCHES`. A batch lists its date, the profiles it expanded and the articles
+  it linked to them; `catalog.ts` moves their `updated` dates to the batch's date.
 - Content tests:
-  - the word targets, with a list of profiles not yet expanded that each batch shrinks, so no
-    new profile can ship below target;
-  - the translation-length check.
-- Promoted profiles become `kind: 'full'` in `roster.ts`, with hand-written facts in every
-  edition.
-- A per-profile `updated` date for expanded profiles, like `REVISED_IN_WAVE` in `catalog.ts`.
-- `data/sources/`.
-- The rollout plan and `roster.ts` describe the targets above.
+  - every profile meets its target unless it was written before the targets and no batch has
+    expanded it yet, so no new profile can ship below target;
+  - every translation keeps at least 85% of its English word count (70% in Arabic).
+- `data/sources/`, one file per expanded profile.
+- The rollout plan, `roster.ts` and the README describe the targets.
+
+Promoted profiles become `kind: 'full'` in `roster.ts` in their own batch, with hand-written facts
+in every edition and links from at least three other articles (a test checks both).
 
 **Batch 1: pilot.** Ibrahim Mahama, João Silva, Vladimir Tretchikoff, Ladi Kwali, Twins
 Seven-Seven, Misan Harriman†, Leon Botha†, Dan Eldon†, Sharon Dede Padi†, Bruno Catalano†.
@@ -128,10 +149,10 @@ Azumah Nelson, Caleb Femi, Mahjoubi Aherdane, Rabah Driassa, Tahar Ben Jelloun, 
 
 ## Size
 
-- **English:** about 18,000 new words at the minimum targets (full profiles 7,300, promotions
-  8,400, enriched short profiles 2,200), and likely over 20,000 in practice.
-- **With the four translations:** about 100,000 words, roughly a third of what the site holds
-  today (285,000 words across all languages).
+- **English:** about 27,000 new words at the minimum targets (full profiles 12,200, promotions
+  11,000, enriched short profiles 3,900), and likely over 30,000 in practice.
+- **With the four translations:** about 150,000 words, about half of what the site holds today
+  (285,000 words across all languages).
 
 ## Measuring
 

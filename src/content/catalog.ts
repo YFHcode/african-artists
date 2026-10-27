@@ -15,6 +15,7 @@
  */
 
 import { LOCALES, type Locale } from '../lib/i18n.ts';
+import { EXPANSION_BATCHES } from './expansion.ts';
 import { type Medium, hubPath, releasedHubs } from './hubs.ts';
 import { ORIGINAL_ARTISTS, ROSTER, type RosterEntry } from './roster.ts';
 import { isReleased, releaseDate } from './waves.ts';
@@ -276,6 +277,12 @@ const REVISED_IN_WAVE: Record<number, string[]> = {
 for (const [wave, keys] of Object.entries(REVISED_IN_WAVE)) {
     if (!isReleased(Number(wave))) continue;
     for (const e of CATALOG) if (keys.includes(entryKey(e))) e.updated = releaseDate(Number(wave));
+}
+
+/** Profiles expanded to the length targets, and the articles linked to them, dated by their batch (expansion.ts). */
+for (const { date, expanded, alsoRevised } of EXPANSION_BATCHES) {
+    const keys = [...expanded.map((slug) => `artists/${slug}`), ...alsoRevised];
+    for (const e of CATALOG) if (keys.includes(entryKey(e)) && date > e.updated) e.updated = date;
 }
 
 export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {

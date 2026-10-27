@@ -3,8 +3,9 @@
  * fourteen, with the wave it belongs to. An entry becomes a page when its
  * wave is released (waves.ts) and its content files exist.
  *
- * - kind 'full': researched profile like the original fourteen (600+ words, hand-written facts).
- * - kind 'short': about 200 words written once; the facts box is generated from the data.
+ * - kind 'full': researched profile, 600+ words of text and hand-written facts.
+ * - kind 'short': 300+ words; the facts box is generated from the data.
+ * The targets, and the profiles written before them, are in expansion.ts.
  *
  * `locales` lists the editions a profile exists in. A new profile starts with
  * the plan's rule (English, plus each language whose Wikipedia has an article

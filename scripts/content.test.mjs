@@ -8,7 +8,15 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { test } from 'node:test';
 
-import { CATALOG, REGIONS, STATIC_PAGES, entryPath, indexablePaths, localesOf, regionOf } from '../src/content/catalog.ts';
+import { CATALOG, REGIONS, STATIC_PAGES, entryKey, entryPath, indexablePaths, localesOf, regionOf } from '../src/content/catalog.ts';
+import {
+    EXPANDED,
+    EXPANSION_BATCHES,
+    PROFILE_TARGET_WORDS,
+    SOURCES_EXHAUSTED,
+    WRITTEN_BEFORE_TARGETS,
+    countProfileWords,
+} from '../src/content/expansion.ts';
 import {
     COUNTRY_SLUGS,
     HUBS,
@@ -104,6 +112,43 @@ test('every article exists in each edition it declares, English included, with t
         }
         assert.equal(factCounts.size, 1, `${entry.slug}: editions disagree on the number of facts`);
     }
+});
+
+test('artist profiles meet the length targets, unless written before them and not yet expanded', () => {
+    const profiles = CATALOG.filter((e) => e.collection === 'artists');
+    const slugs = new Set(profiles.map((e) => e.slug));
+    for (const slug of EXPANDED) assert.ok(slugs.has(slug), `expansion.ts: no profile ${slug}`);
+    for (const slug of Object.keys(SOURCES_EXHAUSTED)) assert.ok(EXPANDED.has(slug), `${slug}: only an expanded profile can stop short`);
+    for (const { date, alsoRevised } of EXPANSION_BATCHES) {
+        assert.match(date, /^\d{4}-\d{2}-\d{2}$/);
+        for (const key of alsoRevised) assert.ok(CATALOG.some((e) => entryKey(e) === key), `expansion.ts: no article ${key}`);
+    }
+    const below = profiles
+        .filter((e) => (EXPANDED.has(e.slug) || !WRITTEN_BEFORE_TARGETS.has(e.slug)) && !SOURCES_EXHAUSTED[e.slug])
+        .map((e) => ({ slug: e.slug, target: PROFILE_TARGET_WORDS[e.kind ?? 'full'], words: countProfileWords(read('artists', e.slug, 'en.md').body) }))
+        .filter((p) => p.words < p.target)
+        .map((p) => `${p.slug}: ${p.words} words, target ${p.target}`);
+    assert.deepEqual(below, []);
+});
+
+// A translation much shorter than its English has lost something: a paragraph, a list, a section.
+const MIN_LENGTH_RATIO = { fr: 0.85, es: 0.85, pt: 0.85, ar: 0.7 };
+
+test('translations are not much shorter than their English', () => {
+    const editions = new Map();
+    for (const [segments, locale] of ALL_FILES) {
+        const key = segments.slice(0, -1).join('/');
+        if (!editions.has(key)) editions.set(key, new Map());
+        editions.get(key).set(locale, countProfileWords(read(...segments).body));
+    }
+    const short = [];
+    for (const [key, counts] of editions) {
+        const en = counts.get('en');
+        for (const [locale, n] of counts) {
+            if (locale !== 'en' && n < en * MIN_LENGTH_RATIO[locale]) short.push(`${key}/${locale}: ${n} words, English ${en}`);
+        }
+    }
+    assert.deepEqual(short, []);
 });
 
 test('every page exists in every edition', () => {

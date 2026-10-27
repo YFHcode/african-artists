@@ -8,10 +8,11 @@ Wikipedias). Re-check them against the latest monthly run before each wave.
 ## Principles
 
 - **Two kinds of profile.**
-  - **Full profile (A):** hand-researched, like the 14 existing ones. It has 600+ words, facts, and
-    where to see the work.
-  - **Short profile (B):** about 200 words written once, plus Wikidata facts, related artists and
-    hub links.
+  - **Full profile (A):** hand-researched. It has 600+ words of text, facts, and where to see the
+    work.
+  - **Short profile (B):** 300+ words, plus Wikidata facts, related artists and hub links.
+  - The profiles written before these targets were set (27 October 2026) are being expanded to
+    them in batches: `docs/profile-expansion-plan.md`.
   - No page is only database fields.
 - **List-tier artists never get their own page.** Each one is a single line on its hubs, with
   name, medium, dates and a link to Wikipedia. When the monthly job promotes one to `page`, it

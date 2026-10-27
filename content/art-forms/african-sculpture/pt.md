@@ -44,7 +44,7 @@ As aves de esteatite esculpidas no **Grande Zimbabué** entre os séculos XIII e
 
 ## Escultura moderna e contemporânea
 
-O bronze *Anyanwu* (1954–55) de [Ben Enwonwu](/artists/ben-enwonwu) tornou-se um símbolo da independência nigeriana. [Ousmane Sow](/artists/ousmane-sow) criou figuras maiores do que o natural que atraíram três milhões de visitantes em Paris. [El Anatsui](/artists/el-anatsui) passou da madeira talhada a vastas tapeçarias de metal. Sokari Douglas Camp solda esculturas de aço inspiradas nas mascaradas kalabari, e na África Oriental os [escultores macondes](/art-forms/makonde-art) criaram uma escultura moderna própria.
+O bronze *Anyanwu* (1954–55) de [Ben Enwonwu](/artists/ben-enwonwu) tornou-se um símbolo da independência nigeriana. [Ousmane Sow](/artists/ousmane-sow) criou figuras maiores do que o natural que atraíram três milhões de visitantes em Paris. Nascido em Marrocos, [Bruno Catalano](/artists/bruno-catalano) esvazia o corpo dos seus viajantes de bronze, de modo que a rua se vê através deles. [El Anatsui](/artists/el-anatsui) passou da madeira talhada a vastas tapeçarias de metal. Sokari Douglas Camp solda esculturas de aço inspiradas nas mascaradas kalabari, e na África Oriental os [escultores macondes](/art-forms/makonde-art) criaram uma escultura moderna própria.
 
 ## Relacionados
 

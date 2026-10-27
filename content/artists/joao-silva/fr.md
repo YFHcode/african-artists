@@ -8,26 +8,38 @@ summary: João Silva (né en 1966) est un photojournaliste sud-africain né au P
 facts:
   - Naissance | 1966, Lisbonne, Portugal
   - Basé en | Afrique du Sud
-  - A travaillé pour | The New York Times, comme photographe sous contrat
+  - A travaillé pour | The New York Times, comme photographe sous contrat, puis salarié à partir de 2011
   - Groupe | Le Bang-Bang Club
-  - Livre | The Bang-Bang Club (2000, avec Greg Marinovich)
+  - Livres | The Bang-Bang Club (2000, avec Greg Marinovich) ; In the Company of God (2005)
 ---
 ## De Lisbonne à Johannesburg
 
-João Silva est né à Lisbonne en 1966 et s'est installé enfant en Afrique du Sud avec sa famille. Il a commencé à photographier le conflit des townships autour de Johannesburg au début des années 1990, avec [Kevin Carter](/artists/kevin-carter), [Ken Oosterbroek](/artists/ken-oosterbroek) et [Greg Marinovich](/artists/greg-marinovich). Ensemble, ils étaient connus sous le nom de Bang-Bang Club.
+João Silva est né à Lisbonne en 1966 et s'est installé enfant en Afrique du Sud avec sa famille. Au début des années 1990, il commence à photographier le conflit dans les townships autour de Johannesburg, aux côtés de [Kevin Carter](/artists/kevin-carter), de [Ken Oosterbroek](/artists/ken-oosterbroek) et de [Greg Marinovich](/artists/greg-marinovich). Ensemble, on les appelle le Bang-Bang Club.
 
 ## Le Soudan et Thokoza
 
-En mars 1993, Silva s'est rendu avec Carter dans le sud du Soudan, où Carter a pris la photographie d'un enfant et d'un vautour qui lui a valu le prix Pulitzer. Le 18 avril 1994, Silva était avec le groupe à Thokoza quand Oosterbroek a été tué et Marinovich blessé. Avec Marinovich, il a ensuite écrit *The Bang-Bang Club* (2000), adapté au cinéma en 2010. Notre guide du [Bang-Bang Club](/guides/bang-bang-club) raconte cette histoire.
+En mars 1993, Silva accompagne Carter dans le sud du Soudan, où Carter prend la photographie d'un enfant et d'un vautour qui lui vaudra le prix Pulitzer. Le 18 avril 1994, Silva est avec le groupe à Thokoza lorsque Oosterbroek est tué et Marinovich blessé. Avec Marinovich, il écrit ensuite *The Bang-Bang Club: Snapshots from a Hidden War* (2000), adapté au cinéma en 2010 sous le titre *The Bang Bang Club*, avec Ryan Phillippe dans le rôle de Marinovich et Taylor Kitsch dans celui de Carter. Notre guide du [Bang-Bang Club](/guides/bang-bang-club) raconte leur histoire.
 
 ## Photographe de guerre
 
-Après 1994, Silva a couvert des conflits bien au-delà de l'Afrique du Sud, notamment en Irak et en Afghanistan, et a longtemps travaillé comme photographe sous contrat pour le *New York Times*. Ses collègues le connaissaient pour son calme sous le feu et pour sa manière de rester sur un sujet bien après le départ de la première vague de journalistes.
+Après 1994, Silva couvre des conflits bien au-delà de l'Afrique du Sud : l'Irak, l'Afghanistan, les Balkans et le Moyen-Orient. Pendant de nombreuses années, il travaille comme photographe sous contrat pour le *New York Times*, et ses images ont reçu des prix World Press Photo. En Irak, il photographie la communauté chiite au lendemain de l'invasion américaine, et publie ces images en 2005 dans un livre, *In the Company of God*. Ses collègues le connaissent pour son calme sous le feu et pour sa façon de rester sur un sujet longtemps après le départ de la première vague de journalistes ; après sa blessure, un hommage paru dans le Daily Maverick sud-africain le qualifie de « meilleur photographe de guerre du monde ».
 
 ## Kandahar, 2010
 
-Le 23 octobre 2010, en patrouille avec des soldats américains dans la province de Kandahar, en Afghanistan, Silva a marché sur une mine. Il a perdu ses deux jambes sous le genou et a été gravement blessé. Il a continué à photographier dans les instants qui ont suivi l'explosion. Après une longue convalescence aux États-Unis, il a remarché avec des prothèses et repris son travail de photographe.
+Le 23 octobre 2010, Silva est en reportage pour le *Times* avec des soldats américains dans la province de Kandahar, en Afghanistan. Près de Deh-e Kuchay, alors qu'il suit deux soldats et un chien dressé à détecter les explosifs le long d'un ancien poste de contrôle taliban, il marche sur une mine. Il perd ses deux jambes sous le genou et est grièvement blessé. La correspondante du *Times* Carlotta Gall rapporte qu'il a continué à prendre des photos pendant que les secouristes posaient des garrots et le portaient jusqu'à l'hélicoptère. À Johannesburg, une exposition et une vente aux enchères de ses tirages rassemblent des fonds pour sa convalescence.
+
+## Le retour au travail
+
+Silva passe des mois au Walter Reed Army Medical Center, à Washington, à réapprendre à marcher sur des prothèses. En juillet 2011, moins d'un an après l'explosion, lorsque l'hôpital organise une cérémonie avant sa fermeture, il la photographie en marchant avec une canne qu'il doit changer de main avant chaque prise de vue ; l'image fait la une du *Times*. En septembre, il entre dans l'équipe salariée du journal. Un discours qu'il prononce plus tard au Bronx Documentary Center, à New York, est publié en intégralité par le *Times*.
+
+## Quatre photographes, quatre chemins
+
+Lus ensemble, les portraits du Bang-Bang Club sur ce site montrent combien les mêmes années ont marqué chacun différemment. Oosterbroek est tué à Thokoza six jours après l'annonce du Pulitzer de Carter, et Carter, qui luttait depuis longtemps contre la dépression, se suicide en juillet. Marinovich, blessé le même jour, devient écrivain et cinéaste, et enquêtera plus tard sur le massacre de Marikana. Silva est celui qui n'a cessé de retourner à la guerre, et qui y est retourné même après Kandahar, sur des prothèses.
+
+## Où voir son œuvre
+
+Ses photographies sud-africaines de 1990 à 1994 figurent dans *The Bang-Bang Club*, et son travail en Irak dans *In the Company of God*. L'essentiel de sa photographie de guerre, de l'Irak à l'Afghanistan, a été réalisé pour le *New York Times* et se trouve dans ses archives.
 
 ## Voir aussi
 
-La [photographie africaine](/art-forms/african-photography) et notre liste des [photographes sud-africains](/artists/country/south-africa/photographers).
+La [photographie africaine](/art-forms/african-photography) et notre liste de [photographes sud-africains](/artists/country/south-africa/photographers).

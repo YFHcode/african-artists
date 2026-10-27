@@ -13,16 +13,28 @@ facts:
 ---
 ## Uma oleira de Kwali
 
-Ladi Kwali nasceu por volta de 1925 em Kwali, uma aldeia gbari do centro da Nigéria onde a olaria era trabalho de mulheres, ensinado dentro das famílias. Aprendeu com a tia a fazer à mão grandes bilhas de água, com rolos de barro e beliscando a argila, a decorá-las com motivos incisos de animais — lagartos, crocodilos, escorpiões, peixes — e a cozê-las ao ar livre. As suas bilhas eram tão admiradas que o emir de Abuja (a atual Suleja) as colecionava.
+Ladi Kwali nasceu por volta de 1925 em Kwali, uma aldeia gbari do centro da Nigéria onde a olaria era trabalho de mulheres, ensinado dentro das famílias. Aprendeu com a tia a levantar à mão grandes bilhas de água. Não havia roda: construía cada peça com rolos de barro, de pé e a andar à volta dela à medida que subia, e dava-lhe forma batendo a parede por dentro com uma pá de madeira plana. Decorava as bilhas com animais incisos — lagartos, crocodilos, camaleões, escorpiões, cobras, aves e peixes — e cozia-as ao ar livre. As suas bilhas eram tão admiradas que o emir de Abuja (a atual Suleja) as colecionava.
 
 ## O centro de formação de olaria de Abuja
 
-Em 1954 entrou para o centro de formação de olaria que o ceramista britânico Michael Cardew criara em Abuja, então uma cidade a norte da atual capital. Foi a primeira mulher a trabalhar lá. Aprendeu a trabalhar na roda, a usar vidrados e a cozer grés no forno, mantendo as suas próprias formas e decorações. Dessa combinação nasceram algumas das melhores cerâmicas do século.
+Em 1954 entrou para o centro de formação de olaria que o oleiro britânico Michael Cardew tinha fundado em Abuja dois anos antes. Foi a primeira mulher a trabalhar lá. Aprendeu a trabalhar à roda, a usar vidrados e a cozer grés no forno, sem abandonar as suas próprias formas e decoração. Essa combinação deu algumas das melhores cerâmicas do século.
 
-## Fama internacional
+## Como olhar para as suas peças
 
-Exposições em Londres no fim dos anos 1950 e nos anos 1960, e digressões com Cardew pela Europa e pelos Estados Unidos, tornaram-na famosa; as suas obras entraram em museus como o Victoria and Albert Museum. Foi nomeada MBE em 1963 e, em 1977, a Universidade Ahmadu Bello, em Zaria, atribuiu-lhe um doutoramento honoris causa.
+As suas obras mais conhecidas estão entre dois mundos. A forma é a da bilha gbari que fazia desde criança, ainda levantada à mão com rolos. A superfície pertence ao forno: grés, coberto de engobes e de um vidrado, cozido a uma temperatura muito mais alta do que a de um fogo ao ar livre. Os animais são gravados e impressos no barro antes de o vidrado ser aplicado, por isso veem-se através dele. E apesar do nome, uma bilha assim não era necessariamente feita para levar água: o Fitzwilliam Museum nota que a sua «bilha de água» de 1957 foi feita como peça de exposição para colecionadores europeus, e não para uso. Ver uma num museu é ver uma forma de aldeia transformada em objeto de arte moderna pela oleira que melhor a conhecia.
+
+## A fama internacional
+
+Cardew organizou a maior parte das suas exposições e demonstrações. As mostras de olaria de Abuja nas Berkeley Galleries de Londres a partir de 1958, e as digressões pela Europa e pelos Estados Unidos, tornaram-na famosa; as suas obras entraram em museus como o Victoria and Albert Museum. Foi nomeada MBE em 1963, e em 1977 a Universidade Ahmadu Bello, em Zaria, concedeu-lhe um doutoramento honoris causa.
 
 ## Legado
 
-Ladi Kwali morreu em 1984. O seu retrato está na nota nigeriana de 20 nairas, e uma rua e uma sala de conferências de Abuja têm o seu nome. Para saber mais, veja a [cerâmica africana](/art-forms/african-pottery), [Twins Seven-Seven](/artists/twins-seven-seven), o nosso guia das [mulheres artistas africanas](/guides/african-women-artists) e a [África Ocidental](/regions/west-africa).
+Ladi Kwali morreu em 1984. O seu retrato está na nota nigeriana de 20 nairas, e uma rua e uma sala de conferências de Abuja têm o seu nome. O centro de formação recebeu o seu nome, mas está em grande parte sem uso desde os anos 1990; em 2021 o governo do estado do Níger anunciou planos, com apoio do Banco Mundial, para o reconstruir. A sua influência foi além do edifício: em 1974 a ceramista nascida no Quénia [Magdalene Odundo](/artists/magdalene-odundo) foi a Abuja aprender os métodos de modelação à mão das oleiras gbari. Em 2022 *Body Vessel Clay*, uma exposição de ceramistas negras em Two Temple Place, em Londres, foi construída à volta da obra de Kwali, mostrada ao lado de Odundo e de ceramistas mais jovens que trabalham hoje na Grã-Bretanha; uma edição americana abriu na Ford Foundation Gallery, em Nova Iorque, no centenário do seu nascimento. A Google assinalou a sua vida com um Doodle em 2022.
+
+## Onde ver a sua obra
+
+O Fitzwilliam Museum, em Cambridge, conserva uma bilha de grés de 1957, com decoração incisa sob engobes verde e branco. O Los Angeles County Museum of Art adquiriu em 2024 uma bilha de cerca de 1962, e o High Museum of Art, em Atlanta, tem uma bilha verde de 1972. As suas peças aparecem também em vendas de olaria de Abuja, como o leilão da Bonhams de 2023.
+
+## Veja também
+
+Para saber mais, veja a [cerâmica africana](/art-forms/african-pottery), [Twins Seven-Seven](/artists/twins-seven-seven), o nosso guia das [mulheres artistas africanas](/guides/african-women-artists) e a [África Ocidental](/regions/west-africa).

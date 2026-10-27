@@ -49,7 +49,21 @@ export const WRITTEN_BEFORE_TARGETS: ReadonlySet<string> = new Set([
  * profiles it expanded, and other articles it changed (links to the expanded
  * profiles), as 'collection/slug'.
  */
-export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised: string[] }[] = [];
+export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised: string[] }[] = [
+    {
+        // Batch 1, the pilot. Leon Botha stays short: the sources ran out before the full target.
+        date: '2026-10-27',
+        expanded: [
+            'ibrahim-mahama', 'joao-silva', 'vladimir-tretchikoff', 'ladi-kwali', 'twins-seven-seven',
+            'misan-harriman', 'dan-eldon', 'sharon-dede-padi', 'bruno-catalano', 'leon-botha',
+        ],
+        alsoRevised: [
+            'art-forms/african-photography', 'art-forms/african-sculpture', 'artists/james-barnor', 'artists/mohamed-amin',
+            'artists/ousmane-sow', 'guides/african-women-artists', 'guides/contemporary-african-art', 'regions/east-africa',
+            'regions/north-africa', 'regions/west-africa',
+        ],
+    },
+];
 
 /**
  * Expanded profiles left below target because the reliable sources ran out,

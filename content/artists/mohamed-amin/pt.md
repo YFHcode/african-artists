@@ -29,4 +29,4 @@ A 23 de novembro de 1996, Amin seguia no voo 961 da Ethiopian Airlines quando o 
 
 ## Legado
 
-O arquivo de fotografias e filmes de Amin é um dos maiores registos da África Oriental depois das independências. Para a história mais ampla, veja a [fotografia africana](/art-forms/african-photography) e a [arte da África Oriental](/regions/east-africa), bem como a nossa lista de [fotógrafos africanos](/artists/medium/photographers).
+O arquivo de fotografias e filmes de Amin é um dos maiores registos da África Oriental depois das independências. Um fotógrafo mais novo de Nairobi, [Dan Eldon](/artists/dan-eldon), foi morto na Somália em 1993 quando trabalhava para a Reuters. Para a história mais ampla, veja a [fotografia africana](/art-forms/african-photography) e a [arte da África Oriental](/regions/east-africa), bem como a nossa lista de [fotógrafos africanos](/artists/medium/photographers).

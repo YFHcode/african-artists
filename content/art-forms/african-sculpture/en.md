@@ -44,7 +44,7 @@ Soapstone birds carved at **Great Zimbabwe** between the thirteenth and fifteent
 
 ## Modern and contemporary sculpture
 
-[Ben Enwonwu](/artists/ben-enwonwu)'s bronze *Anyanwu* (1954–55) became a symbol of Nigerian independence. [Ousmane Sow](/artists/ousmane-sow) built larger-than-life figures that drew three million visitors in Paris. [El Anatsui](/artists/el-anatsui) moved from carved wood to vast metal hangings. Sokari Douglas Camp welds steel sculpture inspired by Kalabari masquerade, and in East Africa the [Makonde carvers](/art-forms/makonde-art) created a modern sculpture of their own.
+[Ben Enwonwu](/artists/ben-enwonwu)'s bronze *Anyanwu* (1954–55) became a symbol of Nigerian independence. [Ousmane Sow](/artists/ousmane-sow) built larger-than-life figures that drew three million visitors in Paris. The Moroccan-born [Bruno Catalano](/artists/bruno-catalano) cuts away the bodies of his bronze travellers, so that the street shows through them. [El Anatsui](/artists/el-anatsui) moved from carved wood to vast metal hangings. Sokari Douglas Camp welds steel sculpture inspired by Kalabari masquerade, and in East Africa the [Makonde carvers](/art-forms/makonde-art) created a modern sculpture of their own.
 
 ## Related
 

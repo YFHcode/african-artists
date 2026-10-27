@@ -29,4 +29,4 @@ On 23 November 1996 Amin was on board Ethiopian Airlines Flight 961 when it was 
 
 ## Legacy
 
-Amin's archive of photographs and film is one of the largest records of post-independence East Africa. For the wider story, see [African photography](/art-forms/african-photography) and [East Africa](/regions/east-africa), and our list of [African photographers](/artists/medium/photographers).
+Amin's archive of photographs and film is one of the largest records of post-independence East Africa. A younger photographer from Nairobi, [Dan Eldon](/artists/dan-eldon), was killed covering Somalia for Reuters in 1993. For the wider story, see [African photography](/art-forms/african-photography) and [East Africa](/regions/east-africa), and our list of [African photographers](/artists/medium/photographers).

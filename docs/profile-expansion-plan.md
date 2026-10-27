@@ -1,7 +1,7 @@
 # Artist profiles: expansion plan
 
 **Status: approved 27 October 2026, with 600+ and 300+ words as the targets. Batch 0 done; batch 1
-(the pilot) in progress.** Word counts are for the English pages as of that date; yearly views are
+(the pilot) live on 27 October 2026; its four-week check is due on 24 November 2026.** Word counts are for the English pages as of that date; yearly views are
 from the first data run (October 2025 – September 2026, five Wikipedias).
 
 ## The two problems
@@ -102,6 +102,12 @@ in every edition and links from at least three other articles (a test checks bot
 
 **Batch 1: pilot.** Ibrahim Mahama, João Silva, Vladimir Tretchikoff, Ladi Kwali, Twins
 Seven-Seven, Misan Harriman†, Leon Botha†, Dan Eldon†, Sharon Dede Padi†, Bruno Catalano†.
+
+Done 27 October 2026: the nine full profiles run 600–690 words. Leon Botha moved to "enrich and
+keep short" (312 words): reliable sources cover his life in about 450 words, so a full profile
+would have needed padding. Tretchikoff's facts box had an outdated auction record, now corrected.
+Each promoted profile gained links from three related articles, translated in all five
+languages.
 
 Before the pilot goes live, export Search Console's Page indexing report as a baseline. Four
 weeks after, compare the pilot's 50 URLs (ten profiles in five languages) with the profiles not

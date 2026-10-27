@@ -40,7 +40,7 @@ Os estúdios de Bamaco produziram dois dos fotógrafos mais admirados do século
 
 Lagos, Dacar, Acra e Abidjan têm cenas de arte contemporânea muito ativas, com eventos como a Dak'Art e a ART X Lagos (veja [feiras e bienais de arte africana](/guides/african-art-fairs-and-biennales)) e novas instituições como o Museum of West African Art em Benin City.
 
-A Nigéria e o Gana têm as maiores cenas artísticas da região: entre os artistas da Nigéria, a ceramista [Ladi Kwali](/artists/ladi-kwali), [Twins Seven-Seven](/artists/twins-seven-seven), da escola de Oshogbo, e hoje [Yinka Shonibare](/artists/yinka-shonibare) e [Otobong Nkanga](/artists/otobong-nkanga); entre os do Gana, [Ibrahim Mahama](/artists/ibrahim-mahama) e [Amoako Boafo](/artists/amoako-boafo).
+A Nigéria e o Gana têm as maiores cenas artísticas da região: entre os artistas da Nigéria, a ceramista [Ladi Kwali](/artists/ladi-kwali), [Twins Seven-Seven](/artists/twins-seven-seven), da escola de Oshogbo, e hoje [Yinka Shonibare](/artists/yinka-shonibare) e [Otobong Nkanga](/artists/otobong-nkanga); entre os do Gana, [Ibrahim Mahama](/artists/ibrahim-mahama), [Amoako Boafo](/artists/amoako-boafo) e a pintora de impressões de folhas [Sharon Dede Padi](/artists/sharon-dede-padi).
 
 ## A música
 

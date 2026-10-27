@@ -44,7 +44,7 @@ Los pájaros de esteatita tallados en **Gran Zimbabue** entre los siglos XIII y 
 
 ## Escultura moderna y contemporánea
 
-El bronce *Anyanwu* (1954–55) de [Ben Enwonwu](/artists/ben-enwonwu) se convirtió en un símbolo de la independencia nigeriana. [Ousmane Sow](/artists/ousmane-sow) creó figuras mayores que el natural que atrajeron a tres millones de visitantes en París. [El Anatsui](/artists/el-anatsui) pasó de la madera tallada a enormes tapices de metal. Sokari Douglas Camp suelda esculturas de acero inspiradas en las mascaradas kalabari, y en África Oriental los [tallistas makonde](/art-forms/makonde-art) crearon una escultura moderna propia.
+El bronce *Anyanwu* (1954–55) de [Ben Enwonwu](/artists/ben-enwonwu) se convirtió en un símbolo de la independencia nigeriana. [Ousmane Sow](/artists/ousmane-sow) creó figuras mayores que el natural que atrajeron a tres millones de visitantes en París. Nacido en Marruecos, [Bruno Catalano](/artists/bruno-catalano) vacía el cuerpo de sus viajeros de bronce, de modo que la calle se ve a través de ellos. [El Anatsui](/artists/el-anatsui) pasó de la madera tallada a enormes tapices de metal. Sokari Douglas Camp suelda esculturas de acero inspiradas en las mascaradas kalabari, y en África Oriental los [tallistas makonde](/art-forms/makonde-art) crearon una escultura moderna propia.
 
 ## Relacionados
 

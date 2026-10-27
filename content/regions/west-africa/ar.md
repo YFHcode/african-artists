@@ -40,7 +40,7 @@ facts:
 
 لكلٍّ من لاغوس وداكار وأكرا وأبيدجان مشهد فني معاصر نابض، مع أحداث مثل بينالي داك آرت و«آرت إكس لاغوس» (انظر [معارض الفن الأفريقي وبيناليّاته](/guides/african-art-fairs-and-biennales))، ومؤسسات جديدة مثل متحف فن غرب أفريقيا في مدينة بنين.
 
-وتضمّ نيجيريا وغانا أكبر المشاهد الفنية في المنطقة: من فناني نيجيريا الخزّافة [لادي كوالي](/artists/ladi-kwali) و[توينز سفن سفن](/artists/twins-seven-seven) من مدرسة أوشوغبو، واليوم [ينكا شونيباري](/artists/yinka-shonibare) و[أوتوبونغ نكانغا](/artists/otobong-nkanga)؛ ومن فناني غانا [إبراهيم ماهاما](/artists/ibrahim-mahama) و[أماكو بوافو](/artists/amoako-boafo).
+وتضمّ نيجيريا وغانا أكبر المشاهد الفنية في المنطقة: من فناني نيجيريا الخزّافة [لادي كوالي](/artists/ladi-kwali) و[توينز سفن سفن](/artists/twins-seven-seven) من مدرسة أوشوغبو، واليوم [ينكا شونيباري](/artists/yinka-shonibare) و[أوتوبونغ نكانغا](/artists/otobong-nkanga)؛ ومن فناني غانا [إبراهيم ماهاما](/artists/ibrahim-mahama) و[أماكو بوافو](/artists/amoako-boafo) ورسّامة بصمات الأوراق [شارون ديدي بادي](/artists/sharon-dede-padi).
 
 ## الموسيقى
 

@@ -44,7 +44,7 @@ Les oiseaux en stéatite sculptés au **Grand Zimbabwe** entre le XIIIe et le XV
 
 ## Sculpture moderne et contemporaine
 
-Le bronze *Anyanwu* (1954-1955) de [Ben Enwonwu](/artists/ben-enwonwu) est devenu un symbole de l'indépendance nigériane. [Ousmane Sow](/artists/ousmane-sow) a façonné des figures plus grandes que nature qui ont attiré trois millions de visiteurs à Paris. [El Anatsui](/artists/el-anatsui) est passé du bois taillé à de vastes tentures de métal. Sokari Douglas Camp soude des sculptures d'acier inspirées des mascarades kalabari, et en Afrique de l'Est les [sculpteurs makondé](/art-forms/makonde-art) ont créé une sculpture moderne bien à eux.
+Le bronze *Anyanwu* (1954-1955) de [Ben Enwonwu](/artists/ben-enwonwu) est devenu un symbole de l'indépendance nigériane. [Ousmane Sow](/artists/ousmane-sow) a façonné des figures plus grandes que nature qui ont attiré trois millions de visiteurs à Paris. Né au Maroc, [Bruno Catalano](/artists/bruno-catalano) évide le corps de ses voyageurs de bronze, si bien que la rue se voit à travers eux. [El Anatsui](/artists/el-anatsui) est passé du bois taillé à de vastes tentures de métal. Sokari Douglas Camp soude des sculptures d'acier inspirées des mascarades kalabari, et en Afrique de l'Est les [sculpteurs makondé](/art-forms/makonde-art) ont créé une sculpture moderne bien à eux.
 
 ## À lire aussi
 

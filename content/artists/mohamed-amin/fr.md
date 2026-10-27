@@ -29,4 +29,4 @@ Le 23 novembre 1996, Amin était à bord du vol 961 d'Ethiopian Airlines quand l
 
 ## Postérité
 
-Les archives de photographies et de films d'Amin forment l'un des plus grands témoignages sur l'Afrique de l'Est après les indépendances. Pour l'histoire plus large, voir la [photographie africaine](/art-forms/african-photography) et l'[Afrique de l'Est](/regions/east-africa), ainsi que notre liste des [photographes africains](/artists/medium/photographers).
+Les archives de photographies et de films d'Amin forment l'un des plus grands témoignages sur l'Afrique de l'Est après les indépendances. Un photographe plus jeune venu de Nairobi, [Dan Eldon](/artists/dan-eldon), est tué en Somalie en 1993 alors qu'il travaillait pour Reuters. Pour l'histoire plus large, voir la [photographie africaine](/art-forms/african-photography) et l'[Afrique de l'Est](/regions/east-africa), ainsi que notre liste des [photographes africains](/artists/medium/photographers).

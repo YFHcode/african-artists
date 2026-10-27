@@ -41,4 +41,4 @@ Dak'Art nació de la larga inversión de Senegal en las artes, descrita en nuest
 
 ## Relacionados
 
-Antes de comprar, lea [cómo comprar arte africano](/guides/how-to-buy-african-art). Entre una cita y otra, las colecciones permanentes de [dónde ver arte africano](/guides/where-to-see-african-art) son la mejor manera de ver la historia que hay detrás de lo que está a la venta, y nuestra guía del [arte africano contemporáneo](/guides/contemporary-african-art) traza el panorama general.
+Antes de comprar, lea [cómo comprar arte africano](/guides/how-to-buy-african-art). Entre una cita y otra, las colecciones permanentes de [dónde ver arte africano](/guides/where-to-see-african-art) son la mejor manera de ver la historia que hay detrás de lo que está a la venta, y nuestra guía del [arte africano contemporáneo](/guides/contemporary-african-art) traza el panorama general. En la Bienal de Venecia de 2017, el Diaspora Pavilion mostró los ferrotipos de [Khadija Saye](/artists/khadija-saye), la artista participante más joven.

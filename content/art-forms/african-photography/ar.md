@@ -44,4 +44,4 @@ facts:
 
 ## تابع القراءة
 
-التصوير في صميم [الفن الأفريقي المعاصر](/guides/contemporary-african-art). وابدأ بسيرتي [سيدو كيتا](/artists/seydou-keita) و[مالك سيديبي](/artists/malick-sidibe). وتصفّح قائمتنا عن [المصوّرين الأفارقة](/artists/medium/photographers). ولفضاءات داخلية مدبَّرة مقلقة، انظر [روجر بالين](/artists/roger-ballen).
+التصوير في صميم [الفن الأفريقي المعاصر](/guides/contemporary-african-art). وابدأ بسيرتي [سيدو كيتا](/artists/seydou-keita) و[مالك سيديبي](/artists/malick-sidibe). وتصفّح قائمتنا عن [المصوّرين الأفارقة](/artists/medium/photographers). ولفضاءات داخلية مدبَّرة مقلقة، انظر [روجر بالين](/artists/roger-ballen). وللاطلاع على مصوّرة شابة وصلت سلسلتها من صور التينتايب إلى بينالي البندقية عام 2017، انظر [خديجة ساي](/artists/khadija-saye).

@@ -14,28 +14,32 @@ facts:
 ---
 ## Un escultor que supo esperar
 
-Ousmane Sow nació en Dakar en 1935. Tras la muerte de su padre en 1956 se fue a Francia, donde se tituló como fisioterapeuta. Ejerció durante muchos años, en Francia y en Senegal, y durante mucho tiempo solo esculpió en privado.
+Ousmane Sow nació en Dakar en 1935. Tras la muerte de su padre en 1956 se fue a Francia, donde se tituló como fisioterapeuta. Ejerció durante casi tres décadas, en Francia y en Senegal, y así se ganaba la vida mientras esculpía en paralelo; durante mucho tiempo solo esculpió en privado.
 
 Su conocimiento de la anatomía se ve en todo lo que expuso después. Las figuras de Sow se construyen sobre armazones y se recubren con un material de su invención, una mezcla cuya receta guardó para sí, trabajada para parecer piel, músculo y tierra a la vez.
 
 ## Las series
 
-A mediados de los años ochenta Sow empezó a esculpir a tiempo completo y a trabajar en series sobre pueblos y sus cuerpos:
+Se dio a conocer al público en 1987 en el Centro Cultural Francés de Dakar, con su primera serie, dedicada a los luchadores nuba. A mediados de los años ochenta empezó a esculpir a tiempo completo y a trabajar en series sobre pueblos y sus cuerpos:
 
 - **Nouba**, inspirada en fotografías de luchadores nuba de Sudán;
 - **Masaï** y **Zoulous**, guerreros y pastores de África Oriental y del sur de África;
 - **Peulh**, los pastores fulani de África Occidental;
 - **Little Big Horn**, un gran grupo de figuras que recrea la batalla de 1876 entre el ejército de Estados Unidos y los guerreros lakota y cheyenes.
 
-Las figuras son más grandes que el natural, intensamente físicas e individuales. No son modelos etnográficos ni estatuas heroicas: son personas en plena tensión.
+Las figuras son más grandes que la vida, intensamente físicas e individuales. No son modelos etnográficos ni estatuas heroicas; son personas llevadas al límite. Escritores senegaleses lo han llamado el escultor de los hombres que se ponen en pie, y es una buena manera de mirar: fíjese en cómo cada figura sostiene su peso, en el ángulo de una espalda, en la línea de un hombro, antes de fijarse en la superficie. Expuso en la documenta IX de Kassel en 1992 y en el Palazzo Grassi de Venecia durante la Bienal de 1995. Su escultura posterior del revolucionario haitiano Toussaint Louverture, de más de dos metros, se mostró en el Museo Nacional de Arte Africano de Washington en 2011.
 
 ## El Pont des Arts, 1999
 
-En 1999 las esculturas de Sow se instalaron a lo largo del Pont des Arts de París, una pasarela sobre el Sena. La exposición al aire libre, que incluía *Little Big Horn*, atrajo a más de tres millones de visitantes y lo hizo famoso mucho más allá del mundo del arte.
+En 1999 las esculturas de Sow se instalaron a lo largo del Pont des Arts de París, una pasarela sobre el Sena. La exposición al aire libre, que incluía *Little Big Horn* y, según un recuento, 68 esculturas, atrajo según se informó a tres millones de visitantes y lo hizo famoso mucho más allá del mundo del arte.
 
 ## La Académie
 
-En 2012 Sow fue elegido miembro asociado extranjero de la Académie des Beaux-Arts del Institut de France, el primer artista negro en ingresar en ella. Murió en Dakar en 2016.
+Sow fue elegido miembro asociado extranjero de la Académie des Beaux-Arts del Institut de France —el primer artista negro en ingresar— en el sillón del pintor estadounidense Andrew Wyeth. Las fuentes datan la elección en 2012 o 2013; tomó posesión en diciembre de 2013. Murió en Dakar en 2016.
+
+## Dónde ver la obra
+
+La exposición del Pont des Arts fue temporal y no hemos encontrado una galería pública permanente dedicada a su obra. La Académie des Beaux-Arts publica una biografía, y los museos que lo han mostrado, entre ellos el Museo Nacional de Arte Africano de Washington y el Palazzo Grassi de Venecia, son los lugares a los que preguntar dónde se pueden ver sus figuras.
 
 ## Artistas y movimientos relacionados
 

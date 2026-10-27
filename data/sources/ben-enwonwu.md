@@ -1,0 +1,13 @@
+# Ben Enwonwu
+
+Expanded for batch 4, October 2026. Facts added or corrected by the expansion:
+
+- Anyanwu: original bronze made 1954-55, for the National Museum, Lagos, which opened in 1956; still outside the museum; a cast presented by the Nigerian government to the UN in 1966 ("Anyanwu" = the Igbo word for the sun, general knowledge): https://en.wikipedia.org/wiki/Anyanwu_(sculpture) (pointer) ; https://www.un.org/ungifts/replica-anyanwu ; https://media.un.org/photo/en/asset/oun7/oun7615007 ; https://momaa.org/ben-enwonwu-nigerias-independence-icon/
+- Queen Elizabeth II: sittings began at Buckingham Palace in March 1957, twelve sittings in all, completed in London, shown at the Royal Society of British Artists in November 1957 (the page's earlier "RBSA elected him the following year" removed: not found): https://edition.cnn.com/style/article/ben-enwonwu-queen-elizabeth-sculpture-intl-lgs ; https://localnews8.com/life/cnn-style/2022/09/19/she-sat-for-him-12-times-the-nigerian-artist-who-made-a-bronze-sculpture-of-queen-elizabeth-ii/
+- Tutu: three versions painted in 1973-74 (page said 1973; sources say 1974 or 1973-74); second version found in a north London home in late 2017 after a family asked Bonhams' Giles Peppiatt to look; sold 28 February 2018 at Bonhams' first evening sale of contemporary African art for £1,205,000; estimate £200,000-300,000; accounts differ on theft vs loss of the first version and on when the others vanished: https://news.artnet.com/market/ben-enwonwu-nigerian-masterpiece-bonhams-1234223 ; https://hyperallergic.com/nigerian-modernist-masterpiece-found-in-london-apartment ; https://edition.cnn.com/style/article/ben-enwonwu-tutu-painting-auction/index.html ; https://www.okayafrica.com/the-missing-nigerian-masterpiece-recovered-in-a-london-apartment-just-sold-for-over-16-million-dollars/199112
+- Previous record £361,250 (Bonhams London, May 2013) for seven wooden sculptures made for a 1960 Daily Mirror commission: https://en.wikipedia.org/wiki/Ben_Enwonwu%27s_Daily_Mirror_sculptures (pointer) ; https://news.artnet.com/market/ben-enwonwu-nigerian-masterpiece-bonhams-1234223
+- Artistic adviser to FESTAC '77: https://en.wikipedia.org/wiki/Ben_Enwonwu (pointer) ; https://www.masterworks.com/academy/artists/ben-enwonwu
+- Google Arts & Culture holds Anyanwu and "First Live Sketch of H.M. Queen Elizabeth II": https://artsandculture.google.com/asset/anyanwu-ben-enwonwu/LAEVHESR_Gsvxg?hl=en
+- Not used: Sango/NEPA (weak), National Gallery Lagos holdings, MBE year, education dates (sources conflict), the Ben Okri line (already on the page, not re-checked).
+
+Where to see the work: National Museum, Lagos (Anyanwu); UN headquarters (cast); Google Arts & Culture.

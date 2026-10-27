@@ -44,4 +44,4 @@ The **Rencontres de Bamako**, the African biennale of photography founded in 199
 
 ## Related
 
-Photography is central to [contemporary African art](/guides/contemporary-african-art). Start with the profiles of [Seydou Keïta](/artists/seydou-keita) and [Malick Sidibé](/artists/malick-sidibe). Browse our lists of [African photographers](/artists/medium/photographers) and [South African photographers](/artists/country/south-africa/photographers). For staged, unsettling interiors, see [Roger Ballen](/artists/roger-ballen).
+Photography is central to [contemporary African art](/guides/contemporary-african-art). Start with the profiles of [Seydou Keïta](/artists/seydou-keita) and [Malick Sidibé](/artists/malick-sidibe). Browse our lists of [African photographers](/artists/medium/photographers) and [South African photographers](/artists/country/south-africa/photographers). For staged, unsettling interiors, see [Roger Ballen](/artists/roger-ballen). For a young photographer whose tintype series reached the Venice Biennale in 2017, see [Khadija Saye](/artists/khadija-saye).

@@ -28,11 +28,17 @@ El-Salahi ocupó cargos públicos en la administración cultural y la diplomacia
 
 Tras su liberación realizó el *Prison Notebook* (1976), una secuencia de dibujos a tinta que registran la experiencia. Un dibujo de esta serie está en la colección del Museum of Modern Art de Nueva York.
 
+Cómo mirar el *Prison Notebook*: recuerde las bolsas de papel marrón en las que se hicieron los primeros bocetos, en secreto, en los minutos del ejercicio diario. Luego mire cómo la escritura y la figura se funden: el hábito de escribir con el que creció es la manera en que los dibujos contienen una experiencia que no se podía escribir. Este segundo punto es una lectura propia de este sitio.
+
 ## Exilio y reconocimiento
 
 El-Salahi dejó Sudán tras su liberación, trabajó en el Golfo y después se instaló en Oxford (Inglaterra), donde vive desde hace décadas. Su obra posterior incluye largas series de dibujos y pinturas construidas a partir de formas de árboles.
 
-En 2013 la Tate Modern presentó *Ibrahim El-Salahi: A Visionary Modernist*, la primera retrospectiva que el museo dedicaba a un artista de África. Contribuyó a cambiar la manera en que los museos de Europa y Norteamérica cuentan la historia del arte moderno.
+En 2013 la Tate Modern presentó *Ibrahim El-Salahi: A Visionary Modernist*, la primera retrospectiva que el museo dedicó a un artista de África; estuvo abierta hasta el 22 de septiembre de 2013. Ayudó a cambiar la forma en que los museos de Europa y Norteamérica cuentan la historia del arte moderno. Había ganado el Premio Príncipe Claus en 2001, y en 2015 la University College London le concedió un doctorado honoris causa en Letras. En 2022 participó en la exposición principal de la 59.ª Bienal de Venecia, *La leche de los sueños*.
+
+## Obra reciente y dónde verla
+
+Entre sus exposiciones más recientes figuran *Pain Relief Drawings* en la Kunsthalle Zürich en 2023 y *Haraz*, del 7 de junio al 27 de octubre de 2024. Las listas de colecciones mencionan el Museum of Modern Art, el Metropolitan Museum of Art y el Guggenheim Abu Dabi entre los museos que poseen su obra, aunque no hemos comprobado la página de cada museo. La Vigo Gallery de Londres, que lo representa, anunció para 2026 una exposición de sus primeros años, de 1950 a 1968. El archivo de la Tate sobre la retrospectiva de 2013 y la página del Fondo Príncipe Claus sobre su premio son los mejores puntos de partida.
 
 ## Artistas y movimientos relacionados
 

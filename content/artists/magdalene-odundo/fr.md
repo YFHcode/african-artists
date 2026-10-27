@@ -13,7 +13,7 @@ facts:
 ---
 ## De Nairobi à Farnham
 
-Magdalene Anyango Namakhiya Odundo naît à Nairobi en 1950 et passe une partie de son enfance en Inde. Elle se forme d'abord aux arts graphiques commerciaux à Nairobi puis, en 1971, s'installe en Angleterre, où la visite d'un atelier de poterie change son orientation. Elle étudie la céramique au West Surrey College of Art and Design, à Farnham, puis obtient un master au Royal College of Art de Londres, achevé en 1982.
+Magdalene Anyango Namakhiya Odundo naît à Nairobi en 1950 et passe une partie de son enfance en Inde. Elle se forme d'abord à l'art commercial à Nairobi, puis s'installe en Angleterre en 1971, où elle étudie au Cambridge College of Art ; une enseignante, Zoë Ellison, lui est créditée de l'avoir tournée vers l'argile. Elle étudie la céramique au West Surrey College of Art and Design de Farnham de 1973 à 1976, puis prépare un master au Royal College of Art de Londres, achevé en 1982.
 
 ## Apprendre auprès des potières
 
@@ -21,11 +21,17 @@ Un moment décisif survient en 1974, lorsqu'elle se rend au centre de formation 
 
 ## Les vases
 
-Odundo n'utilise pas de tour. Chaque vase est monté lentement à la main, recouvert d'un fin engobe et poli à la pierre jusqu'à briller. Elle le cuit ensuite, et pour les pièces noires le recuit dans un four pauvre en oxygène, si bien que le carbone noircit la surface ; le résultat ressemble presque à du métal ou à de la pierre. Les formes sont les siennes : de longs cols qui penchent d'un côté, des panses renflées, des anses et des becs qui évoquent des bras, des oreilles ou des chignons. On peut y voir des corps, des têtes, ou simplement des pots, et ils trouvent un équilibre parfait et silencieux.
+Odundo n'utilise pas de tour. Chaque vase est monté lentement à la main, à partir de colombins d'argile, recouvert d'un fin engobe et brunii avec des pierres jusqu'à briller. Les pièces sont brunies deux fois et cuites deux fois ; les noires tirent leur couleur du carbone, et le résultat évoque presque le métal ou la pierre. Les formes sont les siennes : cols hauts qui penchent d'un côté, ventres gonflés, anses et becs qui évoquent des bras, des oreilles ou des chignons. On peut les lire comme des corps, des têtes ou simplement des pots, et elles tiennent un équilibre parfait et silencieux.
+
+Comment regarder un Odundo : tournez autour, car le col qui penche d'un côté peut sembler se redresser vu d'un autre. Regardez la surface, qui est la preuve du travail : l'éclat vient du brunissage à la pierre, non d'une glaçure. Puis regardez l'ouverture, là où le pot cesse d'être un corps pour devenir un contenant.
 
 ## La reconnaissance
 
-Son œuvre est présente dans plus de cinquante musées, dont le British Museum, le Victoria and Albert Museum, la Smithsonian et le Metropolitan Museum of Art. En 2019, le Sainsbury Centre de Norwich lui consacre une grande exposition, *The Journey of Things*, qui place ses vases aux côtés d'objets de nombreuses cultures qui l'ont inspirée. Elle enseigne pendant de longues années, devient chancelière de l'University for the Creative Arts en 2018 et est faite Dame en 2020.
+Son œuvre est présente dans près de cinquante musées ; parmi les collections publiques qui la recensent figurent le British Museum, l'Ashmolean Museum d'Oxford, le Victoria and Albert Museum et le Fitzwilliam Museum de Cambridge. En 2019, le Hepworth Wakefield (du 16 février au 2 juin) puis le Sainsbury Centre de Norwich (du 3 août au 15 décembre) ont présenté *The Journey of Things*, où elle a choisi elle-même les objets : une cinquantaine de ses propres vases à côté de presque une centaine d'autres pièces, parmi lesquelles de la poterie d'atelier britannique de Hans Coper et Lucie Rie, des vases antiques de Grèce et d'Égypte, des costumes et textiles élisabéthains, de la sculpture rituelle de toute l'Afrique et une grande œuvre d'[El Anatsui](/artists/el-anatsui). La scénographie était de l'architecte Farshid Moussavi. Elle est aussi titulaire d'un OBE. Elle a enseigné de longues années et est devenue chancelière de l'University for the Creative Arts en 2018 ; en 2020, elle a été faite Dame.
+
+## Où voir l'œuvre
+
+Parmi les musées qui recensent ses vases en ligne figurent Amgueddfa Cymru (Musée national du pays de Galles), qui a acquis *Asymmetric I* (2016, 55 centimètres de haut) en 2020 ; le musée de la Rhode Island School of Design, qui détient *Asymmetrical Series II* (2015) ; le Krannert Art Museum de l'université de l'Illinois, avec un vase sans titre de 2009 ; et le Hepworth Wakefield, qui a acquis *Asymmetric Vessel* (2021). Demandez à chacun quelles pièces sont exposées, car les accrochages changent. Le Fitzwilliam de Cambridge la compte parmi ses commissaires extérieurs.
 
 ## Voir aussi
 

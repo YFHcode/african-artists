@@ -2,7 +2,7 @@
 
 **Status: approved 27 October 2026, with 600+ and 300+ words as the targets. Batch 0 done; batch 1
 (the pilot) live on 27 October 2026; its four-week check is due on 24 November 2026. Batch 2 is
-written and tested but not published: it waits for that check. Batch 3 is in the same state.** Word counts are for the English pages as of that date; yearly views are
+written and tested but not published: it waits for that check. Batches 3 and 4 are in the same state.** Word counts are for the English pages as of that date; yearly views are
 from the first data run (October 2025 – September 2026, five Wikipedias).
 
 ## The two problems
@@ -150,6 +150,20 @@ collaboration and "school at her home" rest on single sources and were removed.
 
 **Batch 4.** Ousmane Sow, Ben Enwonwu, Austin Stevens†, Magdalene Odundo, Laetitia Ky†, Otobong
 Nkanga, Irma Stern, Khadija Saye†, Sam Nzima, Ibrahim El-Salahi, Mahmoud Saïd.
+
+Written 27 October 2026 on the branch `batch-4-profiles` (built on `batch-3-profiles`), not on `main`.
+Eight were already full profiles and now run 602–653 words in English
+(Sow 602, Enwonwu 650, Odundo 603, Nkanga 653, Stern 608, Nzima 603, El-Salahi 636, Saïd 607).
+Khadija Saye was promoted to a full profile (657 words, hand-written facts in five languages, linked
+from Misan Harriman, African photography, African art fairs and biennales and African women
+artists). Laetitia Ky (321 words) and Austin Stevens (307) stay short: the independent coverage
+runs out at about 300 words. The source check corrected older pages: Enwonwu's *Tutu* is dated
+1973–74; Sam Nzima was born on 8 August 1934 in Lillydale; Mahmoud Saïd's auction record is *The
+Whirling Dervishes* (1929, $2.55 million, October 2010), not *Les Chadoufs*, and he was born and
+died on 8 April; Otobong Nkanga's foundation claim about an art space in Athens rests on one
+source and was removed; Laetitia Ky's "reached millions" and Austin Stevens's cobra bite and
+conservation motive were removed as unsourced. Austin Stevens's record is 107 days in most sources
+and 170 in one, and the page says so.
 
 **Batch 5.** David Goldblatt, M'hamed Issiakhem, Mahi Binebine, Afewerk Tekle, Hussein Shariffe†,
 Chéri Samba, Malick Sidibé, Amoako Boafo, Bruce Onobrakpeya†, Leila Alaoui†, Seyni Awa Camara†.

@@ -28,11 +28,17 @@ El-Salahi ocupou cargos públicos na administração cultural e na diplomacia su
 
 Depois de libertado produziu o *Prison Notebook* (1976), uma sequência de desenhos a tinta que registam a experiência. Um desenho deste caderno pertence à coleção do Museum of Modern Art de Nova Iorque.
 
+Como olhar para o *Prison Notebook*: lembre-se dos sacos de papel pardo em que foram feitos os primeiros esboços, em segredo, nos minutos do exercício diário. Depois veja como a escrita e a figura se fundem: o hábito de escrever em que cresceu é a maneira como os desenhos guardam uma experiência que não podia ser escrita. Este segundo ponto é uma leitura própria deste site.
+
 ## Exílio e reconhecimento
 
 El-Salahi deixou o Sudão depois da libertação, trabalhou no Golfo e acabou por se fixar em Oxford, em Inglaterra, onde vive há décadas. A obra tardia inclui longas séries de desenhos e pinturas construídos a partir de formas de árvores.
 
-Em 2013 a Tate Modern apresentou *Ibrahim El-Salahi: A Visionary Modernist*, a primeira retrospetiva que o museu dedicou a um artista de África. Ajudou a mudar a forma como os museus da Europa e da América do Norte contam a história da arte moderna.
+Em 2013 a Tate Modern apresentou *Ibrahim El-Salahi: A Visionary Modernist*, a primeira retrospetiva que o museu dedicou a um artista de África; esteve em exibição até 22 de setembro de 2013. Ajudou a mudar a forma como os museus da Europa e da América do Norte contam a história da arte moderna. Ganhara o Prémio Príncipe Claus em 2001, e em 2015 a University College London concedeu-lhe um doutoramento honoris causa em Letras. Em 2022 participou na exposição principal da 59.ª Bienal de Veneza, *O Leite dos Sonhos*.
+
+## Obra recente e onde a ver
+
+Entre as exposições mais recentes contam-se *Pain Relief Drawings* na Kunsthalle Zürich em 2023 e *Haraz*, de 7 de junho a 27 de outubro de 2024. As listas de coleções citam o Museum of Modern Art, o Metropolitan Museum of Art e o Guggenheim Abu Dhabi entre os museus que possuem a sua obra, embora não tenhamos verificado a página de cada museu. A Vigo Gallery, em Londres, que o representa, anunciou para 2026 uma exposição sobre os seus primeiros anos, de 1950 a 1968. O arquivo da Tate sobre a retrospetiva de 2013 e a página do Fundo Príncipe Claus sobre o seu prémio são os melhores pontos de partida.
 
 ## Artistas e movimentos relacionados
 

@@ -83,6 +83,16 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
         ],
         alsoRevised: ['artists/david-goldblatt', 'regions/southern-africa', 'art-forms/african-photography'],
     },
+    {
+        // Batch 4. Khadija Saye was promoted to a full profile and linked from three articles. Laetitia Ky and Austin
+        // Stevens stay short: the sources ran out at about 300 words. Set the date again on release.
+        date: '2026-10-27',
+        expanded: [
+            'ousmane-sow', 'ben-enwonwu', 'austin-stevens', 'magdalene-odundo', 'laetitia-ky', 'otobong-nkanga',
+            'irma-stern', 'khadija-saye', 'sam-nzima', 'ibrahim-el-salahi', 'mahmoud-said',
+        ],
+        alsoRevised: ['guides/african-art-fairs-and-biennales', 'guides/african-women-artists', 'art-forms/african-photography'],
+    },
 ];
 
 /**

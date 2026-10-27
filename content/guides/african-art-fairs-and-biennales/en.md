@@ -41,4 +41,4 @@ Dak'Art grew out of Senegal's long investment in the arts, described in our arti
 
 ## Related
 
-Before you buy, read [how to buy African art](/guides/how-to-buy-african-art). Between events, the permanent collections listed in [where to see African art](/guides/where-to-see-african-art) are the best way to see the history behind what is on sale, and our guide to [contemporary African art](/guides/contemporary-african-art) sets out the bigger picture.
+Before you buy, read [how to buy African art](/guides/how-to-buy-african-art). Between events, the permanent collections listed in [where to see African art](/guides/where-to-see-african-art) are the best way to see the history behind what is on sale, and our guide to [contemporary African art](/guides/contemporary-african-art) sets out the bigger picture. At the 2017 Venice Biennale the Diaspora Pavilion showed the tintypes of [Khadija Saye](/artists/khadija-saye), the youngest artist taking part.

@@ -13,19 +13,29 @@ facts:
 ---
 ## Berlim
 
-Irma Stern nasceu em 1894 em Schweizer-Reneke, uma pequena cidade do Transvaal, filha de pais judeus alemães. A família passou longos períodos na Alemanha, onde ela estudou arte. Em Berlim conheceu o pintor Max Pechstein, do grupo expressionista Die Brücke, que a encorajou, e em 1919 fez a primeira exposição na galeria Fritz Gurlitt.
+Irma Stern nasceu em 1894 em Schweizer-Reneke, uma pequena cidade do Transvaal, de pais judeus alemães. A família passou longos períodos na Alemanha, onde ela estudou arte. Em Berlim conheceu em 1917 o pintor Max Pechstein, do grupo expressionista Die Brücke, que se tornou seu mentor e a introduziu no mundo da arte da cidade. Em 1918 foi membro fundador do Novembergruppe, a associação revolucionária de artistas, com o qual expôs em 1919, 1920 e 1927. Em maio de 1919 Pechstein ajudou-a a organizar a sua primeira exposição individual, de 33 desenhos, na galeria Fritz Gurlitt.
 
 ## Escândalo e sucesso na África do Sul
 
-De regresso à África do Sul em 1920, Stern expôs na Cidade do Cabo. As cores fortes, as formas distorcidas e os retratos de sul-africanos negros chocaram a crítica conservadora; um dos críticos chamou ao seu trabalho «a fealdade como culto» («Ugliness as a cult»). Ela persistiu, viajou muito e pintou sem parar e, nos anos 1940, estava consagrada como a primeira pintora moderna do país.
+De volta à África do Sul em 1920, Stern expôs na Cidade do Cabo, com a sua primeira mostra lá na Ashbey Gallery. As suas cores fortes, formas deformadas e retratos de sul-africanos negros chocaram a crítica conservadora, e um dos seus membros chamou à sua obra «culto da fealdade». Persistiu, viajou muito e pintou constantemente, e nos anos 1940 já era a primeira pintora moderna do país.
 
 ## Zanzibar e o Congo
 
-As viagens de Stern deram origem às suas obras mais célebres. Foi a Zanzibar em 1939 e 1945 e ao Congo Belga em 1942 e 1946, e pintou retratos das pessoas que conheceu, muitas vezes em ricas molduras esculpidas feitas de portas de Zanzibar. Os quadros deste período — entre eles *Arab Priest*, vendido em 2011 por três milhões de libras — estão entre as obras sul-africanas mais valiosas alguma vez vendidas. Hoje, o seu olhar exotizante sobre os africanos é também discutido de forma crítica.
+As suas viagens produziram as suas obras mais célebres. Foi a Zanzibar em 1939 e 1945 e ao Congo Belga em 1942 e 1946, pintando retratos das pessoas que conheceu, muitas vezes em ricas molduras esculpidas feitas com portas de Zanzibar. As suas pinturas deste período estão entre as obras sul-africanas mais valiosas já vendidas. *Arab Priest*, assinado e datado de 1945, foi vendido na Bonhams, em Londres, em março de 2011 por 3 044 000 libras com comissão; o comprador foi a Qatar Museums Authority, mas a agência do património da África do Sul bloqueou inicialmente a exportação, e o quadro não pode sair definitivamente do país. O seu *Two Arabs* de 1939 foi vendido na Strauss & Co em setembro de 2011 por 21 milhões de rands, e o seu *Children Reading the Koran* de 1939 atingiu 22,3 milhões de rands em leilão a 28 de março de 2023, então um recorde para uma obra de arte vendida em leilão em África. Hoje, o olhar exotizante sobre os africanos nestes retratos também é discutido de forma crítica.
+
+Como olhar para um Stern: comece pela cor e pela pincelada, que trouxe de Berlim, e depois olhe para os retratados. Os seus retratos são de pessoas concretas que conheceu em viagem, e as molduras, esculpidas em velhas portas de Zanzibar, fazem parte do quadro. A pergunta crítica a trazer é quem olha e como os retratados são enquadrados; o contexto colonial destas viagens faz parte do que os quadros mostram.
 
 ## O Museu Irma Stern
 
-Viveu quase quarenta anos numa casa chamada The Firs, em Rosebank, na Cidade do Cabo, cheia da sua coleção de arte africana, asiática e europeia. Depois da sua morte, em 1966, a casa tornou-se o Museu Irma Stern, gerido pela Universidade da Cidade do Cabo.
+Viveu quase quarenta anos numa casa chamada The Firs, em Rosebank, na Cidade do Cabo, cheia da sua coleção de arte africana, asiática e europeia. Depois da sua morte, em 1966, passou a ser o Museu Irma Stern, gerido pela Universidade da Cidade do Cabo. A casa foi legada em testamento para expor e conservar a sua obra.
+
+## Berlim, 2025
+
+De 13 de julho a 2 de novembro de 2025, o Brücke-Museum de Berlim apresentou *Irma Stern. A Modern Artist between Berlin and Cape Town*, cerca de 40 pinturas, aguarelas, desenhos e gravuras, com curadoria de Lisa Hörstmann e Lisa Marei Schmidt em estreita colaboração com museus sul-africanos. O Irma Stern Trust emprestou 14 obras, entre elas dez pinturas a óleo e o seu diário do Congo.
+
+## Onde ver a obra
+
+O Museu Irma Stern, em Rosebank, na Cidade do Cabo, é o primeiro lugar a visitar: é a sua casa, com a sua coleção e as suas pinturas. A exposição do Brücke-Museum terminou. A Strauss & Co e a Bonhams publicam os catálogos das vendas acima, que reproduzem obras hoje em mãos privadas.
 
 ## Veja também
 

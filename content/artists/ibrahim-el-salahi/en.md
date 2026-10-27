@@ -28,11 +28,17 @@ El-Salahi held public positions in Sudan's cultural administration and diplomacy
 
 After his release he produced the *Prison Notebook* (1976), a sequence of ink drawings that record the experience. A drawing from it is in the collection of the Museum of Modern Art in New York.
 
+How to look at the *Prison Notebook*: remember the paper bags on which the first sketches were made, in secret, in the minutes of the daily exercise period. Then look at how script and figure merge: the habit of writing that he grew up with is the way the drawings hold an experience that could not be written down. That second point is this site's own reading.
+
 ## Exile and recognition
 
 El-Salahi left Sudan after his release, worked in the Gulf, and later settled in Oxford, England, where he has lived for decades. His later work includes extended series of drawings and paintings built on tree forms.
 
-In 2013 Tate Modern presented *Ibrahim El-Salahi: A Visionary Modernist*, the first retrospective the museum had given to an artist from Africa. It helped change how museums in Europe and North America tell the history of modern art.
+In 2013 Tate Modern presented *Ibrahim El-Salahi: A Visionary Modernist*, the first retrospective the museum had given to an artist from Africa; it ran until 22 September 2013. It helped change how museums in Europe and North America tell the history of modern art. He had won the Prince Claus Award in 2001, and in 2015 University College London gave him an honorary Doctor of Literature. In 2022 he took part in the main exhibition of the 59th Venice Biennale, *The Milk of Dreams*.
+
+## Recent work and where to see it
+
+Later exhibitions include *Pain Relief Drawings* at the Kunsthalle Zürich in 2023 and *Haraz*, from 7 June to 27 October 2024. Collection lists name the Museum of Modern Art, the Metropolitan Museum of Art and the Guggenheim Abu Dhabi among the museums that hold his work, though we have not checked each museum's own page. Vigo Gallery in London, which shows him, announced an exhibition of his early years, 1950–1968, for 2026. Tate's archive of the 2013 retrospective and the Prince Claus Fund's page on his award are the best places to start.
 
 ## Related artists and movements
 

@@ -69,7 +69,7 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q661238', slug: 'austin-stevens', name: 'Austin Stevens', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['photography'], born: 1950, died: null },
     { qid: 'Q5213449', slug: 'dan-eldon', name: 'Dan Eldon', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['KE'], media: ['photography'], born: 1970, died: 1993 },
     { qid: 'Q64627129', slug: 'laetitia-ky', name: 'Laetitia Ky', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['CI'], media: ['photography'], born: 1996, died: null },
-    { qid: 'Q30501964', slug: 'khadija-saye', name: 'Khadija Saye', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GM'], media: ['photography'], born: 1992, died: 2017 },
+    { qid: 'Q30501964', slug: 'khadija-saye', name: 'Khadija Saye', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GM'], media: ['photography'], born: 1992, died: 2017 },
     { qid: 'Q22083293', slug: 'leila-alaoui', name: 'Leila Alaoui', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['photography'], born: 1982, died: 2016 },
     { qid: 'Q19976007', slug: 'hassan-hajjaj', name: 'Hassan Hajjaj', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['photography'], born: 1961, died: null },
     { qid: 'Q4023104', slug: 'youssef-nabil', name: 'Youssef Nabil', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['EG'], media: ['photography'], born: 1972, died: null },

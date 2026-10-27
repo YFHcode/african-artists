@@ -13,23 +13,29 @@ facts:
 ---
 ## Aprender a pintar paredes
 
-Esther Mahlangu nasceu em 1935 numa quinta perto de Middelburg, na atual província de Mpumalanga. É ndebele do Sul. Nas comunidades ndebele são as mulheres que pintam as paredes exteriores das casas, e as raparigas aprendem a ajudar as mães e as avós. Mahlangu começou por volta dos dez anos e era já uma muralista experiente na adolescência.
+Esther Mahlangu nasceu em 1935 numa quinta perto de Middelburg, na atual província de Mpumalanga. É ndebele do Sul. Nas comunidades ndebele são as mulheres que pintam as paredes exteriores das casas, e as raparigas aprendem a ajudar as mães e as avós. Mahlangu começou por volta dos dez anos, ensinada pela mãe e pela avó, que lhe ensinaram também o trabalho com contas, e era já uma muralista experiente na adolescência.
 
-A pintura ndebele constrói-se com formas geométricas fortes — degraus, chevrons, triângulos, edifícios estilizados — contornadas por traços negros grossos e preenchidas com cor lisa. As paredes antigas usavam pigmentos de terra; a partir de meados do século XX as tintas industriais alargaram a paleta. Mahlangu pinta à mão livre, sem medir nem usar máscaras, e é conhecida por usar penas de galinha como pincéis.
+A pintura ndebele constrói-se com formas geométricas fortes — degraus, chevrons, triângulos, edifícios estilizados — contornadas por traços negros grossos e preenchidas com cor lisa. As paredes antigas usavam pigmentos de terra; a partir de meados do século XX as tintas industriais alargaram a paleta. Mahlangu pinta à mão livre, sem estênceis nem fita-cola, e é conhecida por usar penas de galinha como pincéis; as Serpentine Galleries descrevem os seus primeiros pigmentos como naturais, misturados com argila, terra e esterco de vaca.
+
+Como olhar para uma Mahlangu: aproxime-se o suficiente para ver a mão. As linhas negras são traçadas à mão livre, pelo que os seus pequenos tremores e variações de pressão provam que nada foi medido nem mascarado, e a cor lisa entre elas chega até à linha. Depois afaste-se e leia o conjunto como um padrão pensado para ser visto do outro lado de um pátio, que é como se vê uma parede.
 
 ## Paris, 1989
 
-O reconhecimento internacional chegou em 1989, quando foi convidada para *Magiciens de la Terre*, no Centro Pompidou, em Paris, uma das primeiras grandes exposições a mostrar artistas de todo o mundo como contemporâneos e não como etnografia. Pintou para a exposição uma casa em tamanho real.
+O reconhecimento internacional chegou em 1989, quando foi convidada para *Magiciens de la Terre*, no Centro Pompidou, em Paris, uma das primeiras grandes exposições a mostrar artistas de todo o mundo como contemporâneos e não como etnografia. Investigadores da embaixada de França, entre eles o curador associado André Magnin, tinham visitado a África do Sul em 1986 e visto as pinturas da sua casa; para a exposição foi convidada a pintar uma réplica da casa em tamanho real.
 
 ## O BMW Art Car
 
-Em 1991 a BMW encomendou-lhe a pintura de um 525i para a série Art Car, antes pintada por artistas como Alexander Calder, Andy Warhol e Roy Lichtenstein. Foi a primeira mulher, e a primeira artista de África, a participar. O carro tornou os padrões ndebele reconhecíveis em todo o mundo; regressou à África do Sul para ser exposto em 2024, mais de trinta anos depois de ter sido pintado.
+Em 1991 a BMW encomendou-lhe a pintura de um 525i para a série Art Car, antes pintada por artistas como Alexander Calder, Andy Warhol e Roy Lichtenstein. Foi a primeira mulher, e a primeira artista de África, a participar. Foi o décimo segundo carro da série. O carro tornou os padrões ndebele reconhecíveis em todo o mundo; regressou à África do Sul para uma exposição nos Iziko Museums, na Cidade do Cabo, de 18 de fevereiro a 11 de agosto de 2024, mais de trinta anos depois de ter sido pintado.
 
 ## Das paredes a tudo
 
-Nas décadas seguintes, Mahlangu levou o estilo para a tela e para objetos de todo o tipo — carros, roupa, artigos para a casa — através de colaborações com marcas internacionais, incluindo novos projetos com a BMW e a Rolls-Royce. Alguns críticos questionaram os projetos comerciais; Mahlangu apresenta-os como forma de manter a tradição visível e de a apoiar financeiramente.
+Nas décadas seguintes, Mahlangu levou o estilo para a tela e para objetos de todo o tipo — carros, roupa, artigos para a casa — através de colaborações com marcas internacionais, entre elas a vodca Belvedere, para uma campanha contra a sida, a Fiat e a British Airways, e um BMW Série 7 mostrado na Frieze, em Londres. Alguns críticos questionaram os projetos comerciais; Mahlangu apresenta-os como forma de manter a tradição visível e de a apoiar financeiramente.
 
-Também ensinou. Abriu uma escola em sua casa para transmitir a pintura ndebele às gerações mais novas, e as suas obras estão em coleções importantes.
+Também ensinou, transmitindo a pintura ndebele a jovens da sua aldeia. Em 2018, a Universidade de Joanesburgo concedeu-lhe um doutoramento honoris causa, e é titular da Ordem de Ikhamanga em prata.
+
+## Trabalhos recentes
+
+Em outubro de 2024, as Serpentine Galleries inauguraram o seu grande mural *Umuntu ngumuntu ngabantu*, a sua primeira obra pública no Reino Unido, que ficou em exposição até março de 2026. Uma exposição individual, *Time in Color*, abriu na Ross + Kramer Gallery, em Nova Iorque, em novembro de 2024, e uma retrospetiva sul-africana nesse ano incluiu um documentário sobre a sua infância rural e a cultura ndebele. Vive em Mpumalanga.
 
 ## Porque é importante
 

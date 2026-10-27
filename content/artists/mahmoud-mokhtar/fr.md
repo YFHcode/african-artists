@@ -19,15 +19,23 @@ Mahmoud Mokhtar naît en 1891 dans un village du delta du Nil. Enfant, il modèl
 
 ## Le Réveil de l'Égypte
 
-En 1919, l'Égypte se soulève contre la domination britannique. À Paris, Mokhtar réalise la maquette d'une sculpture qu'il appelle *Le Réveil de l'Égypte* (*Nahdet Misr*) : une jeune paysanne soulève son voile d'une main, l'autre posée sur la tête d'un sphinx qui se redresse. Exposée au Salon de Paris en 1920, elle est adoptée par le leader nationaliste Saad Zaghloul et par la presse égyptienne comme l'image de la renaissance du pays.
+En 1919, l'Égypte se soulève contre la domination britannique. À Paris, Mokhtar réalise la maquette d'une sculpture qu'il appelle *Le Réveil de l'Égypte* (*Nahdet Misr*) : une jeune paysanne qui soulève son voile d'une main, l'autre posée sur la tête d'un sphinx qui se dresse. La maquette est présentée au Salon des Artistes Français, à Paris, en 1920, et le leader nationaliste Saad Zaghloul et la presse égyptienne en font l'image du renouveau de la nation. Son titre appartient au langage de la *Nahda*, l'idée d'une renaissance culturelle et nationale égyptienne, et la découverte du tombeau de Toutankhamon en 1922, alors que l'Égypte obtenait une forme d'indépendance politique, a nourri l'imagerie pharaonique que les nationalistes employaient.
 
-Une souscription publique est ouverte pour la réaliser en grandeur réelle, en granit d'Assouan — la première statue monumentale en Égypte depuis des siècles. Après des années de travail et de retards politiques, elle est inaugurée au Caire en 1928, sur la place de la gare centrale. En 1955, elle est déplacée sur l'avenue qui mène à l'université du Caire, où elle se trouve toujours.
+Une souscription publique est ouverte pour la réaliser en grandeur réelle dans du granit d'Assouan — la première statue monumentale d'Égypte depuis des siècles. Après des années de travail et de retards politiques, elle est inaugurée le 20 mai 1928 sur la place Bab el-Hadid, devant la gare centrale du Caire. En 1955, elle est déplacée dans l'enceinte de l'université du Caire.
 
 ## Paysannes et monuments
 
 L'autre grand thème de Mokhtar est la campagne égyptienne. Ses petites sculptures de *fellahat* — paysannes portant des jarres, enveloppées dans leur manteau contre le vent, ou se reposant au bord du Nil — ont les volumes lisses et simplifiés et le calme des statues de l'Égypte ancienne. Il réalise aussi deux statues monumentales de Saad Zaghloul, pour Le Caire et Alexandrie, érigées après sa mort.
 
-Il meurt au Caire en 1934, à 43 ans seulement. Un musée sur l'île de Gezira, au Caire, conçu par l'architecte Ramsès Wissa Wassef, conserve la plupart de ses œuvres, et sa tombe se trouve dans son jardin.
+Il expose des sculptures en bronze, en marbre et en pierre à la galerie Bernheim-Jeune à Paris en 1930, et meurt d'une leucémie en mars 1934, au début de la quarantaine. Un musée sur l'île de Gezira, au Caire, conçu par l'architecte Ramses Wissa Wassef, est consacré à son œuvre, et son tombeau s'y trouve.
+
+## Comment regarder un Mokhtar
+
+Prenons *La Fiancée du Nil* (*Arous el-Nil*, 1929), une figure féminine agenouillée en calcaire haute d'environ 148 centimètres. L'essai de Smarthistory soutient qu'elle se lit comme une citation directe de l'art de l'Égypte ancienne dans le goût Art déco de 1929, et se demande si le nu agenouillé relève d'un regard orientaliste ou de l'autonomie d'une Égyptienne moderne. Les deux lectures méritent d'être gardées en tête. La notice du Centre Pompidou indique que l'œuvre de Mokhtar voulait fondre des références aux mythes de l'Égypte ancienne et les inventions formelles de la sculpture européenne moderne, et l'État français a acquis la pièce en 1930. Regardez ses paysannes de la même façon : *Al-Khamaseen* (1929) montre une *fellaha* qui avance contre les tempêtes de sable.
+
+## Où voir l'œuvre
+
+Le musée Mahmoud Mokhtar, sur l'île de Gezira, est consacré à son œuvre, et *Le Réveil de l'Égypte* se dresse à l'université du Caire. *La Fiancée du Nil* appartient aux collections du Centre Pompidou, à Paris ; consultez le site du musée pour savoir si elle est exposée.
 
 ## Héritage
 

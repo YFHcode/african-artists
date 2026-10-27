@@ -21,17 +21,23 @@ Hossein Tallal deviendra lui-même peintre, et la maison de sa mère se remplit 
 
 Au début des années 1960, vers trente-cinq ans, elle rêve qu'elle est entourée de voiles bleues et de personnes qui lui tendent des pinceaux et des toiles. Elle y voit un appel et se met aussitôt à peindre, sans formation et sans envie d'apprendre des règles.
 
-Vers 1965, son fils lui présente le peintre marocain Ahmed Cherkaoui et le critique français Pierre Gaudibert, alors au musée d'Art moderne de la Ville de Paris. Tous deux sont frappés par ses toiles et l'encouragent à exposer. En 1966, elle présente sa première exposition au Goethe-Institut de Casablanca et expose la même année à Paris, notamment au Salon des Indépendants.
+En 1965, son fils amène chez eux le critique français Pierre Gaudibert, alors au musée d'Art moderne de la Ville de Paris, et Gaudibert vient avec deux artistes marocains connus, Ahmed Cherkaoui et André Elbaz. Ils sont frappés par ses toiles et l'encouragent à exposer. En 1966, elle présente sa première exposition au Goethe-Institut de Casablanca et, la même année, fait ses débuts parisiens à la galerie Solstice et expose au Salon des Indépendants.
 
 ## La peinture
 
 Chaïbia peint avec des couleurs pures et saturées, sorties du tube : rouges, jaunes, bleus et verts posés côte à côte. Ses sujets sont les gens et les lieux qu'elle connaît — visages aux grands yeux, femmes, musiciens, pêcheurs, fleurs, scènes de village et campagne de son enfance — tracés d'un trait libre, presque enfantin, et pleins d'énergie.
 
+Comment regarder un Chaïbia : prenez d'abord la couleur, puis le trait. La peinture est posée en champs saturés, et les figures, aux grands yeux, sont tracées vite, d'un contour ouvert, si bien que les visages semblent vous regarder du milieu de la couleur. Le portrait de MOMAA note l'influence des peintres de CoBrA, dont l'art naissait aussi de la spontanéité, et le Musée Mohammed VI de Rabat a montré les deux ensemble.
+
 La critique a souvent qualifié son art de « naïf » ou d'« art brut », des étiquettes qu'elle n'aimait guère. Elle se voyait simplement comme une peintre et tenait à son indépendance. Contrairement aux artistes de l'[École de Casablanca](/movements/casablanca-school), qui construisaient un art moderne à partir de l'artisanat et des signes marocains, elle n'appartenait à aucun groupe et ne suivait aucun programme.
 
 ## La célébrité
 
-Au cours des décennies suivantes, elle expose en Europe, dans le monde arabe et sur le continent américain, et sa personnalité — franche, drôle, vêtue de couleurs vives — fait d'elle une figure publique au Maroc. Elle meurt à Casablanca en 2004. Ses œuvres figurent dans de grandes collections, dont celle du Mathaf à Doha, et ses toiles atteignent aujourd'hui certains des prix les plus élevés pour l'art marocain en vente publique.
+Au cours des décennies suivantes, elle expose largement en Europe et au Maroc, dans des villes comme Francfort, Copenhague, Ibiza, Menton et Rotterdam. Son accueil chez elle est mitigé : dans les années 1960, les responsables, pour la plupart des hommes, des mouvements artistiques marocains rejettent ses toiles, estimant qu'elles ajoutent à l'image d'un pays sous-développé. Sa personnalité — franche, drôle, vêtue de couleurs vives — fait d'elle une figure publique au Maroc. Elle meurt à Casablanca en 2004. De grandes institutions, dont l'Institut du monde arabe à Paris, le Mathaf à Doha et le Musée Mohammed VI d'art moderne et contemporain à Rabat, l'ont inscrite dans l'histoire de l'art arabe moderne, et ses toiles atteignent aujourd'hui certains des prix les plus élevés pour l'art marocain en vente publique.
+
+## Où voir l'œuvre
+
+En janvier 2025, le Musée Mohammed VI de Rabat a ouvert *Chaïbia/CoBrA: Au croisement des libertés*, avec une vingtaine d'œuvres, pour la plupart issues de ses propres collections. Une exposition de 2018 à Rabat qui l'associait à deux autres artistes a été critiquée par son fils Hossein Talal, lui-même peintre, qui disait n'avoir pas été consulté. Vérifiez auprès du musée ce qui est exposé en ce moment.
 
 ## Voir aussi
 

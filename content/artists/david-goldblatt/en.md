@@ -34,4 +34,4 @@ The Museum of Modern Art in New York gave him a solo exhibition in 1998. He rece
 
 ## See also
 
-Goldblatt's work sits alongside that of [Ernest Cole](/artists/ernest-cole) and [Peter Magubane](/artists/peter-magubane). Read [African photography](/art-forms/african-photography) and see our list of [South African photographers](/artists/country/south-africa/photographers).
+Goldblatt's work sits alongside that of [Ernest Cole](/artists/ernest-cole) and [Peter Magubane](/artists/peter-magubane). Read [African photography](/art-forms/african-photography) and see our list of [South African photographers](/artists/country/south-africa/photographers). For a different way of looking at white South Africa, see [Roger Ballen](/artists/roger-ballen).

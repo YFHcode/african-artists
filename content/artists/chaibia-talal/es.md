@@ -21,17 +21,23 @@ Hossein Tallal llegó a ser pintor, y la casa de su madre se llenó de artistas.
 
 A comienzos de los años sesenta, cuando rondaba los treinta y cinco años, soñó que estaba rodeada de velas azules y de personas que le entregaban pinceles y lienzos. Lo tomó como una llamada y empezó a pintar de inmediato, sin formación y sin ningún deseo de aprender reglas.
 
-Hacia 1965 su hijo le presentó al pintor marroquí Ahmed Cherkaoui y al crítico francés Pierre Gaudibert, entonces en el Musée d'Art Moderne de la Ville de Paris. A los dos les impresionó su obra y la animaron a exponerla. En 1966 hizo su primera exposición en el Goethe-Institut de Casablanca y, ese mismo año, expuso en París, entre otros lugares en el Salon des Indépendants.
+En 1965 su hijo llevó a su casa al crítico francés Pierre Gaudibert, entonces en el Musée d'Art Moderne de la Ville de Paris, y Gaudibert acudió con dos artistas marroquíes conocidos, Ahmed Cherkaoui y André Elbaz. A los tres les impresionó su obra y la animaron a exponerla. En 1966 hizo su primera exposición en el Goethe-Institut de Casablanca y, ese mismo año, debutó en París en la galería Solstice y expuso en el Salon des Indépendants.
 
 ## La pintura
 
 Chaïbia pintaba con color puro y saturado, directamente del tubo: rojos, amarillos, azules y verdes uno junto a otro. Sus temas eran las personas y los lugares que conocía —rostros de grandes ojos, mujeres, músicos, pescadores, flores, escenas de pueblo y el campo de su infancia—, dibujados con una línea libre, casi infantil, y llenos de energía.
 
+Cómo mirar a Chaïbia: tome primero el color y después la línea. La pintura se aplica en campos saturados, y las figuras, de ojos grandes, se trazan rápido y con un contorno abierto, de modo que los rostros parecen mirarle desde el centro del color. El perfil de MOMAA señala la influencia de los pintores de CoBrA, cuyo arte también nacía de la espontaneidad, y el Museo Mohammed VI de Rabat ha mostrado a ambos juntos.
+
 La crítica llamó a menudo a su arte «naíf» o «bruto» (*art brut*), etiquetas que no le gustaban. Ella se veía simplemente como pintora y estaba orgullosa de su independencia. A diferencia de los artistas de la [Escuela de Casablanca](/movements/casablanca-school), que construían un arte moderno a partir de la artesanía y los signos marroquíes, no perteneció a ningún grupo ni siguió ningún programa.
 
 ## La fama
 
-En las décadas siguientes expuso por Europa, el mundo árabe y las Américas, y su personalidad —franca, divertida, vestida de colores vivos— la convirtió en una figura pública en Marruecos. Murió en Casablanca en 2004. Su obra está en grandes colecciones, como Mathaf en Doha, y sus cuadros alcanzan hoy algunos de los precios de subasta más altos del arte marroquí.
+En las décadas siguientes expuso ampliamente en Europa y Marruecos, en ciudades como Fráncfort, Copenhague, Ibiza, Menton y Róterdam. Su acogida en casa fue desigual: en los años sesenta, los dirigentes de los movimientos artísticos marroquíes, en su mayoría hombres, rechazaron sus cuadros, diciendo que reforzaban la imagen de un país subdesarrollado. Su personalidad —franca, divertida, vestida de colores vivos— la convirtió en una figura pública en Marruecos. Murió en Casablanca en 2004. Grandes instituciones, entre ellas el Institut du monde arabe de París, Mathaf en Doha y el Museo Mohammed VI de Arte Moderno y Contemporáneo de Rabat, la han incluido en la historia del arte árabe moderno, y sus cuadros alcanzan hoy algunos de los precios de subasta más altos del arte marroquí.
+
+## Dónde ver la obra
+
+En enero de 2025, el Museo Mohammed VI de Rabat inauguró *Chaïbia/CoBrA: Au croisement des libertés*, con unas veinte obras, la mayoría de la propia colección del museo. Una muestra de 2018 en Rabat que la emparejaba con otros dos artistas fue criticada por su hijo Hossein Talal, también pintor, que dijo no haber sido consultado. Consulte al museo qué se expone ahora.
 
 ## Véase también
 

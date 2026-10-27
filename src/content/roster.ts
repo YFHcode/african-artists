@@ -65,7 +65,7 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q569669', slug: 'david-goldblatt', name: 'David Goldblatt', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['photography'], born: 1930, died: 2018 },
     { qid: 'Q2216589', slug: 'sam-nzima', name: 'Sam Nzima', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['photography'], born: 1934, died: 2018 },
     { qid: 'Q3182608', slug: 'mohamed-amin', name: 'Mohamed Amin', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['KE'], media: ['photography'], born: 1943, died: 1996 },
-    { qid: 'Q1550279', slug: 'roger-ballen', name: 'Roger Ballen', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['photography', 'visual-art'], born: 1950, died: null },
+    { qid: 'Q1550279', slug: 'roger-ballen', name: 'Roger Ballen', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['photography', 'visual-art'], born: 1950, died: null },
     { qid: 'Q661238', slug: 'austin-stevens', name: 'Austin Stevens', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['photography'], born: 1950, died: null },
     { qid: 'Q5213449', slug: 'dan-eldon', name: 'Dan Eldon', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['KE'], media: ['photography'], born: 1970, died: 1993 },
     { qid: 'Q64627129', slug: 'laetitia-ky', name: 'Laetitia Ky', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['CI'], media: ['photography'], born: 1996, died: null },

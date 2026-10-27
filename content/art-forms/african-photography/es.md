@@ -44,4 +44,4 @@ Los **Encuentros de Bamako**, la bienal africana de fotografía fundada en 1994,
 
 ## Relacionados
 
-La fotografía ocupa un lugar central en el [arte africano contemporáneo](/guides/contemporary-african-art). Empiece por los perfiles de [Seydou Keïta](/artists/seydou-keita) y [Malick Sidibé](/artists/malick-sidibe). Consulte nuestras listas de [fotógrafos africanos](/artists/medium/photographers) y de [fotógrafos sudafricanos](/artists/country/south-africa/photographers).
+La fotografía ocupa un lugar central en el [arte africano contemporáneo](/guides/contemporary-african-art). Empiece por los perfiles de [Seydou Keïta](/artists/seydou-keita) y [Malick Sidibé](/artists/malick-sidibe). Consulte nuestras listas de [fotógrafos africanos](/artists/medium/photographers) y de [fotógrafos sudafricanos](/artists/country/south-africa/photographers). Para interiores escenificados e inquietantes, véase [Roger Ballen](/artists/roger-ballen).

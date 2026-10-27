@@ -44,4 +44,4 @@ Les **Rencontres de Bamako**, biennale africaine de la photographie fondée en 1
 
 ## À lire aussi
 
-La photographie est au cœur de l'[art africain contemporain](/guides/contemporary-african-art). Commencez par les portraits de [Seydou Keïta](/artists/seydou-keita) et de [Malick Sidibé](/artists/malick-sidibe). Parcourez nos listes des [photographes africains](/artists/medium/photographers) et des [photographes sud-africains](/artists/country/south-africa/photographers).
+La photographie est au cœur de l'[art africain contemporain](/guides/contemporary-african-art). Commencez par les portraits de [Seydou Keïta](/artists/seydou-keita) et de [Malick Sidibé](/artists/malick-sidibe). Parcourez nos listes des [photographes africains](/artists/medium/photographers) et des [photographes sud-africains](/artists/country/south-africa/photographers). Pour des intérieurs mis en scène et inquiétants, voir [Roger Ballen](/artists/roger-ballen).

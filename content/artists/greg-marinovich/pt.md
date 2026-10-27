@@ -17,19 +17,27 @@ Greg Marinovich começou a fotografar a violência nos townships da África do S
 
 ## O Prémio Pulitzer
 
-Em setembro de 1990, no Soweto, Marinovich fotografou uma multidão de apoiantes do ANC a atacar e a matar um homem que acusavam de ser espião do Inkatha. A sequência de imagens ganhou o Prémio Pulitzer de Fotografia de Notícias de Última Hora em 1991. Marinovich escreveu e falou abertamente sobre a forma como essas fotografias o perturbaram: se a sua presença mudou o que aconteceu e o que significa construir uma carreira sobre a morte de outra pessoa.
+Em 1990, no albergue de Nancefield, no Soweto, depois de um confronto entre apoiantes do ANC e do Inkatha, Marinovich fotografou uma multidão de apoiantes do ANC a atacar e a matar um homem que acusavam de ser espião do Inkatha. Vendeu as imagens ao *Sunday Times* e à Associated Press, que passou a recorrer a ele como colaborador, e a sequência ganhou o Prémio Pulitzer de Fotografia de Notícias de Última Hora em 1991. Depois trabalhou regularmente para a Associated Press, e também para a Newsweek, a Time e o The New York Times, segundo a South African History Online. Marinovich escreveu e falou abertamente sobre a forma como essas fotografias o perturbaram: se a sua presença mudou o que aconteceu e o que significa construir uma carreira sobre a morte de outra pessoa. Num relato na primeira pessoa para a Al Jazeera, em 2015, descreveu aquela tarde como um dos momentos mais perturbadores da sua vida até então.
 
 ## Thokoza
 
-A 18 de abril de 1994, no township de Thokoza, Marinovich foi baleado e gravemente ferido pela mesma rajada que matou Oosterbroek. Foi ferido várias vezes ao longo da carreira, na África do Sul e noutros conflitos.
+A 18 de abril de 1994, no township de Thokoza, Marinovich foi gravemente ferido na mesma rajada que matou Oosterbroek. Foi baleado quatro vezes ao cobrir conflitos na África do Sul e no Afeganistão; segundo a NPR, João Silva estava a seu lado de cada vez e ajudou-o a pôr-se a salvo. De abril de 1996 a agosto de 1997 foi o fotógrafo-chefe da Associated Press para o conflito israelo-palestiniano.
 
 ## O Bang-Bang Club
 
-Com Silva, Marinovich escreveu *The Bang-Bang Club* (2000), o relato dos anos dos quatro fotógrafos nos townships, da fotografia de Carter no Sudão e das mortes de Oosterbroek e Carter em 1994. O livro foi adaptado ao cinema em 2010, com Ryan Phillippe no papel de Marinovich. Leia o nosso guia do [Bang-Bang Club](/guides/bang-bang-club).
+Com Silva, Marinovich escreveu *The Bang-Bang Club* (2000), um relato dos anos dos quatro fotógrafos nos townships, da fotografia de Carter no Sudão e das mortes de Oosterbroek e Carter em 1994. O título completo é *The Bang-Bang Club: Snapshots from a Hidden War*, e foi adaptado ao cinema em 2010, com Ryan Phillippe no papel de Marinovich. Leia o nosso guia sobre o [Bang-Bang Club](/guides/bang-bang-club).
 
 ## Marikana
 
-Em agosto de 2012, a polícia matou a tiro 34 mineiros em greve em Marikana, uma mina de platina na província do Noroeste. Como jornalista, Marinovich voltou ao local, estudou as provas e revelou que muitos dos mineiros tinham sido mortos longe das câmaras, num afloramento rochoso conhecido como Small Koppie. Desenvolveu esse trabalho no livro *Murder at Small Koppie* (2016).
+Em agosto de 2012, a polícia matou a tiro 34 mineiros em greve em Marikana, uma mina de platina da província do Noroeste. Trabalhando como jornalista para o Daily Maverick, de que era editor associado, Marinovich voltou ao local, estudou as provas e noticiou que muitos dos mineiros tinham sido mortos longe das câmaras, num afloramento rochoso conhecido como Small Koppie. Ampliou o trabalho no livro *Murder at Small Koppie* (2016), que se baseia na sua própria investigação, em testemunhos e nas conclusões da comissão de inquérito de Marikana, e que ganhou em 2017 o Prémio Alan Paton de não ficção. A comissão de inquérito de Marikana, que apresentou o relatório em junho de 2015, descreveu as mortes em duas cenas, 17 mineiros em cada, concluiu que a polícia devia ter parado a operação depois da primeira e afastou a legítima defesa em quatro das mortes.
+
+## Depois da câmara
+
+Marinovich combinou depois a fotografia com o cinema, a escrita e o ensino, e é diretor de conteúdos da The Stand, uma agência fotográfica multiplataforma. Ensina na Boston University e escreveu para a Nieman Reports, a publicação de jornalismo de Harvard.
+
+## Onde ver a obra
+
+A Constitutional Court Art Collection, em Joanesburgo, conta Marinovich entre os seus artistas, e as coleções digitais Ibali da Universidade da Cidade do Cabo incluem uma Greg Marinovich Photographic Collection. Consulte cada sítio para saber o que está em linha e o que pode ser consultado presencialmente.
 
 ## Ver também
 

@@ -19,15 +19,23 @@ En París descubrió tanto la escultura moderna europea como las colecciones de 
 
 ## El despertar de Egipto
 
-En 1919, Egipto se alzó en revolución contra el dominio británico. En París, Mokhtar hizo la maqueta de una escultura a la que llamó *El despertar de Egipto* (*Nahdet Misr*): una joven campesina que se levanta el velo con una mano mientras apoya la otra en la cabeza de una esfinge que se pone en pie. Se expuso en el Salón de París en 1920, y el líder nacionalista Saad Zaghloul y la prensa egipcia la adoptaron como imagen del renacer de la nación.
+En 1919, Egipto se alza en revolución contra el dominio británico. En París, Mokhtar hizo la maqueta de una escultura que llamó *El despertar de Egipto* (*Nahdet Misr*): una joven campesina que se levanta el velo con una mano, mientras la otra descansa sobre la cabeza de una esfinge que se pone en pie. La maqueta se mostró en el Salon des Artistes Français de París en 1920, y el líder nacionalista Saad Zaghloul y la prensa egipcia la adoptaron como imagen del renacer de la nación. Su título pertenece al lenguaje de la *Nahda*, la idea de un renacimiento cultural y nacional egipcio, y el descubrimiento de la tumba de Tutankamón en 1922, cuando Egipto obtenía una forma de independencia política, alimentó la imaginería faraónica que usaban los nacionalistas.
 
-Se abrió una suscripción pública para hacerla a tamaño monumental en granito de Asuán, la primera estatua monumental en Egipto en siglos. Tras años de trabajo y retrasos políticos, se inauguró en El Cairo en 1928, en la plaza frente a la estación principal de ferrocarril. En 1955 se trasladó a la avenida que lleva a la Universidad de El Cairo, donde sigue hoy.
+Se abrió una suscripción pública para hacerla a tamaño real en granito de Asuán, la primera estatua monumental de Egipto en siglos. Tras años de trabajo y de retrasos políticos, se inauguró el 20 de mayo de 1928 en la plaza Bab el-Hadid, frente a la estación central de El Cairo. En 1955 se trasladó al recinto de la Universidad de El Cairo.
 
 ## Campesinas y monumentos
 
 El otro gran tema de Mokhtar fue el campo egipcio. Sus pequeñas esculturas de *fellahat* —campesinas que llevan cántaros de agua, envueltas en sus mantos contra el viento o descansando junto al Nilo— tienen los volúmenes lisos y simplificados y la calma de las estatuas del antiguo Egipto. También hizo dos estatuas monumentales de Saad Zaghloul, para El Cairo y Alejandría, que se erigieron después de su muerte.
 
-Murió en El Cairo en 1934, con solo 43 años. Un museo en la isla de Guezira, en El Cairo, diseñado por el arquitecto Ramsés Wissa Wassef, conserva la mayor parte de su obra, y su tumba está en el jardín.
+Expuso esculturas de bronce, mármol y piedra en la galería Bernheim-Jeune de París en 1930, y murió de leucemia en marzo de 1934, a principios de la cuarentena. Un museo en la isla de Gezira, en El Cairo, diseñado por el arquitecto Ramses Wissa Wassef, está dedicado a su obra, y su tumba está dentro de él.
+
+## Cómo mirar a Mokhtar
+
+Tomemos *La novia del Nilo* (*Arous el-Nil*, 1929), una figura femenina arrodillada en piedra caliza de unos 148 centímetros de altura. El ensayo de Smarthistory sostiene que se lee como una cita directa del arte del antiguo Egipto enmarcada en el gusto Art Déco de 1929, y se pregunta si el desnudo arrodillado refleja una mirada orientalista o la agencia de una egipcia moderna. Vale la pena tener presentes ambas lecturas. La ficha del Centre Pompidou dice que la obra de Mokhtar quería fundir referencias a los mitos del antiguo Egipto con las invenciones formales de la escultura europea moderna, y el Estado francés adquirió la pieza en 1930. Mire a sus campesinas del mismo modo: *Al-Khamaseen* (1929) muestra a una *fellaha* que avanza contra las tormentas de arena.
+
+## Dónde ver la obra
+
+El Museo Mahmoud Mokhtar, en la isla de Gezira, está dedicado a su obra, y *El despertar de Egipto* se alza en la Universidad de El Cairo. *La novia del Nilo* pertenece a la colección del Centre Pompidou, en París; consulte el sitio del museo para saber si está expuesta.
 
 ## Legado
 

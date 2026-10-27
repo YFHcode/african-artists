@@ -14,7 +14,7 @@ facts:
 ---
 ## Nairobi e Nova Iorque
 
-Wangechi Mutu nasceu em Nairobi em 1972. Mudou-se para Nova Iorque no início dos anos 1990, estudou na New School e na Parsons e depois na The Cooper Union, onde concluiu um BFA em 1996. Seguiu para Yale com uma bolsa de escultura e terminou um MFA em 2000. Trabalha hoje entre Nairobi e Nova Iorque.
+Wangechi Mutu nasceu em Nairobi em 1972. Deixou o Quénia para terminar a escola no United World College of the Atlantic, no País de Gales, onde se formou em 1991, e depois mudou-se para Nova Iorque, estudou na New School e na Parsons e, a seguir, na Cooper Union, onde concluiu um BFA em 1996. Seguiu para Yale com uma bolsa de escultura e terminou um MFA em 2000. Trabalha hoje entre Nairobi e Nova Iorque.
 
 ## As colagens
 
@@ -22,17 +22,21 @@ Mutu tornou-se conhecida nos anos 2000 com colagens de figuras femininas montada
 
 O método é o argumento. As imagens de mulheres, e de mulheres africanas em particular, foram durante muito tempo recortadas e recompostas por revistas, museus e pela ciência. Mutu faz ela própria o recorte e constrói figuras poderosas em vez de expostas.
 
+Como olhar para uma colagem de Mutu: pergunte de onde vem cada parte. Revistas de moda e de estilo de vida, ilustrações médicas e anatómicas, fotografias de motas e de fauna fornecem peças, de modo que um membro de uma fonte se junta a um torso de outra e a figura nunca se fixa num só corpo. Que partes são moda, quais são ciência e quais são paisagem, e o que muda quando são um só corpo? Em 2013, uma retrospetiva, *A Fantastic Journey*, abriu no Nasher Museum of Art da Universidade de Duke e viajou para o Brooklyn Museum.
+
 ## Para a escultura
 
 Nos últimos quinze anos a escultura ganhou mais espaço no seu trabalho: figuras em bronze, mas também em terra, madeira, pasta de papel e outros materiais naturais, muitas vezes feitas no seu ateliê de Nairobi. Várias tratam da água, da terra e da relação entre as pessoas e o ambiente na África Oriental.
 
 ## A fachada do Met, 2019
 
-Em setembro de 2019 o Metropolitan Museum of Art de Nova Iorque apresentou *The NewOnes, will free Us*: quatro figuras femininas sentadas, em bronze, instaladas nos nichos da fachada da Quinta Avenida, vazios desde a conclusão do edifício. Foi a primeira encomenda de uma nova série anual para a fachada e esteve patente até janeiro de 2020.
+Em setembro de 2019, o Metropolitan Museum of Art de Nova Iorque apresentou *The NewOnes, will free Us*: quatro esculturas em bronze, intituladas *The Seated I* a *IV*, instaladas nos nichos da sua fachada da Quinta Avenida, que estavam vazios desde que o edifício foi concluído. Foi a primeira encomenda de uma nova série anual para a fachada, concebida por Mutu com Sheena Wagstaff, responsável pela arte moderna e contemporânea do museu, e a curadora do projeto Kelly Baum. Ficou em exposição em 2020; as páginas do museu dão duas datas de encerramento diferentes, em junho e em novembro.
+
+As figuras retomam a cariátide, o suporte arquitetónico em forma de figura quase sempre feminina. As mulheres de Mutu estão sentadas, majestosas ou ajoelhadas: guardiãs do portão do museu. O sítio do Met regista a encomenda e as encomendas de fachada que se seguiram.
 
 ## Intertwined
 
-Em 2023 o New Museum de Nova Iorque dedicou-lhe todo o edifício com *Intertwined*, uma exposição de mais de cem obras — pintura, colagem, desenho, escultura e filme — patente de março a junho.
+Em 2023, o New Museum de Nova Iorque cedeu-lhe todo o seu edifício para *Intertwined*, uma retrospetiva com mais de cem obras de pintura, colagem, desenho, escultura e cinema, de 2 de março a 4 de junho. Foi a primeira vez que o museu dedicou todo o edifício a um só artista. Antes, a sua exposição *Nguva na Nyoka* na galeria Victoria Miro, em Londres, em 2012, incluía um vídeo, *Nguva*, em que uma criatura marinha vem a terra.
 
 ## Artistas relacionadas
 

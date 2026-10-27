@@ -34,4 +34,4 @@ facts:
 
 ## انظر أيضًا
 
-يقف عمل غولدبلات إلى جانب أعمال [إرنست كول](/artists/ernest-cole) و[بيتر ماغوباني](/artists/peter-magubane). اقرأ [التصوير الفوتوغرافي الأفريقي](/art-forms/african-photography) وانظر قائمتنا عن [المصوّرين الأفارقة](/artists/medium/photographers).
+يقف عمل غولدبلات إلى جانب أعمال [إرنست كول](/artists/ernest-cole) و[بيتر ماغوباني](/artists/peter-magubane). اقرأ [التصوير الفوتوغرافي الأفريقي](/art-forms/african-photography) وانظر قائمتنا عن [المصوّرين الأفارقة](/artists/medium/photographers). ولنظرة مختلفة إلى جنوب أفريقيا البيضاء، انظر [روجر بالين](/artists/roger-ballen).

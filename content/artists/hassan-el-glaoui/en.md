@@ -15,7 +15,7 @@ facts:
 
 Hassan El Glaoui was born in Marrakech in 1923, one of the sons of Thami El Glaoui, the Pasha of Marrakech. The Pasha was one of the most powerful men in Morocco under the French protectorate, an ally of France who received world leaders in his palaces. His son was expected to study law or go into politics, not to paint.
 
-As a boy Hassan was given a pony, and horses became the great subject of his life. He drew constantly.
+As a boy Hassan was given a pony, and horses became one of the great subjects of his life. He drew constantly.
 
 ## Churchill's word
 
@@ -27,9 +27,15 @@ He held his first solo exhibition in Paris in 1950, followed by New York in 1951
 
 ## Horses and the fantasia
 
-El Glaoui painted horses all his life: the royal guard on parade, riders at rest, and above all the fantasia (*tbourida*), the traditional display in which a line of horsemen charges at full gallop and fires its rifles at the same moment. His style is figurative and lively, with quick, rhythmic brushwork that catches movement, dust and colour. He also painted portraits and still lifes.
+El Glaoui painted horses throughout his career: the royal guard on parade, riders at rest, and above all the fantasia (*tbourida*), the traditional display in which a line of horsemen charges at full gallop and fires its rifles at the same moment. His style is figurative and lively, with quick, rhythmic brushwork that catches movement, dust and colour. He also painted portraits and still lifes. His daughter Touria El Glaoui has said that he often depicted the ancient Berber equestrian traditions that are still alive in Morocco today.
 
-His work stood apart from the abstraction of the [Casablanca School](/movements/casablanca-school), but it was hugely popular, and it hangs in the Royal Palace collection in Fez and the Parliament in Rabat. He died in Rabat in 2018, aged 94. His daughter Touria El Glaoui founded 1-54, the contemporary African art fair (see [African art fairs and biennales](/guides/african-art-fairs-and-biennales)).
+How to look at an El Glaoui: the fantasia is a drill of timing, a line of riders charging together and firing at the same moment, and the pictures are about that coordination. Look for the line of riders, the dust and the places where the brushwork quickens to carry the movement.
+
+His work stood apart from the abstraction of the [Casablanca School](/movements/casablanca-school), but it was hugely popular, and it hangs in the Royal Palace collection in Fez and the Parliament in Rabat. He took part in the 1957 Alexandria Biennale and in the 1963 Paris exhibition *Deux mille ans d'art au Maroc*.
+
+## Retrospectives
+
+Morocco has honoured him with several shows: *60 ans de peinture*, a retrospective at the Actua art space of the Attijariwafa bank in Casablanca in 2010, sixty years after his first solo show in Paris; an exhibition of more than fifty works at Galerie Memoarts in Casablanca in 2014, half from a private collection and half for sale; and *Sel de ma Terre*, curated by Touria El Glaoui at the Mohammed VI Museum of Modern and Contemporary Art in Rabat from 2 April to 31 August 2019. The Rabat show, arranged by period and theme, brought together about a hundred works over seven decades, and it was a chance to see what the horse paintings had hidden: portraits of women, still lifes, interiors and a self-portrait of 1940, most of them little known to the public. One account stresses that the horses and the fantasia came later in his career and that he rejected the label of "painter of horses". The Rabat museum is the best place to start for his work in a public collection; check what is on view now. He died in Rabat in 2018, aged 94. His daughter Touria El Glaoui founded 1-54, the contemporary African art fair (see [African art fairs and biennales](/guides/african-art-fairs-and-biennales)).
 
 ## See also
 

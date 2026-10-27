@@ -73,6 +73,16 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
         ],
         alsoRevised: [],
     },
+    {
+        // Batch 3. Roger Ballen was promoted to a full profile and linked from three articles. Sani Maikatanga
+        // stays short: the sources ran out at about 300 words. Set the date again on release.
+        date: '2026-10-27',
+        expanded: [
+            'mahmoud-mokhtar', 'esther-mahlangu', 'greg-marinovich', 'wangechi-mutu', 'mohamed-amin', 'yto-barrada',
+            'ernest-cole', 'hassan-el-glaoui', 'chaibia-talal', 'sani-maikatanga', 'roger-ballen',
+        ],
+        alsoRevised: ['artists/david-goldblatt', 'regions/southern-africa', 'art-forms/african-photography'],
+    },
 ];
 
 /**

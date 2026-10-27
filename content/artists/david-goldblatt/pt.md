@@ -34,4 +34,4 @@ O Museum of Modern Art de Nova Iorque dedicou-lhe uma exposição individual em 
 
 ## Ver também
 
-A obra de Goldblatt está ao lado da de [Ernest Cole](/artists/ernest-cole) e de [Peter Magubane](/artists/peter-magubane). Leia a [fotografia africana](/art-forms/african-photography) e veja a nossa lista de [fotógrafos sul-africanos](/artists/country/south-africa/photographers).
+A obra de Goldblatt está ao lado da de [Ernest Cole](/artists/ernest-cole) e de [Peter Magubane](/artists/peter-magubane). Leia a [fotografia africana](/art-forms/african-photography) e veja a nossa lista de [fotógrafos sul-africanos](/artists/country/south-africa/photographers). Para outro olhar sobre a África do Sul branca, veja [Roger Ballen](/artists/roger-ballen).

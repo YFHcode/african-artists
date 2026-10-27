@@ -2,7 +2,7 @@
 
 **Status: approved 27 October 2026, with 600+ and 300+ words as the targets. Batch 0 done; batch 1
 (the pilot) live on 27 October 2026; its four-week check is due on 24 November 2026. Batch 2 is
-written and tested but not published: it waits for that check.** Word counts are for the English pages as of that date; yearly views are
+written and tested but not published: it waits for that check. Batch 3 is in the same state.** Word counts are for the English pages as of that date; yearly views are
 from the first data run (October 2025 – September 2026, five Wikipedias).
 
 ## The two problems
@@ -135,6 +135,18 @@ below.
 
 **Batch 3.** Mahmoud Mokhtar, Esther Mahlangu, Greg Marinovich, Wangechi Mutu, Mohamed Amin, Yto
 Barrada, Ernest Cole, Hassan El Glaoui, Chaïbia Talal, Sani Maikatanga†, Roger Ballen†.
+
+Written 27 October 2026 on the branch `batch-3-profiles` (built on `batch-2-profiles`), not on `main`.
+Nine were already full profiles and now run 603–679 words in English. Roger Ballen was promoted to a
+full profile (611 words, hand-written facts in five languages, linked from David Goldblatt, Southern
+Africa and African photography). Sani Maikatanga stays short at 314 words: the only independent
+coverage is the 2022 Global Landscapes Forum prize and the Argungu festival, and a full profile would
+have needed padding. The source check corrected older pages: Mohamed Amin's page said his sound
+recordist was killed in the 1991 blast (no source says so; removed); Greg Marinovich's Pulitzer
+pictures were taken at the Nancefield hostel in Soweto in 1990; Ernest Cole's birthplace is Pretoria,
+not Eastwood; Wangechi Mutu's Met facade commission ran into 2020, not to January 2020; Roger Ballen
+has lived in Johannesburg since 1982, not "since the 1970s"; and Esther Mahlangu's Rolls-Royce
+collaboration and "school at her home" rest on single sources and were removed.
 
 **Batch 4.** Ousmane Sow, Ben Enwonwu, Austin Stevens†, Magdalene Odundo, Laetitia Ky†, Otobong
 Nkanga, Irma Stern, Khadija Saye†, Sam Nzima, Ibrahim El-Salahi, Mahmoud Saïd.

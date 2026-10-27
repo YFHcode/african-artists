@@ -44,4 +44,4 @@ facts:
 
 ## تابع القراءة
 
-التصوير في صميم [الفن الأفريقي المعاصر](/guides/contemporary-african-art). وابدأ بسيرتي [سيدو كيتا](/artists/seydou-keita) و[مالك سيديبي](/artists/malick-sidibe). وتصفّح قائمتنا عن [المصوّرين الأفارقة](/artists/medium/photographers).
+التصوير في صميم [الفن الأفريقي المعاصر](/guides/contemporary-african-art). وابدأ بسيرتي [سيدو كيتا](/artists/seydou-keita) و[مالك سيديبي](/artists/malick-sidibe). وتصفّح قائمتنا عن [المصوّرين الأفارقة](/artists/medium/photographers). ولفضاءات داخلية مدبَّرة مقلقة، انظر [روجر بالين](/artists/roger-ballen).

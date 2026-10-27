@@ -19,15 +19,23 @@ Em Paris descobriu tanto a escultura moderna europeia como as coleções de arte
 
 ## O Despertar do Egito
 
-Em 1919, o Egito revoltou-se contra o domínio britânico. Em Paris, Mokhtar fez a maqueta de uma escultura a que chamou *O Despertar do Egito* (*Nahdet Misr*): uma jovem camponesa que levanta o véu com uma mão, enquanto pousa a outra na cabeça de uma esfinge que se põe de pé. Foi exposta no Salão de Paris em 1920, e o líder nacionalista Saad Zaghloul e a imprensa egípcia adotaram-na como imagem do renascimento da nação.
+Em 1919, o Egito levanta-se em revolução contra o domínio britânico. Em Paris, Mokhtar fez a maqueta de uma escultura a que chamou *O Despertar do Egito* (*Nahdet Misr*): uma jovem camponesa que levanta o véu com uma mão, enquanto a outra repousa na cabeça de uma esfinge que se ergue. A maqueta foi mostrada no Salon des Artistes Français, em Paris, em 1920, e o líder nacionalista Saad Zaghloul e a imprensa egípcia adotaram-na como imagem do renascimento da nação. O título pertence à linguagem da *Nahda*, a ideia de um renascimento cultural e nacional egípcio, e a descoberta do túmulo de Tutankhamon em 1922, quando o Egito obtinha uma forma de independência política, alimentou o imaginário faraónico que os nacionalistas usavam.
 
-Abriu-se uma subscrição pública para a fazer em tamanho monumental em granito de Assuão — a primeira estátua monumental no Egito em séculos. Depois de anos de trabalho e de atrasos políticos, foi inaugurada no Cairo em 1928, na praça em frente à estação ferroviária principal. Em 1955 foi transferida para a avenida que conduz à Universidade do Cairo, onde ainda se encontra.
+Abriu-se uma subscrição pública para a fazer em tamanho real, em granito de Assuão, a primeira estátua monumental do Egito em séculos. Depois de anos de trabalho e de atrasos políticos, foi inaugurada a 20 de maio de 1928 na praça Bab el-Hadid, em frente à estação central do Cairo. Em 1955 foi transferida para o recinto da Universidade do Cairo.
 
 ## Camponesas e monumentos
 
 O outro grande tema de Mokhtar foi o campo egípcio. As suas pequenas esculturas de *fellahat* — camponesas a carregar cântaros de água, envoltas nos mantos contra o vento ou a descansar junto ao Nilo — têm os volumes lisos e simplificados e a calma das estátuas do antigo Egito. Fez também duas estátuas monumentais de Saad Zaghloul, para o Cairo e Alexandria, erguidas depois da sua morte.
 
-Morreu no Cairo em 1934, com apenas 43 anos. Um museu na ilha de Gezira, no Cairo, projetado pelo arquiteto Ramsés Wissa Wassef, guarda a maior parte da sua obra, e o seu túmulo está no jardim.
+Expôs esculturas em bronze, mármore e pedra na galeria Bernheim-Jeune, em Paris, em 1930, e morreu de leucemia em março de 1934, no início da casa dos quarenta. Um museu na ilha de Gezira, no Cairo, projetado pelo arquiteto Ramses Wissa Wassef, é dedicado à sua obra, e o seu túmulo está lá dentro.
+
+## Como olhar para um Mokhtar
+
+Tome-se *A Noiva do Nilo* (*Arous el-Nil*, 1929), uma figura feminina ajoelhada em calcário com cerca de 148 centímetros de altura. O ensaio da Smarthistory defende que se lê como uma citação direta da arte do antigo Egito, enquadrada no gosto Art Déco de 1929, e pergunta se o nu ajoelhado reflete um olhar orientalista ou a capacidade de ação de uma egípcia moderna. Vale a pena ter ambas as leituras presentes. A ficha do Centre Pompidou diz que a obra de Mokhtar pretendia fundir referências aos mitos do antigo Egito com as invenções formais da escultura europeia moderna, e o Estado francês adquiriu a peça em 1930. Olhe para as suas camponesas do mesmo modo: *Al-Khamaseen* (1929) mostra uma *fellaha* que avança contra as tempestades de areia.
+
+## Onde ver a obra
+
+O Museu Mahmoud Mokhtar, na ilha de Gezira, é dedicado à sua obra, e *O Despertar do Egito* ergue-se na Universidade do Cairo. *A Noiva do Nilo* faz parte da coleção do Centre Pompidou, em Paris; consulte o sítio do museu para saber se está exposta.
 
 ## Legado
 

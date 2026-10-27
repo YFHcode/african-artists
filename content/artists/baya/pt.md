@@ -16,11 +16,11 @@ facts:
 
 Baya nasceu Fatma Haddad em 1931 em Bordj El Kiffan, a leste de Argel. Perdeu cedo os pais e, ainda menina, foi trabalhar para a casa de Marguerite Caminat Benhoura, uma francesa de Argel que a viu modelar figuras de barro e pintar e lhe deu materiais e espaço.
 
-Em 1947 o marchand parisiense Aimé Maeght conheceu o seu trabalho e ofereceu-lhe uma exposição individual na sua galeria. André Breton, líder do surrealismo, escreveu o prefácio do catálogo. Baya tinha acabado de fazer dezasseis anos.
+Em 1947 o marchand parisiense Aimé Maeght conheceu o seu trabalho e ofereceu-lhe uma exposição individual na sua galeria. André Breton, líder do surrealismo, escreveu o prefácio do catálogo. Baya tinha acabado de fazer dezasseis anos. A revista de Maeght, *Derrière le Miroir*, dedicou-lhe o sexto número, datado de novembro de 1947, com um texto de Breton, pelo que a sua obra chegou ao mundo da arte parisiense como publicação além de como exposição.
 
 ## Vallauris
 
-Em 1948 trabalhou na olaria Madoura, em Vallauris, no sul de França, onde Pablo Picasso fazia cerâmica na mesma altura. Os dois conheceram-se ali, e muitos autores viram um diálogo entre a obra de Baya e as pinturas de mulheres argelinas que Picasso fez nos anos seguintes.
+Em 1948 trabalhou na olaria Madoura, em Vallauris, no sul de França, onde Pablo Picasso fazia cerâmica na mesma altura. Os dois conheceram-se ali, e muitos autores viram um diálogo entre a obra de Baya e as pinturas de mulheres argelinas que Picasso fez nos anos seguintes. Uma exposição de 2013 em Vallauris reuniu cerca de trinta das suas primeiras guaches e cerâmicas, provenientes do acervo da Fundação Maeght.
 
 ## Mulheres, pássaros e jardins
 
@@ -28,13 +28,17 @@ O mundo de Baya é feito de mulheres com longos vestidos estampados, rodeadas de
 
 Nos anos 1940 a crítica chamava-lhe pintora «naïf» ou surrealista. Ela não aceitou nenhum dos rótulos. Hoje a obra é lida como uma visão independente e profundamente argelina: um mundo interior imaginado, pintado com total confiança.
 
+## Como olhar para uma Baya
+
+Comece pela superfície. As guaches estão pintadas sobre papel em cores planas e opacas, pelo que nada recua: o vestido de uma mulher, o pássaro na sua mão e o alaúde a seu lado ocupam o mesmo plano e disputam o olhar em pé de igualdade. Siga os padrões. As bordas dos vestidos, as penas e as cordas dos instrumentos repetem poucas formas em cores diferentes, o que dá ritmo aos quadros. Depois repare no que falta: perspetiva, sombra e, quase sempre, homens. As cerâmicas que fez em Vallauris, como uma mulher reclinada em terracota esmaltada, levam as mesmas mulheres para o barro. Vista assim, a obra parece menos ingénua do que composta, a de uma pintora que sabia exatamente quanto queria deixar de fora.
+
 ## Silêncio e regresso
 
-Em 1953 Baya casou com o músico El Hadj Mahfoud Mahieddine e deixou praticamente de pintar durante cerca de uma década, criando os filhos em Blida durante a guerra da independência argelina. Voltou a pintar nos anos 1960, depois da independência, e expôs na Argélia e no estrangeiro até morrer em Blida, em 1998.
+Em 1953 Baya casou com o músico El Hadj Mahfoud Mahieddine e deixou praticamente de pintar durante cerca de uma década, criando os filhos em Blida durante a guerra da independência argelina. Voltou a pintar em 1963, depois da independência. Nesse ano expôs no Museu Nacional de Belas-Artes de Argel, incentivada pelo seu diretor Jean de Maisonseul, e em 1964 expôs em Paris. Continuou a expor na Argélia e no estrangeiro até morrer em Blida, em 1998.
 
 ## Redescoberta
 
-Exposições recentes voltaram a pôr a sua obra em destaque, entre elas *Baya: Woman of Algiers*, na Grey Art Gallery da Universidade de Nova Iorque, em 2018, e a sua presença na exposição principal da Bienal de Veneza de 2022, *O Leite dos Sonhos*.
+Exposições recentes voltaram a pôr a sua obra em destaque, entre elas *Baya: Woman of Algiers*, na Grey Art Gallery da Universidade de Nova Iorque, em 2018, e a sua presença na exposição principal da Bienal de Veneza de 2022, *O Leite dos Sonhos*. O Sharjah Art Museum apresentou *Lasting Impressions: Baya Mahieddine* em 2021, e o Institut du monde arabe, em Paris, mostrou a sua obra de novembro de 2022 a março de 2023 na exposição sobre a Argélia. Em dezembro de 2022, a Biblioteca Nacional do Catar, com o Mathaf, apresentou dezoito das suas pinturas de coleções catarianas. São estes os museus a consultar primeiro se quiser ver a sua obra ao vivo.
 
 ## Artistas e música relacionados
 

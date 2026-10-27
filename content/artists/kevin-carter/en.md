@@ -24,17 +24,21 @@ Between Nelson Mandela's release in 1990 and the first democratic election in Ap
 
 In March 1993 Carter and Silva flew into southern Sudan, then in the grip of war and famine, with a United Nations relief operation. Near the village of Ayod, Carter photographed a small, emaciated child who had collapsed on the ground on the way to a feeding centre, with a vulture standing a few metres behind.
 
-*The New York Times* published the picture on 26 March 1993. Readers wrote in to ask what had happened to the child, and the paper added a note saying the child had had the strength to walk away from the vulture but that its fate was unknown. Years later, reporting by the Spanish newspaper *El Mundo* identified the child as a boy who survived that famine and died some years afterwards.
+*The New York Times* published the picture on 26 March 1993. Readers wrote in to ask what had happened to the child, and on 30 March the paper added a note: the photographer reported that the child had recovered enough to resume the walk to the feeding centre once the vulture was chased away, but it was not known whether she had reached it. The Times had taken the child for a girl. In 2011 Spanish press reporting, drawing on the child's father, said it was a boy named Kong Nyong, who was cared for at the feeding station and who his family said died of a fever around 2007. That account rests on the family's word and has not been independently confirmed.
 
 ## The Pulitzer and the debate
 
-In April 1994 the photograph won the Pulitzer Prize for Feature Photography. It also made Carter the target of fierce criticism: people asked why he had taken the picture rather than help the child. Carter said he had waited for the bird to spread its wings, taken the photograph and chased the vulture away. The questions the image raises, about what photographers owe the people they photograph and what audiences owe the images they consume, are still taught in journalism schools.
+The photograph won the Pulitzer Prize for Feature Photography, announced on 12 April 1994. The Pulitzer Prizes' own record lists Carter as a freelance photographer and the picture as one first published in *The New York Times*. The photograph also made Carter the target of fierce criticism. Within two days a column in the *St. Petersburg Times* was asking, in its headline, whether his priorities were out of focus, and people asked why he had taken the picture rather than help the child. Carter said he had waited for the bird to spread its wings, taken the photograph and chased the vulture away. The questions the image raises, about what photographers owe the people they photograph and what audiences owe the images they consume, are still taught in journalism schools.
 
 ## His death
 
 Six days after the prize was announced, on 18 April 1994, Oosterbroek was killed and Marinovich badly wounded in a firefight in the township of Thokoza. Carter, who had struggled for years with depression and with what he had witnessed, died by suicide in Johannesburg on 27 July 1994. He was 33.
 
 If you are struggling, please talk to someone: a local crisis line, a doctor or a person you trust.
+
+## Looking at the picture today
+
+The photograph asks to be read as part of a longer record. Famine pictures from the continent had reached Western audiences before, most famously Mohamed Amin's film from Ethiopia in 1984, which led to Band Aid and Live Aid; compare [Mohamed Amin](/artists/mohamed-amin). What set Carter's picture apart was that it put the photographer's own choices on trial. When you look at it, notice what the frame leaves out as well as what it holds: nothing in it names the place, the cause of the famine or the people trying to help, so every caption, including the Times's note, was doing work the image could not. The Pulitzer Prizes' website records the award and the citation.
 
 ## Legacy
 

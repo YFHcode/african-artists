@@ -9,11 +9,11 @@ facts:
   - Nacimiento | 3 de agosto de 1953, Ciudad del Cabo, Sudáfrica
   - Vive en | Ámsterdam, Países Bajos (desde 1976)
   - Conocida por | Retratos y figuras pintados a partir de fotografías, al óleo y con aguada de tinta
-  - Grandes exposiciones | Bienal de Venecia, pabellón neerlandés (1995); MoMA, Nueva York (2008); Tate Modern, Londres (2015)
+  - Grandes exposiciones | Bienal de Venecia, pabellón neerlandés (1995); MoMA, Nueva York (2008-2009); Tate Modern, Londres (2015)
 ---
 ## De Kuils River a Ámsterdam
 
-Marlene Dumas nació en Ciudad del Cabo en 1953 y creció en una finca vinícola en Kuils River, cerca de la ciudad. Estudió arte en la Universidad de Ciudad del Cabo en los años setenta, bajo el apartheid, y en 1976 se marchó a los Países Bajos con una beca para los Ateliers '63 de Haarlem. Vive desde entonces en Ámsterdam, pero Sudáfrica —su política, sus categorías raciales, su violencia— nunca ha abandonado su obra.
+Marlene Dumas nació en Ciudad del Cabo en 1953 y creció en una finca vinícola en Kuils River, cerca de la ciudad. Estudió arte en la Universidad de Ciudad del Cabo de 1972 a 1975, bajo el apartheid, y en 1976 se marchó a los Países Bajos con una beca para los Ateliers '63 de Haarlem, donde trabajó hasta 1978. Vive en Ámsterdam desde entonces, pero Sudáfrica —su política, sus categorías raciales, su violencia— nunca ha abandonado su obra.
 
 ## Pintar a partir de fotografías
 
@@ -21,9 +21,19 @@ Dumas casi nunca pinta del natural. Trabaja con fotografías: imágenes de peri�
 
 Entre sus obras más conocidas están *The Painter* (1994), retrato de su hija pequeña con las manos manchadas de pintura, y grandes series de cabezas y figuras: niños, modelos, muertos, presos políticos y terroristas, Cristo, su madre. Sus temas son los de la actualidad y los de la vida privada, y se niega a separarlos.
 
+Cómo mirar un Dumas: tome en serio los títulos, porque forman parte de la obra, y lea la pintura como un registro de velocidad. Las capas finas y húmedas hacen que un rostro pueda ser nítido en un punto y disolverse en otro, como si la imagen aún estuviera llegando o ya se estuviera desvaneciendo. Críticos de su exposición en la Tate escribieron que recupera cuerpos anónimos de las imágenes mediáticas de las que parte; es una buena pregunta para cada cuadro: quién es esta persona y quién hizo primero la fotografía de la que parte. *Black Drawings* (1991-1992), mostrada en la Tate, lo plantea a escala de muro: una serie de rostros hoscos, símbolos y marcas que cubre una pared de la galería.
+
+Sus años de estudiante en Ciudad del Cabo y su carrera en Ámsterdam dan a su obra una doble posición: una pintora nacida en Sudáfrica que ha pasado la mayor parte de su vida en Europa y que no deja de preguntar quién mira, quién es mirado y quién tiene derecho a pintar a otra persona. Esa lectura es de este sitio, no una afirmación de la artista.
+
 ## Reconocimiento
 
-Dumas representó a los Países Bajos en la Bienal de Venecia de 1995. Su retrospectiva *Measuring Your Own Grave* se presentó en el Museum of Contemporary Art de Los Ángeles y en el Museum of Modern Art de Nueva York en 2008, y *The Image as Burden* en la Tate Modern de Londres en 2015. En 2008 su cuadro *The Visitor* se vendió en subasta por más de tres millones de libras, entonces un récord para una artista viva.
+Dumas representó a los Países Bajos en la Bienal de Venecia de 1995. Su retrospectiva *Measuring Your Own Grave* se inauguró en el Museum of Contemporary Art de Los Ángeles en junio de 2008, pasó al Museum of Modern Art de Nueva York en diciembre de 2008 y después al Menil Collection de Houston en 2009. *The Image as Burden*, cuyo título procede de una obra de 1993, se inauguró en el Stedelijk Museum de Ámsterdam en 2014 y luego fue a la Tate Modern de Londres y a la Fondation Beyeler, cerca de Basilea, en 2015. En 2022-2023, el Palazzo Grassi de Venecia dedicó a la artista una gran exposición individual, *Open End*, del 27 de marzo de 2022 al 8 de enero de 2023.
+
+Sus precios la han seguido. En Sotheby's de Londres, el 1 de julio de 2008, su cuadro *The Visitor* (1995) se vendió por 3,18 millones de libras, entonces un récord para una artista viva. En mayo de 2025, *Miss January* (1997) se vendió en Christie's de Nueva York por 13,63 millones de dólares, el precio más alto pagado hasta hoy por uno de sus cuadros.
+
+## Dónde ver la obra
+
+Los museos que han organizado sus retrospectivas, el Stedelijk de Ámsterdam, la Tate Modern, la Fondation Beyeler y el Palazzo Grassi, son los mejores puntos de partida; consulte sus páginas de colección para saber qué se expone, porque las obras sobre papel solo se muestran durante periodos breves.
 
 ## Vea también
 

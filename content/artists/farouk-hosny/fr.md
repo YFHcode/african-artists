@@ -17,17 +17,23 @@ Farouk Hosny est né à Alexandrie en 1938 et a grandi dans cette ville, au bord
 
 ## Paris et Rome
 
-Plutôt que d'enseigner ou de vivre seulement de sa peinture, il est entré dans l'administration culturelle. Il a travaillé au centre culturel égyptien de Paris dans les années 1970, une décennie qui l'a mis en contact avec l'art abstrait européen, puis il a dirigé l'Académie d'Égypte à Rome. Dans les deux villes, il a continué à peindre et à exposer.
+Plutôt que d'enseigner ou de vivre seulement de sa peinture, il est entré dans l'administration culturelle. Après son diplôme, il a dirigé le palais de la culture Al-Anfoushy à Alexandrie de 1969 à 1971, puis travaillé au centre culturel égyptien de Paris dans les années 1970, une décennie qui l'a mis en contact avec l'art abstrait européen. En 1979, il est parti à Rome comme sous-directeur puis directeur de l'Académie d'Égypte. Dans les deux villes, il a continué à peindre et à montrer son travail, et son style est passé de l'expressionnisme vers l'abstraction.
 
 ## Ministre de la Culture
 
 En 1987, le président Hosni Moubarak l'a nommé ministre de la Culture, poste qu'il a occupé jusqu'à la révolution de 2011 — près de vingt-quatre ans. Il a supervisé de grands projets, parmi lesquels la restauration du Caire islamique et du Grand Sphinx, la conception du Grand Musée égyptien, de nouveaux musées et un programme annuel d'expositions et de festivals. Il a confié au sculpteur [Adam Henein](/artists/adam-henein) la direction de l'équipe chargée de concevoir la restauration du Sphinx et a soutenu le symposium de sculpture d'Assouan fondé par Henein.
 
-Son passage au ministère a aussi été controversé : des critiques ont accusé le ministère de censure, et l'incendie d'un théâtre à Beni Suef en 2005, qui a fait des dizaines de morts, a provoqué des appels à sa démission. En 2009, il était le candidat de l'Égypte à la tête de l'UNESCO et passait pour le favori, mais une phrase prononcée au parlement sur le fait de brûler des livres israéliens, pour laquelle il s'est ensuite excusé, a retourné de nombreux pays contre lui. Il a perdu le vote final face à Irina Bokova, par 31 voix contre 27.
+Son passage au ministère a aussi été controversé : des critiques ont accusé le ministère de censure, et l'incendie d'un théâtre à Beni Suef en 2005, qui a fait des dizaines de morts, a provoqué des appels à sa démission. Il a présenté sa démission en septembre 2005, et le président Moubarak l'a rétabli dans ses fonctions quelques jours plus tard. En 2009, il était le candidat de l'Égypte à la tête de l'UNESCO et passait pour le favori, mais une phrase prononcée au parlement sur le fait de brûler des livres israéliens, pour laquelle il s'est ensuite excusé, a retourné de nombreux pays contre lui. Il a perdu le vote final face à Irina Bokova, par 31 voix contre 27.
 
 ## Le peintre
 
-Hosny s'est toujours présenté d'abord comme peintre. Ses toiles sont abstraites : de larges champs de couleur, des gestes et des textures, évoquant parfois la lumière, la mer ou le paysage, souvent dans des rouges, des bleus et des tons de terre intenses. Il a exposé en Égypte, en Europe, dans le monde arabe et en Asie, et ses œuvres figurent dans des musées en Égypte et à l'étranger.
+Hosny s'est toujours présenté d'abord comme peintre. Ses toiles sont abstraites : de larges champs de couleur, des gestes et des textures, évoquant parfois la lumière, la mer ou le paysage, souvent dans des rouges, des bleus et des tons de terre intenses. Une bonne porte d'entrée dans l'œuvre est une exposition à la Picasso Gallery de Zamalek, au Caire, d'une quarantaine de toiles dans lesquelles, selon la description d'Ahram Online, il traite les galaxies et l'espace ouvert comme un astronaute pourrait les voir ; les comptes rendus soulignent aussi la couleur vive et les fines marques calligraphiques qui construisent les toiles. Cherchez ces marques en parcourant la toile : les grands champs de couleur sont tenus ensemble par des lignes fines qui ressemblent à de l'écriture.
+
+Il avait montré un nouvel ensemble de toiles à la Zamalek Art Gallery, au Caire, en 2007, alors qu'il était encore ministre. Son travail a aussi été montré hors d'Égypte. En 1999, le Metropolitan Museum of Art de New York a associé ses peintures, une trentaine environ, à la sculpture d'Adam Henein dans une exposition d'art égyptien contemporain, et le Met a publié un catalogue, *Farouk Hosny / Adam Henein: Contemporary Egyptian Artists and Heirs to an Ancient Tradition*.
+
+## Où voir l'œuvre
+
+En janvier 2026, la Fondation Farouk Hosny pour la culture et les arts, qu'il a créée en 2019, a ouvert le Farouk Hosny Museum of Arts à Zamalek, au Caire. Il présente ses propres peintures et sa collection personnelle d'art égyptien et international, avec des œuvres de Mahmoud Saïd, d'Adam Henein et de Giorgio de Chirico, et possède une bibliothèque spécialisée. Consultez le site de la fondation pour les horaires d'ouverture.
 
 ## Voir aussi
 

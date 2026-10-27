@@ -24,17 +24,21 @@ Entre a libertação de Nelson Mandela, em 1990, e as primeiras eleições democ
 
 Em março de 1993, Carter e Silva viajaram para o sul do Sudão, então devastado pela guerra e pela fome, com uma operação humanitária das Nações Unidas. Perto da aldeia de Ayod, Carter fotografou uma criança pequena e emagrecida, caída no chão a caminho de um centro de alimentação, com um abutre pousado a poucos metros atrás.
 
-O *New York Times* publicou a fotografia a 26 de março de 1993. Os leitores perguntaram o que tinha acontecido à criança, e o jornal acrescentou uma nota: a criança tivera forças para se afastar do abutre, mas o seu destino era desconhecido. Anos mais tarde, uma investigação do diário espanhol *El Mundo* identificou a criança: um rapaz que sobreviveu àquela fome e morreu alguns anos depois.
+O *New York Times* publicou a fotografia a 26 de março de 1993. Os leitores perguntaram o que tinha acontecido à criança, e a 30 de março o jornal acrescentou uma nota: o fotógrafo informava que a criança recuperara forças para retomar o caminho até ao centro de alimentação depois de o abutre ser afugentado, mas não se sabia se lá chegara. O *Times* tomara a criança por uma menina. Em 2011, a imprensa espanhola, com base no testemunho do pai, afirmou tratar-se de um rapaz chamado Kong Nyong, tratado no centro de alimentação e morto, segundo a família, de uma febre por volta de 2007. Esse relato assenta na palavra da família e não foi confirmado de forma independente.
 
 ## O Pulitzer e o debate
 
-Em abril de 1994, a fotografia ganhou o Prémio Pulitzer de Fotografia de Reportagem. Valeu também a Carter críticas duras: porque fizera a fotografia em vez de ajudar a criança? Carter contou que esperou que a ave abrisse as asas, fez a imagem e afugentou o abutre. As perguntas que a imagem levanta — o que os fotógrafos devem às pessoas que fotografam e o que o público deve às imagens que consome — continuam a ser ensinadas nas escolas de jornalismo.
+A fotografia ganhou o Prémio Pulitzer de Fotografia de Reportagem, anunciado a 12 de abril de 1994. O registo oficial dos Pulitzer apresenta Carter como fotógrafo independente e a imagem como uma publicada primeiro no *New York Times*. Valeu também a Carter críticas duras. Em dois dias, uma coluna do *St. Petersburg Times* perguntava, logo no título, se as suas prioridades estariam desfocadas, e perguntava-se porque fizera a fotografia em vez de ajudar a criança. Carter contou que esperou que a ave abrisse as asas, fez a imagem e afugentou o abutre. As perguntas que a imagem levanta — o que os fotógrafos devem às pessoas que fotografam e o que o público deve às imagens que consome — continuam a ser ensinadas nas escolas de jornalismo.
 
 ## A sua morte
 
 Seis dias depois do anúncio do prémio, a 18 de abril de 1994, Oosterbroek foi morto e Marinovich gravemente ferido num tiroteio no township de Thokoza. Carter, que lutava há anos contra a depressão e contra o que tinha testemunhado, suicidou-se em Joanesburgo a 27 de julho de 1994. Tinha 33 anos.
 
 Se está a passar por um momento difícil, fale com alguém: uma linha de apoio, um médico ou uma pessoa de confiança.
+
+## Olhar a fotografia hoje
+
+A fotografia pede para ser lida num registo mais longo. Imagens de fomes no continente já tinham chegado ao público ocidental, a mais famosa o filme de Mohamed Amin sobre a Etiópia em 1984, que levou ao Band Aid e ao Live Aid; veja [Mohamed Amin](/artists/mohamed-amin). O que distinguiu a imagem de Carter foi pôr em julgamento as escolhas do próprio fotógrafo. Ao olhá-la, repare no que o enquadramento deixa de fora tanto como no que contém: nada nela nomeia o lugar, a causa da fome ou as pessoas que tentavam ajudar, de modo que cada legenda, incluindo a nota do *Times*, fazia um trabalho que a imagem não podia fazer. O sítio dos Prémios Pulitzer regista o prémio e a citação.
 
 ## Legado
 

@@ -22,7 +22,11 @@ Em 1975 entrou para o departamento de belas-artes e artes aplicadas da Universid
 
 Nas primeiras décadas de carreira, Anatsui trabalhou sobretudo a madeira e a cerâmica. Esculpia e queimava painéis e tabuleiros de madeira, muitas vezes com motosserra e maçarico, e fazia peças de cerâmica partidas e reconstruídas — formas que já falavam de fragmentos, memória e reparação.
 
-No final dos anos 1990 começou a trabalhar com as cápsulas de alumínio de garrafas de bebidas alcoólicas. Achatadas, dobradas, cortadas e unidas com fio de cobre, milhares delas formam uma única superfície que cai como um tecido. O material tem uma história própria: a bebida e o seu comércio atravessam a história do contacto entre a África Ocidental e a Europa, e os padrões lembram o [kente](/art-forms/kente-cloth) e outros tecidos tradicionais.
+No final dos anos 1990 começou a trabalhar com as cápsulas de alumínio de garrafas de bebidas alcoólicas. *Man's Cloth* e *Woman's Cloth*, feitas por volta de 2002 e hoje no British Museum, que o Art Fund ajudou a comprar, são descritas como as primeiras obras suas a usar cápsulas em vez de madeira; as cápsulas vinham do engarrafamento de bebidas alcoólicas no Gana e na Nigéria. Achatadas, dobradas, cortadas e unidas com fio de cobre, milhares delas formam uma única superfície que cai como um tecido. O material tem uma história própria: a bebida e o seu comércio atravessam a história do contacto entre a África Ocidental e a Europa, e os padrões lembram o [kente](/art-forms/kente-cloth) e outros tecidos tradicionais.
+
+## Como olhar para uma tapeçaria de cápsulas
+
+Afaste-se primeiro. Do outro lado de uma sala, a lâmina lê-se como um único tecido. Depois aproxime-se. Cada cápsula aplanada, torcida e dobrada está ligada às vizinhas com arame de cobre, e o tecido é feito de milhares delas. Nada é impresso nem pintado: a cor é a das próprias cápsulas.
 
 ## Porque é que as obras mudam de cada vez
 
@@ -32,11 +36,11 @@ As superfícies de metal não têm forma fixa. Anatsui deixa que curadores e mon
 
 A atenção internacional cresceu depressa nos anos 2000. Na Bienal de Veneza de 2007, as suas obras de metal foram suspensas na fachada do Palazzo Fortuny. Em 2015 a Bienal atribuiu-lhe o Leão de Ouro pela carreira, e em 2017 recebeu o Praemium Imperiale japonês.
 
-Uma retrospetiva itinerante, *El Anatsui: Triumphant Scale*, abriu na Haus der Kunst de Munique em 2019. De outubro de 2023 a abril de 2024, a sua Hyundai Commission *Behind the Red Moon* ocupou o Turbine Hall da Tate Modern, em Londres, com três esculturas monumentais feitas de cápsulas e fragmentos de metal.
+Em 2013, o Brooklyn Museum apresentou *Gravity and Grace: Monumental Works by El Anatsui*, de fevereiro a agosto, a primeira exposição individual da sua obra num museu de Nova Iorque; a exposição foi organizada pelo Akron Art Museum. Uma retrospetiva itinerante, *El Anatsui: Triumphant Scale*, abriu na Haus der Kunst de Munique em 2019. De outubro de 2023 a abril de 2024, a sua Hyundai Commission *Behind the Red Moon* ocupou o Turbine Hall da Tate Modern, em Londres, com três esculturas monumentais feitas de cápsulas e fragmentos de metal. Foi a oitava Hyundai Commission e a sua maior obra de interior até hoje, apresentada em três atos entre os quais os visitantes circulam; o primeiro, *The Red Moon*, é uma forma semelhante a uma vela que lembra os navios que atravessaram o Atlântico.
 
 ## Onde ver a obra
 
-As obras de metal de Anatsui fazem parte das coleções de grandes museus de África, da Europa e da América do Norte, e são expostas com regularidade. Para um panorama mais amplo dos locais onde a arte africana moderna está reunida, consulte o nosso guia [onde ver arte africana](/guides/where-to-see-african-art).
+O British Museum, em Londres, tem *Man's Cloth* e *Woman's Cloth*; o Harn Museum of Art, na Flórida, comprou *Old Man's Cloth* (2003) em 2005. Confirme se uma peça está em exposição antes de viajar. Para um panorama mais amplo dos locais onde a arte africana moderna está reunida, consulte o nosso guia [onde ver arte africana](/guides/where-to-see-african-art).
 
 ## Artistas relacionados
 

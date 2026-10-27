@@ -21,9 +21,17 @@ In 1989 he began the series he calls *Drawings for Projection*. Instead of makin
 
 The films follow two characters: Soho Eckstein, a property developer and mining magnate in a pinstripe suit, and Felix Teitlebaum, a dreamy, naked figure who is his opposite. *Johannesburg, 2nd Greatest City after Paris* (1989), *Felix in Exile* (1994) and *History of the Main Complaint* (1996) deal with apartheid, its violence and its end; *Felix in Exile* is shadowed by the bodies of those killed in the years before the 1994 election.
 
+How to look at them: the films are short, and nearly all of the drawing is visible. Watch the erasures. A figure moves and leaves a smear where it stood, and that smear is the film's way of saying that the past does not clean off. *Johannesburg, 2nd Greatest City after Paris* runs for about eight minutes and was made on 16mm film; the Art Gallery of Western Australia lists it in its collection as a 1989 film transferred to digital video.
+
 ## Theatre, opera and the stage
 
-Kentridge has worked with Johannesburg's Handspring Puppet Company since the early 1990s, notably on *Ubu and the Truth Commission* (1997), which used puppets and animation to stage testimony from South Africa's Truth and Reconciliation Commission. He has directed operas for the world's leading houses: Mozart's *The Magic Flute*, Shostakovich's *The Nose* at the Metropolitan Opera in New York, and Berg's *Lulu*. In 2016 he made *Triumphs and Laments*, a frieze of figures more than 500 metres long, by cleaning the grime from the walls of the Tiber embankment in Rome.
+Kentridge has worked with Johannesburg's Handspring Puppet Company since the early 1990s, notably on *Ubu and the Truth Commission* (1997), which used puppets and animation to stage testimony from South Africa's Truth and Reconciliation Commission. He has directed operas for the world's leading houses: Mozart's *The Magic Flute*, Shostakovich's *The Nose* at the Metropolitan Opera in New York, and Berg's *Lulu*. Other large projects followed. *The Refusal of Time* (2012), made for dOCUMENTA (13) in Kassel with the composer Philip Miller and the historian of science Peter Galison, is a five-channel video installation with steel megaphones and a breathing machine that draws on the factory machine in Dickens's *Hard Times*; it is a meditation on time, colonialism and industry, and the Metropolitan Museum of Art and SFMOMA bought it jointly. *The Head & the Load* (2018), staged in Tate Modern's Turbine Hall, joined music, dance, film projection and shadow play to tell the story of the African porters who carried supplies for the British, French and German armies in the First World War.
+
+In 2016 he made *Triumphs and Laments*, a frieze of figures more than 500 metres long, by cleaning the grime from the walls of the Tiber embankment in Rome. Stencils were laid on the stone and the dirt around them was washed away, so the figures are the clean parts. Because the dirt comes back, the frieze was always meant to fade: a work about the way triumphs and defeats are forgotten, made to be forgotten itself.
+
+## Where to see the work
+
+The Metropolitan Museum of Art lists *The Refusal of Time* in its collection (accession number 2013.250), and the Art Gallery of Western Australia holds *Johannesburg, 2nd Greatest City after Paris*. Check what a museum has on view before you go.
 
 ## Recognition
 

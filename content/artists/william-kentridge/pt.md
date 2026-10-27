@@ -21,9 +21,17 @@ Em 1989 começou a série a que chama *Drawings for Projection*. Em vez de fazer
 
 Os filmes seguem duas personagens: Soho Eckstein, promotor imobiliário e magnata das minas de fato riscado, e Felix Teitlebaum, uma figura sonhadora e nua que é o seu oposto. *Johannesburg, 2nd Greatest City after Paris* (1989), *Felix in Exile* (1994) e *History of the Main Complaint* (1996) tratam do apartheid, da sua violência e do seu fim; *Felix in Exile* é assombrado pelos corpos dos mortos dos anos anteriores às eleições de 1994.
 
+Como olhar para elas: os filmes são curtos e quase todo o desenho fica à vista. Repare nos apagamentos. Uma figura move-se e deixa uma mancha onde esteve; essa mancha é a maneira de o filme dizer que o passado não se limpa. *Johannesburg, 2nd Greatest City after Paris* dura cerca de oito minutos e foi feito em 16 mm; a Art Gallery of Western Australia tem-no na sua coleção como um filme de 1989 transferido para vídeo digital.
+
 ## Teatro, ópera e palco
 
-Kentridge trabalha com a Handspring Puppet Company, de Joanesburgo, desde o início dos anos 1990, nomeadamente em *Ubu and the Truth Commission* (1997), que usava marionetas e animação para pôr em cena testemunhos da Comissão da Verdade e Reconciliação da África do Sul. Encenou óperas para as principais casas do mundo: *A Flauta Mágica* de Mozart, *O Nariz* de Chostakovitch na Metropolitan Opera de Nova Iorque e *Lulu* de Berg. Em 2016 fez *Triumphs and Laments*, um friso de figuras com mais de 500 metros de comprimento, limpando a sujidade dos muros do cais do Tibre, em Roma.
+Kentridge trabalha com a Handspring Puppet Company, de Joanesburgo, desde o início dos anos 1990, nomeadamente em *Ubu and the Truth Commission* (1997), que usava marionetas e animação para pôr em cena testemunhos da Comissão da Verdade e Reconciliação da África do Sul. Encenou óperas para as principais casas do mundo: *A Flauta Mágica* de Mozart, *O Nariz* de Chostakovitch na Metropolitan Opera de Nova Iorque e *Lulu* de Berg. Seguiram-se outros grandes projetos. *The Refusal of Time* (2012), feito para a dOCUMENTA (13) em Kassel com o compositor Philip Miller e o historiador da ciência Peter Galison, é uma instalação de vídeo de cinco canais com megafones de aço e uma máquina que respira, inspirada na máquina de fábrica de *Tempos Difíceis*, de Dickens; é uma meditação sobre o tempo, o colonialismo e a indústria, que o Metropolitan Museum of Art e o SFMOMA compraram em conjunto. *The Head & the Load* (2018), apresentada no Turbine Hall da Tate Modern, juntou música, dança, projeção de filmes e teatro de sombras para contar a história dos carregadores africanos que levavam abastecimentos aos exércitos britânico, francês e alemão durante a Primeira Guerra Mundial.
+
+Em 2016 fez *Triumphs and Laments*, um friso de figuras com mais de 500 metros, limpando a sujidade dos muros do cais do Tibre, em Roma. Foram colocados estênceis sobre a pedra e lavou-se a sujidade à volta, de modo que as figuras são as partes limpas. Como a sujidade volta, o friso estava destinado a desvanecer-se: uma obra sobre a forma como os triunfos e as derrotas se esquecem, feita para ser ela própria esquecida.
+
+## Onde ver a obra
+
+O Metropolitan Museum of Art tem *The Refusal of Time* na sua coleção (número de inventário 2013.250), e a Art Gallery of Western Australia conserva *Johannesburg, 2nd Greatest City after Paris*. Confirme o que um museu expõe antes de viajar.
 
 ## Reconhecimento
 

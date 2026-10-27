@@ -63,6 +63,16 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
             'regions/north-africa', 'regions/west-africa',
         ],
     },
+    {
+        // Batch 2. All eleven were already full profiles, so no new links were needed. The date is the day
+        // the batch goes live: set it again on release if that is not the day it was written.
+        date: '2026-10-27',
+        expanded: [
+            'kevin-carter', 'william-kentridge', 'ken-oosterbroek', 'farouk-hosny', 'yinka-shonibare', 'baya',
+            'el-anatsui', 'njideka-akunyili-crosby', 'zanele-muholi', 'marlene-dumas', 'lubaina-himid',
+        ],
+        alsoRevised: [],
+    },
 ];
 
 /**

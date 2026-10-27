@@ -19,11 +19,17 @@ Yinka Shonibare nació en Londres en 1962 y creció en Lagos, hablando yoruba en
 
 Cuando era estudiante le preguntaron por qué no hacía «arte africano auténtico». Su respuesta se convirtió en su material característico: la tela wax holandesa, el algodón de estampados vivos que se lleva en toda África Occidental y que en Europa se ve como típicamente africano. Su historia no tiene nada de simple: se desarrolló en los Países Bajos, inspirada en el batik indonesio, se fabricó para mercados coloniales y después fue adoptada y reinventada en África Occidental. Para Shonibare representa las identidades enredadas e híbridas que produjo el colonialismo.
 
-Viste maniquíes de tamaño natural y sin cabeza con trajes victorianos y del siglo XVIII confeccionados con esa tela —aristócratas que se divierten, exploradores, un duelo—, de modo que la ropa del poder europeo está hecha con el tejido de sus colonias. *Scramble for Africa* (2003) muestra a los dirigentes europeos de la Conferencia de Berlín de 1884, sin cabeza, repartiéndose un mapa del continente.
+Viste maniquíes de tamaño natural y sin cabeza con trajes victorianos y del siglo XVIII confeccionados con esa tela —aristócratas que se divierten, exploradores, un duelo—, de modo que la ropa del poder europeo está hecha con el tejido de sus colonias. *Scramble for Africa* (2003) sienta a catorce figuras sin cabeza en torno a una larga mesa, en referencia a la Conferencia de Berlín de 1884-1885, donde las potencias europeas se repartieron los territorios africanos sobre un mapa; las cabezas ausentes suelen leerse como un comentario sobre la pérdida de identidad y de humanidad.
+
+Para ver cómo funciona el truco, fíjese en el corte además del estampado. Los trajes están cortados como sastrería de época, de modo que se leen primero como victorianos y luego como africanos. Entonces la tela lo corrige: una conservadora del National Museum of African Art del Smithsonian ha señalado que el tejido se inspira en el batik indonesio, se fabrica en Europa y se vende en África occidental. Las esculturas solo funcionan si se tienen presentes los tres lugares a la vez.
 
 ## Obras públicas
 
-En 2010, *Nelson's Ship in a Bottle*, una maqueta del HMS Victory con velas de tela wax, se expuso en el Cuarto Pedestal de Trafalgar Square; hoy está en el National Maritime Museum. *The British Library* (2014) llena estanterías con miles de libros encuadernados en tela wax, con los lomos impresos con nombres de inmigrantes en el Reino Unido y de quienes se opusieron a la inmigración.
+En 2010, *Nelson's Ship in a Bottle*, una maqueta del HMS Victory con velas de estampado de cera, se mostró en el Cuarto Pedestal de Trafalgar Square, dentro de una botella de 4,7 metros de largo. Desde 2012 está frente al ala Sammy Ofer del National Maritime Museum, en Greenwich, y se puede ver gratis.
+
+*The British Library* (2014) llena estanterías con 6328 libros de segunda mano forrados de tela de estampado de cera. En 2700 lomos, nombres en pan de oro señalan a inmigrantes que hicieron aportaciones importantes a la cultura británica y a personas que se opusieron públicamente a la inmigración; los demás lomos están en blanco. Se mostró por primera vez en 2014 en el Brighton Museum and Art Gallery, por encargo de HOUSE 2014 y el Brighton Festival, luego en la Turner Contemporary de Margate en 2016, y la Tate la adquirió en 2019.
+
+Su serie *Wind Sculpture* convierte la tela en acero y fibra de vidrio: enormes ondas de estampado de cera detenidas como en una ráfaga. *Wind Sculpture VII* (2016), de unos seis metros de altura y acabada con pan de oro, forma parte de la colección del National Museum of African Art del Smithsonian; otra se alza en el parque Ndubuisi Kanu, en Ikeja (Lagos), y una tercera, *Wind Sculpture (SG) I*, estuvo en Doris C. Freedman Plaza, en Nueva York, en 2018.
 
 ## Reconocimiento y fundaciones
 

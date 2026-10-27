@@ -22,7 +22,11 @@ In 1975 he joined the Department of Fine and Applied Arts at the University of N
 
 For his first decades as an artist, Anatsui worked mainly in wood and ceramics. He carved and scorched wooden panels and trays, often with a chainsaw and a blowtorch, and made broken and reassembled pots — forms that already dealt with fragments, memory and repair.
 
-In the late 1990s he began working with the aluminium tops of liquor bottles. Flattened, folded, cut and joined with copper wire, thousands of them become a single sheet that hangs like cloth. The material carries history of its own: drinks and the trade in them run through the story of West Africa's contact with Europe, and the patterns recall [kente](/art-forms/kente-cloth) and other woven textiles.
+In the late 1990s he began working with the aluminium tops of liquor bottles. *Man's Cloth* and *Woman's Cloth*, made around 2002 and now in the British Museum, which the Art Fund helped to buy, are described as the first of his works to use bottle tops instead of wood; the tops came from liquor bottling in Ghana and Nigeria. Flattened, folded, cut and joined with copper wire, thousands of them become a single sheet that hangs like cloth. The material carries history of its own: drinks and the trade in them run through the story of West Africa's contact with Europe, and the patterns recall [kente](/art-forms/kente-cloth) and other woven textiles.
+
+## How to look at a bottle-top cloth
+
+Stand back first. From across a room the sheet reads as one woven cloth. Then walk up to it. Each flattened, twisted and folded top is joined to its neighbours with copper wire, and the cloth is made of thousands of them. Nothing is printed or painted: the colour is the colour of the bottle tops themselves.
 
 ## Why the works look different every time
 
@@ -32,11 +36,11 @@ The metal sheets have no fixed shape. Anatsui lets curators and installers fold,
 
 International attention grew quickly in the 2000s. At the 2007 Venice Biennale his metal works were hung on the facade of the Palazzo Fortuny. In 2015 the Biennale gave him the Golden Lion for Lifetime Achievement, and in 2017 he received Japan's Praemium Imperiale.
 
-A touring retrospective, *El Anatsui: Triumphant Scale*, opened at the Haus der Kunst in Munich in 2019. From October 2023 to April 2024 his Hyundai Commission *Behind the Red Moon* filled the Turbine Hall at Tate Modern in London with three monumental sculptures made from bottle tops and metal fragments.
+In 2013 the Brooklyn Museum presented *Gravity and Grace: Monumental Works by El Anatsui*, from February to August, the first solo show of his work at a New York museum; the exhibition was organised by the Akron Art Museum. A touring retrospective, *El Anatsui: Triumphant Scale*, opened at the Haus der Kunst in Munich in 2019. From October 2023 to April 2024 his Hyundai Commission *Behind the Red Moon* filled the Turbine Hall at Tate Modern in London with three monumental sculptures made from bottle tops and metal fragments. It was the eighth Hyundai Commission and his largest indoor work to date, staged in three acts that visitors move between; the first, *The Red Moon*, is a sail-like form that recalls the ships that crossed the Atlantic.
 
 ## Where to see his work
 
-Anatsui's metal works are held by major museums in Africa, Europe and North America, and are regularly on view. For a broader picture of where modern African art is collected, see our guide to [where to see African art](/guides/where-to-see-african-art).
+The British Museum in London holds *Man's Cloth* and *Woman's Cloth*; the Harn Museum of Art in Florida bought *Old Man's Cloth* (2003) in 2005. Check whether a piece is on view before you travel. For a broader picture of where modern African art is collected, see our guide to [where to see African art](/guides/where-to-see-african-art).
 
 ## Related artists
 

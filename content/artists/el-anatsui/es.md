@@ -22,7 +22,11 @@ En 1975 se incorporó al Departamento de Bellas Artes y Artes Aplicadas de la Un
 
 Durante sus primeras décadas como artista, Anatsui trabajó sobre todo en madera y cerámica. Tallaba y quemaba paneles y bandejas de madera, a menudo con motosierra y soplete, y hacía vasijas rotas y recompuestas: formas que ya hablaban de fragmentos, memoria y reparación.
 
-A finales de los años noventa empezó a trabajar con las cápsulas de aluminio de las botellas de licor. Aplastadas, dobladas, cortadas y unidas con alambre de cobre, miles de ellas forman una sola lámina que cuelga como una tela. El material tiene su propia historia: las bebidas y su comercio atraviesan la historia del contacto de África Occidental con Europa, y los motivos recuerdan el [kente](/art-forms/kente-cloth) y otros tejidos.
+A finales de los años noventa empezó a trabajar con las cápsulas de aluminio de las botellas de licor. *Man's Cloth* y *Woman's Cloth*, realizadas hacia 2002 y hoy en el British Museum, que el Art Fund ayudó a comprar, se describen como las primeras de sus obras que usan chapas de botella en lugar de madera; las chapas procedían del embotellado de licores en Ghana y Nigeria. Aplastadas, dobladas, cortadas y unidas con alambre de cobre, miles de ellas forman una sola lámina que cuelga como una tela. El material tiene su propia historia: las bebidas y su comercio atraviesan la historia del contacto de África Occidental con Europa, y los motivos recuerdan el [kente](/art-forms/kente-cloth) y otros tejidos.
+
+## Cómo mirar un tapiz de chapas
+
+Aléjese primero. Desde el otro lado de una sala, la lámina se lee como una sola tela tejida. Luego acérquese. Cada chapa aplanada, retorcida y plegada está unida a sus vecinas con alambre de cobre, y la tela está hecha de miles de ellas. Nada está impreso ni pintado: el color es el de las propias chapas.
 
 ## Por qué las obras cambian cada vez
 
@@ -32,11 +36,11 @@ Las láminas de metal no tienen una forma fija. Anatsui deja que comisarios y mo
 
 La atención internacional creció con rapidez en los años 2000. En la Bienal de Venecia de 2007 sus obras de metal colgaron de la fachada del Palazzo Fortuny. En 2015 la Bienal le concedió el León de Oro a toda una carrera, y en 2017 recibió el Praemium Imperiale de Japón.
 
-Una retrospectiva itinerante, *El Anatsui: Triumphant Scale*, se inauguró en la Haus der Kunst de Múnich en 2019. De octubre de 2023 a abril de 2024, su Hyundai Commission *Behind the Red Moon* ocupó la Sala de Turbinas de la Tate Modern de Londres con tres esculturas monumentales hechas de chapas y fragmentos de metal.
+En 2013, el Brooklyn Museum presentó *Gravity and Grace: Monumental Works by El Anatsui*, de febrero a agosto, la primera exposición individual de su obra en un museo de Nueva York; la muestra fue organizada por el Akron Art Museum. Una retrospectiva itinerante, *El Anatsui: Triumphant Scale*, se inauguró en la Haus der Kunst de Múnich en 2019. De octubre de 2023 a abril de 2024, su Hyundai Commission *Behind the Red Moon* ocupó la Sala de Turbinas de la Tate Modern de Londres con tres esculturas monumentales hechas de chapas y fragmentos de metal. Fue la octava Hyundai Commission y su mayor obra de interior hasta la fecha, presentada en tres actos entre los que los visitantes se desplazan; el primero, *The Red Moon*, es una forma a modo de vela que recuerda a los barcos que cruzaron el Atlántico.
 
 ## Dónde ver su obra
 
-Las obras de metal de Anatsui forman parte de las colecciones de grandes museos de África, Europa y Norteamérica, y se exponen con regularidad. Para un panorama más amplio de dónde se reúne el arte africano moderno, consulte nuestra guía [dónde ver arte africano](/guides/where-to-see-african-art).
+El British Museum de Londres tiene *Man's Cloth* y *Woman's Cloth*; el Harn Museum of Art de Florida compró *Old Man's Cloth* (2003) en 2005. Compruebe si una pieza está expuesta antes de viajar. Para un panorama más amplio de dónde se reúne el arte africano moderno, consulte nuestra guía [dónde ver arte africano](/guides/where-to-see-african-art).
 
 ## Artistas relacionados
 

@@ -22,7 +22,11 @@ En 1975, il rejoint le département des beaux-arts et arts appliqués de l'unive
 
 Pendant ses premières décennies d'artiste, Anatsui travaille surtout le bois et la céramique. Il sculpte et brûle des panneaux et des plateaux de bois, souvent à la tronçonneuse et au chalumeau, et réalise des poteries brisées puis réassemblées — des formes qui parlent déjà de fragments, de mémoire et de réparation.
 
-À la fin des années 1990, il commence à utiliser les capsules en aluminium de bouteilles d'alcool. Aplaties, pliées, découpées et reliées par du fil de cuivre, des milliers de capsules forment une seule nappe qui tombe comme une étoffe. Le matériau porte sa propre histoire : la boisson et son commerce traversent l'histoire des contacts entre l'Afrique de l'Ouest et l'Europe, et les motifs rappellent le [kente](/art-forms/kente-cloth) et d'autres textiles tissés.
+À la fin des années 1990, il commence à utiliser les capsules en aluminium de bouteilles d'alcool. *Man's Cloth* et *Woman's Cloth*, réalisés vers 2002 et conservés aujourd'hui au British Museum, que l'Art Fund a contribué à acheter, sont présentés comme ses premières œuvres à utiliser des capsules plutôt que du bois ; les capsules provenaient de l'embouteillage d'alcools au Ghana et au Nigeria. Aplaties, pliées, découpées et reliées par du fil de cuivre, des milliers de capsules forment une seule nappe qui tombe comme une étoffe. Le matériau porte sa propre histoire : la boisson et son commerce traversent l'histoire des contacts entre l'Afrique de l'Ouest et l'Europe, et les motifs rappellent le [kente](/art-forms/kente-cloth) et d'autres textiles tissés.
+
+## Comment regarder une nappe de capsules
+
+Reculez d'abord. De l'autre côté d'une salle, la feuille se lit comme une seule étoffe tissée. Puis approchez-vous. Chaque capsule aplatie, tordue et pliée est reliée à ses voisines par du fil de cuivre, et l'étoffe est faite de milliers d'entre elles. Rien n'est imprimé ni peint : la couleur est celle des capsules elles-mêmes.
 
 ## Pourquoi les œuvres changent à chaque fois
 
@@ -32,11 +36,11 @@ Ces nappes de métal n'ont pas de forme fixe. Anatsui laisse les commissaires et
 
 L'attention internationale grandit vite dans les années 2000. À la Biennale de Venise de 2007, ses œuvres de métal sont suspendues sur la façade du Palazzo Fortuny. En 2015, la Biennale lui décerne le Lion d'or pour l'ensemble de sa carrière, et en 2017 il reçoit le Praemium Imperiale japonais.
 
-Une rétrospective itinérante, *El Anatsui: Triumphant Scale*, ouvre à la Haus der Kunst de Munich en 2019. D'octobre 2023 à avril 2024, sa Hyundai Commission *Behind the Red Moon* occupe le Turbine Hall de la Tate Modern à Londres avec trois sculptures monumentales faites de capsules et de fragments de métal.
+En 2013, le Brooklyn Museum a présenté *Gravity and Grace: Monumental Works by El Anatsui*, de février à août, première exposition personnelle de son œuvre dans un musée new-yorkais ; l'exposition avait été organisée par l'Akron Art Museum. Une rétrospective itinérante, *El Anatsui: Triumphant Scale*, ouvre à la Haus der Kunst de Munich en 2019. D'octobre 2023 à avril 2024, sa Hyundai Commission *Behind the Red Moon* occupe le Turbine Hall de la Tate Modern à Londres avec trois sculptures monumentales faites de capsules et de fragments de métal. Ce fut la huitième Hyundai Commission et sa plus grande œuvre en intérieur à ce jour, présentée en trois actes entre lesquels les visiteurs circulent ; le premier, *The Red Moon*, est une forme en voile qui rappelle les navires qui traversaient l'Atlantique.
 
 ## Où voir son œuvre
 
-Les œuvres de métal d'Anatsui figurent dans de grands musées d'Afrique, d'Europe et d'Amérique du Nord, et sont régulièrement exposées. Pour un panorama plus large des lieux où l'art africain moderne est conservé, consultez notre guide [où voir l'art africain](/guides/where-to-see-african-art).
+Le British Museum, à Londres, conserve *Man's Cloth* et *Woman's Cloth* ; le Harn Museum of Art, en Floride, a acheté *Old Man's Cloth* (2003) en 2005. Vérifiez si une pièce est exposée avant de voyager. Pour un panorama plus large des lieux où l'art africain moderne est conservé, consultez notre guide [où voir l'art africain](/guides/where-to-see-african-art).
 
 ## Artistes liés
 

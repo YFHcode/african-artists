@@ -1,8 +1,9 @@
 # Artist profiles: expansion plan
 
 **Status: approved 27 October 2026, with 600+ and 300+ words as the targets. Batch 0 done; batch 1
-(the pilot) live on 27 October 2026; its four-week check is due on 24 November 2026. Batch 2 is
-written and tested but not published: it waits for that check. Batches 3 and 4 are in the same state.** Word counts are for the English pages as of that date; yearly views are
+(the pilot) live on 27 October 2026; its four-week check is due on 24 November 2026. Batches 2–4 were
+held on side branches, then published on 27 October 2026 at the owner's request; later batches go
+straight to `main`.** Word counts are for the English pages as of that date; yearly views are
 from the first data run (October 2025 – September 2026, five Wikipedias).
 
 ## The two problems
@@ -123,20 +124,18 @@ Writing batch 2 can overlap the wait, as in the rollout plan.
 **Batch 2.** Kevin Carter, William Kentridge, Ken Oosterbroek, Farouk Hosny, Yinka Shonibare,
 Baya, El Anatsui, Njideka Akunyili Crosby, Zanele Muholi, Marlene Dumas, Lubaina Himid.
 
-Written 27 October 2026 on the branch `batch-2-profiles`, not on `main`: the pilot's check comes
-first. All eleven were already full profiles and now run 602–722 words in English. The source check
+Written 27 October 2026 on the branch `batch-2-profiles` and published the same day. All eleven were already full profiles and now run 602–722 words in English. The source check
 corrected several things the old pages had wrong, and the sources logs in `data/sources/` record each:
 Ken Oosterbroek died nine days (not eleven) before the election and his birth year is 1962; Zanele
 Muholi's *Somnyama Ngonyama* props were scouring pads, latex gloves and tyres (no clothes pegs in the
 sources); Marlene Dumas's retrospective ran at MOCA from June 2008 and at MoMA from December 2008,
-and her auction record is now *Miss January* (2025). To publish: merge the branch into `main`, set the
-batch's `date` in `src/content/expansion.ts` to the day it goes live, then do the four closing steps
-below.
+and her auction record is now *Miss January* (2025). Set the batch's `date` in
+`src/content/expansion.ts` to the day it goes live, then do the four closing steps below.
 
 **Batch 3.** Mahmoud Mokhtar, Esther Mahlangu, Greg Marinovich, Wangechi Mutu, Mohamed Amin, Yto
 Barrada, Ernest Cole, Hassan El Glaoui, Chaïbia Talal, Sani Maikatanga†, Roger Ballen†.
 
-Written 27 October 2026 on the branch `batch-3-profiles` (built on `batch-2-profiles`), not on `main`.
+Written 27 October 2026 on the branch `batch-3-profiles` (built on `batch-2-profiles`); published 27 October 2026.
 Nine were already full profiles and now run 603–679 words in English. Roger Ballen was promoted to a
 full profile (611 words, hand-written facts in five languages, linked from David Goldblatt, Southern
 Africa and African photography). Sani Maikatanga stays short at 314 words: the only independent
@@ -151,7 +150,7 @@ collaboration and "school at her home" rest on single sources and were removed.
 **Batch 4.** Ousmane Sow, Ben Enwonwu, Austin Stevens†, Magdalene Odundo, Laetitia Ky†, Otobong
 Nkanga, Irma Stern, Khadija Saye†, Sam Nzima, Ibrahim El-Salahi, Mahmoud Saïd.
 
-Written 27 October 2026 on the branch `batch-4-profiles` (built on `batch-3-profiles`), not on `main`.
+Written 27 October 2026 on the branch `batch-4-profiles` (built on `batch-3-profiles`); published 27 October 2026.
 Eight were already full profiles and now run 602–653 words in English
 (Sow 602, Enwonwu 650, Odundo 603, Nkanga 653, Stern 608, Nzima 603, El-Salahi 636, Saïd 607).
 Khadija Saye was promoted to a full profile (657 words, hand-written facts in five languages, linked

@@ -65,7 +65,7 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
     },
     {
         // Batch 2. All eleven were already full profiles, so no new links were needed. The date is the day
-        // the batch goes live: set it again on release if that is not the day it was written.
+        // the batch went live.
         date: '2026-10-27',
         expanded: [
             'kevin-carter', 'william-kentridge', 'ken-oosterbroek', 'farouk-hosny', 'yinka-shonibare', 'baya',
@@ -75,7 +75,7 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
     },
     {
         // Batch 3. Roger Ballen was promoted to a full profile and linked from three articles. Sani Maikatanga
-        // stays short: the sources ran out at about 300 words. Set the date again on release.
+        // stays short: the sources ran out at about 300 words.
         date: '2026-10-27',
         expanded: [
             'mahmoud-mokhtar', 'esther-mahlangu', 'greg-marinovich', 'wangechi-mutu', 'mohamed-amin', 'yto-barrada',
@@ -85,7 +85,7 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
     },
     {
         // Batch 4. Khadija Saye was promoted to a full profile and linked from three articles. Laetitia Ky and Austin
-        // Stevens stay short: the sources ran out at about 300 words. Set the date again on release.
+        // Stevens stay short: the sources ran out at about 300 words.
         date: '2026-10-27',
         expanded: [
             'ousmane-sow', 'ben-enwonwu', 'austin-stevens', 'magdalene-odundo', 'laetitia-ky', 'otobong-nkanga',

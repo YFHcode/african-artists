@@ -167,6 +167,22 @@ and 170 in one, and the page says so.
 **Batch 5.** David Goldblatt, M'hamed Issiakhem, Mahi Binebine, Afewerk Tekle, Hussein Shariffe†,
 Chéri Samba, Malick Sidibé, Amoako Boafo, Bruce Onobrakpeya†, Leila Alaoui†, Seyni Awa Camara†.
 
+Written and published on `main` on 27 October 2026. These pages started well short of the targets (170–390
+words), so each needed more verified material than the earlier batches. Seven full profiles now run
+611–690 words in English (Goldblatt 690, Issiakhem 634, Binebine 633, Tekle 611, Samba 628, Sidibé 677,
+Boafo 686). Hussein Shariffe (341), Bruce Onobrakpeya (316), Leila Alaoui (321) and Seyni Awa Camara (364)
+stay short; none was promoted.
+The source check corrected older pages: Goldblatt's page said he worked in a "clothing shop" and that
+the KwaNdebele commuters were photographed "through the night" (the sources say a men's wear store and
+do not say night); Issiakhem's page said he "died of cancer" and designed banknotes "from 1965" (neither
+sourced) and its prize was a Golden Lion; Shariffe's page named the Slade and Victor Musgrave (not
+confirmed) and the 1989 coup (sources say late 1980s); Boafo's page placed his childhood in Osu (not
+found), dated the Dior collaboration to 2020 (it is Spring/Summer 2021) and said Wiley "encouraged
+collectors" in 2019 (the sources say Wiley found him on Instagram); Alaoui's page gave her birthplace and
+schooling (not confirmed); Camara's page said a London memorial exhibition was planned (not found).
+Sidibé's birth year is given as 1935 or 1936 and the studio year as 1958, 1960 or 1962, because
+sources disagree.
+
 **Batch 6.** Malangatana, Adam Henein, Seydou Keïta, Hussein Bicar, Adel Abdessemed†, Inji
 Aflatoun, Skunder Boghossian†, Ghada Amer, George Lilanga†, Romuald Hazoumè†, Dumile Feni†.
 

@@ -13,19 +13,29 @@ facts:
 ---
 ## De Acra a Viena
 
-Amoako Boafo nació en Acra en 1984 y creció en el barrio de Osu de la ciudad. Estudió en el Ghanatta College of Art and Design de Acra y en 2014 se trasladó a Viena, donde continuó su formación en la Academia de Bellas Artes. En Austria empezó a pintar a la comunidad negra que lo rodeaba, en parte como respuesta al racismo que encontró y a la invisibilidad de las personas negras en sus museos.
+Amoako Boafo nació en Accra en 1984. De niño aprendió por su cuenta a dibujar y pintar, y tuvo varios empleos, entre ellos el de tenista semiprofesional, antes de estudiar en el Ghanatta College of Art and Design de Accra. En 2014 se mudó a Viena, donde continuó su formación en la Academia de Bellas Artes. Recibió el Premio del Jurado Walter Koschatzky en 2017 y el STRABAG Artaward International en 2019, ambos en Viena. En Austria empezó a pintar a la comunidad negra que lo rodeaba, en parte como respuesta al racismo que encontró y a la invisibilidad de las personas negras en sus museos.
 
 ## Pintar con los dedos
 
-Boafo pinta la ropa y los fondos de sus figuras con pincel, en colores planos y estampados, pero modela la piel con los dedos, en trazos arremolinados y escultóricos. El contraste da a sus retratados una presencia física impactante. Sus temas son personas de la diáspora negra, a menudo amigos y otros artistas, pintados con dignidad, estilo y franqueza.
+Boafo pinta la ropa y los fondos de sus figuras con pincel, en colores planos y estampados, pero modela su piel con los dedos, con pinceladas arremolinadas y escultóricas. El contraste da a sus retratados una presencia física impactante. Sus temas son personas de la diáspora negra, a menudo amigos y artistas, pintadas con dignidad, estilo y franqueza. La técnica de pintar con los dedos surgió durante sus estudios en Viena, cuando buscaba una manera más física e instintiva de trabajar la pintura.
+
+Cómo mirar un Boafo: empiece por la piel, porque es donde han estado las manos, y fíjese en cómo las pinceladas siguen la forma de un rostro, un cuello de camisa o una muñeca. Luego mire lo que ha hecho el pincel: la ropa y el fondo son planos y estampados, así que el retratado parece salir del cuadro. La ropa, la pose y la mirada las elige un pintor que a menudo conoce al retratado, y se nota. Esta lectura es propia de este sitio.
 
 ## Un ascenso fulgurante
 
-En 2019, el pintor estadounidense Kehinde Wiley animó a coleccionistas y galeristas a mirar su obra, y su carrera despegó. En pocos meses, cuadros comprados baratos en el taller se revendían en subasta por muchas veces su precio, un auge especulativo que él y otros criticaron, porque le reportaba poco y amenazaba su carrera. Desde entonces ha trabajado con grandes galerías y museos, y en 2020 colaboró con Kim Jones en una colección de moda masculina de Dior.
+El pintor estadounidense Kehinde Wiley habría descubierto la obra de Boafo en Instagram, y su galería de Los Ángeles, Roberts Projects, lo incorporó a su plantel y le dio una exposición individual. Sus cuadros pronto se revendían en subasta por muchas veces lo que habían costado, un auge especulativo de los precios de reventa. El récord en subasta de su obra es *Hands Up* (2018), vendido en Christie's Hong Kong el 1 de diciembre de 2021 por 3,42 millones de dólares. Desde entonces ha trabajado con grandes galerías y museos. La casa Dior lo hizo musa y colaborador de su colección masculina de primavera-verano de 2021 bajo la dirección de Kim Jones, que visitó su estudio de Accra y se inspiró en su cuadro *Green Beret*; amigos de Boafo en Accra lucieron la ropa en el vídeo de la colección.
+
+## Museos y galerías
+
+*Soul of Black Folks*, su primera exposición individual en un museo, reunió más de treinta obras realizadas entre 2016 y 2022. Organizada por el Museum of the African Diaspora de San Francisco con el Contemporary Arts Museum Houston, y con curaduría de Larry Ossei-Mensah, viajó a Houston en 2022 y al Seattle Art Museum y al Denver Art Museum en 2023. En 2024 el Belvedere de Viena presentó *Proper Love*, su primera exposición en un museo europeo, con más de cincuenta obras, algunas mostradas junto a cuadros de Egon Schiele y Gustav Klimt. Lo representa Gagosian: su primera muestra con la galería se inauguró en Nueva York en marzo de 2023, una selección viajó a Accra en mayo de 2023 y una exposición en Londres siguió en abril de 2025. En Ciudad de México, la galería Mariane Ibrahim mostró a principios de 2024 sus primeros mosaicos y vidrieras.
 
 ## dot.ateliers
 
-En 2022 abrió dot.ateliers en Acra, un espacio con estudios, una residencia y una galería para jóvenes artistas, parte de una generación de artistas ghaneses que invierte en instituciones en su país.
+En diciembre de 2022 abrió dot.ateliers en Accra, en un edificio de tres plantas diseñado por el arquitecto David Adjaye, con una galería, estudios, una biblioteca de arte y una cafetería. En 2024 añadió una residencia para escritores y comisarios, dot.ateliers | Ogbojo. Forma parte de una generación de artistas ghaneses que invierten en instituciones en su país.
+
+## Dónde ver la obra
+
+Dot.ateliers, en Accra, es el lugar para ver las exposiciones actuales en Ghana, y el Museum of the African Diaspora, el Seattle Art Museum y el Denver Art Museum han mostrado la exposición itinerante. Gagosian y Mariane Ibrahim anuncian las exposiciones en curso, y las casas de subastas publican los catálogos de sus ventas.
 
 ## Véase también
 

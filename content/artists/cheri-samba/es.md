@@ -14,13 +14,15 @@ facts:
 ---
 ## De las vallas publicitarias al lienzo
 
-Chéri Samba nació en 1956 en Kinto M'Vuila, en la actual República Democrática del Congo. Adolescente, se mudó a Kinshasa para trabajar como rotulista, pintando letreros de tiendas y publicidad. Hacia 1979 se dedicó por completo a su propia pintura.
+Chéri Samba nació en 1956 en Kinto M'Vuila, en la actual República Democrática del Congo. En 1972, con unos dieciséis años, dejó la escuela para ser aprendiz de los pintores de rótulos de la avenida Kasa-Vubu, en Kinshasa, y pintaba carteles de tiendas y publicidad. En 1975 tomó de los cómics el globo de diálogo, que le permitió añadir a sus imágenes tanto relato como comentario. Hacia 1979 se dedicó por completo a su propia pintura.
 
 Esa formación marcó todo lo que vino después. Sus cuadros están hechos para leerse rápido desde el otro lado de la calle: contornos marcados, colores vivos y planos, y bloques de texto que dicen qué se está mirando y qué hay que pensar de ello.
 
 ## Una pintura que habla
 
-El texto es la firma de Samba. Leyendas, bocadillos y largos párrafos explicativos en francés y lingala ocupan el interior del cuadro, de modo que una pintura puede ser a la vez un chiste, un editorial y una lección moral. Los temas van de la vida callejera de Kinshasa y las relaciones de pareja a la prevención del sida, la corrupción, la migración y el mercado mundial del arte. A menudo se pinta a sí mismo en la escena, como testigo, comentarista o blanco.
+El texto es su firma. Pies, bocadillos y largos párrafos explicativos en francés y en lingala se inscriben en la imagen, de modo que un cuadro puede ser a la vez un chiste, un editorial y una lección de moral. Desde finales de los años ochenta él mismo pasó a ser el tema principal de sus pinturas. Los temas van de la vida callejera de Kinshasa y las relaciones a la prevención del sida, la corrupción, la migración y el mercado mundial del arte. A menudo se pinta a sí mismo en la escena, como testigo, comentarista o blanco.
+
+Cómo mirar un Samba: lea primero el texto, como él pretende, y luego mire quién habla y de quién se habla. Los personajes suelen tener un papel claro —el narrador, la víctima, el tonto— y el artista aparece a menudo como uno de ellos. Los cuadros están construidos como una página de periódico, con un titular, una historia y una moraleja. Esta lectura es propia de este sitio.
 
 ## Los pintores populares de Kinshasa
 
@@ -28,7 +30,13 @@ Samba es una de las figuras fundadoras de lo que se llama [pintura popular congo
 
 ## Carrera internacional
 
-El salto internacional de Samba llegó con *Magiciens de la Terre* en el Centre Pompidou de París en 1989. La Fondation Cartier de París lo apoyó durante mucho tiempo: lo invitó a una residencia poco después y en 2004 le dedicó una exposición individual, *J'aime Chéri Samba*. Su obra está, entre otras colecciones, en el Centre Pompidou y en el Museum of Modern Art de Nueva York.
+El salto internacional de Samba llegó con *Magiciens de la Terre*, comisariada por Jean-Hubert Martin, en el Centro Pompidou de París en 1989. La Fondation Cartier de París se convirtió en un apoyo duradero: lo invitó a una residencia en 1990 y en 2004 le dedicó su primera exposición individual allí, *J'aime Chéri Samba*, con treinta y cinco cuadros. Su obra figura en las colecciones del Centro Pompidou y del Museum of Modern Art de Nueva York, entre otras.
+
+En 1997 terminó *Quel avenir pour notre art ?*, un gran tríptico en el que él y Picasso entran cada uno en el Centro Pompidou con un cuadro bajo el brazo; Picasso se exhibe en el museo mientras Samba se marcha con su lienzo. Suele leerse como un comentario, con humor, sobre cómo trata el mundo del arte a los artistas africanos. El Musée Maillol de París mostró paneles suyos en 2023-2024, en lo que se presentó como la primera retrospectiva de su obra, que abarca cuarenta años.
+
+## Dónde ver la obra
+
+El Centro Pompidou, el Museum of Modern Art y la Fondation Cartier poseen su obra, y el Zeitz MOCAA de Ciudad del Cabo lo incluye entre sus artistas; pregunte a cada uno qué cuadros están expuestos. La exposición del Musée Maillol ha terminado.
 
 ## Por qué importa
 

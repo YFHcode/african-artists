@@ -93,6 +93,16 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
         ],
         alsoRevised: ['guides/african-art-fairs-and-biennales', 'guides/african-women-artists', 'art-forms/african-photography'],
     },
+    {
+        // Batch 5. Nobody was promoted: Hussein Shariffe, Bruce Onobrakpeya, Leila Alaoui and Seyni Awa Camara
+        // stay short, because the sources ran out at about 300 to 350 words.
+        date: '2026-10-27',
+        expanded: [
+            'david-goldblatt', 'mhamed-issiakhem', 'mahi-binebine', 'afewerk-tekle', 'hussein-shariffe', 'cheri-samba',
+            'malick-sidibe', 'amoako-boafo', 'bruce-onobrakpeya', 'leila-alaoui', 'seni-awa-camara',
+        ],
+        alsoRevised: [],
+    },
 ];
 
 /**

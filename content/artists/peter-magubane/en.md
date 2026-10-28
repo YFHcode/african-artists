@@ -13,7 +13,7 @@ facts:
 ---
 ## Drum
 
-Peter Magubane joined *Drum* magazine in the 1950s, when it was the voice of Black urban South Africa, and learned his trade there among the writers and photographers of a remarkable generation. He photographed the political trials and protests of the decade, and in 1960 the aftermath of the Sharpeville massacre, in which police killed 69 people protesting against the pass laws.
+Peter Magubane was born in Vrededorp in 1932 and grew up in Sophiatown, then a centre of Black arts. He joined *Drum* magazine in the mid-1950s, when it was the voice of Black urban South Africa: one source says he got a job as a driver and messenger in 1954, another that he joined in 1955, and he later became a darkroom assistant before taking up the camera. He learned his trade there among the writers and photographers of a remarkable generation. He photographed the political trials and protests of the decade, covering Nelson Mandela's arrest and the banning of the ANC. In 1958 he was the first Black South African to win the Best Press Photo of the Year award, and in 1960 he photographed the aftermath of the Sharpeville massacre, in which police killed 69 people protesting against the pass laws.
 
 ## Detention and banning
 
@@ -21,11 +21,17 @@ In 1967 he joined the *Rand Daily Mail*. Two years later, in June 1969, he was a
 
 ## Soweto, 1976
 
-When the ban ended, Magubane went back to work. On 16 June 1976 and in the months that followed, he photographed the student uprising in Soweto — the protests against Afrikaans as a language of instruction that police met with gunfire, and in which [Sam Nzima](/artists/sam-nzima) took the photograph of Hector Pieterson. He later worked for *Time* and international agencies and published many books on South African life and culture.
+When the ban ended, Magubane went back to work. On 16 June 1976 and in the months that followed, he photographed the student uprising in Soweto — the protests against Afrikaans as a language of instruction that police met with gunfire, and in which [Sam Nzima](/artists/sam-nzima) took the photograph of Hector Pieterson. Protesters feared that photographs would let police identify them, and Magubane persuaded them to let him and other photojournalists work. He later worked for *Time* and international agencies and published many books on South African life and culture. One source counts seventeen books, two of them banned by the apartheid government: *Black As I Am* (1978) and *Black Child* (1982).
+
+How to look at a Magubane: notice where he stood. He worked close to the crowd, often at risk, and the pictures show faces and hands rather than the arrangement of a procession; the humanity is in the details of the individuals who make up a protest. Compare him with Goldblatt, who photographed the structures of apartheid from a distance, and with Nzima, whose single frame became an emblem. That reading is this site's own.
 
 ## Mandela's photographer
 
-After Nelson Mandela was released from prison in 1990, Magubane became his official photographer, following him for four years until he became South Africa's first democratically elected president in 1994. Magubane died on 1 January 2024, aged 91.
+After Nelson Mandela was released from prison in 1990, Magubane became his official photographer, following him for four years until he became South Africa's first democratically elected president in 1994. Magubane died on 1 January 2024, aged 91; President Cyril Ramaphosa gave the eulogy at his state funeral in Johannesburg. The New York Times obituary said his images won global acclaim but brought him punishment at home. He received an honorary doctorate from the University of South Africa in 2003, the American National Professional Photographers Association's Humanistic Award and an Order for Meritorious Service.
+
+## Where to see the work
+
+The Science Museum Group in the United Kingdom has a collection record for him; Northwestern University hosted him as a visiting artist in 2009; and the South African History Online biography lists his books and honours. Ask South African museums, such as those in Johannesburg, and the photographer's agencies what is currently on display. *The Conversation* published an obituary in 2024.
 
 ## See also
 

@@ -113,6 +113,16 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
         ],
         alsoRevised: [],
     },
+    {
+        // Batch 7. Mohammed Khadda, Peter Magubane and Farid Belkahia were already full profiles. The other seven stay
+        // short: the sources ran out at 309 to 431 words.
+        date: '2026-10-28',
+        expanded: [
+            'kwame-akoto-bamfo', 'nnenna-okore', 'jh-pierneef', 'uche-okeke', 'aina-onabolu', 'samuel-fosso',
+            'effat-nagy', 'mohammed-khadda', 'peter-magubane', 'farid-belkahia',
+        ],
+        alsoRevised: [],
+    },
 ];
 
 /**

@@ -205,6 +205,22 @@ and the length of his imprisonment differ between sources and the page says so.
 **Batch 7.** Kwame Akoto-Bamfo†, Nnenna Okore†, J. H. Pierneef†, Uche Okeke†, Aina Onabolu†,
 Samuel Fosso†, Effat Nagy†, Mohammed Khadda, Peter Magubane, Farid Belkahia.
 
+Written and published on `main` on 28 October 2026 (ten profiles, not eleven). Mohammed Khadda (614),
+Peter Magubane (614) and Farid Belkahia (621) now run over 600 words in English. Kwame Akoto-Bamfo (346),
+Nnenna Okore (321), J. H. Pierneef (332), Uche Okeke (333), Aina Onabolu (309), Samuel Fosso (431) and
+Effat Nagy (374) stay short; none was promoted. The source check corrected older pages: Akoto-Bamfo's
+page said he was refused a US visa (no source); Nnenna Okore was born in Australia, not Nigeria, and holds
+an MA (2004) and an MFA (2005), not one master's degree; Pierneef's page said he worked as a librarian
+(not found); Okeke's Zaria and Nsukka dates are now sourced, with the Asele Institute dated 1958 or 1959;
+Onabolu's page dated Kenneth Murray's appointment to 1927 (not confirmed) and Paris-then-London study
+to the early 1920s (the certificate is 1920–22); Fosso's *Tati* series is 1997 in Britannica and 1994
+in a Paris Photo programme; Effat Nagy's page said she studied in Rome only and described zar
+ceremonies (not found); Khadda's page said he began in a Mostaganem print shop (the source says Aïn
+Séfra in 1944), dated *Éléments pour un art nouveau* to 1972 (a 1964 essay is the first of three) and
+the Google Doodle to 2019 (it is March 2020); Magubane's Drum start is 1954 or 1955 depending on the
+source; Belkahia's *Présence plastique* year (1969) is not confirmed and the team's arrival dates
+differ between Tate and a French catalogue.
+
 **Batch 8: enrich, keep short (smaller edits).** Hassan Hajjaj, Boniface Mwangi, Nzante Spee, Amon
 Kotei, Kofi Antubam, Mohamed Mrabet, Augustus Washington, Bachir Yellès, Anna Boghiguian, Chéri
 Chérin, Mohamed Hamidi, Coert Steynberg, Anton Hammerl, Wael Shawky, James Barnor, Zwelethu

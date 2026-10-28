@@ -18,17 +18,23 @@ Seydou Keïta naît à Bamako vers 1921 et apprend le métier de menuisier. En 1
 
 ## Ce qui fait un portrait de Keïta
 
-Keïta photographiait les gens tels qu'ils voulaient être vus. Ses modèles arrivaient dans leurs plus beaux habits ; il complétait avec une réserve d'accessoires et de tenues gardés au studio — costumes européens, montres, stylos, une radio, un scooter, des fleurs — et les faisait poser, seuls ou en groupe, devant des fonds de tissu à motifs qu'il changeait toutes les quelques années.
+Keïta photographiait les gens tels qu'ils voulaient être vus. Ses modèles arrivaient dans leurs plus beaux habits ; il complétait avec un stock d'accessoires et de tenues qu'il gardait au studio — costumes européens, montres, stylos, une radio, un scooter, des fleurs — et les faisait poser, seuls ou en groupe, devant des fonds en tissu à motifs qu'il changeait tous les quelques années. Les modèles choisissaient leurs propres accessoires, des fleurs en papier aux Vespa, et il les dirigeait ; des portraits d'exemple étaient accrochés dans le studio comme source d'inspiration. Des dessus-de-lit et d'autres tissus à portée de main servaient de fonds, et comme il renouvelait accessoires et fonds tous les quelques années, ils aident aujourd'hui à dater l'œuvre.
+
+Comment regarder un Keïta : commencez par le tissu. Les fonds à motifs et les vêtements du modèle se font concurrence, et la façon dont une figure se tient devant eux dit comment elle souhaitait être vue. Regardez ensuite les accessoires : une montre portée au poignet, une radio, une fleur, un scooter. Ils sont empruntés, et ils font partie de la mise en scène. Cette lecture est celle de ce site.
 
 Le résultat est le portrait d'une société autant que d'individus : une ville de fonctionnaires, de commerçants, de jeunes couples et de familles élargies, sûrs d'eux et modernes, dans les dernières années de la domination française. Il utilisait surtout un appareil grand format et tirait ses images par contact directement à partir des négatifs, d'où leur grande netteté.
 
 ## Photographe d'État
 
-À l'indépendance du Mali en 1960, le nouveau gouvernement socialiste a besoin de photographes. En 1962, il fait de Keïta son photographe officiel, et celui-ci ferme son studio peu après. Il travaille pour l'État jusqu'à sa retraite en 1977.
+À l'indépendance du Mali en 1960, le nouveau gouvernement socialiste a besoin de photographes. Il fait de Keïta son photographe officiel, et celui-ci ferme son studio ; une source date cela de 1962, une autre dit qu'il a travaillé de façon indépendante jusqu'en 1963 et servi l'État de 1963 à 1977, date de sa retraite.
 
 ## Découverte
 
-Pendant des années, ses archives ne sont connues qu'à Bamako. Dans les années 1990, des expositions en Europe et aux États-Unis révèlent ses portraits à un large public, et des débats s'ouvrent sur qui a le droit de les tirer et de les vendre. En 2016, le Grand Palais à Paris présente la première grande rétrospective de son œuvre, avec près de trois cents photographies. Keïta est mort à Paris en 2001.
+Pendant des années, ses archives ne sont connues qu'à Bamako. Dans les années 1990, des expositions en Europe et aux États-Unis révèlent ses portraits à un large public, et des débats suivent sur qui doit les tirer et les vendre. En 2016, le Grand Palais, à Paris, a présenté, du 31 mars au 11 juillet, ce qui a été décrit comme la première grande rétrospective de son œuvre, avec près de trois cents photographies ; Aperture l'a qualifiée de sa deuxième rétrospective parisienne. Elle était organisée par Yves Aupetitallot, avec des œuvres venant surtout des collections de Jean Pigozzi et d'André Magnin. Un volume de Steidl, *Photographs, Bamako, Mali 1948–1963*, s'appuie sur des archives élargies pour offrir plus de quatre cents portraits, pour la plupart inédits. Les sources divergent sur son année de naissance (1921 ou 1923) et sur les années du studio (1948–1963 ou 1949–1964). Keïta est mort à Paris en 2001.
+
+## Où voir l'œuvre
+
+L'exposition du Grand Palais est terminée. Une grande partie des œuvres qui y étaient montrées venait de collections privées, celles de Jean Pigozzi et d'André Magnin ; les mentions de crédit citent donc la collection Pigozzi (le CAAC, à Genève) comme source principale, et les galeries qui représentent la succession ainsi que les publications de l'exposition de 2016 sont les principales portes d'entrée. Les articles de L'Œil de la photographie et d'Aperture sur son œuvre sont des lectures complémentaires utiles.
 
 ## Artistes liés
 

@@ -186,6 +186,22 @@ sources disagree.
 **Batch 6.** Malangatana, Adam Henein, Seydou Keïta, Hussein Bicar, Adel Abdessemed†, Inji
 Aflatoun, Skunder Boghossian†, Ghada Amer, George Lilanga†, Romuald Hazoumè†, Dumile Feni†.
 
+Written and published on `main` on 28 October 2026. Six full profiles now run 603–658 words in English
+(Malangatana 603, Henein 628, Keïta 658, Bicar 605, Aflatoun 604, Amer 609). Adel Abdessemed (348), Skunder
+Boghossian (312), George Lilanga (432), Romuald Hazoumè (378) and Dumile Feni (343) stay short; none was
+promoted. The source check corrected older pages: Henein's page said he lived in Paris for twenty-five years
+and that the Sphinx work began in 1989 without noting that sources give 1996 or 1998 as the end; Keïta's
+official-photographer date is 1962 in one source and 1963 in another, and his birth year is 1921 or 1923;
+Bicar's page said he became a professor at the Faculty of Fine Arts in Cairo (accounts of his teaching
+conflict) and gave his birth year as 1913 where two sources say 1912; Aflatoun's page said she was educated
+at the French Lycée (not confirmed) and gave her release as July 1963 (Al Jazeera says 1962); Abdessemed's
+page said *Coup de tête* was removed "within weeks" and first shown at the Centre Pompidou (neither
+confirmed); Boghossian's page said he moved to the United States in 1969 (not confirmed); Hazoumè's page
+said he took part in documenta 12 (no source) and described his upbringing (not found); Feni's page said he
+grew up in the Eastern Cape and was largely self-taught (sources say he trained at the Jubilee Art Centre),
+and its *African Guernica* entry now carries the Museo Reina Sofía show of 2026; Malangatana's arrest date
+and the length of his imprisonment differ between sources and the page says so.
+
 **Batch 7.** Kwame Akoto-Bamfo†, Nnenna Okore†, J. H. Pierneef†, Uche Okeke†, Aina Onabolu†,
 Samuel Fosso†, Effat Nagy†, Mohammed Khadda, Peter Magubane, Farid Belkahia.
 

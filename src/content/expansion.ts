@@ -103,6 +103,16 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
         ],
         alsoRevised: [],
     },
+    {
+        // Batch 6. Nobody was promoted: Adel Abdessemed, Skunder Boghossian, George Lilanga, Romuald Hazoumè and
+        // Dumile Feni stay short, because the sources ran out at 310 to 430 words.
+        date: '2026-10-28',
+        expanded: [
+            'malangatana', 'adam-henein', 'seydou-keita', 'hussein-bicar', 'adel-abdessemed', 'inji-aflatoun',
+            'skunder-boghossian', 'ghada-amer', 'george-lilanga', 'romuald-hazoume', 'dumile-feni',
+        ],
+        alsoRevised: [],
+    },
 ];
 
 /**

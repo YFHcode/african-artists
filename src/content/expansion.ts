@@ -123,6 +123,35 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
         ],
         alsoRevised: [],
     },
+    {
+        // Batch 8. Twenty-one short profiles enriched with sourced detail and a "where to see" section; all stay short
+        // (322 to 425 words in English), none promoted.
+        date: '2026-10-28',
+        expanded: [],
+        alsoRevised: [
+            'artists/hassan-hajjaj',
+            'artists/boniface-mwangi',
+            'artists/nzante-spee',
+            'artists/amon-kotei',
+            'artists/kofi-antubam',
+            'artists/mohamed-mrabet',
+            'artists/augustus-washington',
+            'artists/bachir-yelles',
+            'artists/anna-boghiguian',
+            'artists/cheri-cherin',
+            'artists/mohamed-hamidi',
+            'artists/coert-steynberg',
+            'artists/anton-hammerl',
+            'artists/wael-shawky',
+            'artists/james-barnor',
+            'artists/zwelethu-mthethwa',
+            'artists/youssef-nabil',
+            'artists/zoubeir-turki',
+            'artists/el-seed',
+            'artists/mohamed-maradji',
+            'artists/ahmed-umar',
+        ],
+    },
 ];
 
 /**

@@ -226,6 +226,24 @@ Kotei, Kofi Antubam, Mohamed Mrabet, Augustus Washington, Bachir Yellès, Anna B
 Chérin, Mohamed Hamidi, Coert Steynberg, Anton Hammerl, Wael Shawky, James Barnor, Zwelethu
 Mthethwa, Youssef Nabil, Zoubeir Turki, eL Seed, Mohamed Maradji, Ahmed Umar.
 
+Written and published on `main` on 28 October 2026. All 21 stay short, between 322 and 425 words in
+English, each with a "How to look" paragraph (the site's own reading) and, where sources allow, a
+"Where to see the work" section; none was promoted. The source check corrected older pages: Hajjaj's
+move to London is 1973 in one profile and 1975 in another, and his museum shows are worded as one
+profile's list; Mwangi's CNN award is 2008 and 2010, and PAWA254 is dated 2010 or 2012; Spee's
+training dates (Nigeria 1976 to 1979, Abidjan to 1982), his Bastos Prize (1984) and place of death
+(Stockton) are sourced; Kotei's birth and death dates and the Grand Medal (7 March 1997) are sourced
+and accounts of the final approval are shown as differing; Antubam's birth year (1922 or 1923) and
+place of death are shown as uncertain; Mrabet's unconfirmed 1969 date for *The Lemon* was removed;
+Washington's "senator" was dropped (he was Speaker of the House, 1865 to 1869); Yellès's directorship
+is dated from one biography and an unconfirmed museum holding was left out; Boghiguian's *The Salt
+Traders* was left out as unconfirmed; Chérin's Cartier show and Landry Mulala link were dropped;
+Steynberg's "later abstraction" was dropped; Hammerl's page no longer says his passport was held or
+that the ICC dropped the case; Shawky's Mecca childhood was removed; Barnor's colour laboratory is
+now "helped found", with the 1969 Agfa-Gevaert return; and Mthethwa, Nabil, Turki, eL Seed, Maradji
+and Umar gained sourced education, exhibitions and collection details, with differences between
+sources stated.
+
 **Batch 9: known mainly for something else (smaller edits).** W. E. B. Du Bois, Leni Riefenstahl,
 Foday Sankoh, Hamza Yassin, Ntare Mwine, Breyten Breytenbach, Frank Edoho, TY Bello, Caleb
 Azumah Nelson, Caleb Femi, Mahjoubi Aherdane, Rabah Driassa, Tahar Ben Jelloun, Farida of Egypt.

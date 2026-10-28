@@ -10,4 +10,12 @@ Ahmed Umar was born in Sudan in 1988 and grew up in a religious, conservative fa
 
 He studied at the Oslo National Academy of the Arts, taking a bachelor's degree in printmaking and then a master's in fine art in 2016. His work moves between materials: ceramics, embroidered and woven textiles, jewellery, prints, photographs and performances. Much of it draws on Sudanese culture, from the wedding traditions and crafts he grew up with to the Black pharaohs of the ancient kingdom of Kush, and uses them to tell personal stories about faith, desire, family and exile.
 
-His work has been shown widely in Norway and internationally, including at the 2024 Venice Biennale, *Foreigners Everywhere*, and it is in the collections of Norway's National Museum and other public collections. See our list of [Sudanese artists](/artists/country/sudan) and the Sudanese modernist [Ibrahim El-Salahi](/artists/ibrahim-el-salahi).
+His work has been shown widely in Norway and internationally, including at the 2024 Venice Biennale, *Foreigners Everywhere*, where it was his first time at the Biennale Arte, and the National Museum in Oslo bought his *Glowing Phalanges* sculptures in 2024. He was among the four nominees for the Lorck Schive Art Award in 2023, and Frieze listed him among ten artists to watch in 2025.
+
+In Venice he showed *Talitin, The Third* (2023), which enacts a Sudanese bridal dance that traditionally ends weeklong wedding celebrations.
+
+How to look at an Umar: touch is the subject. The sculptures are assembled from skin, wood, plaster and antique amulets, and the textiles carry hand work, so go close and read the materials as you would a text. That reading is this site's own.
+
+## Where to see the work
+
+The National Museum in Oslo holds the *Glowing Phalanges* works, and Oslo Contemporary represents him. Check each for what is on view. See our list of [Sudanese artists](/artists/country/sudan) and the Sudanese modernist [Ibrahim El-Salahi](/artists/ibrahim-el-salahi).

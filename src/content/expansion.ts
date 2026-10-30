@@ -152,6 +152,28 @@ export const EXPANSION_BATCHES: { date: string; expanded: string[]; alsoRevised:
             'artists/ahmed-umar',
         ],
     },
+    {
+        // Batch 9. Fourteen profiles of people known mainly for something else, corrected and given sourced detail. All
+        // stay short; five end below 300 words in English because the sources ran out and padding is worse.
+        date: '2026-10-30',
+        expanded: [],
+        alsoRevised: [
+            'artists/web-du-bois',
+            'artists/leni-riefenstahl',
+            'artists/foday-sankoh',
+            'artists/hamza-yassin',
+            'artists/ntare-mwine',
+            'artists/breyten-breytenbach',
+            'artists/frank-edoho',
+            'artists/ty-bello',
+            'artists/caleb-azumah-nelson',
+            'artists/caleb-femi',
+            'artists/mahjoubi-aherdane',
+            'artists/rabah-driassa',
+            'artists/tahar-ben-jelloun',
+            'artists/farida-of-egypt',
+        ],
+    },
 ];
 
 /**

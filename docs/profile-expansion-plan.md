@@ -248,6 +248,20 @@ sources stated.
 Foday Sankoh, Hamza Yassin, Ntare Mwine, Breyten Breytenbach, Frank Edoho, TY Bello, Caleb
 Azumah Nelson, Caleb Femi, Mahjoubi Aherdane, Rabah Driassa, Tahar Ben Jelloun, Farida of Egypt.
 
+Written and published on `main` on 30 October 2026. All 14 stay short, between 225 and 432 words in
+English, and none was promoted; TY Bello (225), Frank Edoho (237), Caleb Azumah Nelson (230), Hamza
+Yassin (255) and Caleb Femi (255) end below 300 because the sources ran out. Where a person has no
+published photographs or paintings that we could find (Edoho, Yassin, Nelson), the page says so rather
+than pointing to work that cannot be seen. The source check corrected older pages: Riefenstahl's
+"honorary Sudanese citizenship" and "books banned in Sudan" had no source and were removed, and the
+Berlin *Nuba Images* project replaces the vaguer "German-Sudanese project"; Du Bois's photograph count
+varies from about 360 to 500 and the medal's recipient differs by source; Sankoh's prison term is six
+or seven years; TY Bello's *Greenland* album and date were dropped; Nelson's Palm Photo Prize was
+dropped; Femi's Forward Prize is shown as shortlisted with listings differing; Aherdane's Nice 1947
+anecdote and Versailles and London shows were dropped and his birth year is 1921 or 1920; Ben
+Jelloun's 2017 Institut du monde arabe show is now "first in a French institution" rather than museum;
+Farida's years abroad, Sufi inspiration and United States shows were replaced by the Mathaf account.
+
 **Every batch ends the same way:**
 
 1. Tests, build and crawl pass.

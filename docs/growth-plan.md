@@ -3,7 +3,8 @@
 *31 October 2026. Keyword data from Semrush (US database unless a market is named: UK, France,
 Brazil, Portugal, Spain, Mexico, Egypt, Nigeria, South Africa), pulled the same day through the
 Semrush connector — about 14,000 API units in all — plus the owner's Search Console export of
-17 October. Earlier findings are in [competitor-research-2026-10.md](competitor-research-2026-10.md).*
+17 October. Earlier findings are in [competitor-research-2026-10.md](competitor-research-2026-10.md);
+the batch-by-batch schedule with each page's keywords is in [content-batches.md](content-batches.md).*
 
 **How to read the numbers.** *Volume* is average monthly searches. *KD* is Semrush's keyword
 difficulty, 0–100: under 30 is realistic for a young site with good pages; 30–50 needs strong
@@ -128,7 +129,7 @@ Very large demand, much of it in Brazil, Mexico and Egypt.
 |---|---:|---:|---|
 | ankh | 49,500 | 31 | Plus *ankh symbol* 9,900 (KD 27) |
 | eye of horus | 40,500 | 50 | Easier in other languages (below) |
-| sankofa | 12,100 | 47 | Plus *sankofa symbol* 1,300 (KD 21) |
+| sankofa | 12,100 | 47 | Shared with a person's name: target *sankofa meaning* 3,600 (KD 28) and *sankofa symbol* 1,300 (KD 21) |
 | adinkra symbols | 9,900 | 31 | **Page exists** — plus *adinkra symbols and meanings* 2,400 (KD 21) |
 | gye nyame | 2,400 | 19 | Plus *gye nyame symbol* 880 (KD 25) |
 | african symbols | 1,900 | 28 | The hub; plus *african symbols and meanings* 480 |
@@ -154,7 +155,7 @@ Huge demand, low difficulty in places, and the most natural home for affiliate r
 | Query | Volume | KD | Note |
 |---|---:|---:|---|
 | dashiki | 22,200 | 15 | |
-| ankara | 22,200 | 52 | Plus *ankara fabric* 2,900 (KD 47) |
+| ankara fabric | 2,900 | 47 | *ankara* alone (22,200) is mostly the Turkish city |
 | kente cloth | 12,100 | 47 | **Page exists** |
 | kanga | 12,100 | 49 | Mixed meanings |
 | gele | 2,900 | 38 | Head-tie; plus *african head wrap* 590 |
@@ -272,7 +273,7 @@ New genre pages:
 | kwaito | 320 | 40 | **South Africa 1,900** |
 | juju music, mbaqanga, fuji music | 260 / 210 / 210 | 35 / 40 / 28 | |
 | coupé-décalé, bongo flava, taarab, benga music | 170 / 170 / 140 / 110 | 37 / 36 / 20 / 26 | |
-| mbalax | not checked | | France 320 (KD 36) |
+| mbalax (page exists) | not checked | | France 320 (KD 36) |
 
 Legends (profiles): Fela Kuti 18,100 (KD 72) · Miriam Makeba 6,600 (60) · Angélique Kidjo 5,400 (77)
 · Tinariwen 4,400 (73) · Ladysmith Black Mambazo 4,400 (46) · Hugh Masekela 3,600 (62) · Cesária
@@ -398,7 +399,7 @@ titles should say "painters, sculptors and photographers".
 | 3 | Mbira | 4,400 / 47 | BR 590 | EN FR PT | Affiliate |
 | 4 | African musical instruments (hub) | 2,400 / 28 (×2) | BR 4,400 · FR 1,000 | all 5 | Ads |
 | 5 | Adinkra dictionary (upgrade) + printable chart | 9,900 / 31 + 2,400 / 21 | BR 6,600 + 2,900 · UK 2,400 | all 5 | Email sign-ups, prints |
-| 6 | Sankofa | 12,100 / 47 | BR 12,100 / 29 · UK 1,600 · MX 1,000 | EN PT ES FR | Ads, prints |
+| 6 | Sankofa | *sankofa meaning* 3,600 / 28 (head term shared with a person's name) | BR 12,100 / 29 · UK 1,600 · MX 1,000 | EN PT ES FR | Ads, prints |
 | 7 | Ankh | 49,500 / 31 | UK 8,100 · BR 6,600 · EG 6,600 · FR 4,400 · MX 2,900 | all 5 | Ads |
 | 8 | Dashiki | 22,200 / 15 | UK 2,400 | EN FR | Fashion affiliate |
 | 9 | Kora | 3,600 / 30 | FR 22,200 (mixed) | EN FR | Ads, affiliate |
@@ -415,7 +416,7 @@ titles should say "painters, sculptors and photographers".
 | 20 | Boubou | 2,400 / 27 | **FR 9,900 / 23** | FR EN | Affiliate |
 | 21 | Kente stoles: meaning and buying an authentic one | 1,900 / **5** (CPC $2.74) | — | EN | Affiliate (publish by March) |
 | 22 | Agbada, gele, aso oke, adire, aso ebi | 2,900 / 32 · 2,900 / 38 · 1,000 / 27 · 1,000 / 36 | NG: aso oke 3,600 · adire 3,600 · agbada 2,900 · gele 2,400 · aso ebi 2,400 | EN | Affiliate |
-| 23 | Wax print and ankara (with Vlisco) | *ankara* 22,200 / 52 · *african fabric* 1,900 / 31 | FR *tissu wax* 2,400 · *pagne* 1,900 | EN FR PT | Affiliate |
+| 23 | Wax print and ankara (with Vlisco) | *ankara fabric* 2,900 / 47 · *african fabric* 1,900 / 31 | FR *tissu wax* 2,400 · *pagne* 1,900 | EN FR PT | Affiliate |
 | 24 | Gorée Island and the House of Slaves | 3,600 / 42 + 1,300 / 44 | FR 1,600 | EN FR | Tours |
 | 25 | Jardin Majorelle, the YSL Museum and MACAAL: Marrakech for art lovers | 4,400 / 49 + 590 / 43 | **FR 22,200 + 2,400** | FR EN | Tickets, tours |
 | 26 | Smithsonian National Museum of African Art | 3,600 / 33 | — | EN | — |

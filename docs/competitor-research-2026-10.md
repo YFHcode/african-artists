@@ -184,3 +184,6 @@ marocain 390, chéri samba 320.
    Foundation, Liberia, the Uganda Museum, MACAAL, the YSL Museum in Marrakech; the Grand Egyptian
    Museum is large but hard (KD 68).
 5. Retitle the Cairo page for "Egyptian Museum of Modern Art", the form people search.
+
+The full plan built on this data — keyword clusters, the next 30 pages, markets, features, links
+and monetisation — is in [growth-plan.md](growth-plan.md).

@@ -22,7 +22,7 @@ Il rentre au Nigeria avec une ambition claire : créer un art moderne qui ne soi
 
 Deux commandes des années 1950 assoient sa réputation.
 
-*Anyanwu*, une figure de bronze élancée inspirée de la cosmologie igbo, est réalisée en 1954-1955 pour le Musée national du Nigeria à Lagos, qui ouvre en 1956 alors que le pays marche vers l'indépendance. *Anyanwu* est le mot igbo pour le soleil. Elle devient un symbole de la nouvelle nation et se dresse toujours devant le musée. En 1966, le gouvernement nigérian en offre un tirage aux Nations unies, à New York.
+*Anyanwu*, une figure de bronze élancée inspirée de la cosmologie igbo, est réalisée en 1954-1955 pour le Musée national du Nigeria à Lagos, qui ouvre en 1957 alors que le pays marche vers l'indépendance. *Anyanwu* est le mot igbo pour le soleil. Elle devient un symbole de la nouvelle nation et se dresse toujours devant le musée. En 1966, le gouvernement nigérian en offre un tirage aux Nations unies, à New York.
 
 Lors de sa visite au Nigeria en 1956, la reine Elisabeth II commande à Enwonwu un portrait sculpté. Les séances commencent à Buckingham Palace en mars 1957, et elle pose douze fois en tout ; il achève l'œuvre à Londres et la présente à la Royal Society of British Artists en novembre 1957. Il est aussi nommé MBE.
 
@@ -38,7 +38,7 @@ Son précédent record aux enchères, 361 250 £ chez Bonhams en mai 2013, conce
 
 ## Où voir l'œuvre
 
-*Anyanwu* se dresse devant le Musée national de Lagos, et le tirage offert aux Nations unies se trouve à leur siège, à New York. Google Arts & Culture présente *Anyanwu* et une première esquisse de la reine prise sur le vif par Enwonwu, ce qui en fait un bon point de départ depuis chez soi.
+*Anyanwu* se dresse devant le [Musée national de Lagos](/museums/nigerian-national-museum), et le tirage offert aux Nations unies se trouve à leur siège, à New York. Google Arts & Culture présente *Anyanwu* et une première esquisse de la reine prise sur le vif par Enwonwu, ce qui en fait un bon point de départ depuis chez soi.
 
 ## Pourquoi il compte
 

@@ -120,6 +120,8 @@ function Regions({ locale }: { locale: Locale }) {
 export default async function Home({ params }: PageProps<'/[locale]'>) {
     const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
+    // Museum pages exist in only some editions; the section shows where there are enough of them.
+    const museums = listArticles(locale, 'museums').map((a) => a.entry.slug);
 
     return (
         <>
@@ -183,6 +185,9 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
             </section>
 
             <Regions locale={locale} />
+            {museums.length >= 3 && (
+                <Section locale={locale} collection="museums" title={t.home.museumsTitle} more={t.home.museumsMore} slugs={museums.slice(0, 6)} />
+            )}
             <Section locale={locale} collection="movements" title={t.home.movementsTitle} more={t.home.movementsMore} slugs={FEATURED.movements} />
             <Section locale={locale} collection="music" title={t.home.musicTitle} more={t.home.musicMore} slugs={FEATURED.music} />
             <Section locale={locale} collection="guides" title={t.home.guidesTitle} more={t.home.guidesMore} />

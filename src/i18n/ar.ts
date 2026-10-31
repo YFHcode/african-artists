@@ -16,6 +16,7 @@ const ar: Dictionary = {
         regions: 'المناطق',
         music: 'الموسيقى',
         guides: 'أدلة',
+        museums: 'المتاحف',
         buy: 'اشترِ هذا النطاق',
         menu: 'القائمة',
         language: 'اللغة',
@@ -44,6 +45,8 @@ const ar: Dictionary = {
         musicMore: 'كل الأنواع الموسيقية',
         guidesTitle: 'أدلة',
         guidesMore: 'كل الأدلة',
+        museumsTitle: 'متاحف تستحق الزيارة',
+        museumsMore: 'كل المتاحف',
         saleTitle: 'امتلك AfricanArtists.com',
         saleText:
             'نطاق ‎.com من كلمتين يسمّي فئة إبداعية كاملة — فنانو أفريقيا وموسيقيوها ومهجرها. جاهز لصالة عرض أو شركة إنتاج موسيقي أو منصّة تسويق أو مؤسسة.',
@@ -77,6 +80,7 @@ const ar: Dictionary = {
         country: 'البلد',
         disciplines: 'المجالات',
         links: 'للاستزادة',
+        website: 'الموقع الرسمي',
         lists: 'قوائم الفنانين',
     },
     media: {

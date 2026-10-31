@@ -30,7 +30,7 @@ export function searchIndex(locale: Locale): SearchEntry[] {
     const dataByQid = new Map(allDataArtists().map((a) => [a.qid, a]));
 
     // Our own pages, profiles first in the file so ties rank them above the rest.
-    const collections: Collection[] = ['artists', 'art-forms', 'movements', 'regions', 'music', 'guides'];
+    const collections: Collection[] = ['artists', 'art-forms', 'movements', 'regions', 'music', 'guides', 'museums'];
     for (const collection of collections) {
         for (const entry of CATALOG.filter((e) => e.collection === collection && isAvailable(e, locale))) {
             const article = getArticle(locale, collection, entry.slug)!;

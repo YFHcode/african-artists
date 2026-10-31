@@ -43,4 +43,4 @@ Desde os anos 1990, os padrões do bogolan espalharam-se pela moda e pela decora
 
 ## Relacionados
 
-O bogolan junta-se aos outros grandes panos da região — o [kente](/art-forms/kente-cloth) e o [adinkra](/art-forms/adinkra-symbols) do Gana — no nosso guia dos [têxteis africanos](/art-forms/african-textiles). As fotografias de Bamaco de [Malick Sidibé](/artists/malick-sidibe) mostram como se vestiam os jovens malianos nas décadas em que o bogolan se reinventava. Para a região no seu conjunto, veja a [arte da África Ocidental](/regions/west-africa).
+O bogolan junta-se aos outros grandes panos da região — o [kente](/art-forms/kente-cloth) e o [adinkra](/art-forms/adinkra-symbols) do Gana — no nosso guia dos [têxteis africanos](/art-forms/african-textiles). As fotografias de Bamaco de [Malick Sidibé](/artists/malick-sidibe) mostram como se vestiam os jovens malianos nas décadas em que o bogolan se reinventava. Para a região no seu conjunto, veja a [arte da África Ocidental](/regions/west-africa). Em Bamaco, o Museu Nacional do Mali dedica uma sala permanente aos têxteis.

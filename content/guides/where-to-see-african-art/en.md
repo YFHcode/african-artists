@@ -10,18 +10,21 @@ summary: The leading museums for modern and contemporary African art on the cont
 
 | Museum | City | Opened | Why go |
 |---|---|---|---|
-| **Zeitz MOCAA** (Zeitz Museum of Contemporary Art Africa) | Cape Town, South Africa | September 2017 | Contemporary art from Africa and its diaspora, in a 1920s grain silo hollowed out by Heatherwick Studio |
+| **[Zeitz MOCAA](/museums/zeitz-mocaa)** (Zeitz Museum of Contemporary Art Africa) | Cape Town, South Africa | September 2017 | Contemporary art from Africa and its diaspora, in a 1920s grain silo hollowed out by Heatherwick Studio |
 | **Norval Foundation** | Cape Town, South Africa | 2018 | Modern and contemporary South African art and a sculpture garden |
 | **Iziko South African National Gallery** | Cape Town, South Africa | — | South Africa's national collection |
 | **Johannesburg Art Gallery** | Johannesburg, South Africa | 1910 | One of the largest collections on the continent |
-| **Museum of Black Civilisations** | Dakar, Senegal | 6 December 2018 | A vast circular museum realising Senghor's vision of a museum of Black cultures worldwide |
-| **Théodore Monod Museum of African Art (IFAN)** | Dakar, Senegal | — | Historical West African art and objects |
-| **National Museum of Nigeria** | Lagos, Nigeria | 1957 | Historical Nigerian art; [Ben Enwonwu](/artists/ben-enwonwu)'s *Anyanwu* stands outside |
-| **National Museum of Mali** | Bamako, Mali | — | West African archaeology, textiles and photography |
+| **[Museum of Black Civilisations](/museums/museum-of-black-civilisations)** | Dakar, Senegal | 6 December 2018 | A vast circular museum realising Senghor's vision of a museum of Black cultures worldwide |
+| **[Théodore Monod Museum of African Art (IFAN)](/museums/theodore-monod-museum)** | Dakar, Senegal | — | Historical West African art and objects |
+| **[National Museum of Nigeria](/museums/nigerian-national-museum)** | Lagos, Nigeria | 1957 | Historical Nigerian art; [Ben Enwonwu](/artists/ben-enwonwu)'s *Anyanwu* stands outside |
+| **[Benin City National Museum](/museums/benin-city-national-museum)** | Benin City, Nigeria | 1973 | Art of the Kingdom of Benin, in the city where the bronzes were made |
+| **[National Museum of Ghana](/museums/national-museum-of-ghana)** | Accra, Ghana | March 1957 | Asante stools, archaeology and Ghanaian art, in a domed building of 1957 |
+| **[National Museum of Mali](/museums/national-museum-of-mali)** | Bamako, Mali | — | West African archaeology, textiles and photography |
 | **Nairobi National Museum** | Nairobi, Kenya | — | Kenyan history, culture and contemporary art |
-| **Mohammed VI Museum of Modern and Contemporary Art (MMVI)** | Rabat, Morocco | October 2014 | Moroccan modern art, including the [Casablanca School](/movements/casablanca-school) |
+| **[National Museum of Ethiopia](/museums/national-museum-of-ethiopia)** | Addis Ababa, Ethiopia | — | Lucy and Selam (casts), Aksumite archaeology and Ethiopian painting |
+| **[Mohammed VI Museum of Modern and Contemporary Art (MMVI)](/museums/mohammed-vi-museum)** | Rabat, Morocco | October 2014 | Moroccan modern art, including the [Casablanca School](/movements/casablanca-school) |
 | **MACAAL** (Museum of African Contemporary Art Al Maaden) | Marrakech, Morocco | 2016 | Contemporary art from across Africa |
-| **Museum of Egyptian Modern Art** | Cairo, Egypt | — | Egyptian painting and sculpture since the early 20th century, including [Mahmoud Saïd](/artists/mahmoud-said); the Mahmoud Mokhtar Museum nearby shows the work of the sculptor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
+| **[Museum of Egyptian Modern Art](/museums/museum-of-modern-egyptian-art)** | Cairo, Egypt | — | Egyptian painting and sculpture since the early 20th century, including [Mahmoud Saïd](/artists/mahmoud-said); the Mahmoud Mokhtar Museum nearby shows the work of the sculptor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
 | **Grand Egyptian Museum** | Giza, Egypt | November 2025 | Ancient Egyptian art, including the treasures of Tutankhamun |
 
 Dates marked "—" are older institutions whose collections have grown over decades. Opening hours and temporary closures change; check before you go.
@@ -45,3 +48,5 @@ Many historical objects in European and American museums were taken during the c
 ## Related
 
 To see new work rather than collections, time your trip with one of the [African art fairs and biennales](/guides/african-art-fairs-and-biennales). To buy, read [how to buy African art](/guides/how-to-buy-african-art). And for the women whose work features in many of these collections, see [African women artists](/guides/african-women-artists).
+
+For a full guide to each museum in Africa — its history, collection and artists — see [museums in Africa](/museums).

@@ -36,7 +36,7 @@ Em 1997 concluiu *Quel avenir pour notre art ?*, um grande tríptico em que ele 
 
 ## Onde ver a obra
 
-O Centro Pompidou, o Museum of Modern Art e a Fondation Cartier possuem a sua obra, e o Zeitz MOCAA, na Cidade do Cabo, inclui-o entre os seus artistas; pergunte a cada um quais os quadros expostos. A exposição do Musée Maillol terminou.
+O Centro Pompidou, o Museum of Modern Art e a Fondation Cartier possuem a sua obra, e o [Zeitz MOCAA](/museums/zeitz-mocaa), na Cidade do Cabo, inclui-o entre os seus artistas; pergunte a cada um quais os quadros expostos. A exposição do Musée Maillol terminou.
 
 ## Porque é importante
 

@@ -47,4 +47,4 @@ A Etiópia tem também uma forte tradição de tecelagem: panos de algodão bran
 
 ## Relacionados
 
-A arte etíope faz parte da história mais vasta da [arte da África Oriental](/regions/east-africa) e da nossa [breve história da arte africana](/guides/african-art-history). Do outro lado da fronteira, o sudanês [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) construiu uma arte moderna a partir de outro encontro entre tradições africanas, árabes e religiosas.
+A arte etíope faz parte da história mais vasta da [arte da África Oriental](/regions/east-africa) e da nossa [breve história da arte africana](/guides/african-art-history). Do outro lado da fronteira, o sudanês [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) construiu uma arte moderna a partir de outro encontro entre tradições africanas, árabes e religiosas. Em Adis Abeba, o Museu Nacional da Etiópia mostra a pintura etíope, dos primeiros pergaminhos aos mestres modernos.

@@ -47,4 +47,4 @@ L'Éthiopie a aussi une forte tradition de tissage : des étoffes de coton blanc
 
 ## À lire aussi
 
-L'art éthiopien s'inscrit dans l'histoire plus large de l'[art d'Afrique de l'Est](/regions/east-africa) et dans notre [brève histoire de l'art africain](/guides/african-art-history). De l'autre côté de la frontière, le Soudanais [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) a bâti un art moderne à partir d'une autre rencontre entre traditions africaines, arabes et religieuses.
+L'art éthiopien s'inscrit dans l'histoire plus large de l'[art d'Afrique de l'Est](/regions/east-africa) et dans notre [brève histoire de l'art africain](/guides/african-art-history). De l'autre côté de la frontière, le Soudanais [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) a bâti un art moderne à partir d'une autre rencontre entre traditions africaines, arabes et religieuses. À Addis-Abeba, le [Musée national d'Éthiopie](/museums/national-museum-of-ethiopia) montre la peinture éthiopienne, des premiers parchemins aux maîtres modernes.

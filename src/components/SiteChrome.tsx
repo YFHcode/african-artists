@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 import { SearchBox } from '@/components/SearchBox';
 import type { Dictionary } from '@/i18n';
-import { partialEditions } from '@/content/catalog';
+import { entriesIn, isAvailable, partialEditions } from '@/content/catalog';
 import { LOCALES, LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 
 /** The for-sale strip above the header, on every page: the site's commercial purpose, stated once and plainly. */
@@ -37,10 +37,20 @@ function Wordmark({ locale }: { locale: Locale }) {
     );
 }
 
-const NAV = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides'] as const;
+const NAV = ['art-forms', 'artists', 'movements', 'regions', 'museums', 'music', 'guides'] as const;
+
+/**
+ * The header leaves out a collection that is still thin in an edition (the
+ * museum pages start in English and French): its index stays reachable from
+ * the footer and from the pages that link to it.
+ */
+const HEADER_MIN_ARTICLES = 3;
 
 export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
-    const links = NAV.map((key) => ({ href: localePath(locale, `/${key}`), label: t.nav[key] }));
+    const links = NAV.filter((key) => entriesIn(key).filter((e) => isAvailable(e, locale)).length >= HEADER_MIN_ARTICLES).map((key) => ({
+        href: localePath(locale, `/${key}`),
+        label: t.nav[key],
+    }));
     // The few pages that exist in only some editions; computed at build time.
     const partial = partialEditions();
 

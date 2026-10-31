@@ -40,7 +40,7 @@ Around independence, artists across the continent asked what a modern African ar
 
 ## Contemporary African art
 
-Since the 1990s, artists from Africa and its diaspora have moved to the centre of the international art world, through biennales in Dakar, Bamako and Johannesburg, landmark exhibitions, new museums such as Zeitz MOCAA, and artists such as [El Anatsui](/artists/el-anatsui), [Wangechi Mutu](/artists/wangechi-mutu) and the photographers of [African photography](/art-forms/african-photography). See [contemporary African art](/guides/contemporary-african-art).
+Since the 1990s, artists from Africa and its diaspora have moved to the centre of the international art world, through biennales in Dakar, Bamako and Johannesburg, landmark exhibitions, new museums such as [Zeitz MOCAA](/museums/zeitz-mocaa), and artists such as [El Anatsui](/artists/el-anatsui), [Wangechi Mutu](/artists/wangechi-mutu) and the photographers of [African photography](/art-forms/african-photography). See [contemporary African art](/guides/contemporary-african-art).
 
 ## A note on the label
 

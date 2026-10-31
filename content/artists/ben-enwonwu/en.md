@@ -22,7 +22,7 @@ He returned to Nigeria with a clear ambition: to make modern art that was neithe
 
 Two commissions in the 1950s fixed his reputation.
 
-*Anyanwu*, an elongated bronze figure drawing on Igbo cosmology, was made in 1954–55 for the Nigerian National Museum in Lagos, which opened in 1956 as the country moved towards independence. *Anyanwu* is the Igbo word for the sun. It became a symbol of the new nation and still stands outside the museum. In 1966 the Nigerian government presented a cast of it to the United Nations in New York.
+*Anyanwu*, an elongated bronze figure drawing on Igbo cosmology, was made in 1954–55 for the Nigerian National Museum in Lagos, which opened in 1957 as the country moved towards independence. *Anyanwu* is the Igbo word for the sun. It became a symbol of the new nation and still stands outside the museum. In 1966 the Nigerian government presented a cast of it to the United Nations in New York.
 
 During her 1956 visit to Nigeria, Queen Elizabeth II commissioned a portrait sculpture from Enwonwu. The sittings began at Buckingham Palace in March 1957, and she sat for him twelve times in all; he completed the work in London and showed it at the Royal Society of British Artists in November 1957. He was also appointed MBE.
 
@@ -38,7 +38,7 @@ His previous auction record, £361,250 at Bonhams in May 2013, was for a set of 
 
 ## Where to see the work
 
-*Anyanwu* stands outside the National Museum in Lagos, and the cast presented to the United Nations is at its headquarters in New York. Google Arts & Culture shows *Anyanwu* and a first live sketch of the Queen by Enwonwu, which makes it a good place to start from home.
+*Anyanwu* stands outside the [National Museum in Lagos](/museums/nigerian-national-museum), and the cast presented to the United Nations is at its headquarters in New York. Google Arts & Culture shows *Anyanwu* and a first live sketch of the Queen by Enwonwu, which makes it a good place to start from home.
 
 ## Why he matters
 

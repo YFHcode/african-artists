@@ -17,10 +17,11 @@
 import { LOCALES, type Locale } from '../lib/i18n.ts';
 import { EXPANSION_BATCHES } from './expansion.ts';
 import { type Medium, hubPath, releasedHubs } from './hubs.ts';
+import { MUSEUMS, MUSEUMS_RELEASE } from './museums.ts';
 import { ORIGINAL_ARTISTS, ROSTER, type RosterEntry } from './roster.ts';
 import { isReleased, releaseDate } from './waves.ts';
 
-export const COLLECTIONS = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides'] as const;
+export const COLLECTIONS = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides', 'museums'] as const;
 export type Collection = (typeof COLLECTIONS)[number];
 
 export type CountryCode =
@@ -63,6 +64,8 @@ export interface Entry {
     /** Artists: a researched profile, or a short one with generated facts (roster.ts). */
     kind?: 'full' | 'short';
     media?: Medium[];
+    /** Museums: what the Museum schema and the further-reading links need (museums.ts). */
+    museum?: { city: string; website?: string; wikipedia?: string };
 }
 
 const LAUNCH = '2026-10-07';
@@ -242,6 +245,22 @@ const WAVE_ARTICLES: { wave: number; make: (published: string) => Entry }[] = [
 ];
 for (const { wave, make } of WAVE_ARTICLES) if (isReleased(wave)) CATALOG.push(make(releaseDate(wave)));
 
+CATALOG.push(
+    ...MUSEUMS.map((m) => ({
+        ...entry('museums', m.slug, [m.country], m.opened, m.related, MUSEUMS_RELEASE),
+        locales: m.locales,
+        museum: { city: m.city, website: m.website, wikipedia: m.wikipedia },
+    }))
+);
+
+/** Existing articles whose text gained links to the museum pages. */
+const REVISED_FOR_MUSEUMS: string[] = [
+    'guides/where-to-see-african-art', 'guides/african-art-fairs-and-biennales', 'guides/contemporary-african-art', 'guides/african-art-history',
+    'art-forms/benin-bronzes', 'art-forms/mudcloth', 'art-forms/ethiopian-art', 'regions/southern-africa',
+    'artists/ben-enwonwu', 'artists/kofi-antubam', 'artists/cheri-samba', 'artists/afewerk-tekle',
+    'artists/chaibia-talal', 'artists/hassan-el-glaoui', 'artists/mahmoud-said', 'artists/adam-henein',
+];
+
 /** Existing articles whose text a wave changed (new links to its pages), so their dates say so. */
 const REVISED_IN_WAVE: Record<number, string[]> = {
     1: [
@@ -284,6 +303,9 @@ for (const { date, expanded, alsoRevised } of EXPANSION_BATCHES) {
     const keys = [...expanded.map((slug) => `artists/${slug}`), ...alsoRevised];
     for (const e of CATALOG) if (keys.includes(entryKey(e)) && date > e.updated) e.updated = date;
 }
+
+// After the waves and batches above, which set dates of their own.
+for (const e of CATALOG) if (REVISED_FOR_MUSEUMS.includes(entryKey(e)) && MUSEUMS_RELEASE > e.updated) e.updated = MUSEUMS_RELEASE;
 
 export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {
     return `${entry.collection}/${entry.slug}`;
@@ -341,6 +363,7 @@ export const STATIC_PAGES: { path: string; index: boolean; updated: string; list
     { path: '/regions', index: true, updated: EXPANSION, lists: ['regions'] },
     { path: '/music', index: true, updated: LAUNCH, lists: ['music'] },
     { path: '/guides', index: true, updated: EXPANSION, lists: ['guides'] },
+    { path: '/museums', index: true, updated: MUSEUMS_RELEASE, lists: ['museums'] },
     { path: '/about', index: true, updated: EXPANSION },
     { path: '/privacy', index: true, updated: LAUNCH },
 ];

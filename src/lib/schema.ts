@@ -1,3 +1,4 @@
+import { wikipediaArticleUrl } from '@/content/museums';
 import { type Picture, isPublicDomain } from '@/lib/artist-images';
 import type { Article } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
@@ -113,6 +114,17 @@ export function articleSchema(article: Article, path: string, person?: PersonFac
                       ...(person?.birthDate ? { birthDate: person.birthDate } : {}),
                       ...(person?.deathDate ? { deathDate: person.deathDate } : {}),
                       ...(person?.image ? { image: imageObject(person.image, article.label) } : {}),
+                  },
+              }
+            : {}),
+        ...(article.entry.museum
+            ? {
+                  about: {
+                      '@type': 'Museum',
+                      name: article.label,
+                      address: { '@type': 'PostalAddress', addressLocality: article.entry.museum.city, addressCountry: article.entry.countries[0] },
+                      ...(article.entry.museum.website ? { url: article.entry.museum.website } : {}),
+                      ...(article.entry.museum.wikipedia ? { sameAs: [wikipediaArticleUrl(article.entry.museum.wikipedia)] } : {}),
                   },
               }
             : {}),

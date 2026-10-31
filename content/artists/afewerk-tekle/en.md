@@ -31,7 +31,7 @@ Afewerk was the first winner of the Haile Selassie I Prize for Fine Arts, in 196
 
 ## Where to see the work
 
-Africa Hall, the seat of the UN Economic Commission for Africa in Addis Ababa, is the place to see the windows, and the reopened building has published material on the restoration. *Meskel Flower* is widely reproduced, and the Villa Alpha studio is described by sources as a museum in itself; check access before visiting. Sotheby's article on modern Ethiopian masterpieces discusses his stained-glass designs and is a good place to read more.
+Africa Hall, the seat of the UN Economic Commission for Africa in Addis Ababa, is the place to see the windows, and the reopened building has published material on the restoration. *Meskel Flower* is widely reproduced, and the Villa Alpha studio is described by sources as a museum in itself; check access before visiting. Sotheby's article on modern Ethiopian masterpieces discusses his stained-glass designs and is a good place to read more. His large canvas *African Heritage* hangs in the art gallery of the [National Museum of Ethiopia](/museums/national-museum-of-ethiopia).
 
 ## See also
 

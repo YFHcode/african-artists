@@ -10,6 +10,12 @@ this look valuable to a buyer.
   kente, adinkra, mudcloth, the Benin Bronzes, beadwork, pottery, rock art, photography…),
   14 artists, 6 movements, 5 regions, 10 music genres and 6 guides — in **English** (`/`),
   **French** (`/fr`), **Spanish** (`/es`), **Portuguese** (`/pt`) and **Arabic** (`/ar`, right-to-left).
+- **Museums:** `/museums` — one guide per museum (history, collection, artists, visiting), started in
+  October 2026 with ten: the national museums of Nigeria (Lagos and Benin City), Ghana, Ethiopia and
+  Mali, the Théodore Monod Museum and the Museum of Black Civilisations in Dakar, Zeitz MOCAA, Rabat's
+  MMVI and Cairo's Museum of Modern Egyptian Art. English and French, plus Spanish and Portuguese
+  (Zeitz MOCAA) and Arabic (Rabat, Cairo). Shared facts in `src/content/museums.ts`, sources in
+  `data/sources/museums/`. The header shows the section in an edition once it has three museum pages.
 - **Search strategy:** the art-form, region and history pages target the broad searches
   ("African masks", "kente cloth", "West African art", "history of African art") that bring
   far more visitors than artists' names; region pages list every article from their countries

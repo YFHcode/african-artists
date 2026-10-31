@@ -36,7 +36,7 @@ En 1997, il achève *Quel avenir pour notre art ?*, un grand triptyque où lui e
 
 ## Où voir l'œuvre
 
-Le Centre Pompidou, le Museum of Modern Art et la Fondation Cartier détiennent son œuvre, et le Zeitz MOCAA du Cap le range parmi ses artistes ; demandez à chacun quels tableaux sont exposés. L'exposition du musée Maillol est terminée.
+Le Centre Pompidou, le Museum of Modern Art et la Fondation Cartier détiennent son œuvre, et le [Zeitz MOCAA](/museums/zeitz-mocaa) du Cap le range parmi ses artistes ; demandez à chacun quels tableaux sont exposés. L'exposition du musée Maillol est terminée.
 
 ## Pourquoi il compte
 

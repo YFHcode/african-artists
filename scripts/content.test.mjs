@@ -38,7 +38,7 @@ import { LOCALES } from '../src/lib/i18n.ts';
 
 const ROOT = path.join(import.meta.dirname, '..', 'content');
 const DATA = JSON.parse(fs.readFileSync(path.join(import.meta.dirname, '..', 'data', 'artists', 'artists.json'), 'utf8')).artists;
-const PAGES = ['index-art-forms', 'index-artists', 'index-movements', 'index-regions', 'index-music', 'index-guides', 'about', 'privacy'];
+const PAGES = ['index-art-forms', 'index-artists', 'index-movements', 'index-regions', 'index-music', 'index-guides', 'index-museums', 'about', 'privacy'];
 
 /** Every path that exists in one edition. */
 function knownIn(locale) {

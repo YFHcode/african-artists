@@ -72,10 +72,14 @@ The rest (marylynnbuchanan.com, artlia.fr, kooness.com…) share only general "a
 
 ## Ideas, in order
 
-1. **African museums**: grow `guides/where-to-see-african-art` into a hub with one page per
-   major museum (national museums, Zeitz MOCAA, MACAAL, Musée des civilisations noires, IFAN,
-   Edo Museum of West African Art, house of slaves on Gorée…), in the languages each museum's
-   visitors use. Confirm volumes in Semrush first.
+1. **African museums**: one page per major museum, in the languages each museum's visitors use.
+   *Started 31 October 2026*: a `museums` collection (`/museums`) with ten pages — Lagos, Benin
+   City, Accra, Addis Ababa, Bamako, the Théodore Monod Museum and the Museum of Black
+   Civilisations in Dakar, Zeitz MOCAA, Rabat's MMVI and Cairo's Museum of Modern Egyptian Art —
+   linked from the where-to-see guide, the art-form pages and the artists they hold. Next
+   candidates, from MoMAA's rankings: Lusaka, Nairobi, Dar es Salaam, Liberia, the House of Slaves
+   on Gorée, Iziko and the Johannesburg Art Gallery, MACAAL, the Mokhtar Museum, Luxor, Gabon.
+   Confirm volumes in Semrush first.
 2. **Women artists**: check `guides/african-women-artists` targets "famous African female
    artists / painters"; consider a ranked-list format.
 3. **Country hubs**: add "painters / visual artists" wording to titles and intros.

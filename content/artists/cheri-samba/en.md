@@ -36,7 +36,7 @@ In 1997 he completed *Quel avenir pour notre art ?*, a large triptych in which h
 
 ## Where to see the work
 
-The Centre Pompidou, the Museum of Modern Art and the Fondation Cartier hold his work, and the Zeitz MOCAA in Cape Town lists him among its artists; ask each which paintings are on view. The Musée Maillol show has closed.
+The Centre Pompidou, the Museum of Modern Art and the Fondation Cartier hold his work, and the [Zeitz MOCAA](/museums/zeitz-mocaa) in Cape Town lists him among its artists; ask each which paintings are on view. The Musée Maillol show has closed.
 
 ## Why he matters
 

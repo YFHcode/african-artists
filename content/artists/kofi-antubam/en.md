@@ -16,4 +16,4 @@ How to look at an Antubam: read the symbols. The reliefs and regalia are built f
 
 ## Where to see the work
 
-The National Museum in Accra holds the chair of state, and his work is also in national collections in Ghana, South Africa and the United Kingdom; the parliament building in Accra carries his reliefs on its facade. Graphic Online and the Old Achimotan Association have published biographies. See also [Amon Kotei](/artists/amon-kotei), [adinkra symbols](/art-forms/adinkra-symbols) and our list of [Ghanaian artists](/artists/country/ghana).
+The [National Museum in Accra](/museums/national-museum-of-ghana) holds the chair of state, and his work is also in national collections in Ghana, South Africa and the United Kingdom; the parliament building in Accra carries his reliefs on its facade. Graphic Online and the Old Achimotan Association have published biographies. See also [Amon Kotei](/artists/amon-kotei), [adinkra symbols](/art-forms/adinkra-symbols) and our list of [Ghanaian artists](/artists/country/ghana).

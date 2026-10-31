@@ -16,6 +16,7 @@ const es: Dictionary = {
         regions: 'Regiones',
         music: 'Música',
         guides: 'Guías',
+        museums: 'Museos',
         buy: 'Comprar este dominio',
         menu: 'Menú',
         language: 'Idioma',
@@ -44,6 +45,8 @@ const es: Dictionary = {
         musicMore: 'Todos los géneros musicales',
         guidesTitle: 'Guías',
         guidesMore: 'Todas las guías',
+        museumsTitle: 'Museos para visitar',
+        museumsMore: 'Todos los museos',
         saleTitle: 'Sea el dueño de AfricanArtists.com',
         saleText:
             'Un .com de dos palabras que nombra toda una categoría creativa: los artistas y músicos de África y de su diáspora. Listo para una galería, un sello discográfico, un marketplace o una fundación.',
@@ -75,6 +78,7 @@ const es: Dictionary = {
         country: 'País',
         disciplines: 'Disciplinas',
         links: 'Para saber más',
+        website: 'Sitio oficial',
         lists: 'Listas de artistas',
     },
     media: {

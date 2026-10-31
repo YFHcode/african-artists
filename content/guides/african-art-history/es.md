@@ -40,7 +40,7 @@ En torno a las independencias, artistas de todo el continente se preguntaron có
 
 ## El arte africano contemporáneo
 
-Desde los años noventa, artistas de África y su diáspora han pasado al centro del mundo del arte internacional, gracias a las bienales de Dakar, Bamako y Johannesburgo, a exposiciones decisivas, a nuevos museos como el Zeitz MOCAA y a artistas como [El Anatsui](/artists/el-anatsui), [Wangechi Mutu](/artists/wangechi-mutu) y los fotógrafos de la [fotografía africana](/art-forms/african-photography). Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
+Desde los años noventa, artistas de África y su diáspora han pasado al centro del mundo del arte internacional, gracias a las bienales de Dakar, Bamako y Johannesburgo, a exposiciones decisivas, a nuevos museos como el [Zeitz MOCAA](/museums/zeitz-mocaa) y a artistas como [El Anatsui](/artists/el-anatsui), [Wangechi Mutu](/artists/wangechi-mutu) y los fotógrafos de la [fotografía africana](/art-forms/african-photography). Vea el [arte africano contemporáneo](/guides/contemporary-african-art).
 
 ## Una nota sobre la etiqueta
 

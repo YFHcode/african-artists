@@ -43,4 +43,4 @@ Since the 1990s mudcloth patterns have spread through fashion and home design wo
 
 ## Related
 
-Mudcloth belongs with the other great cloths of the region — Ghana's [kente](/art-forms/kente-cloth) and [adinkra](/art-forms/adinkra-symbols) — in our guide to [African textiles](/art-forms/african-textiles). The Bamako photographs of [Malick Sidibé](/artists/malick-sidibe) show how young Malians dressed in the decades when bogolan was being reinvented. For the region as a whole, see [West African art](/regions/west-africa).
+Mudcloth belongs with the other great cloths of the region — Ghana's [kente](/art-forms/kente-cloth) and [adinkra](/art-forms/adinkra-symbols) — in our guide to [African textiles](/art-forms/african-textiles). The Bamako photographs of [Malick Sidibé](/artists/malick-sidibe) show how young Malians dressed in the decades when bogolan was being reinvented. For the region as a whole, see [West African art](/regions/west-africa). In Bamako, the [National Museum of Mali](/museums/national-museum-of-mali) has a permanent gallery of textiles.

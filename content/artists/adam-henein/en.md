@@ -31,7 +31,7 @@ In 1996 he founded the Aswan International Sculpture Symposium, which each year 
 
 ## Museum and legacy
 
-In January 2014 his home and studio in Harraniya, near Giza, opened as the Adam Henein Museum, with hundreds of his sculptures and paintings. He received Egypt's highest arts awards, and his work is in the Museum of Egyptian Modern Art as well as in his own museum. He died in Cairo in May 2020; The Art Newspaper, which ran an obituary by the curator Rose Issa, gives his age as 91, The National as 90. He is seen as the heir of [Mahmoud Mokhtar](/artists/mahmoud-mokhtar), who first tried to give ancient Egyptian sculpture a modern life.
+In January 2014 his home and studio in Harraniya, near Giza, opened as the Adam Henein Museum, with hundreds of his sculptures and paintings. He received Egypt's highest arts awards, and his work is in the [Museum of Egyptian Modern Art](/museums/museum-of-modern-egyptian-art) as well as in his own museum. He died in Cairo in May 2020; The Art Newspaper, which ran an obituary by the curator Rose Issa, gives his age as 91, The National as 90. He is seen as the heir of [Mahmoud Mokhtar](/artists/mahmoud-mokhtar), who first tried to give ancient Egyptian sculpture a modern life.
 
 ## Where to see the work
 

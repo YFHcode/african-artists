@@ -17,6 +17,7 @@ const en = {
         regions: 'Regions',
         music: 'Music',
         guides: 'Guides',
+        museums: 'Museums',
         buy: 'Buy this domain',
         menu: 'Menu',
         language: 'Language',
@@ -45,6 +46,8 @@ const en = {
         musicMore: 'All music genres',
         guidesTitle: 'Guides',
         guidesMore: 'All guides',
+        museumsTitle: 'Museums to visit',
+        museumsMore: 'All museums',
         saleTitle: 'Own AfricanArtists.com',
         saleText:
             'A two-word .com that names a whole creative category — the artists and musicians of Africa and its diaspora. Ready for a gallery, a label, a marketplace or a foundation.',
@@ -76,6 +79,7 @@ const en = {
         country: 'Country',
         disciplines: 'Disciplines',
         links: 'Further reading',
+        website: 'Official website',
         lists: 'Lists of artists',
     },
     media: {

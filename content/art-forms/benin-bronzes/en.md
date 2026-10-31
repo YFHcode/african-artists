@@ -50,4 +50,4 @@ In November 2025 the **Museum of West African Art (MOWAA)** opened the first bui
 
 ## Related
 
-The Benin works belong to a long West African tradition of casting described in [African sculpture](/art-forms/african-sculpture). Museums that hold them, and others that have returned them, are listed in [where to see African art](/guides/where-to-see-african-art). The [short history of African art](/guides/african-art-history) places them in the wider story, and [West African art](/regions/west-africa) in their region.
+The Benin works belong to a long West African tradition of casting described in [African sculpture](/art-forms/african-sculpture). Museums that hold them, and others that have returned them, are listed in [where to see African art](/guides/where-to-see-african-art). The [short history of African art](/guides/african-art-history) places them in the wider story, and [West African art](/regions/west-africa) in their region. In Nigeria, Benin works can be seen at the [Benin City National Museum](/museums/benin-city-national-museum) and the [Nigerian National Museum](/museums/nigerian-national-museum) in Lagos.

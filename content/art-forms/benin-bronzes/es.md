@@ -50,4 +50,4 @@ En noviembre de 2025, el **Museum of West African Art (MOWAA)** abrió el primer
 
 ## Relacionados
 
-Las obras de Benín pertenecen a una larga tradición de fundición de África Occidental descrita en la [escultura africana](/art-forms/african-sculpture). Los museos que las conservan, y los que las han devuelto, figuran en [dónde ver arte africano](/guides/where-to-see-african-art). Nuestra [breve historia del arte africano](/guides/african-art-history) las sitúa en el relato general, y el [arte de África Occidental](/regions/west-africa), en su región.
+Las obras de Benín pertenecen a una larga tradición de fundición de África Occidental descrita en la [escultura africana](/art-forms/african-sculpture). Los museos que las conservan, y los que las han devuelto, figuran en [dónde ver arte africano](/guides/where-to-see-african-art). Nuestra [breve historia del arte africano](/guides/african-art-history) las sitúa en el relato general, y el [arte de África Occidental](/regions/west-africa), en su región. En Nigeria, pueden verse obras de Benín en el Museo Nacional de Benin City y en el Museo Nacional de Nigeria, en Lagos.

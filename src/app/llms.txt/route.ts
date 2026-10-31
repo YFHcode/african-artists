@@ -17,6 +17,7 @@ const HEADINGS: Record<(typeof COLLECTIONS)[number], string> = {
     regions: 'African art by region',
     music: 'Music genres',
     guides: 'Guides',
+    museums: 'Museums in Africa',
 };
 
 export function GET() {
@@ -35,7 +36,7 @@ export function GET() {
 
     const body = `# AfricanArtists.com
 
-> An independent guide to African art — masks, sculpture, textiles, rock art and photography, modern and contemporary artists, art movements, regions — and the music of Africa, published in English, French, Spanish, Portuguese and Arabic. The domain AfricanArtists.com is for sale.
+> An independent guide to African art — masks, sculpture, textiles, rock art and photography, modern and contemporary artists, art movements, regions, museums — and the music of Africa, published in English, French, Spanish, Portuguese and Arabic. The domain AfricanArtists.com is for sale.
 
 Pages exist in up to five editions (every page in English; some artist profiles and lists in fewer languages): English at ${absoluteUrl('/')}, and French, Spanish, Portuguese and Arabic under ${absoluteUrl('/fr')}, ${absoluteUrl('/es')}, ${absoluteUrl('/pt')} and ${absoluteUrl('/ar')} with the same path after the language folder.
 

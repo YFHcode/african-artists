@@ -31,7 +31,7 @@ Afewerk fue el primer ganador del Premio Haile Selassie I de Bellas Artes, en 19
 
 ## Dónde ver la obra
 
-El Africa Hall, sede de la Comisión Económica de la ONU para África en Adís Abeba, es el lugar para ver las vidrieras, y el edificio reabierto ha publicado material sobre la restauración. *Meskel Flower* se reproduce ampliamente, y las fuentes describen el estudio de la Villa Alpha como un museo en sí mismo; compruebe el acceso antes de ir. El artículo de Sotheby's sobre las obras maestras etíopes modernas trata de sus vidrieras y es un buen lugar para leer más.
+El Africa Hall, sede de la Comisión Económica de la ONU para África en Adís Abeba, es el lugar para ver las vidrieras, y el edificio reabierto ha publicado material sobre la restauración. *Meskel Flower* se reproduce ampliamente, y las fuentes describen el estudio de la Villa Alpha como un museo en sí mismo; compruebe el acceso antes de ir. El artículo de Sotheby's sobre las obras maestras etíopes modernas trata de sus vidrieras y es un buen lugar para leer más. Su gran lienzo *African Heritage* cuelga en la galería de arte del Museo Nacional de Etiopía.
 
 ## Véase también
 

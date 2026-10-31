@@ -22,7 +22,7 @@ Volvió a Nigeria con una ambición clara: hacer un arte moderno que no fuera ni
 
 Dos encargos de los años cincuenta fijaron su reputación.
 
-*Anyanwu*, una figura alargada de bronce que se inspira en la cosmología igbo, se hizo en 1954-1955 para el Museo Nacional de Nigeria en Lagos, que abrió en 1956 cuando el país avanzaba hacia la independencia. *Anyanwu* es la palabra igbo para el sol. Se convirtió en un símbolo de la nueva nación y sigue frente al museo. En 1966 el gobierno nigeriano regaló un vaciado a las Naciones Unidas, en Nueva York.
+*Anyanwu*, una figura alargada de bronce que se inspira en la cosmología igbo, se hizo en 1954-1955 para el Museo Nacional de Nigeria en Lagos, que abrió en 1957 cuando el país avanzaba hacia la independencia. *Anyanwu* es la palabra igbo para el sol. Se convirtió en un símbolo de la nueva nación y sigue frente al museo. En 1966 el gobierno nigeriano regaló un vaciado a las Naciones Unidas, en Nueva York.
 
 Durante su visita a Nigeria en 1956, la reina Isabel II le encargó a Enwonwu una escultura de retrato. Las sesiones comenzaron en el Palacio de Buckingham en marzo de 1957, y ella posó doce veces en total; él terminó la obra en Londres y la mostró en la Royal Society of British Artists en noviembre de 1957. También fue nombrado MBE.
 

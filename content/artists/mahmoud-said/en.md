@@ -34,7 +34,7 @@ How to look at a Saïd: let the light lead. The figures are heavy and still, lik
 
 ## Legacy
 
-Saïd is counted among the founders of modern Egyptian painting, alongside the sculptor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) and others of the generation that came of age around the 1919 revolution. His family villa in the Gianaclis district of Alexandria is now a museum dedicated to his work; one account says it opened in 1999, as part of a group with the Museum of Modern Egyptian Art and the Seif and Adham Wanly Museum. His large painting *La Ville* hangs in the main hall of the Museum of Modern Art in Cairo.
+Saïd is counted among the founders of modern Egyptian painting, alongside the sculptor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) and others of the generation that came of age around the 1919 revolution. His family villa in the Gianaclis district of Alexandria is now a museum dedicated to his work; one account says it opened in 1999, as part of a group with the Museum of Modern Egyptian Art and the Seif and Adham Wanly Museum. His large painting *La Ville* hangs in the main hall of the [Museum of Modern Art in Cairo](/museums/museum-of-modern-egyptian-art).
 
 ## Related artists
 

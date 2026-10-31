@@ -21,7 +21,7 @@ As datas mudam de ano para ano, e algumas edições são adiadas. Confirme sempr
 | **Bienal de Lagos** | Lagos, Nigéria | 2017 | Uma bienal independente que usa os espaços da cidade |
 | **Bienal do Cairo** | Cairo, Egito | 1984 | Uma bienal internacional de longa data |
 
-A Dak'Art nasceu do longo investimento do Senegal nas artes, descrito no nosso artigo sobre a [Escola de Dacar](/movements/ecole-de-dakar).
+A Dak'Art nasceu do longo investimento do Senegal nas artes, descrito no nosso artigo sobre a [Escola de Dacar](/movements/ecole-de-dakar). Em Dacar, as suas exposições ocupam espaços como o Museu das Civilizações Negras e o Museu Théodore Monod; em Bamaco, o Museu Nacional do Mali é um local habitual dos Rencontres.
 
 ## Feiras de arte
 

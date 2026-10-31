@@ -37,7 +37,7 @@ Over the following decades she exhibited widely in Europe and Morocco, in cities
 
 ## Where to see the work
 
-In January 2025 the Mohammed VI Museum in Rabat opened *Chaïbia/CoBrA: Au croisement des libertés*, with about twenty works, most of them from the museum's own collection. A 2018 Rabat show that paired her with two other artists was criticised by her son Hossein Talal, a painter himself, who said he had not been consulted. Check the museum for what is on view now.
+In January 2025 the [Mohammed VI Museum](/museums/mohammed-vi-museum) in Rabat opened *Chaïbia/CoBrA: Au croisement des libertés*, with about twenty works, most of them from the museum's own collection. A 2018 Rabat show that paired her with two other artists was criticised by her son Hossein Talal, a painter himself, who said he had not been consulted. Check the museum for what is on view now.
 
 ## See also
 

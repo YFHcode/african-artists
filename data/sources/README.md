@@ -11,3 +11,5 @@ traced, reviewed and updated.
 - "Where to see the work" lines link the museum's own collection page.
 - If the sources ran out before the length target, say so at the end, with the word count; the
   profile is then listed in `SOURCES_EXHAUSTED` in `src/content/expansion.ts`.
+
+`museums/` holds the same kind of log for each museum page (src/content/museums.ts), one file per museum.

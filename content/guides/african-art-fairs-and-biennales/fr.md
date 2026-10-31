@@ -21,7 +21,7 @@ Les dates changent d'une année à l'autre, et certaines éditions sont reporté
 | **Biennale de Lagos** | Lagos, Nigeria | 2017 | Une biennale indépendante qui investit les lieux de la ville |
 | **Biennale du Caire** | Le Caire, Égypte | 1984 | Une biennale internationale de longue date |
 
-Dak'Art est née du long investissement du Sénégal dans les arts, décrit dans notre article sur l'[École de Dakar](/movements/ecole-de-dakar).
+Dak'Art est née du long investissement du Sénégal dans les arts, décrit dans notre article sur l'[École de Dakar](/movements/ecole-de-dakar). À Dakar, ses expositions occupent notamment le [Musée des civilisations noires](/museums/museum-of-black-civilisations) et le [Musée Théodore-Monod](/museums/theodore-monod-museum) ; à Bamako, le [Musée national du Mali](/museums/national-museum-of-mali) accueille régulièrement les Rencontres.
 
 ## Foires d'art
 

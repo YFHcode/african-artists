@@ -10,18 +10,21 @@ summary: Parmi les grands musées d'art africain moderne et contemporain sur le 
 
 | Musée | Ville | Ouverture | Pourquoi y aller |
 |---|---|---|---|
-| **Zeitz MOCAA** (Zeitz Museum of Contemporary Art Africa) | Le Cap, Afrique du Sud | Septembre 2017 | L'art contemporain d'Afrique et de sa diaspora, dans un silo à grains des années 1920 évidé par le studio Heatherwick |
+| **[Zeitz MOCAA](/museums/zeitz-mocaa)** (Zeitz Museum of Contemporary Art Africa) | Le Cap, Afrique du Sud | Septembre 2017 | L'art contemporain d'Afrique et de sa diaspora, dans un silo à grains des années 1920 évidé par le studio Heatherwick |
 | **Norval Foundation** | Le Cap, Afrique du Sud | 2018 | Art sud-africain moderne et contemporain, et jardin de sculptures |
 | **Iziko South African National Gallery** | Le Cap, Afrique du Sud | — | La collection nationale sud-africaine |
 | **Johannesburg Art Gallery** | Johannesburg, Afrique du Sud | 1910 | L'une des plus grandes collections du continent |
-| **Musée des civilisations noires** | Dakar, Sénégal | 6 décembre 2018 | Un vaste musée circulaire qui réalise le rêve de Senghor d'un musée des cultures noires du monde entier |
-| **Musée Théodore-Monod d'art africain (IFAN)** | Dakar, Sénégal | — | Art et objets historiques d'Afrique de l'Ouest |
-| **Musée national du Nigeria** | Lagos, Nigeria | 1957 | Art historique nigérian ; l'*Anyanwu* de [Ben Enwonwu](/artists/ben-enwonwu) se dresse devant l'entrée |
-| **Musée national du Mali** | Bamako, Mali | — | Archéologie, textiles et photographie d'Afrique de l'Ouest |
+| **[Musée des civilisations noires](/museums/museum-of-black-civilisations)** | Dakar, Sénégal | 6 décembre 2018 | Un vaste musée circulaire qui réalise le rêve de Senghor d'un musée des cultures noires du monde entier |
+| **[Musée Théodore-Monod d'art africain (IFAN)](/museums/theodore-monod-museum)** | Dakar, Sénégal | — | Art et objets historiques d'Afrique de l'Ouest |
+| **[Musée national du Nigeria](/museums/nigerian-national-museum)** | Lagos, Nigeria | 1957 | Art historique nigérian ; l'*Anyanwu* de [Ben Enwonwu](/artists/ben-enwonwu) se dresse devant l'entrée |
+| **[Musée national de Benin City](/museums/benin-city-national-museum)** | Benin City, Nigeria | 1973 | L'art du royaume du Bénin, dans la ville où les bronzes ont été fondus |
+| **[Musée national du Ghana](/museums/national-museum-of-ghana)** | Accra, Ghana | Mars 1957 | Tabourets asante, archéologie et art ghanéen, sous une coupole de 1957 |
+| **[Musée national du Mali](/museums/national-museum-of-mali)** | Bamako, Mali | — | Archéologie, textiles et photographie d'Afrique de l'Ouest |
 | **Nairobi National Museum** | Nairobi, Kenya | — | Histoire, culture et art contemporain du Kenya |
-| **Musée Mohammed VI d'art moderne et contemporain (MMVI)** | Rabat, Maroc | Octobre 2014 | L'art moderne marocain, dont l'[École de Casablanca](/movements/casablanca-school) |
+| **[Musée national d'Éthiopie](/museums/national-museum-of-ethiopia)** | Addis-Abeba, Éthiopie | — | Lucy et Selam (moulages), archéologie aksoumite et peinture éthiopienne |
+| **[Musée Mohammed VI d'art moderne et contemporain (MMVI)](/museums/mohammed-vi-museum)** | Rabat, Maroc | Octobre 2014 | L'art moderne marocain, dont l'[École de Casablanca](/movements/casablanca-school) |
 | **MACAAL** (Musée d'art contemporain africain Al Maaden) | Marrakech, Maroc | 2016 | Art contemporain de tout le continent |
-| **Musée d'art moderne égyptien** | Le Caire, Égypte | — | Peinture et sculpture égyptiennes depuis le début du XXe siècle, dont [Mahmoud Saïd](/artists/mahmoud-said) ; le musée Mahmoud Mokhtar, tout proche, présente l'œuvre du sculpteur [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
+| **[Musée d'art moderne égyptien](/museums/museum-of-modern-egyptian-art)** | Le Caire, Égypte | — | Peinture et sculpture égyptiennes depuis le début du XXe siècle, dont [Mahmoud Saïd](/artists/mahmoud-said) ; le musée Mahmoud Mokhtar, tout proche, présente l'œuvre du sculpteur [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
 | **Grand Musée égyptien** | Gizeh, Égypte | Novembre 2025 | L'art de l'Égypte ancienne, dont les trésors de Toutânkhamon |
 
 Les dates marquées « — » sont celles d'institutions plus anciennes dont les collections se sont constituées au fil des décennies. Les horaires et fermetures temporaires changent ; vérifiez avant de partir.
@@ -45,3 +48,5 @@ De nombreux objets historiques conservés dans les musées européens et améric
 ## Pour aller plus loin
 
 Pour voir des œuvres nouvelles plutôt que des collections, faites coïncider votre voyage avec l'une des [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour acheter, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art). Et pour les femmes dont l'œuvre figure dans nombre de ces collections, voir les [femmes artistes africaines](/guides/african-women-artists).
+
+Pour un guide complet de chaque musée d'Afrique — son histoire, ses collections et ses artistes —, voir [les musées d'Afrique](/museums).

@@ -13,6 +13,7 @@ import { articleSchema, collectionSchema } from '@/lib/schema';
 import { type Hub, hubPath, hubsListing, liveHubs } from '@/content/hubs';
 import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
 import { artistPictures, workTitle } from '@/lib/artist-images';
+import { wikipediaArticleUrl } from '@/content/museums';
 import { getHubPage } from '@/lib/content';
 import type { Fact } from '@/lib/content';
 
@@ -73,12 +74,18 @@ export function ArticleView({ article }: { article: Article }) {
     const facts = article.facts.length > 0 || !entry.qid ? article.facts : generatedFacts(article);
     const mapKey = locatorKey(entry.countries, entry.collection === 'regions' ? entry.slug : undefined);
     const pictures = entry.collection === 'artists' ? artistPictures(entry.qid) : undefined;
-    const links = entry.qid
+    const museum = entry.museum;
+    const links: { label: string; href: string; lang?: string }[] = entry.qid
         ? [
               ...(artist && wikipediaUrl(artist, locale) ? [{ label: 'Wikipedia', href: wikipediaUrl(artist, locale)! }] : []),
               { label: 'Wikidata', href: wikidataUrl(entry.qid) },
           ]
-        : [];
+        : museum
+          ? [
+                ...(museum.website ? [{ label: t.profile.website, href: museum.website }] : []),
+                ...(museum.wikipedia ? [{ label: 'Wikipedia', href: wikipediaArticleUrl(museum.wikipedia), lang: 'en' }] : []),
+            ]
+          : [];
     const lists =
         entry.collection === 'artists'
             ? hubsListing({ countries: entry.countries, media: entry.media ?? [], born: artist?.born ?? null }, locale)
@@ -180,9 +187,14 @@ export function ArticleView({ article }: { article: Article }) {
                                 <ul className="mt-3 space-y-2 text-[0.95rem]">
                                     {links.map((l) => (
                                         <li key={l.href}>
-                                            <a href={l.href} rel="noopener" className="text-clay underline underline-offset-4">
+                                            <a href={l.href} rel="noopener" hrefLang={l.lang} className="text-clay underline underline-offset-4">
                                                 {l.label}
                                             </a>
+                                            {l.lang && l.lang !== locale && (
+                                                <abbr title={t.hub.inEnglish} lang="en" className="ms-1.5 rounded border border-line px-1 align-middle text-[0.65rem] font-semibold text-muted no-underline [unicode-bidi:isolate]">
+                                                    EN
+                                                </abbr>
+                                            )}
                                         </li>
                                     ))}
                                 </ul>

@@ -34,7 +34,7 @@ Comment regarder un Saïd : laissez la lumière vous guider. Les figures sont lo
 
 ## Héritage
 
-Saïd compte parmi les fondateurs de la peinture égyptienne moderne, aux côtés du sculpteur [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) et d'autres artistes de la génération arrivée à maturité autour de la révolution de 1919. Sa villa familiale du quartier de Gianaclis, à Alexandrie, est aujourd'hui un musée consacré à son œuvre ; un récit indique qu'elle a ouvert en 1999, dans le cadre d'un ensemble avec le Musée d'art égyptien moderne et le musée Seif et Adham Wanly. Son grand tableau *La Ville* est accroché dans la salle principale du Musée d'art moderne du Caire.
+Saïd compte parmi les fondateurs de la peinture égyptienne moderne, aux côtés du sculpteur [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) et d'autres artistes de la génération arrivée à maturité autour de la révolution de 1919. Sa villa familiale du quartier de Gianaclis, à Alexandrie, est aujourd'hui un musée consacré à son œuvre ; un récit indique qu'elle a ouvert en 1999, dans le cadre d'un ensemble avec le Musée d'art égyptien moderne et le musée Seif et Adham Wanly. Son grand tableau *La Ville* est accroché dans la salle principale du [Musée d'art moderne du Caire](/museums/museum-of-modern-egyptian-art).
 
 ## Artistes liés
 

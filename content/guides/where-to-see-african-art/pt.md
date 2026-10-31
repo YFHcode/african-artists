@@ -10,15 +10,18 @@ summary: Entre os principais museus de arte africana moderna e contemporânea no
 
 | Museu | Cidade | Abertura | Porque ir |
 |---|---|---|---|
-| **Zeitz MOCAA** (Zeitz Museum of Contemporary Art Africa) | Cidade do Cabo, África do Sul | Setembro de 2017 | Arte contemporânea de África e da diáspora, num silo de cereais dos anos 1920 escavado pelo Heatherwick Studio |
+| **[Zeitz MOCAA](/museums/zeitz-mocaa)** (Zeitz Museum of Contemporary Art Africa) | Cidade do Cabo, África do Sul | Setembro de 2017 | Arte contemporânea de África e da diáspora, num silo de cereais dos anos 1920 escavado pelo Heatherwick Studio |
 | **Norval Foundation** | Cidade do Cabo, África do Sul | 2018 | Arte sul-africana moderna e contemporânea e um jardim de esculturas |
 | **Iziko South African National Gallery** | Cidade do Cabo, África do Sul | — | A coleção nacional sul-africana |
 | **Johannesburg Art Gallery** | Joanesburgo, África do Sul | 1910 | Uma das maiores coleções do continente |
 | **Museu das Civilizações Negras** | Dacar, Senegal | 6 de dezembro de 2018 | Um vasto museu circular que concretiza o sonho de Senghor de um museu das culturas negras de todo o mundo |
 | **Museu Théodore Monod de Arte Africana (IFAN)** | Dacar, Senegal | — | Arte e objetos históricos da África Ocidental |
 | **Museu Nacional da Nigéria** | Lagos, Nigéria | 1957 | Arte histórica nigeriana; o *Anyanwu* de [Ben Enwonwu](/artists/ben-enwonwu) está à entrada |
+| **Museu Nacional de Benin City** | Benin City, Nigéria | 1973 | A arte do reino do Benim, na cidade onde os bronzes foram fundidos |
+| **Museu Nacional do Gana** | Acra, Gana | Março de 1957 | Bancos axantes, arqueologia e arte ganesa, sob uma cúpula de 1957 |
 | **Museu Nacional do Mali** | Bamaco, Mali | — | Arqueologia, têxteis e fotografia da África Ocidental |
 | **Nairobi National Museum** | Nairobi, Quénia | — | História, cultura e arte contemporânea do Quénia |
+| **Museu Nacional da Etiópia** | Adis Abeba, Etiópia | — | Lucy e Selam (réplicas), arqueologia axumita e pintura etíope |
 | **Museu Mohammed VI de Arte Moderna e Contemporânea (MMVI)** | Rabat, Marrocos | Outubro de 2014 | Arte moderna marroquina, incluindo a [Escola de Casablanca](/movements/casablanca-school) |
 | **MACAAL** (Museu de Arte Contemporânea Africana Al Maaden) | Marraquexe, Marrocos | 2016 | Arte contemporânea de todo o continente |
 | **Museu de Arte Moderna Egípcia** | Cairo, Egito | — | Pintura e escultura egípcias desde o início do século XX, incluindo [Mahmoud Saïd](/artists/mahmoud-said); o Museu Mahmoud Mokhtar, ali perto, mostra a obra do escultor [Mahmoud Mokhtar](/artists/mahmoud-mokhtar) |
@@ -45,3 +48,5 @@ Muitos objetos históricos em museus europeus e norte-americanos foram levados d
 ## Relacionados
 
 Para ver obras novas em vez de coleções, faça coincidir a viagem com uma das [feiras e bienais de arte africana](/guides/african-art-fairs-and-biennales). Para comprar, leia [como comprar arte africana](/guides/how-to-buy-african-art). E para as mulheres cuja obra está em muitas destas coleções, veja [mulheres artistas africanas](/guides/african-women-artists).
+
+Para um guia completo de cada museu de África — a sua história, as suas coleções e os seus artistas —, veja [museus de África](/museums).

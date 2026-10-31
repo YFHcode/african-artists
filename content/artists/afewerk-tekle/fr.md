@@ -31,7 +31,7 @@ Afewerk a été le premier lauréat du prix Haïlé Sélassié Iᵉʳ des beaux-
 
 ## Où voir l'œuvre
 
-L'Africa Hall, siège de la Commission économique des Nations unies pour l'Afrique à Addis-Abeba, est le lieu où voir les vitraux, et le bâtiment rouvert a publié des documents sur la restauration. *Meskel Flower* est largement reproduit, et l'atelier de la Villa Alpha est décrit par des sources comme un musée en soi ; vérifiez l'accès avant d'y aller. L'article de Sotheby's sur les chefs-d'œuvre éthiopiens modernes évoque ses vitraux et constitue un bon point de départ pour en savoir plus.
+L'Africa Hall, siège de la Commission économique des Nations unies pour l'Afrique à Addis-Abeba, est le lieu où voir les vitraux, et le bâtiment rouvert a publié des documents sur la restauration. *Meskel Flower* est largement reproduit, et l'atelier de la Villa Alpha est décrit par des sources comme un musée en soi ; vérifiez l'accès avant d'y aller. L'article de Sotheby's sur les chefs-d'œuvre éthiopiens modernes évoque ses vitraux et constitue un bon point de départ pour en savoir plus. Sa grande toile *African Heritage* est accrochée dans la galerie d'art du [Musée national d'Éthiopie](/museums/national-museum-of-ethiopia).
 
 ## Voir aussi
 

@@ -31,7 +31,7 @@ En 1996, il a fondé le Symposium international de sculpture d'Assouan, qui réu
 
 ## Musée et héritage
 
-En janvier 2014, sa maison et son atelier de Harraniya, près de Gizeh, ont ouvert leurs portes sous le nom de musée Adam Henein, avec des centaines de ses sculptures et de ses peintures. Il a reçu les plus hautes distinctions artistiques d'Égypte, et son œuvre se trouve au Musée d'art moderne égyptien comme dans son propre musée. Il est mort au Caire en mai 2020 ; The Art Newspaper, qui a publié une nécrologie signée de la commissaire Rose Issa, indique qu'il avait 91 ans, The National 90 ans. On le considère comme l'héritier de [Mahmoud Mokhtar](/artists/mahmoud-mokhtar), qui fut le premier à tenter de donner une vie moderne à la sculpture égyptienne antique.
+En janvier 2014, sa maison et son atelier de Harraniya, près de Gizeh, ont ouvert leurs portes sous le nom de musée Adam Henein, avec des centaines de ses sculptures et de ses peintures. Il a reçu les plus hautes distinctions artistiques d'Égypte, et son œuvre se trouve au [Musée d'art moderne égyptien](/museums/museum-of-modern-egyptian-art) comme dans son propre musée. Il est mort au Caire en mai 2020 ; The Art Newspaper, qui a publié une nécrologie signée de la commissaire Rose Issa, indique qu'il avait 91 ans, The National 90 ans. On le considère comme l'héritier de [Mahmoud Mokhtar](/artists/mahmoud-mokhtar), qui fut le premier à tenter de donner une vie moderne à la sculpture égyptienne antique.
 
 ## Où voir l'œuvre
 

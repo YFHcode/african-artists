@@ -23,7 +23,7 @@ There is no fixed definition. The term usually covers art made in the last three
 
 **Koyo Kouoh** (1967–2025), born in Cameroon, founded the art centre Raw Material Company in Dakar in 2008 and in 2019 became executive director of **Zeitz MOCAA** in Cape Town, the museum of contemporary art from Africa and its diaspora that opened in 2017. In 2024 she was chosen as artistic director of the 2026 Venice Biennale. She died in May 2025 before it opened; the Biennale decided to carry out her plan, and *In Minor Keys* opened in May 2026 with the team she had chosen.
 
-On the continent, institutions such as Zeitz MOCAA, MACAAL in Marrakech, the Museum of Black Civilisations in Dakar and the new Museum of West African Art (MOWAA) in Benin City, whose first building opened in 2025, show contemporary work alongside history. See [where to see African art](/guides/where-to-see-african-art).
+On the continent, institutions such as [Zeitz MOCAA](/museums/zeitz-mocaa), MACAAL in Marrakech, the [Museum of Black Civilisations](/museums/museum-of-black-civilisations) in Dakar and the new Museum of West African Art (MOWAA) in Benin City, whose first building opened in 2025, show contemporary work alongside history. See [where to see African art](/guides/where-to-see-african-art).
 
 ## Artists to know
 

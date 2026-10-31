@@ -21,7 +21,7 @@ Dates move from year to year, and editions are sometimes postponed. Always check
 | **Lagos Biennial** | Lagos, Nigeria | 2017 | An independent biennial using the city's spaces |
 | **Cairo Biennale** | Cairo, Egypt | 1984 | A long-running international biennale |
 
-Dak'Art grew out of Senegal's long investment in the arts, described in our article on the [École de Dakar](/movements/ecole-de-dakar).
+Dak'Art grew out of Senegal's long investment in the arts, described in our article on the [École de Dakar](/movements/ecole-de-dakar). In Dakar its exhibitions use venues such as the [Museum of Black Civilisations](/museums/museum-of-black-civilisations) and the [Théodore Monod Museum](/museums/theodore-monod-museum); in Bamako the [National Museum of Mali](/museums/national-museum-of-mali) is a regular venue of the Rencontres.
 
 ## Art fairs
 

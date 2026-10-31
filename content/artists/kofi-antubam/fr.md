@@ -16,4 +16,4 @@ Comment regarder un Antubam : lisez les symboles. Les reliefs et les insignes so
 
 ## Où voir l'œuvre
 
-Le Musée national d'Accra conserve le siège d'État, son travail figure aussi dans des collections nationales au Ghana, en Afrique du Sud et au Royaume-Uni, et le Parlement d'Accra porte ses reliefs sur sa façade. Graphic Online et l'Old Achimotan Association ont publié des biographies. Voir aussi [Amon Kotei](/artists/amon-kotei), les [symboles adinkra](/art-forms/adinkra-symbols) et l'[Afrique de l'Ouest](/regions/west-africa).
+Le [Musée national d'Accra](/museums/national-museum-of-ghana) conserve le siège d'État, son travail figure aussi dans des collections nationales au Ghana, en Afrique du Sud et au Royaume-Uni, et le Parlement d'Accra porte ses reliefs sur sa façade. Graphic Online et l'Old Achimotan Association ont publié des biographies. Voir aussi [Amon Kotei](/artists/amon-kotei), les [symboles adinkra](/art-forms/adinkra-symbols) et l'[Afrique de l'Ouest](/regions/west-africa).

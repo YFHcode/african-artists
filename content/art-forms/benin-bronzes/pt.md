@@ -50,4 +50,4 @@ Em novembro de 2025, o **Museum of West African Art (MOWAA)** abriu o primeiro e
 
 ## Relacionados
 
-As obras do Benim pertencem a uma longa tradição de fundição da África Ocidental descrita na [escultura africana](/art-forms/african-sculpture). Os museus que as guardam, e os que as devolveram, estão em [onde ver arte africana](/guides/where-to-see-african-art). A nossa [breve história da arte africana](/guides/african-art-history) situa-as no relato geral, e a [arte da África Ocidental](/regions/west-africa) na sua região.
+As obras do Benim pertencem a uma longa tradição de fundição da África Ocidental descrita na [escultura africana](/art-forms/african-sculpture). Os museus que as guardam, e os que as devolveram, estão em [onde ver arte africana](/guides/where-to-see-african-art). A nossa [breve história da arte africana](/guides/african-art-history) situa-as no relato geral, e a [arte da África Ocidental](/regions/west-africa) na sua região. Na Nigéria, podem ver-se obras do Benim no Museu Nacional de Benin City e no Museu Nacional da Nigéria, em Lagos.

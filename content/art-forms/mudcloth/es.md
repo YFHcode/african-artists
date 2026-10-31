@@ -43,4 +43,4 @@ Desde los años noventa, los motivos del bogolan se han extendido por la moda y 
 
 ## Relacionados
 
-El bogolan está junto a las otras grandes telas de la región —el [kente](/art-forms/kente-cloth) y el [adinkra](/art-forms/adinkra-symbols) de Ghana— en nuestra guía de los [textiles africanos](/art-forms/african-textiles). Las fotografías de Bamako de [Malick Sidibé](/artists/malick-sidibe) muestran cómo vestían los jóvenes malienses en las décadas en que el bogolan se reinventaba. Para la región en conjunto, vea el [arte de África Occidental](/regions/west-africa).
+El bogolan está junto a las otras grandes telas de la región —el [kente](/art-forms/kente-cloth) y el [adinkra](/art-forms/adinkra-symbols) de Ghana— en nuestra guía de los [textiles africanos](/art-forms/african-textiles). Las fotografías de Bamako de [Malick Sidibé](/artists/malick-sidibe) muestran cómo vestían los jóvenes malienses en las décadas en que el bogolan se reinventaba. Para la región en conjunto, vea el [arte de África Occidental](/regions/west-africa). En Bamako, el Museo Nacional de Malí dedica una sala permanente a los textiles.

@@ -23,7 +23,7 @@ Não há uma definição fixa. O termo costuma abranger a arte feita nas última
 
 **Koyo Kouoh** (1967–2025), nascida nos Camarões, fundou em 2008 o centro de arte Raw Material Company em Dacar e em 2019 tornou-se diretora executiva do **Zeitz MOCAA**, na Cidade do Cabo, o museu de arte contemporânea de África e da sua diáspora inaugurado em 2017. Em 2024 foi escolhida como diretora artística da Bienal de Veneza de 2026. Morreu em maio de 2025, antes da inauguração; a Bienal decidiu levar por diante o seu projeto, e *In Minor Keys* abriu em maio de 2026 com a equipa que ela escolhera.
 
-No continente, instituições como o Zeitz MOCAA, o MACAAL em Marraquexe, o Museu das Civilizações Negras em Dacar e o novo Museum of West African Art (MOWAA) em Benin City, cujo primeiro edifício abriu em 2025, mostram obra contemporânea ao lado da história. Veja [onde ver arte africana](/guides/where-to-see-african-art).
+No continente, instituições como o [Zeitz MOCAA](/museums/zeitz-mocaa), o MACAAL em Marraquexe, o Museu das Civilizações Negras em Dacar e o novo Museum of West African Art (MOWAA) em Benin City, cujo primeiro edifício abriu em 2025, mostram obra contemporânea ao lado da história. Veja [onde ver arte africana](/guides/where-to-see-african-art).
 
 ## Artistas a conhecer
 

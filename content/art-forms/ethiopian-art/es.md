@@ -47,4 +47,4 @@ Etiopía tiene también una sólida tradición textil: telas de algodón blanco 
 
 ## Relacionados
 
-El arte etíope forma parte de la historia más amplia del [arte de África Oriental](/regions/east-africa) y de nuestra [breve historia del arte africano](/guides/african-art-history). Al otro lado de la frontera, el sudanés [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) construyó un arte moderno a partir de otro encuentro entre tradiciones africanas, árabes y religiosas.
+El arte etíope forma parte de la historia más amplia del [arte de África Oriental](/regions/east-africa) y de nuestra [breve historia del arte africano](/guides/african-art-history). Al otro lado de la frontera, el sudanés [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) construyó un arte moderno a partir de otro encuentro entre tradiciones africanas, árabes y religiosas. En Adís Abeba, el Museo Nacional de Etiopía muestra la pintura etíope, desde los primeros pergaminos hasta los maestros modernos.

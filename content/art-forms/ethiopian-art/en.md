@@ -47,4 +47,4 @@ Ethiopia also has a strong weaving tradition: white cotton cloths such as the *n
 
 ## Related
 
-Ethiopia's art belongs to the wider story of [East African art](/regions/east-africa) and of our [short history of African art](/guides/african-art-history). Across the border, Sudan's [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) built a modern art from another meeting of African, Arab and religious traditions.
+Ethiopia's art belongs to the wider story of [East African art](/regions/east-africa) and of our [short history of African art](/guides/african-art-history). Across the border, Sudan's [Ibrahim El-Salahi](/artists/ibrahim-el-salahi) built a modern art from another meeting of African, Arab and religious traditions. In Addis Ababa, the [National Museum of Ethiopia](/museums/national-museum-of-ethiopia) shows Ethiopian painting from early parchment to the modern masters.

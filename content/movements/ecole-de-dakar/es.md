@@ -3,7 +3,7 @@ title: La Escuela de Dakar: la negritud en pintura y tapiz
 label: Escuela de Dakar
 heading: La Escuela de Dakar
 kicker: Movimiento artístico
-description: Respaldada por la negritud del presidente Senghor, la Escuela de Dakar (1960–1974) dio a Senegal sus primeros pintores modernos, los tapices de Thiès y el festival mundial de 1966.
+description: Respaldada por la negritud de Senghor, la Escuela de Dakar (1960–1974) dio a Senegal sus primeros pintores modernos, los tapices de Thiès y el festival de 1966.
 summary: La Escuela de Dakar (École de Dakar) fue el movimiento de arte moderno de Senegal entre 1960 y 1974 aproximadamente, apoyado por el presidente Léopold Sédar Senghor y marcado por su filosofía de la negritud. Encabezada por artistas como Papa Ibra Tall e Iba N'Diaye, produjo pinturas vivas y rítmicas y tapices monumentales, y ayudó a organizar el Festival Mundial de las Artes Negras de Dakar en 1966.
 facts:
   - Lugar | Dakar y Thiès, Senegal

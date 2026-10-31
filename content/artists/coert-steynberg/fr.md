@@ -3,7 +3,7 @@ title: Coert Steynberg : Kruger, Dias et le springbok du Krugerrand
 label: Coert Steynberg
 heading: Coert Steynberg
 kicker: Sculpteur
-description: Coert Steynberg a sculpté le Paul Kruger de la Kruger Gate, le Bartolomeu Dias de la South Africa House à Londres et le springbok du Krugerrand : un sculpteur des monuments afrikaners.
+description: Coert Steynberg a sculpté le Paul Kruger de la Kruger Gate, le Bartolomeu Dias de la South Africa House et le springbok du Krugerrand, monuments afrikaners.
 summary: Coert Steynberg (1905-1982) était un sculpteur sud-africain surtout connu pour ses monuments publics : la statue de Paul Kruger à la Kruger Gate du parc national Kruger, la figure de Bartolomeu Dias à la South Africa House de Londres et des mémoriaux de l'histoire afrikaner. Il a aussi dessiné le springbok bondissant de la pièce d'or Krugerrand.
 ---
 Coert Steynberg est né le 7 janvier 1905 près de la rivière Hennops, aux abords de Pretoria, et s'est formé comme sculpteur. Il a travaillé la pierre, le marbre, le bronze, le cuivre et le bois, et a reçu de nombreuses commandes publiques à partir des années 1930. En 1933, il a sculpté la statue du navigateur portugais Bartolomeu Dias pour South Africa House, l'ambassade du pays à Trafalgar Square, à Londres.

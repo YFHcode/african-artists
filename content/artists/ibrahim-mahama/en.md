@@ -3,7 +3,7 @@ title: Ibrahim Mahama: Jute Sacks, Ghosts of Trade and the SCCA Tamale
 label: Ibrahim Mahama
 heading: Ibrahim Mahama
 kicker: Artist
-description: Ibrahim Mahama wraps buildings in stitched jute sacks that once carried Ghana's cocoa and charcoal, and has built art centres in his home city of Tamale. His life and work.
+description: Ibrahim Mahama wraps buildings in stitched jute sacks that once carried Ghana's cocoa and charcoal, and has built art centres in his home city of Tamale.
 summary: Ibrahim Mahama (born 1987) is a Ghanaian artist who covers buildings, monuments and gallery walls with vast patchworks of used jute sacks — the sacks in which cocoa, coffee, rice and charcoal travel through Ghana's markets and ports. His work turns materials of trade and labour into monuments to global commerce and its histories. In his home city of Tamale he has founded the Savannah Centre for Contemporary Art and other spaces for artists and the public.
 facts:
   - Born | 1987, Tamale, Ghana

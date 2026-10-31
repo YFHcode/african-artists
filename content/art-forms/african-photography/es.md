@@ -1,9 +1,9 @@
 ---
-title: Fotografía africana: del retrato de estudio a los artistas contemporáneos
+title: Fotografía africana: del retrato de estudio al arte contemporáneo
 label: Fotografía africana
 heading: La fotografía africana
 kicker: Forma de arte
-description: Historia de la fotografía africana: los primeros estudios, Seydou Keïta y Malick Sidibé, la revista Drum y el apartheid, J.D. 'Okhai Ojeikere, Zanele Muholi y los festivales.
+description: Historia de la fotografía africana: primeros estudios, Seydou Keïta y Malick Sidibé, Drum y el apartheid, J.D. 'Okhai Ojeikere, Zanele Muholi, festivales.
 summary: La fotografía llegó a la costa africana pocos años después de su invención, y a finales del siglo XIX fotógrafos africanos ya tenían estudios en las ciudades costeras de África Occidental. Los retratos de estudio de Seydou Keïta y Malick Sidibé en Bamako, los fotógrafos documentales que se enfrentaron al apartheid en Sudáfrica y artistas contemporáneos como Zanele Muholi han hecho de la fotografía africana uno de los conjuntos más admirados de este medio.
 facts:
   - Primeros estudios | Ciudades costeras de África Occidental, finales del siglo XIX

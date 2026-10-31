@@ -3,7 +3,7 @@ title: J. H. Pierneef: o paisagista da África do Sul e os painéis da estação
 label: J. H. Pierneef
 heading: J. H. Pierneef
 kicker: Pintor
-description: J. H. Pierneef pintou o highveld sul-africano em paisagens ordenadas e geométricas, sobretudo os 32 painéis da estação de Joanesburgo (1929-1932). Celebrado e hoje relido.
+description: J. H. Pierneef pintou o highveld em paisagens ordenadas e geométricas, sobretudo os 32 painéis da estação de Joanesburgo (1929-1932), hoje relidos.
 summary: Jacobus Hendrik Pierneef (1886-1957) foi o paisagista mais conhecido da África do Sul. As suas vistas claras, geométricas e cuidadosamente ordenadas do highveld, das montanhas e das árvores — sobretudo os 32 painéis da estação de Joanesburgo, pintados em 1929-1932 — definiram a forma como uma geração via a paisagem sul-africana. Muito tempo celebrada, a sua obra é hoje também discutida pela terra vazia e sem pessoas que mostra na época do nacionalismo africânder.
 ---
 J. H. Pierneef nasceu em Pretória em 1886 numa família de origem neerlandesa; o pai era um imigrante neerlandês. Em 1900, durante a guerra sul-africana, a família mudou-se para os Países Baixos, onde estudou na Academia de Arte de Roterdão; depois regressou e trabalhou em Pretória. Nos anos 1920 tinha desenvolvido o seu próprio estilo: paisagens simplificadas e monumentais, construídas com planos chapados, de contornos nítidos e forte sentido de desenho, influenciadas pelos seus estudos de arte e arquitetura.

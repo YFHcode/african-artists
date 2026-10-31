@@ -3,7 +3,7 @@ title: East African Art: Ethiopia, the Swahili Coast, Tingatinga and Makerere
 label: East Africa
 heading: Art of East Africa
 kicker: Region
-description: The art of East Africa: Ethiopian icons and rock churches, Swahili carved doors, Maasai beadwork, Makonde carving, Tingatinga painting, Makerere's art school and Nairobi's artists.
+description: The art of East Africa: Ethiopian icons and rock churches, Swahili doors, Maasai beadwork, Makonde carving, Tingatinga painting and Nairobi's artists.
 summary: East Africa — Ethiopia, Kenya, Tanzania, Uganda and their neighbours — joins the Horn of Africa, the Great Lakes and the Indian Ocean coast. Its art includes the stelae of Aksum and Ethiopia's Christian icons and rock-hewn churches, the carved doors and architecture of the Swahili coast, Maasai and Samburu beadwork, Makonde sculpture and Tingatinga painting from Tanzania, Uganda's barkcloth and Makerere art school, and contemporary artists from Nairobi to Addis Ababa.
 facts:
   - Countries | Ethiopia, Eritrea, Kenya, Tanzania, Uganda, Rwanda, Somalia and their neighbours

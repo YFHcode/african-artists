@@ -3,7 +3,7 @@ title: Aina Onabolu: el pionero del arte moderno nigeriano y de su enseñanza
 label: Aina Onabolu
 heading: Aina Onabolu
 kicker: Pintor
-description: Aina Onabolu, llamado a menudo el padre del arte moderno nigeriano, pintó retratos al óleo en el Lagos colonial para demostrar que los africanos dominaban cualquier estilo.
+description: Aina Onabolu, llamado a menudo el padre del arte moderno nigeriano, pintó retratos al óleo en el Lagos colonial para demostrar que dominaba cualquier estilo.
 summary: Aina Onabolu (1882-1963) fue un pintor y profesor nigeriano, llamado a menudo el padre del arte moderno de Nigeria. Activo en el Lagos colonial a comienzos del siglo XX, pintó retratos realistas al óleo para demostrar que los africanos podían dominar el arte académico europeo, se formó en Londres y París, y luchó para que el arte formara parte del currículo escolar en Nigeria.
 ---
 Aina Onabolu nació en 1882 en Ijebu Ode, en el suroeste de Nigeria, hijo de Jacob Onabolu, un próspero comerciante, y de Oshunjente Onabolu, una comerciante. Al principio se formó solo copiando fotografías e ilustraciones de libros y revistas europeos, y empezó a pintar retratos en Lagos a principios del siglo XX, en una época en que los funcionarios coloniales dudaban de que los africanos pudieran practicar el arte a la manera europea. Sus cuidados retratos realistas de la élite de Lagos, como *Mrs Spencer Savage* (1906; algunas fuentes lo llaman *Lady Spencer Savage*), fueron una respuesta deliberada.

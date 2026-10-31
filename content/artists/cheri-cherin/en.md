@@ -1,5 +1,5 @@
 ---
-title: Chéri Chérin: Kinshasa Popular Painter of Satire and Politics (1955–2025)
+title: Chéri Chérin: Kinshasa Popular Painter of Satire and Politics
 label: Chéri Chérin
 heading: Chéri Chérin
 kicker: Painter

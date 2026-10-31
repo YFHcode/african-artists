@@ -3,7 +3,7 @@ title: Shona Sculpture: Zimbabwe's Modern Stone Carving Movement
 label: Zimbabwe stone sculpture
 heading: Shona sculpture: Zimbabwe's stone carvers
 kicker: Sculpture movement
-description: "Shona sculpture", Zimbabwe's modern stone carving, grew from the 1950s National Gallery workshop and Tengenenge into a movement shown in Paris, London and New York.
+description: "Shona sculpture", Zimbabwe's modern stone carving, grew from the 1950s National Gallery workshop and Tengenenge into a movement shown worldwide.
 summary: "Shona sculpture" is the name long given to the modern stone sculpture of Zimbabwe, which developed from the late 1950s around the workshop of the National Gallery in Salisbury (now Harare), under its director Frank McEwen, and at the Tengenenge sculpture community founded in 1966. Carving serpentine and other local stones, artists such as Joram Mariga, Nicholas Mukomberanwa, Henry Munyaradzi, Sylvester Mubayi and Agnes Nyanhongo made it one of Africa's best-known modern art movements.
 facts:
   - Country | Zimbabwe (Rhodesia until 1980)

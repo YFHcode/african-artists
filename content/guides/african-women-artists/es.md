@@ -1,9 +1,9 @@
 ---
-title: Mujeres artistas africanas: 14 nombres que dieron forma al arte moderno
+title: Mujeres artistas africanas: 14 nombres clave del arte moderno
 label: Mujeres artistas africanas
 heading: Mujeres artistas africanas que debería conocer
 kicker: Guía
-description: Catorce mujeres artistas de África que dieron forma al arte moderno y contemporáneo, de Baya, Ladi Kwali e Inji Efflatoun a Wangechi Mutu, Zanele Muholi y Julie Mehretu.
+description: Catorce mujeres artistas de África que dieron forma al arte moderno y contemporáneo, de Baya, Ladi Kwali e Inji Efflatoun a Wangechi Mutu y Zanele Muholi.
 summary: Las mujeres artistas de África han dado forma al arte moderno y contemporáneo desde sus inicios: la ceramista Ladi Kwali, la pintora argelina Baya, la pintora egipcia Inji Efflatoun y la pintora sudanesa Kamala Ibrahim Ishaq en el siglo XX; Esther Mahlangu, Wangechi Mutu, Njideka Akunyili Crosby, Zanele Muholi y Julie Mehretu hoy. Esta guía presenta a catorce de ellas.
 ---
 ## Pioneras del siglo XX

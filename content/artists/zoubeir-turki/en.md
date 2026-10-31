@@ -1,5 +1,5 @@
 ---
-title: Zoubeir Turki: École de Tunis Painter and Sculptor of Ibn Khaldoun's Statue
+title: Zoubeir Turki: École de Tunis Painter, Sculptor of Ibn Khaldoun
 label: Zoubeir Turki
 heading: Zoubeir Turki
 kicker: Painter and sculptor

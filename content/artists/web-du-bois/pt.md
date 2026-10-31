@@ -3,7 +3,7 @@ title: W. E. B. Du Bois e a fotografia: a exposição de Paris 1900 e o Gana
 label: W. E. B. Du Bois
 heading: W. E. B. Du Bois
 kicker: Sociólogo e criador de imagens
-description: W. E. B. Du Bois, líder dos direitos civis que morreu cidadão do Gana, usou a fotografia como argumento: a sua exposição de Paris 1900, centenas de retratos de afro-americanos.
+description: W. E. B. Du Bois, líder dos direitos civis que morreu cidadão do Gana, usou a fotografia como argumento na sua exposição de Paris de 1900.
 summary: W. E. B. Du Bois (1868-1963) foi um sociólogo, historiador e líder norte-americano dos direitos civis, cofundador da NAACP e um dos pensadores negros mais influentes do século XX. Está neste site por duas razões: o seu uso pioneiro da fotografia na Exhibit of American Negroes, na Exposição Universal de Paris de 1900, e os últimos anos no Gana, de que se tornou cidadão e onde morreu em 1963.
 facts:
   - Nascimento | 23 de fevereiro de 1868, Great Barrington, Massachusetts, Estados Unidos

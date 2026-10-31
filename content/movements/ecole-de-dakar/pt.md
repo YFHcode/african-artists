@@ -3,7 +3,7 @@ title: A Escola de Dacar: a Negritude em pintura e tapeçaria
 label: Escola de Dacar
 heading: A Escola de Dacar (École de Dakar)
 kicker: Movimento artístico
-description: Apoiada pela Negritude do presidente Senghor, a Escola de Dacar (1960–1974) produziu os primeiros pintores modernos do Senegal, as tapeçarias de Thiès e o festival de 1966.
+description: Apoiada pela Negritude de Senghor, a Escola de Dacar (1960–1974) deu ao Senegal os primeiros pintores modernos, as tapeçarias de Thiès e o festival de 1966.
 summary: A Escola de Dacar foi o movimento de arte moderna do Senegal entre cerca de 1960 e 1974, apoiado pelo presidente Léopold Sédar Senghor e moldado pela sua filosofia da Negritude. Liderada por artistas como Papa Ibra Tall e Iba N'Diaye, produziu pinturas vivas e rítmicas e tapeçarias monumentais, e ajudou a organizar o Festival Mundial das Artes Negras de 1966, em Dacar.
 facts:
   - Locais | Dacar e Thiès, Senegal

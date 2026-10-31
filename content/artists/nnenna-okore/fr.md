@@ -3,7 +3,7 @@ title: Nnenna Okore : sculptures de jute, de papier et d'argile
 label: Nnenna Okore
 heading: Nnenna Okore
 kicker: Sculptrice
-description: Nnenna Okore, artiste nigériane née en Australie et installée à Chicago, tord, teint et tisse jute, papier, argile et corde en sculptures ondulantes sur l'usure et le renouveau.
+description: Nnenna Okore, artiste nigériane née en Australie et installée à Chicago, tord, teint et tisse jute, papier et argile en sculptures sur l'usure et le renouveau.
 summary: Nnenna Okore (née en 1975) est une sculptrice nigériane, née en Australie et installée à Chicago. Formée à l'Université du Nigeria à Nsukka, où elle a étudié avec El Anatsui, elle transforme des matériaux modestes, souvent jetés — toile de jute, papier, argile, corde, cire — en grandes formes ondulantes qui évoquent la peau, la terre et la croissance naturelle, et parlent d'usure, de renouveau et d'environnement.
 ---
 Nnenna Okore est née en 1975 en Australie, de parents nigérians, et à quatre ans elle est partie au Nigeria, où ils travaillaient à l'Université du Nigeria à Nsukka, dans le sud-est. Elle y a obtenu un premier diplôme de peinture, avec mention très bien, en 1999. L'un de ses professeurs était [El Anatsui](/artists/el-anatsui), dont la transformation de matériaux trouvés a façonné sa propre approche. Elle a ensuite obtenu un master (2004) et un MFA (2005) de sculpture à l'University of Iowa, aux États-Unis, reçu une bourse Fulbright en 2012, et est devenue professeure d'art à la North Park University de Chicago, où elle dirige le programme de sculpture. En 2023, elle a obtenu un doctorat en beaux-arts à la Monash University.

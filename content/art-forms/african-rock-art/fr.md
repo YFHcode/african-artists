@@ -1,9 +1,9 @@
 ---
-title: L'art rupestre africain : Sahara, peintures san et plus anciens dessins
+title: L'art rupestre africain : Sahara, peintures san, plus anciens dessins
 label: Art rupestre africain
 heading: L'art rupestre africain
 kicker: Forme d'art
-description: L'Afrique abrite l'un des arts rupestres les plus anciens et les plus riches du monde : Blombos, la grotte Apollo 11, le Tassili n'Ajjer, les peintures san, Twyfelfontein et Laas Geel.
+description: L'Afrique abrite l'un des plus anciens arts rupestres du monde : Blombos, la grotte Apollo 11, le Tassili n'Ajjer, les peintures san, Twyfelfontein.
 summary: L'Afrique possède l'un des arts rupestres les plus anciens et les plus abondants du monde. Un dessin hachuré sur pierre de la grotte de Blombos, en Afrique du Sud, a environ 73 000 ans ; des plaques de pierre peintes de la grotte Apollo 11, en Namibie, datent d'environ 25 000 à 30 000 ans ; et des centaines de milliers de peintures et de gravures — au Sahara, dans le Drakensberg, en Namibie, en Tanzanie et dans la Corne de l'Afrique — racontent sur des millénaires les animaux, les hommes et les croyances.
 facts:
   - Plus ancien dessin | Hachures à l'ocre sur un éclat de pierre, grotte de Blombos, Afrique du Sud, environ 73 000 ans

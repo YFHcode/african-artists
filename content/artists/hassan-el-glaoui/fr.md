@@ -1,9 +1,9 @@
 ---
-title: Hassan El Glaoui : le fils du pacha qui peignait les cavaliers du Maroc
+title: Hassan El Glaoui : le fils du pacha qui peignait les cavaliers
 label: Hassan El Glaoui
 heading: Hassan El Glaoui
 kicker: Peintre
-description: Hassan El Glaoui, fils du dernier pacha de Marrakech, devint peintre grâce à Winston Churchill et peignit chevaux, cavaliers et fantasias pendant sept décennies.
+description: Hassan El Glaoui, fils du dernier pacha de Marrakech, devint peintre grâce à Winston Churchill et peignit chevaux, cavaliers et fantasias sept décennies durant.
 summary: Hassan El Glaoui (1923–2018) est un peintre marocain célèbre pour ses chevaux et ses cavaliers, surtout la fantasia, la charge de cavaliers qui tirent ensemble leurs fusils. Fils de Thami El Glaoui, le puissant pacha de Marrakech, il put devenir artiste après que Winston Churchill eut plaidé en faveur de son talent. Formé et exposé à Paris, il montre aussi son travail à New York et à Londres, et rentre au Maroc en 1965.
 facts:
   - Naissance | 1923, Marrakech, Maroc

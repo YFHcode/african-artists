@@ -1,9 +1,9 @@
 ---
-title: Ntare Guma Mbaho Mwine : acteur, dramaturge et photographe de l'Ouganda
+title: Ntare Guma Mbaho Mwine : acteur, dramaturge et photographe
 label: Ntare Mwine
 heading: Ntare Guma Mbaho Mwine
 kicker: Acteur et photographe
-description: Ntare Guma Mbaho Mwine, acteur américano-ougandais de Treme et Blood Diamond, est aussi photographe : ses images de l'Ouganda ont été exposées à l'ONU et au Museum Africa.
+description: Ntare Guma Mbaho Mwine, acteur américano-ougandais de Treme et Blood Diamond, est aussi photographe : ses images de l'Ouganda ont été largement exposées.
 summary: Ntare Guma Mbaho Mwine (né en 1967) est un acteur, dramaturge et photographe américano-ougandais. Connu pour ses rôles dans Treme, Heroes et Blood Diamond, il photographie l'Ouganda depuis des décennies ; ses images ont été exposées aux Nations unies, au Fowler Museum de l'UCLA et au Museum Africa de Johannesburg, et projetées dans ses seuls-en-scène Biro et A Missionary Position.
 facts:
   - Naissance | 1967, Hanover, New Hampshire, États-Unis, de parents ougandais

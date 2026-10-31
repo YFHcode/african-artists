@@ -1,9 +1,9 @@
 ---
-title: Leon Botha: Painter, DJ and One of the Longest-Lived People with Progeria
+title: Leon Botha: Painter, DJ and One of the Longest-Lived with Progeria
 label: Leon Botha
 heading: Leon Botha
 kicker: Painter and DJ
-description: Leon Botha, a Cape Town painter and hip-hop DJ who lived with progeria, appeared in Die Antwoord's Enter the Ninja and made art about his condition. He died in 2011, aged 26.
+description: Leon Botha, a Cape Town painter and hip-hop DJ with progeria, appeared in Die Antwoord's Enter the Ninja and made art about his condition. He died at 26.
 summary: Leon Botha (1985–2011) was a South African painter and hip-hop DJ from Cape Town, known as DJ Solarize. Born with progeria, a rare genetic condition that causes rapid ageing, he became one of the longest-lived people with the disease, and made paintings, performances and a photographic collaboration that explored it. He appeared in Die Antwoord's video Enter the Ninja and died in 2011, a day after his 26th birthday.
 ---
 Leon Botha was born in Cape Town on 4 June 1985 with progeria, a condition that ages the body many times faster than normal; most children with it do not live beyond their early teens. He was diagnosed at about four, had heart bypass surgery in 2005, and lived to 26, longer than almost anyone else with the disease at the time. He was determined to live that time fully.

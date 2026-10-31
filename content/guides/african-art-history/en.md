@@ -3,7 +3,7 @@ title: A Short History of African Art: From Rock Art to Today
 label: History of African art
 heading: A short history of African art
 kicker: Guide
-description: African art from the 73,000-year-old Blombos drawing to Nok, Ife and Benin, masks and textiles, modernist schools and today's global artists — a short, linked history.
+description: African art from the 73,000-year-old Blombos drawing to Nok, Ife and Benin, masks and textiles, modernist schools and today's artists: a short, linked history.
 summary: African art is not one tradition but thousands, made across fifty-four countries over more than 70,000 years — the oldest known drawing, the rock paintings of the Sahara and the Drakensberg, the sculpture of Nok, Ife and Benin, the Christian art of Ethiopia and the Islamic architecture of North Africa and the Swahili coast, masks, textiles and beadwork, the modernist schools of the independence era, and the contemporary artists who now show in every major museum. This guide follows that history in order and links to the articles that tell each part of it.
 ---
 ## The oldest art in the world

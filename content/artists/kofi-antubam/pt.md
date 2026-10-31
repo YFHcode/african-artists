@@ -3,7 +3,7 @@ title: Kofi Antubam: o artista de Estado de Nkrumah e os símbolos do Gana
 label: Kofi Antubam
 heading: Kofi Antubam
 kicker: Pintor e designer
-description: Kofi Antubam, nomeado artista de Estado por Kwame Nkrumah, desenhou a cadeira de Estado e outros símbolos do Gana independente, e escreveu Ghana's Heritage of Culture (1963).
+description: Kofi Antubam, artista de Estado de Kwame Nkrumah, desenhou a cadeira de Estado e outros símbolos do Gana independente e escreveu sobre a sua cultura.
 summary: Kofi Antubam (1922-1964) foi um pintor, escultor, designer, escritor e professor ganês que deu forma à identidade visual do Gana independente. Nomeado artista de Estado por Kwame Nkrumah, desenhou a cadeira de Estado usada pelo presidente, trabalhou nas insígnias oficiais e em edifícios públicos e escreveu Ghana's Heritage of Culture (1963), um livro sobre as tradições do país.
 ---
 Kofi Antubam nasceu em 1922 na Costa do Ouro, como então se chamava o Gana, e foi levado para Kumasi, para casa de um tio, quando o pai morreu. Foi incentivado no Adisadel College, estudou em Achimota, onde o ensino da arte se apoiava nas tradições locais, e mais tarde no Goldsmiths College, em Londres. A maioria das fontes indica 1922; um artigo diz 1923. Tornou-se professor e um dos principais artistas da geração que viu o Gana tornar-se independente em 1957.

@@ -3,7 +3,7 @@ title: Breyten Breytenbach: o poeta africânder que pintava e foi preso
 label: Breyten Breytenbach
 heading: Breyten Breytenbach
 kicker: Escritor e pintor
-description: Breyten Breytenbach, o grande poeta de língua africânder que se opôs ao apartheid, esteve sete anos preso na África do Sul e pintou toda a vida. Morreu em Paris em 2024.
+description: Breyten Breytenbach, grande poeta africânder que se opôs ao apartheid, esteve sete anos preso e pintou toda a vida. Morreu em Paris em 2024.
 summary: Breyten Breytenbach (1939-2024) foi um poeta, romancista e pintor sul-africano, um dos maiores escritores em africânder e um feroz opositor do apartheid. Viveu sobretudo em Paris, onde pintava a par da escrita. Preso numa visita secreta à África do Sul em 1975, esteve sete anos na prisão; The True Confessions of an Albino Terrorist (1984) conta essa história. Morreu em Paris em novembro de 2024.
 ---
 Breyten Breytenbach nasceu em 1939 em Bonnievale, no Cabo Ocidental, e estudou belas-artes na Universidade da Cidade do Cabo antes de deixar a África do Sul no início dos anos 1960 rumo a Paris. Aí casou com Yolande Ngo Thi Hoang Lien, uma francesa de origem vietnamita; segundo as leis do apartheid, o casamento era um crime na África do Sul, e a ela foi recusado um visto para o visitar.

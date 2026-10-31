@@ -3,7 +3,7 @@ title: Feiras e bienais de arte africana: os eventos a conhecer
 label: Feiras e bienais de arte africana
 heading: Feiras e bienais de arte africana
 kicker: Guia
-description: As principais feiras e bienais de arte africana contemporânea: Dak'Art, os Rencontres de Bamako, 1-54, Investec Cape Town Art Fair, FNB Art Joburg, ART X Lagos e outras.
+description: As grandes feiras e bienais de arte africana contemporânea: Dak'Art, Rencontres de Bamako, 1-54, Investec Cape Town Art Fair, FNB Art Joburg, ART X Lagos.
 summary: Os eventos regulares mais importantes da arte africana contemporânea são a Bienal de Dacar (Dak'Art) e a bienal de fotografia dos Rencontres de Bamako, e as feiras comerciais 1-54 (Londres, Nova Iorque e Marraquexe), a Investec Cape Town Art Fair, a FNB Art Joburg e a ART X Lagos. As bienais são onde os curadores definem a agenda; as feiras, onde a maioria dos colecionadores compra.
 ---
 ## Bienais e feiras: a diferença

@@ -3,7 +3,7 @@ title: Khadija Saye: a fotógrafa gambiano-britânica de Grenfell
 label: Khadija Saye
 heading: Khadija Saye
 kicker: Fotógrafa
-description: Khadija Saye, fotógrafa britânico-gambiana, fez autorretratos em ferrótipo sobre a espiritualidade da Gâmbia; expôs em Veneza em 2017 e morreu no incêndio de Grenfell.
+description: Khadija Saye, fotógrafa britânico-gambiana, fez autorretratos em ferrótipo sobre a espiritualidade gambiana; expôs em Veneza em 2017 e morreu em Grenfell.
 summary: Khadija Saye (1992-2017) foi uma fotógrafa britânico-gambiana cuja série de autorretratos em ferrótipo Dwelling: in this space we breathe explorava as práticas espirituais da sua herança gambiana. A obra foi exposta na Bienal de Veneza de 2017; semanas depois, a 14 de junho de 2017, morreu com a mãe no incêndio da Torre Grenfell, em Londres. Tinha 24 anos.
 facts:
   - Nascimento | 1992, Londres, Reino Unido

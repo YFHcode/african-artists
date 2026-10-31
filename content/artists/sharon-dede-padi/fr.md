@@ -3,7 +3,7 @@ title: Sharon Dede Padi : la peintre ghanéenne des feuilles
 label: Sharon Dede Padi
 heading: Sharon Dede Padi
 kicker: Peintre et poète
-description: Sharon Dede Padi, dite Padiki, peintre et poète ghanéenne, détenait le record Guinness de la plus grande peinture à l'empreinte de feuilles. Morte en juillet 2026.
+description: Sharon Dede Padi, dite Padiki, peintre et poète ghanéenne, détenait le record Guinness de la plus grande peinture à l'empreinte de feuilles. Morte en 2026.
 summary: Sharon Dede Padi (1976-2026), dite Padiki, est une artiste visuelle et poète ghanéenne, célébrée pour ses peintures réalisées en imprimant de vraies feuilles. À Accra, elle a créé la plus grande peinture à l'empreinte de feuilles au monde, reconnue par le Guinness World Records, et elle était une voix marquante de la création au Ghana. Elle est morte en juillet 2026, à 50 ans.
 facts:
   - Naissance | 24 juin 1976, Ghana

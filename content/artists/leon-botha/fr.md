@@ -1,9 +1,9 @@
 ---
-title: Leon Botha : peintre, DJ et l'un des plus longs survivants de la progéria
+title: Leon Botha : peintre, DJ, l'un des plus anciens malades de progéria
 label: Leon Botha
 heading: Leon Botha
 kicker: Peintre et DJ
-description: Leon Botha, peintre et DJ hip-hop du Cap atteint de progéria, est apparu dans le clip Enter the Ninja de Die Antwoord et a fait de sa maladie un sujet d'art. Mort en 2011, à 26 ans.
+description: Leon Botha, peintre et DJ hip-hop du Cap atteint de progéria, a joué dans Enter the Ninja de Die Antwoord et fait de sa maladie un sujet d'art. Mort à 26 ans.
 summary: Leon Botha (1985-2011) était un peintre et DJ hip-hop sud-africain du Cap, connu sous le nom de DJ Solarize. Né avec la progéria, une maladie génétique rare qui provoque un vieillissement accéléré, il a été l'une des personnes atteintes ayant vécu le plus longtemps, et en a fait le sujet de peintures, de performances et d'une collaboration photographique. Il est apparu dans le clip Enter the Ninja de Die Antwoord et est mort en 2011, le lendemain de ses 26 ans.
 ---
 Leon Botha est né au Cap le 4 juin 1985 avec la progéria, une maladie qui fait vieillir le corps bien plus vite que la normale ; la plupart des enfants atteints ne dépassent pas le début de l'adolescence. Diagnostiqué vers quatre ans, opéré d'un pontage cardiaque en 2005, il a vécu jusqu'à 26 ans, plus longtemps que presque toute autre personne atteinte à l'époque. Il était déterminé à vivre ce temps pleinement.

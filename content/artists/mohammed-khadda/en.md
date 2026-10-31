@@ -3,7 +3,7 @@ title: Mohammed Khadda: Algeria's Painter of the Sign (1930–1991)
 label: Mohammed Khadda
 heading: Mohammed Khadda
 kicker: Painter
-description: Mohammed Khadda, a printer's apprentice from Mostaganem, became a founder of modern Algerian painting, turning the shapes of Arabic letters into a free abstract language.
+description: Mohammed Khadda, a printer's apprentice from Mostaganem, became a founder of modern Algerian painting, turning Arabic letters into a free abstract language.
 summary: Mohammed Khadda (1930–1991) was an Algerian painter, sculptor and writer, one of the founders of modern Algerian art. Self-taught at first, he worked as a typographer in Mostaganem before spending ten years in Paris. Back in independent Algeria he became the leading figure of the "painters of the sign", who built an abstract art from the shapes of Arabic script and Amazigh signs, and defended that art in his writing.
 facts:
   - Born | 14 March 1930, Mostaganem, Algeria

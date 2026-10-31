@@ -3,7 +3,7 @@ title: Semba: Angola's Urban Song, From Ngola Ritmos to Kizomba
 label: Semba
 heading: Semba
 kicker: Music genre
-description: Semba is the urban music of Luanda, born in the 1940s–50s with Ngola Ritmos and carried worldwide by Bonga. How it shaped Angolan identity and gave rise to kizomba.
+description: Semba is the urban music of Luanda, born in the 1940s–50s with Ngola Ritmos and carried worldwide by Bonga. How it shaped Angola and gave rise to kizomba.
 summary: Semba is a popular music and dance from Angola that took modern form in the musseques (informal neighbourhoods) of Luanda in the 1940s and 1950s. Groups such as Ngola Ritmos, founded in 1947 by Liceu Vieira Dias and others, set Kimbundu songs and traditional rhythms to guitars, helping build an Angolan identity before independence; singers such as Bonga took it worldwide, and in the 1980s it fed the creation of kizomba.
 facts:
   - Origin | Luanda, Angola, 1940s–1950s

@@ -60,8 +60,9 @@ export function articleRoute(collection: Collection) {
                 title: article.title,
                 description: article.description,
                 article: { published: article.entry.published, modified: article.entry.updated },
-                ogAlt: dictionary(article.locale).meta.ogAlt,
+                ogAlt: article.heading,
                 locales: localesOf(article.entry),
+                shareCard: true,
             });
         },
 
@@ -156,8 +157,9 @@ export function hubRoute(kind: HubKind) {
                 path: hubPath(hub),
                 title: page.title,
                 description: page.description,
-                ogAlt: dictionary(locale).meta.ogAlt,
+                ogAlt: page.heading,
                 locales: hub.locales,
+                shareCard: true,
             });
         },
 

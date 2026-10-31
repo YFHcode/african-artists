@@ -3,7 +3,7 @@ title: Dumile Feni: el «Goya de los townships» y African Guernica
 label: Dumile Feni
 heading: Dumile Feni
 kicker: Pintor y escultor
-description: Dumile Feni, el «Goya de los townships», dibujó el sufrimiento del apartheid en figuras poderosas y deformadas, sobre todo African Guernica (1967), antes de exiliarse en 1968.
+description: Dumile Feni, el «Goya de los townships», dibujó el sufrimiento del apartheid en figuras poderosas y deformadas, como African Guernica (1967), antes del exilio.
 summary: Dumile Feni (1942-1991) fue un artista sudafricano conocido como «el Goya de los townships», cuyos dibujos y esculturas de cuerpos atormentados y deformados están entre las imágenes más poderosas de la vida bajo el apartheid. Su gran dibujo al carboncillo African Guernica (1967) es un hito del arte sudafricano. Dejó el país en 1968 y murió en el exilio en Nueva York en 1991.
 ---
 Dumile Feni nació el 21 de mayo de 1942 en Worcester, en el Cabo Occidental, aunque las fuentes dan su año de nacimiento entre 1939 y 1942. Se trasladó a Johannesburgo a principios de los años cincuenta y estuvo hospitalizado por tuberculosis en 1963, donde conoció al artista Ephraim Ngatane. Se formó en el Jubilee Art Centre con Cecil Skotnes y se hizo conocido en los años sesenta por monumentales dibujos a bolígrafo y carboncillo: figuras de miembros hinchados y cuerpos retorcidos, madres e hijos, presos y muertos, que expresan el dolor de las leyes de pases, los traslados forzosos y la violencia policial.

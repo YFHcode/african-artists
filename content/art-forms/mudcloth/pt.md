@@ -3,7 +3,7 @@ title: O bogolan (pano de lama): como se faz o pano pintado do Mali
 label: Bogolan (pano de lama)
 heading: O bogolan (bogolanfini)
 kicker: Tradição têxtil
-description: O bogolan, ou «pano de lama», é o algodão feito à mão do Mali, tingido com folhas e pintado com lama fermentada. Como se faz, o que significava e como reconhecer o verdadeiro.
+description: O bogolan, ou «pano de lama», é o algodão do Mali tingido com folhas e pintado com lama fermentada. Como se faz, o que significa e como reconhecer o verdadeiro.
 summary: O bogolan — bogolanfini em bambara — é um pano de algodão feito à mão no Mali, tingido de amarelo num banho de folhas e depois pintado com uma lama fermentada e rica em ferro que fica negra onde reage com a tinta. Feito tradicionalmente por mulheres bamana e usado por caçadores e por mulheres em momentos de passagem, tornou-se um símbolo da identidade maliana nos anos 1970 e 1980 e é hoje conhecido em todo o mundo através da moda e da decoração.
 facts:
   - País | Mali (povo bamana, ou bambara); também feito no Burkina Faso

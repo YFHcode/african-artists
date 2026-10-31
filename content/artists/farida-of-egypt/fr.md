@@ -3,7 +3,7 @@ title: La reine Farida d'Égypte, peintre : du palais au chevalet
 label: Farida d'Égypte
 heading: Farida d'Égypte
 kicker: Reine et peintre
-description: La reine Farida, première épouse du roi Farouk, est devenue peintre après son divorce. Encouragée par son oncle Mahmoud Saïd, elle a exposé dans plusieurs pays ; le Mathaf la conserve.
+description: La reine Farida, première épouse du roi Farouk, est devenue peintre après son divorce, encouragée par son oncle Mahmoud Saïd. Le Mathaf conserve son travail.
 summary: Farida d'Égypte (1921-1988), née Safinaz Zulficar, a été reine d'Égypte comme première épouse du roi Farouk, de 1938 à 1948. On se souvient surtout de la reine, mais après son divorce elle est devenue peintre, encouragée par son oncle, le peintre Mahmoud Saïd. Après avoir vécu à l'étranger, au Liban et en Europe, puis au Caire, elle a peint des paysages et des œuvres visionnaires et exposé dans plusieurs pays, dont l'Égypte.
 facts:
   - Naissance | 1921, Alexandrie, Égypte

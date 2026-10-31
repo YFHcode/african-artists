@@ -3,7 +3,7 @@ title: Youssef Nabil: fotografias coloridas à mão do cinema egípcio clássico
 label: Youssef Nabil
 heading: Youssef Nabil
 kicker: Fotógrafo e cineasta
-description: Youssef Nabil colore à mão as suas fotografias a preto e branco ao estilo dos antigos cartazes de cinema e retratos de estúdio egípcios, e retrata estrelas, artistas e a si mesmo.
+description: Youssef Nabil colore à mão fotografias a preto e branco ao estilo dos antigos cartazes do cinema egípcio, e retrata estrelas, artistas e a si mesmo.
 summary: Youssef Nabil (nascido em 1972) é um fotógrafo e cineasta egípcio que colore à mão as suas provas a preto e branco à maneira dos retratos de estúdio e dos cartazes de cinema do Egito de meados do século XX. Os seus retratos de estrelas de cinema, artistas e amigos, e os seus autorretratos, falam de memória, exílio, desejo e de um cinema egípcio que desaparece.
 ---
 Youssef Nabil nasceu no Cairo em 1972 e cresceu a ver os melodramas a preto e branco da idade de ouro do cinema egípcio. Jovem fotógrafo, foi assistente dos fotógrafos de moda David LaChapelle em Nova Iorque (1993-1994, segundo uma biografia) e Mario Testino (1997-1998, em Nova Iorque e depois em Paris), antes de desenvolver a sua própria técnica. A sua primeira exposição individual foi no Cairo em 1999, e em 2001 a artista britânica Tracey Emin viu lá o seu trabalho e ajudou a dá-lo a conhecer mais amplamente.

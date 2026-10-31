@@ -3,7 +3,7 @@ title: La photographie africaine : du studio aux artistes contemporains
 label: Photographie africaine
 heading: La photographie africaine
 kicker: Forme d'art
-description: Histoire de la photographie africaine : premiers studios, Seydou Keïta et Malick Sidibé, le magazine Drum et l'apartheid, J.D. 'Okhai Ojeikere, Zanele Muholi et les festivals.
+description: Histoire de la photographie africaine : premiers studios, Seydou Keïta et Malick Sidibé, Drum et l'apartheid, J.D. 'Okhai Ojeikere, Zanele Muholi, festivals.
 summary: La photographie a atteint les côtes africaines quelques années à peine après son invention, et des photographes africains tenaient des studios dans les villes côtières d'Afrique de l'Ouest dès la fin du XIXe siècle. Les portraits de studio de Seydou Keïta et de Malick Sidibé à Bamako, les photographes documentaires qui ont affronté l'apartheid en Afrique du Sud et des artistes contemporains comme Zanele Muholi ont fait de la photographie africaine l'un des ensembles les plus admirés de ce médium.
 facts:
   - Premiers studios | Villes côtières d'Afrique de l'Ouest, fin du XIXe siècle

@@ -3,7 +3,7 @@ title: Ghada Amer: Embroidered Paintings, Desire and Gardens
 label: Ghada Amer
 heading: Ghada Amer
 kicker: Artist
-description: Ghada Amer, born in Cairo, stitches images of women and words into her paintings with thread, turning a craft taught to women into a language about desire and freedom.
+description: Ghada Amer, born in Cairo, stitches images of women and words into her paintings, turning a craft taught to women into a language of desire and freedom.
 summary: Ghada Amer (born 1963) is an Egyptian-born artist based in New York. She is best known for paintings in which she embroiders figures of women — often taken from erotic magazines — and quotations onto canvas, leaving the threads hanging so that they blur and veil the images. Using a craft long assigned to women, her work deals with desire, gender and power. She won a UNESCO Prize at the Venice Biennale in 1999 and also makes sculptures and gardens.
 facts:
   - Born | 1963, Cairo, Egypt

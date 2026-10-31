@@ -1,8 +1,8 @@
 ---
-title: Congolese Painters: From Lubaki and Pilipili to Kinshasa's Popular Painters
+title: Congolese Painters: From Lubaki and Pilipili to Kinshasa's Popular Art
 label: Congolese painters
 heading: Congolese painters
-description: Congolese painters from Antoinette Lubaki and Pilipili Mulongoy to Chéri Samba, Chéri Chérin, Moké, Bodo, Tshibumba Kanda Matulu and Cheik Ledy, most looked-up first.
+description: Congolese painters from Antoinette Lubaki and Pilipili Mulongoy to Chéri Samba, Chéri Chérin, Moké, Bodo, Tshibumba Kanda Matulu and Cheik Ledy.
 ---
 Congolese painting has two great streams. The first began in colonial workshops: Antoinette Lubaki and her husband painted watercolours of animals and village life in the 1920s that were shown in Europe, and from 1946 the Hangar workshop in Lubumbashi, led by the Frenchman Pierre Romain-Desfossés, produced painters such as Pilipili Mulongoy, known for his decorative scenes of birds, fish and forest.
 

@@ -3,7 +3,7 @@ title: Ousmane Sow: o escultor monumental do Senegal (1935–2016)
 label: Ousmane Sow
 heading: Ousmane Sow
 kicker: Escultor
-description: Fisioterapeuta que se tornou escultor, Ousmane Sow criou figuras maiores do que o natural — lutadores nuba, guerreiros massai e zulus — e atraiu três milhões de visitantes em Paris.
+description: Fisioterapeuta que se tornou escultor, Ousmane Sow criou figuras maiores do que o natural, lutadores nuba e guerreiros massai, vistas por três milhões em Paris.
 summary: Ousmane Sow (1935–2016) foi um escultor senegalês de figuras humanas maiores do que o natural. Fisioterapeuta durante a maior parte da vida profissional, dedicou-se à escultura a tempo inteiro já depois dos cinquenta anos; a exposição de 1999 na Pont des Arts, em Paris, atraiu mais de três milhões de visitantes, e em 2012 tornou-se o primeiro membro negro da Académie des Beaux-Arts francesa.
 facts:
   - Nascimento | 10 de outubro de 1935, Dacar, Senegal

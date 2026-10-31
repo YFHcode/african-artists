@@ -3,7 +3,7 @@ title: Le highlife : la première grande pop du Ghana et du Nigeria
 label: Highlife
 heading: Le highlife
 kicker: Genre musical
-description: Le highlife est né des orchestres de danse et des guitaristes « palm-wine » du Ghana pour devenir la première grande pop d'Afrique de l'Ouest. E.T. Mensah, ses styles et sa descendance.
+description: Le highlife, né des orchestres de danse et des guitaristes « palm-wine » du Ghana, fut la première grande pop ouest-africaine. E.T. Mensah et ses héritiers.
 summary: Le highlife est une famille de musiques populaires née au Ghana au début du XXe siècle, mêlant rythmes et mélodies locales aux influences des fanfares, du jazz, des Caraïbes et de l'Amérique latine. Des chefs d'orchestre comme E.T. Mensah, « le roi du highlife », l'ont diffusé dans toute l'Afrique de l'Ouest à partir des années 1950, et il est l'ancêtre direct de l'afrobeat comme des afrobeats.
 facts:
   - Origine | Gold Coast (Ghana), début du XXe siècle

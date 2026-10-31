@@ -3,7 +3,7 @@ title: Como comprar arte africana: proveniência, falsificações e exportação
 label: Como comprar arte africana
 heading: Como comprar arte africana com confiança
 kicker: Guia
-description: Guia prático para comprar arte africana: obras contemporâneas ou históricas, onde comprar, que documentos pedir, como funcionam as falsificações e que regras de exportação se aplicam.
+description: Guia prático para comprar arte africana: obras contemporâneas ou históricas, onde comprar, que documentos pedir, falsificações e regras de exportação.
 summary: Comprar arte africana em segurança resume-se a três perguntas: que tipo de obra é (contemporânea, moderna ou histórica), se a sua história pode ser documentada e se pode sair legalmente do país onde está. A arte contemporânea comprada ao artista, a uma galeria ou numa feira é simples; os objetos históricos exigem proveniência documentada, e alguns não podem ser exportados legalmente.
 ---
 ## Saiba em que mercado está

@@ -3,7 +3,7 @@ title: African Pottery and Ceramics: Traditions, Makers and Ladi Kwali
 label: African pottery
 heading: African pottery and ceramics
 kicker: Art form
-description: African pottery from the Sahara's first ceramics to Ladi Kwali and Magdalene Odundo: hand-built pots, open firing, Zulu beer pots, Moroccan glazes and today's ceramicists.
+description: African pottery from the Sahara's first ceramics to Ladi Kwali and Magdalene Odundo: hand-built pots, open firing, Zulu beer pots and Moroccan glazes.
 summary: Africa has one of the oldest ceramic traditions in the world: pottery from Ounjougou in Mali is about 11,000 years old. Across most of the continent, pots were hand-built — usually by women — and fired in open bonfires rather than kilns, methods still used today, while North Africa developed glazed, wheel-thrown wares. Modern potters such as Nigeria's Ladi Kwali and Kenyan-born Magdalene Odundo have carried these traditions into the world's museums.
 facts:
   - Oldest pottery | Ounjougou, Mali, about 9400 BCE

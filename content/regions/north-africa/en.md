@@ -3,7 +3,7 @@ title: North African Art: Egypt, the Maghreb and Sudan, Ancient to Modern
 label: North Africa
 heading: Art of North Africa
 kicker: Region
-description: The art of North Africa: Saharan rock art, ancient Egypt and Nubia, Islamic architecture and calligraphy, Amazigh carpets and jewellery, and modern painters from Cairo to Casablanca.
+description: The art of North Africa: Saharan rock art, ancient Egypt and Nubia, Islamic calligraphy, Amazigh carpets and jewellery, and modern painters.
 summary: North Africa — Egypt, Libya, Tunisia, Algeria, Morocco and, in this guide, Sudan — joins the Mediterranean, the Arab world and the rest of Africa. Its art runs from the rock paintings of the Sahara and the monuments of ancient Egypt and Nubia, through the mosques, tilework and calligraphy of the Islamic centuries and the carpets and silver jewellery of the Amazigh (Berber) peoples, to modern painters such as Mahmoud Saïd, Baya, Farid Belkahia and Ibrahim El-Salahi.
 facts:
   - Countries | Egypt, Libya, Tunisia, Algeria, Morocco, Sudan

@@ -3,7 +3,7 @@ title: Olaria e cerâmica africanas: tradições, artesãs e Ladi Kwali
 label: Cerâmica africana
 heading: Olaria e cerâmica africanas
 kicker: Forma de arte
-description: A cerâmica africana, das primeiras peças do Sara a Ladi Kwali e Magdalene Odundo: potes feitos à mão, cozedura ao ar livre, potes zulu, vidrados marroquinos e ceramistas.
+description: A cerâmica africana, das primeiras peças do Sara a Ladi Kwali e Magdalene Odundo: potes feitos à mão, cozedura ao ar livre, potes zulu, vidrados.
 summary: África tem uma das tradições cerâmicas mais antigas do mundo: a cerâmica de Ounjougou, no Mali, tem cerca de 11 000 anos. Na maior parte do continente, os potes eram feitos à mão — quase sempre por mulheres — e cozidos em fogueiras ao ar livre em vez de fornos, métodos que ainda se usam, enquanto o Norte de África desenvolveu peças vidradas feitas na roda. Ceramistas modernas como a nigeriana Ladi Kwali e Magdalene Odundo, nascida no Quénia, levaram estas tradições aos museus do mundo.
 facts:
   - Cerâmica mais antiga | Ounjougou, Mali, cerca de 9400 a.C.

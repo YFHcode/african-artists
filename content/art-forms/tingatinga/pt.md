@@ -3,7 +3,7 @@ title: Pintura tingatinga: a arte vibrante da Tanzânia e o seu fundador
 label: Tingatinga
 heading: A pintura tingatinga
 kicker: Estilo de pintura
-description: O tingatinga é a pintura viva e brilhante de Dar es Salaam, criada por volta de 1968 por Edward Saidi Tingatinga: animais, aves e vida de aldeia em tinta de esmalte.
+description: O tingatinga é a pintura viva e brilhante de Dar es Salaam, criada por volta de 1968 por Edward Saidi Tingatinga: animais, aves e aldeias em esmalte.
 summary: O tingatinga é um estilo de pintura popular da Tanzânia, criado em Dar es Salaam no final dos anos 1960 por Edward Saidi Tingatinga (1932–1972). Pintado a esmalte brilhante sobre placa e, mais tarde, sobre tela, com cores planas e vivas e contornos fortes, mostra animais e aves e, depois, cenas cheias de vida da sociedade suaíli. Após a morte precoce de Tingatinga, os seus alunos e familiares continuaram o estilo, que se tornou uma das formas de arte mais conhecidas da África Oriental.
 facts:
   - Fundador | Edward Saidi Tingatinga (1932–1972)

@@ -3,7 +3,7 @@ title: Le raï : le chant rebelle d'Algérie, d'Oran au monde
 label: Raï
 heading: Le raï
 kicker: Genre musical
-description: Le raï est né comme chant rural autour d'Oran, est devenu la pop de Cheb Khaled et Cheb Mami, et a été inscrit par l'UNESCO comme chant populaire folklorique d'Algérie en 2022.
+description: Le raï, né comme chant rural autour d'Oran, est devenu la pop de Cheb Khaled et Cheb Mami ; l'UNESCO l'a inscrit comme chant populaire d'Algérie en 2022.
 summary: Le raï est une tradition de chant populaire de l'ouest de l'Algérie, centrée sur la ville d'Oran. Né comme chant rural interprété par des cheikhs et des cheikhates en arabe dialectal, il a bravé les tabous sur l'amour, l'alcool et la liberté, est devenu une pop électrique dans les années 1980 avec des chanteurs comme Cheb Khaled et Cheb Mami, et a été inscrit par l'UNESCO au patrimoine culturel immatériel de l'humanité en décembre 2022.
 facts:
   - Origine | Région d'Oran, ouest de l'Algérie, début du XXe siècle

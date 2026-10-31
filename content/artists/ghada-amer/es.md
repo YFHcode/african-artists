@@ -3,7 +3,7 @@ title: Ghada Amer: pinturas bordadas, deseo y jardines
 label: Ghada Amer
 heading: Ghada Amer
 kicker: Artista
-description: Ghada Amer, nacida en El Cairo, borda imágenes de mujeres y palabras en sus pinturas y convierte un oficio asignado a las mujeres en un lenguaje del deseo y la libertad.
+description: Ghada Amer, nacida en El Cairo, borda imágenes de mujeres y palabras en sus pinturas y convierte un oficio «femenino» en un lenguaje del deseo y la libertad.
 summary: Ghada Amer (1963) es una artista nacida en Egipto y afincada en Nueva York. Es conocida sobre todo por pinturas en las que borda sobre el lienzo figuras de mujeres —a menudo sacadas de revistas eróticas— y citas, dejando colgar los hilos para que difuminen y velen las imágenes. A través de un oficio asignado durante siglos a las mujeres, su obra trata del deseo, el género y el poder. Ganó un Premio de la UNESCO en la Bienal de Venecia de 1999 y también hace esculturas y jardines.
 facts:
   - Nacimiento | 1963, El Cairo, Egipto

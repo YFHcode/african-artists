@@ -26,12 +26,16 @@ import { SITE_URL } from './src/lib/site';
  * and posts page views to /_vercel/insights/view, and those must reach Vercel,
  * not /en/_vercel/… and a 404.
  *
+ * /share/ is excluded for the same reason as /api/: the share images
+ * (app/share/[locale]/[...path]) are a dynamic route, matched after the
+ * rewrites.
+ *
  * The lookahead must end in (?:/|$), not $ alone: the parameter's pattern is
  * embedded in a regex over the whole path, so a bare $ means "end of URL" and
  * would only exclude /fr itself — /fr/artists/… would be rewritten to
  * /en/fr/artists/… and 404.
  */
-const notAnotherEdition = `(?!(?:${[...PREFIXED_LOCALES, 'api', '_vercel'].join('|')})(?:/|$))[^/]+`;
+const notAnotherEdition = `(?!(?:${[...PREFIXED_LOCALES, 'api', '_vercel', 'share'].join('|')})(?:/|$))[^/]+`;
 
 const nextConfig: NextConfig = {
     poweredByHeader: false,

@@ -1,9 +1,9 @@
 ---
-title: Hassan El Glaoui: el hijo del pachá que pintó a los jinetes de Marruecos
+title: Hassan El Glaoui: el hijo del pachá que pintó a los jinetes marroquíes
 label: Hassan El Glaoui
 heading: Hassan El Glaoui
 kicker: Pintor
-description: Hassan El Glaoui, hijo del último pachá de Marrakech, llegó a pintor con la ayuda de Winston Churchill y pasó siete décadas pintando caballos, jinetes y la fantasía.
+description: Hassan El Glaoui, hijo del último pachá de Marrakech, llegó a pintor con ayuda de Winston Churchill y pintó siete décadas caballos, jinetes y fantasías.
 summary: Hassan El Glaoui (1923-2018) fue un pintor marroquí famoso por sus cuadros de caballos y jinetes, sobre todo la fantasía, la carga de jinetes que disparan sus fusiles. Hijo de Thami El Glaoui, el poderoso pachá de Marrakech, se le permitió ser artista después de que Winston Churchill elogiara su talento. Se formó y expuso en París, mostró su obra en Nueva York y Londres, y volvió a Marruecos en 1965.
 facts:
   - Nacimiento | 1923, Marrakech, Marruecos

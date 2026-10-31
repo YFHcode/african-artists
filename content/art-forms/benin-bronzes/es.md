@@ -3,7 +3,7 @@ title: Los bronces de Benín: historia, saqueo y regreso a Nigeria
 label: Bronces de Benín
 heading: Los bronces de Benín
 kicker: Arte cortesano
-description: Los bronces de Benín son miles de obras de latón, bronce y marfil del reino de Benín, en Nigeria, saqueadas por tropas británicas en 1897. Su historia y su regreso.
+description: Los bronces de Benín: miles de obras de latón, bronce y marfil del reino de Benín (Nigeria), saqueadas por tropas británicas en 1897. Su historia y su regreso.
 summary: Los bronces de Benín son miles de esculturas y placas de latón, bronce, marfil y madera hechas para la corte real del reino de Benín, en el actual estado de Edo, al sur de Nigeria, y no en la actual República de Benín. Saqueados por fuerzas británicas en 1897 y dispersos por museos y colecciones de todo el mundo, se convirtieron en el caso más famoso del debate sobre las colecciones coloniales; desde 2021, museos de Alemania, Estados Unidos, el Reino Unido y los Países Bajos han devuelto o transferido cientos de ellos a Nigeria.
 facts:
   - Reino | Benín, estado de Edo, sur de Nigeria

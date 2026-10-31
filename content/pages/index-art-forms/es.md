@@ -1,7 +1,7 @@
 ---
-title: Formas de arte africano: máscaras, escultura, textiles, abalorios y más
+title: Formas de arte africano: máscaras, escultura, textiles, abalorios…
 heading: Formas de arte y tradiciones africanas
-description: Guía de las formas de arte de África: máscaras, escultura, textiles, abalorios, cerámica, arte rupestre y fotografía, y tradiciones como el kente, el adinkra y los bronces de Benín.
+description: Las formas de arte de África: máscaras, escultura, textiles, abalorios, cerámica, arte rupestre y fotografía, con el kente, el adinkra y los bronces de Benín.
 ---
 La mayor parte del arte creado en África a lo largo de los siglos no se pintó sobre lienzo ni lo firmó un nombre famoso. Se bailó en forma de máscaras en funerales y cosechas, se talló para altares y cortes reales, se tejió y tiñó como tela, se ensartó en cuentas, se modeló en vasijas y se pintó en las paredes de los abrigos rocosos hace decenas de miles de años. La fotografía, llegada en el siglo XIX, se convirtió en una de las grandes artes modernas del continente.
 

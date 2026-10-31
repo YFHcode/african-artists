@@ -2,7 +2,7 @@
 title: Mozambican Artists: Malangatana, Chissano, Bertina Lopes and More
 label: Mozambican artists
 heading: Mozambican artists
-description: Mozambican artists, from the painter Malangatana and the sculptor Alberto Chissano to Bertina Lopes, the photographer Ricardo Rangel and Gonçalo Mabunda's weapon sculptures.
+description: Mozambican artists, from Malangatana and the sculptor Alberto Chissano to Bertina Lopes, the photographer Ricardo Rangel and Gonçalo Mabunda.
 ---
 Mozambique's modern art grew up in Lourenço Marques, today's Maputo, in the last decades of Portuguese colonial rule, and its leading artists were bound up with the struggle for independence, won in 1975. The painter [Malangatana](/artists/malangatana) became the best known, with crowded, visionary canvases and murals; the sculptor Alberto Chissano carved wood and stone; Bertina Lopes, who later worked in Rome, painted bold, colourful figures; and Ricardo Rangel was a pioneer of photojournalism in the country.
 

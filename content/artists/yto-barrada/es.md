@@ -3,7 +3,7 @@ title: Yto Barrada: Tánger, el Estrecho y la Cinémathèque de Tanger
 label: Yto Barrada
 heading: Yto Barrada
 kicker: Artista y fotógrafa
-description: Yto Barrada fotografió Tánger como una sala de espera hacia Europa, cofundó la Cinémathèque de Tanger y hoy trabaja con cine, escultura y tejidos teñidos con plantas.
+description: Yto Barrada fotografió Tánger como una sala de espera hacia Europa, cofundó la Cinémathèque de Tanger y trabaja con cine, escultura y tejidos teñidos.
 summary: Yto Barrada (1971) es una artista franco-marroquí afincada en Tánger y Nueva York. Se dio a conocer con A Life Full of Holes: The Strait Project, fotografías de Tánger como lugar de espera para quienes aspiran a cruzar a Europa. Cofundó y dirige la Cinémathèque de Tanger, y su obra posterior abarca cine, escultura, grabado y tejidos. Representa a Francia en la Bienal de Venecia de 2026.
 facts:
   - Nacimiento | 1971, París, Francia

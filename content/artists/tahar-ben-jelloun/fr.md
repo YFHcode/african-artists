@@ -3,7 +3,7 @@ title: Tahar Ben Jelloun peintre : la lumière du romancier prix Goncourt
 label: Tahar Ben Jelloun
 heading: Tahar Ben Jelloun
 kicker: Écrivain et peintre
-description: Tahar Ben Jelloun, romancier marocain prix Goncourt 1987, peint depuis des années ; ses toiles ont été exposées à l'Institut du monde arabe et dans une rétrospective à Rabat.
+description: Tahar Ben Jelloun, romancier marocain prix Goncourt 1987, peint depuis des années ; ses toiles ont été exposées à l'Institut du monde arabe et à Rabat.
 summary: Tahar Ben Jelloun (né en 1944) est un écrivain et peintre marocain, l'un des auteurs de langue française les plus connus, lauréat du prix Goncourt 1987 pour La Nuit sacrée. On le connaît surtout pour ses romans, mais il peint aussi depuis longtemps : des toiles lumineuses et colorées, exposées à l'Institut du monde arabe à Paris en 2017 et dans une rétrospective au musée Mohammed VI de Rabat en 2025.
 facts:
   - Naissance | 1er décembre 1944, Fès, Maroc

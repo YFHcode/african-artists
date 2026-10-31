@@ -3,7 +3,7 @@ title: Ibrahim El-Salahi : le moderniste visionnaire du Soudan
 label: Ibrahim El-Salahi
 heading: Ibrahim El-Salahi
 kicker: Peintre
-description: Ibrahim El-Salahi a uni calligraphie arabe et formes africaines dans l'École de Khartoum, dessiné son Carnet de prison et obtenu la première rétrospective africaine de la Tate Modern.
+description: Ibrahim El-Salahi a uni calligraphie arabe et formes africaines dans l'École de Khartoum, dessiné son Carnet de prison et eu une rétrospective à la Tate Modern.
 summary: Ibrahim El-Salahi est un peintre soudanais né à Omdurman en 1930 et l'un des fondateurs de l'École de Khartoum. Il a associé la calligraphie arabe à des formes africaines et islamiques, a passé six mois en prison sans procès en 1975 et, en 2013, est devenu le premier artiste africain à bénéficier d'une rétrospective à la Tate Modern.
 facts:
   - Naissance | 1930, Omdurman, Soudan

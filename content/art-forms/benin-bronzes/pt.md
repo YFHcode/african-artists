@@ -3,7 +3,7 @@ title: Os bronzes do Benim: história, pilhagem e regresso à Nigéria
 label: Bronzes do Benim
 heading: Os bronzes do Benim
 kicker: Arte de corte
-description: Os bronzes do Benim são milhares de obras em latão, bronze e marfim do reino do Benim, na Nigéria, pilhadas por tropas britânicas em 1897. A sua história e o seu regresso.
+description: Os bronzes do Benim: milhares de obras em latão, bronze e marfim do reino do Benim (Nigéria), pilhadas por tropas britânicas em 1897. História e regresso.
 summary: Os bronzes do Benim são milhares de esculturas e placas em latão, bronze, marfim e madeira feitas para a corte real do reino do Benim, no atual estado de Edo, no sul da Nigéria — e não na atual República do Benim. Pilhados pelas forças britânicas em 1897 e dispersos por museus e coleções de todo o mundo, tornaram-se o caso mais famoso do debate sobre as coleções coloniais; desde 2021, museus da Alemanha, dos Estados Unidos, do Reino Unido e dos Países Baixos devolveram ou transferiram centenas deles para a Nigéria.
 facts:
   - Reino | Benim, estado de Edo, sul da Nigéria

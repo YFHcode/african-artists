@@ -2,7 +2,7 @@
 title: Pintores africanos: 430 pintores famosos de todo el continente
 label: Pintores africanos
 heading: Pintores africanos
-description: Pintores africanos famosos, de Mahmoud Saïd, Ben Enwonwu e Ibrahim El-Salahi a Chéri Samba, Marlene Dumas y Njideka Akunyili Crosby: perfiles y una lista de 430 nombres.
+description: Pintores africanos famosos, de Mahmoud Saïd, Ben Enwonwu e Ibrahim El-Salahi a Chéri Samba y Njideka Akunyili Crosby: perfiles y una lista de 430 nombres.
 ---
 En África, la pintura es mucho más antigua que el caballete: las pinturas rupestres del Sáhara y del sur de África tienen miles de años, y las iglesias etíopes, las casas ndebele o los muros de Mauritania tienen sus propias tradiciones pictóricas. La pintura de caballete llegó con el periodo colonial y pronto se volvió africana. Pioneros como [Mahmoud Saïd](/artists/mahmoud-said) en Egipto, Aina Onabolu y [Ben Enwonwu](/artists/ben-enwonwu) en Nigeria, o Irma Stern y Gerard Sekoto en Sudáfrica abrieron el camino.
 

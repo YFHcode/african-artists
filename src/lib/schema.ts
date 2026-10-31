@@ -1,6 +1,7 @@
 import { type Picture, isPublicDomain } from '@/lib/artist-images';
 import type { Article } from '@/lib/content';
 import { LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
+import { shareCardUrl } from '@/lib/seo';
 import { SITE_NAME, SITE_URL, absoluteUrl } from '@/lib/site';
 
 /**
@@ -99,7 +100,7 @@ export function articleSchema(article: Article, path: string, person?: PersonFac
         inLanguage: LOCALE_INFO[article.locale].lang,
         datePublished: article.entry.published,
         dateModified: article.entry.updated,
-        image: [absoluteUrl(`/og/${article.locale}.png`), ...(person?.works ?? []).map((w) => imageObject(w.pic, w.title))],
+        image: [shareCardUrl(article.locale, path), ...(person?.works ?? []).map((w) => imageObject(w.pic, w.title))],
         author: { '@id': ORGANIZATION_ID },
         publisher: { '@id': ORGANIZATION_ID },
         isPartOf: { '@id': WEBSITE_ID },

@@ -1,9 +1,9 @@
 ---
-title: Hassan Hajjaj: o fotógrafo marroquino chamado «o Andy Warhol de Marraquexe»
+title: Hassan Hajjaj: o fotógrafo chamado «o Andy Warhol de Marraquexe»
 label: Hassan Hajjaj
 heading: Hassan Hajjaj
 kicker: Fotógrafo e designer
-description: Hassan Hajjaj mistura estilo de rua marroquino, moda e pop art em retratos vivos emoldurados com latas e produtos do dia a dia, como as Kesh Angels, motociclistas de Marraquexe.
+description: Hassan Hajjaj mistura estilo de rua marroquino e pop art em retratos vivos emoldurados com latas e produtos do dia a dia, como as Kesh Angels de Marraquexe.
 summary: Hassan Hajjaj (nascido em 1961) é um fotógrafo, designer e artista marroquino que vive entre Londres e Marraquexe. Os seus retratos vivos e estampados de amigos, músicos e das motociclistas a que chama Kesh Angels, emoldurados com latas, frascos e caixas de produtos marroquinos do dia a dia, misturam estilo de rua, moda e pop art.
 ---
 Hassan Hajjaj nasceu em 1961 em Larache, na costa atlântica de Marrocos, e mudou-se com a família para Londres em criança, em 1973 aos doze anos segundo um perfil, embora outro indique 1975. Cresceu entre as duas culturas, trabalhou nos meios londrinos dos clubes, da música e da moda de rua, e começou a fotografar em Marrocos nos anos 1990, em parte como resposta à forma como as revistas de moda ocidentais usavam o país como pano de fundo exótico.

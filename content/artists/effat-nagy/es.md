@@ -3,7 +3,7 @@ title: Effat Nagy: magia popular, amuletos y mitos de Egipto
 label: Effat Nagy
 heading: Effat Nagy
 kicker: Pintora
-description: Effat Nagy, hermana del pionero Mohamed Naghi, creó pinturas y ensamblajes con la magia popular, los amuletos y la madera pintada de Egipto; un museo de El Cairo los expone.
+description: Effat Nagy, hermana del pionero Mohamed Naghi, hizo pinturas y ensamblajes con la magia popular, los amuletos y la madera pintada de Egipto.
 summary: Effat Nagy (1905-1994), cuyo nombre también se escribe Naghi, fue una pintora egipcia de Alejandría y una de las primeras artistas egipcias en obtener reconocimiento. Hermana del pintor pionero Mohamed Naghi, desarrolló con su marido, el folclorista y artista Saad El-Khadem, un arte nacido de las creencias populares, la magia y los amuletos de Egipto, que incluye ensamblajes de técnica mixta. El Museo de Saad El-Khadem y Effat Nagy, en El Cairo, conserva su obra.
 ---
 Effat Nagy nació en Alejandría en 1905 en una familia culta; su hermano mayor Mohamed Naghi (1888–1956), unos veinte años mayor que ella, pintor, abogado y diplomático, fue uno de los fundadores de la pintura egipcia moderna. En 1945 se casó con el investigador, escritor y pintor Saad El-Khadem. En 1947, cuando su hermano fue nombrado director de la Academia de Egipto en Roma, comenzó allí su formación formal, estudiando fresco y escultura durante tres años en la Accademia di Belle Arti con Ferruccio Ferrazzi. En 1949, en París, conoció al pintor cubista francés André Lhote, y desde entonces se apartó de la pintura académica tradicional.

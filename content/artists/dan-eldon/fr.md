@@ -3,7 +3,7 @@ title: Dan Eldon : photographe de Reuters tué à Mogadiscio, et ses carnets
 label: Dan Eldon
 heading: Dan Eldon
 kicker: Photojournaliste
-description: Dan Eldon, photographe élevé à Nairobi, a couvert la famine en Somalie pour Reuters avant d'être tué à Mogadiscio en 1993, à 22 ans. Ses carnets sont devenus un livre et un film.
+description: Dan Eldon, photographe élevé à Nairobi, a couvert la famine en Somalie pour Reuters avant d'être tué à Mogadiscio en 1993, à 22 ans. Ses carnets sont un livre.
 summary: Dan Eldon (1970-1993) était un photojournaliste britannique et américain qui a grandi à Nairobi. Pour Reuters, il a photographié la famine et la guerre en Somalie en 1992-1993, et il a été tué par une foule à Mogadiscio le 12 juillet 1993, à 22 ans, avec trois collègues. Ses carnets de collages ont ensuite été publiés sous le titre The Journey Is the Destination.
 facts:
   - Naissance | 1970, Londres

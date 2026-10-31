@@ -3,7 +3,7 @@ title: Nnenna Okore: Sculptures of Burlap, Paper and Clay
 label: Nnenna Okore
 heading: Nnenna Okore
 kicker: Sculptor
-description: Nnenna Okore, a Nigerian artist born in Australia, based in Chicago, twists, dyes and weaves burlap, paper and clay into undulating sculptures about decay and renewal.
+description: Nnenna Okore, a Nigerian artist born in Australia and based in Chicago, twists, dyes and weaves burlap, paper and clay into sculptures of decay and renewal.
 summary: Nnenna Okore (born 1975) is a Nigerian sculptor, born in Australia and based in Chicago. Trained at the University of Nigeria, Nsukka, where she studied with El Anatsui, she transforms humble, often discarded materials — burlap, paper, clay, rope, wax — into large, undulating forms that evoke skin, earth and natural growth, and speak of decay, renewal and the environment.
 ---
 Nnenna Okore was born in 1975 in Australia, to Nigerian parents, and at the age of four moved to Nigeria, where they worked at the University of Nigeria in Nsukka, in the south-east. She took a first degree in painting there, with first-class honours, in 1999. One of her teachers was [El Anatsui](/artists/el-anatsui), whose transformation of found materials shaped her own approach. She later took an MA (2004) and an MFA (2005) in sculpture at the University of Iowa in the United States, received a Fulbright Scholar Award in 2012, and went on to become a professor of art at North Park University in Chicago, where she runs the sculpture programme. In 2023 she received a PhD in fine art from Monash University.

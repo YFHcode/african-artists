@@ -1,9 +1,9 @@
 ---
-title: Bruce Onobrakpeya: grabador, inventor de técnicas y el Harmattan Workshop
+title: Bruce Onobrakpeya: grabador, inventor de técnicas, Harmattan Workshop
 label: Bruce Onobrakpeya
 heading: Bruce Onobrakpeya
 kicker: Grabador y pintor
-description: Bruce Onobrakpeya, miembro de la Zaria Art Society, inventó técnicas de grabado inspiradas en la cultura urhobo y fundó el Harmattan Workshop en su ciudad, Agbarha-Otor.
+description: Bruce Onobrakpeya, de la Zaria Art Society, inventó técnicas de grabado inspiradas en la cultura urhobo y fundó el Harmattan Workshop en Agbarha-Otor.
 summary: Bruce Onobrakpeya (nacido en 1932) es un grabador, pintor y escultor nigeriano, uno de los fundadores del arte nigeriano moderno. Miembro de la Zaria Art Society, desarrolló sus propias técnicas de grabado, entre ellas el grabado profundo y el plastógrafo, y llenó su obra de los mitos y motivos de su herencia urhobo. Desde finales de los años noventa dirige el taller Harmattan para artistas en su ciudad natal, Agbarha-Otor.
 ---
 Bruce Onobrakpeya nació el 30 de agosto de 1932 en Agbarha-Otor, en lo que hoy es el estado del Delta, en Nigeria, en una familia urhobo; su padre era un tallista conocido. Estudió bellas artes en el Nigerian College of Arts, Science and Technology de Zaria, donde en 1958 se unió a otros estudiantes, entre ellos Uche Okeke y Demas Nwoko, en la [Zaria Art Society](/movements/zaria-art-society), comprometida con una «síntesis natural» de las tradiciones nigerianas y el arte moderno.

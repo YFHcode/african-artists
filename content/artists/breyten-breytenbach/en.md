@@ -3,7 +3,7 @@ title: Breyten Breytenbach: The Afrikaans Poet Who Painted, and Was Jailed
 label: Breyten Breytenbach
 heading: Breyten Breytenbach
 kicker: Writer and painter
-description: Breyten Breytenbach, the great Afrikaans poet who opposed apartheid, was jailed for seven years in South Africa and painted throughout his life. He died in Paris in 2024.
+description: Breyten Breytenbach, the great Afrikaans poet who opposed apartheid, was jailed for seven years and painted throughout his life. He died in Paris in 2024.
 summary: Breyten Breytenbach (1939–2024) was a South African poet, novelist and painter, one of the greatest writers in Afrikaans and a fierce opponent of apartheid. He lived mostly in Paris, where he painted alongside his writing. Arrested on a secret visit to South Africa in 1975, he was jailed for seven years; The True Confessions of an Albino Terrorist (1984) recounts it. He died in Paris in November 2024.
 ---
 Breyten Breytenbach was born in 1939 in Bonnievale, in the Western Cape, and studied fine art at the University of Cape Town before leaving South Africa in the early 1960s for Paris. There he married Yolande Ngo Thi Hoang Lien, a French woman of Vietnamese origin; under apartheid's laws the marriage was a crime in South Africa, and she was refused a visa to visit.

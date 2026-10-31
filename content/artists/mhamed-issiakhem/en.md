@@ -1,9 +1,9 @@
 ---
-title: M'hamed Issiakhem: Algeria's Painter of Grief and Resistance (1928–1985)
+title: M'hamed Issiakhem: Algeria's Painter of Grief and Resistance
 label: M'hamed Issiakhem
 heading: M'hamed Issiakhem
 kicker: Painter
-description: M'hamed Issiakhem lost an arm in a grenade blast at fifteen and became a founder of modern Algerian painting, friend of Kateb Yacine and designer of banknotes and stamps.
+description: M'hamed Issiakhem lost an arm at fifteen and became a founder of modern Algerian painting, friend of Kateb Yacine and designer of banknotes and stamps.
 summary: M'hamed Issiakhem (1928–1985) was an Algerian painter, one of the founders of modern Algerian art. At fifteen a grenade explosion killed two of his sisters and a nephew and cost him his left arm. He trained in Algiers and Paris, became the lifelong friend and collaborator of the writer Kateb Yacine, and painted the suffering of war, above all mothers and widows, in a powerful expressionist style. He also designed Algerian banknotes and stamps.
 facts:
   - Born | 17 June 1928, Kabylia, Algeria

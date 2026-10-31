@@ -3,7 +3,7 @@ title: William Kentridge: animações a carvão, ópera e memória sul-africana
 label: William Kentridge
 heading: William Kentridge
 kicker: Artista
-description: William Kentridge faz filmes a partir de desenhos a carvão que desenha, apaga e redesenha — os Drawings for Projection —, além de óperas, teatro e escultura sobre a África do Sul.
+description: William Kentridge faz filmes com desenhos a carvão que desenha, apaga e redesenha, os Drawings for Projection, além de óperas e escultura sobre a África do Sul.
 summary: William Kentridge (nascido em 1955) é um artista sul-africano, um dos mais celebrados da sua geração em todo o mundo. É conhecido sobretudo pelos filmes de animação feitos a partir de desenhos a carvão que desenha, apaga e redesenha fotograma a fotograma, deixando os vestígios à vista; desde o fim dos anos 1980 tratam do apartheid, da memória, da culpa e da responsabilidade. Faz também gravura, escultura e encenações de teatro e ópera apresentadas nas grandes casas de ópera do mundo.
 facts:
   - Nascimento | 28 de abril de 1955, Joanesburgo, África do Sul

@@ -2,7 +2,7 @@
 title: Peintres africains : 430 peintres célèbres de tout le continent
 label: Peintres africains
 heading: Peintres africains
-description: Les peintres africains célèbres, de Mahmoud Saïd, Ben Enwonwu et Ibrahim El-Salahi à Chéri Samba, Chaïbia Talal et Njideka Akunyili Crosby : portraits et liste de 430 noms.
+description: Les peintres africains célèbres, de Mahmoud Saïd, Ben Enwonwu et Ibrahim El-Salahi à Chéri Samba et Njideka Akunyili Crosby : portraits et 430 noms.
 ---
 En Afrique, la peinture est bien plus ancienne que le chevalet : les peintures rupestres du Sahara et de l'Afrique australe remontent à des millénaires, et les églises éthiopiennes, les maisons ndébélé ou les murs de Mauritanie portent leurs propres traditions picturales. La peinture de chevalet arrive avec la période coloniale et devient vite africaine. Des pionniers comme [Mahmoud Saïd](/artists/mahmoud-said) en Égypte, Aina Onabolu et [Ben Enwonwu](/artists/ben-enwonwu) au Nigeria, ou Irma Stern et Gerard Sekoto en Afrique du Sud ouvrent la voie.
 

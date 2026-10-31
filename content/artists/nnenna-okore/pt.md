@@ -3,7 +3,7 @@ title: Nnenna Okore: esculturas de serapilheira, papel e barro
 label: Nnenna Okore
 heading: Nnenna Okore
 kicker: Escultora
-description: Nnenna Okore, artista nigeriana nascida na Austrália e radicada em Chicago, torce, tinge e tece serapilheira, papel e barro em esculturas ondulantes sobre o desgaste e a renovação.
+description: Nnenna Okore, artista nigeriana nascida na Austrália e radicada em Chicago, tece e tinge serapilheira, papel e barro em esculturas sobre desgaste e renovação.
 summary: Nnenna Okore (nascida em 1975) é uma escultora nigeriana, nascida na Austrália e radicada em Chicago. Formada na Universidade da Nigéria, em Nsukka, onde estudou com El Anatsui, transforma materiais humildes, muitas vezes deitados fora — serapilheira, papel, barro, corda, cera —, em grandes formas ondulantes que evocam a pele, a terra e o crescimento natural, e falam de desgaste, renovação e ambiente.
 ---
 Nnenna Okore nasceu em 1975 na Austrália, de pais nigerianos, e aos quatro anos mudou-se para a Nigéria, onde eles trabalhavam na Universidade da Nigéria, em Nsukka, no sudeste. Ali obteve um primeiro grau em pintura, com distinção, em 1999. Um dos seus professores foi [El Anatsui](/artists/el-anatsui), cuja transformação de materiais encontrados moldou a sua própria abordagem. Mais tarde fez um mestrado (2004) e um MFA (2005) em escultura na University of Iowa, nos Estados Unidos, recebeu uma bolsa Fulbright em 2012 e tornou-se professora de arte na North Park University, em Chicago, onde dirige o programa de escultura. Em 2023 obteve um doutoramento em belas-artes na Monash University.

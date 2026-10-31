@@ -3,7 +3,7 @@ title: La pintura popular congoleña: el arte callejero de Kinshasa
 label: Pintura popular congoleña
 heading: La pintura popular congoleña
 kicker: Movimiento artístico
-description: Desde los años setenta, pintores autodidactas de Kinshasa como Chéri Samba, Moké y Chéri Chérin pintan la vida y la historia de la ciudad con el estilo de las vallas publicitarias.
+description: Desde los años setenta, pintores autodidactas de Kinshasa como Chéri Samba, Moké y Chéri Chérin pintan la vida de la ciudad al estilo de los carteles.
 summary: La pintura popular congoleña es la obra de artistas de Kinshasa, en su mayoría autodidactas, que desde principios de los años setenta pintaron la vida, el humor, la política y la historia de la ciudad para compradores locales. Fundada por Chéri Samba, Moké, Chéri Chérin y Pierre Bodo, toma prestados recursos de las vallas publicitarias y el cómic —contornos marcados, colores vivos y leyendas escritas— y empezó a coleccionarse internacionalmente a finales de los años ochenta.
 facts:
   - Lugar | Kinshasa, República Democrática del Congo (entonces Zaire)

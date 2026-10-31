@@ -3,7 +3,7 @@ title: Mahmoud Mokhtar: o pai da escultura egípcia moderna (1891-1934)
 label: Mahmoud Mokhtar
 heading: Mahmoud Mokhtar
 kicker: Escultor
-description: Mahmoud Mokhtar, um rapaz de aldeia do delta do Nilo, tornou-se o pai da escultura egípcia moderna; o seu Despertar do Egito em granito tornou-se monumento nacional em 1928.
+description: Mahmoud Mokhtar, rapaz de aldeia do delta do Nilo, tornou-se o pai da escultura egípcia moderna; o seu Despertar do Egito foi monumento nacional em 1928.
 summary: Mahmoud Mokhtar (1891-1934) foi um escultor egípcio, fundador da escultura egípcia moderna. Um dos primeiros alunos da Escola de Belas-Artes do Cairo, formou-se em Paris e criou O Despertar do Egito (Nahdet Misr), uma estátua de granito de uma camponesa ao lado de uma esfinge que se ergue, que se tornou símbolo da revolução de 1919 e do nacionalismo egípcio. Fez também dois monumentos ao líder nacionalista Saad Zaghloul e muitas pequenas esculturas de camponesas egípcias.
 facts:
   - Nascimento | 1891, delta do Nilo, Egito

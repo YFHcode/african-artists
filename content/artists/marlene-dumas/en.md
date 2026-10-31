@@ -3,7 +3,7 @@ title: Marlene Dumas: The South African-Born Painter of Faces and Bodies
 label: Marlene Dumas
 heading: Marlene Dumas
 kicker: Painter
-description: Marlene Dumas, born in Cape Town and based in Amsterdam since 1976, paints faces and bodies from photographs in loose, wet washes — one of the most influential painters alive.
+description: Marlene Dumas, born in Cape Town and in Amsterdam since 1976, paints faces and bodies from photographs in loose, wet washes. A leading painter of our time.
 summary: Marlene Dumas (born 1953) is a South African-born painter who has lived in Amsterdam since 1976. Working from photographs — newspaper images, film stills, pornography, Polaroids of friends — she paints faces and bodies in loose, liquid washes of ink and oil, and her work on race, sexuality, violence, love and death has made her one of the most influential painters alive.
 facts:
   - Born | 3 August 1953, Cape Town, South Africa

@@ -3,7 +3,7 @@ title: Ghada Amer : peintures brodées, désir et jardins
 label: Ghada Amer
 heading: Ghada Amer
 kicker: Artiste
-description: Ghada Amer, née au Caire, brode au fil des images de femmes et des mots sur ses toiles, et fait d'un savoir-faire assigné aux femmes un langage du désir et de la liberté.
+description: Ghada Amer, née au Caire, brode des images de femmes et des mots sur ses toiles, et fait d'un savoir-faire dit féminin un langage du désir et de la liberté.
 summary: Ghada Amer (née en 1963) est une artiste née en Égypte et installée à New York. Elle est surtout connue pour ses peintures où elle brode sur la toile des figures de femmes — souvent tirées de magazines érotiques — et des citations, en laissant pendre les fils qui brouillent et voilent les images. En utilisant un artisanat longtemps réservé aux femmes, son œuvre parle de désir, de genre et de pouvoir. Lauréate d'un prix UNESCO à la Biennale de Venise en 1999, elle réalise aussi sculptures et jardins.
 facts:
   - Naissance | 1963, Le Caire, Égypte

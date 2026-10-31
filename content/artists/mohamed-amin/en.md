@@ -1,9 +1,9 @@
 ---
-title: Mohamed Amin: The Kenyan Cameraman Who Showed the World Ethiopia's Famine
+title: Mohamed Amin: The Kenyan Cameraman Who Showed Ethiopia's Famine
 label: Mohamed Amin
 heading: Mohamed Amin
 kicker: Photojournalist
-description: Mohamed Amin, the Kenyan photographer and cameraman behind Camerapix, filmed the 1984 Ethiopian famine for the BBC, inspiring Band Aid and Live Aid. He died in a hijacking in 1996.
+description: Mohamed Amin, the Kenyan cameraman behind Camerapix, filmed the 1984 Ethiopian famine for the BBC, inspiring Band Aid. He died in a hijacking in 1996.
 summary: Mohamed "Mo" Amin (1943–1996) was a Kenyan photojournalist and cameraman, founder of the Camerapix agency in Nairobi and one of the most prolific reporters of Africa's news in the 1960s–1990s. His 1984 footage of the famine in Ethiopia, broadcast by the BBC, moved millions and led to Band Aid and Live Aid. He lost an arm in an explosion in Addis Ababa in 1991 and died in the hijacking of an Ethiopian Airlines flight in 1996.
 facts:
   - Born | 29 August 1943, Nairobi, Kenya

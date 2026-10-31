@@ -3,7 +3,7 @@ title: Southern African Art: San Rock Art, Great Zimbabwe, Ndebele and Today
 label: Southern Africa
 heading: Art of Southern Africa
 kicker: Region
-description: The art of Southern Africa: San rock paintings, Mapungubwe's gold and Great Zimbabwe's birds, Ndebele painting and beadwork, Zimbabwe stone sculpture and South Africa's artists.
+description: The art of Southern Africa: San rock paintings, Mapungubwe's gold, Great Zimbabwe's birds, Ndebele painting, Zimbabwean stone sculpture and today's artists.
 summary: Southern Africa — South Africa, Zimbabwe, Mozambique, Namibia, Botswana and their neighbours — holds some of the oldest art in the world, from the Blombos drawing to the rock paintings of the San. It produced the gold rhinoceros of Mapungubwe and the soapstone birds of Great Zimbabwe, the painted homesteads and beadwork of the Ndebele and Zulu, Zimbabwe's modern stone sculpture and Mozambique's Malangatana, and a contemporary scene centred on Johannesburg and Cape Town.
 facts:
   - Countries | South Africa, Zimbabwe, Mozambique, Namibia, Botswana, Zambia, Malawi, Lesotho, Eswatini

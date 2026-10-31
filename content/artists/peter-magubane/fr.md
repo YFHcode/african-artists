@@ -3,7 +3,7 @@ title: Peter Magubane : Drum, Soweto 1976 et le photographe de Mandela
 label: Peter Magubane
 heading: Peter Magubane
 kicker: Photojournaliste
-description: Peter Magubane a photographié Sharpeville, le soulèvement de Soweto en 1976 et le chemin de Mandela vers la présidence, et a passé 586 jours à l'isolement pour son travail.
+description: Peter Magubane a photographié Sharpeville, Soweto en 1976 et le chemin de Mandela vers la présidence, et a passé 586 jours à l'isolement pour son travail.
 summary: Peter Magubane (1932-2024) était un photojournaliste sud-africain qui a documenté l'apartheid pendant plus de quarante ans, du magazine Drum dans les années 1950 au massacre de Sharpeville, au soulèvement de Soweto en 1976 et à la libération de Nelson Mandela. Il a été arrêté, détenu 586 jours à l'isolement et interdit d'exercer pendant cinq ans. De 1990 à 1994, il a été le photographe officiel de Mandela.
 facts:
   - Naissance | 18 janvier 1932, Vrededorp, Johannesburg, Afrique du Sud

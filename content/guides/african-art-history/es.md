@@ -3,7 +3,7 @@ title: Breve historia del arte africano: del arte rupestre a hoy
 label: Historia del arte africano
 heading: Breve historia del arte africano
 kicker: Guía
-description: El arte africano, del dibujo de Blombos de hace 73 000 años a Nok, Ife y Benín, las máscaras y los textiles, las escuelas modernistas y los artistas de hoy: una historia breve.
+description: El arte africano, del dibujo de Blombos (73 000 años) a Nok, Ife y Benín, las máscaras y textiles, el modernismo y los artistas de hoy: una historia breve.
 summary: El arte africano no es una tradición sino miles, creadas en cincuenta y cuatro países a lo largo de más de 70 000 años: el dibujo más antiguo que se conoce, las pinturas rupestres del Sahara y el Drakensberg, la escultura de Nok, Ife y Benín, el arte cristiano de Etiopía y la arquitectura islámica del norte de África y la costa suajili, las máscaras, los textiles y los abalorios, las escuelas modernistas de las independencias y los artistas contemporáneos que hoy exponen en todos los grandes museos. Esta guía sigue esa historia en orden y enlaza con los artículos que cuentan cada parte.
 ---
 ## El arte más antiguo del mundo

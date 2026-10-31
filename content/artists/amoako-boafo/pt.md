@@ -3,7 +3,7 @@ title: Amoako Boafo: retratos pintados com os dedos, de Acra a Viena e à Dior
 label: Amoako Boafo
 heading: Amoako Boafo
 kicker: Pintor
-description: Amoako Boafo, pintor ganês radicado em Viena, pinta pessoas negras com a pele modelada com os dedos. A sua ascensão causou frenesim nos leilões; fundou o dot.ateliers em Acra.
+description: Amoako Boafo, pintor ganês radicado em Viena, modela com os dedos a pele dos seus retratados negros. A sua ascensão agitou os leilões; fundou o dot.ateliers.
 summary: Amoako Boafo (nascido em 1984) é um pintor ganês radicado em Viena. Os seus retratos de pessoas negras — amigos, artistas, pessoas que admira — colocam as figuras sobre fundos planos e vivos e roupas estampadas, com a pele pintada com os dedos em pinceladas grossas e expressivas. A sua rápida ascensão em 2019-2020 provocou um frenesim especulativo nos leilões; desde então colaborou com a Dior e fundou o dot.ateliers, um espaço para artistas em Acra.
 facts:
   - Nascimento | 1984, Acra, Gana

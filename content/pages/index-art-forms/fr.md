@@ -1,7 +1,7 @@
 ---
-title: Formes d'art africaines : masques, sculpture, textiles, perlage et plus
+title: Formes d'art africaines : masques, sculpture, textiles, perlage…
 heading: Formes d'art et traditions africaines
-description: Les formes d'art d'Afrique : masques, sculpture, textiles, perlage, céramique, art rupestre et photographie, et traditions comme le kente, l'adinkra et les bronzes du Bénin.
+description: Les formes d'art d'Afrique : masques, sculpture, textiles, perlage, céramique, art rupestre et photographie, et le kente, l'adinkra ou les bronzes du Bénin.
 ---
 L'essentiel de l'art créé en Afrique au fil des siècles n'a pas été peint sur toile ni signé d'un nom célèbre. Il a été dansé sous forme de masques lors des funérailles et des récoltes, sculpté pour les autels et les cours royales, tissé et teint en étoffes, enfilé en perles, façonné en poteries, et peint sur les parois des abris rocheux il y a des dizaines de milliers d'années. La photographie, arrivée au XIXe siècle, est devenue l'un des grands arts modernes du continent.
 

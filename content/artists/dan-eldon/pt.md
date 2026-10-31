@@ -1,9 +1,9 @@
 ---
-title: Dan Eldon: o fotógrafo da Reuters morto em Mogadíscio e os seus diários
+title: Dan Eldon: fotógrafo da Reuters morto em Mogadíscio, e os seus diários
 label: Dan Eldon
 heading: Dan Eldon
 kicker: Fotojornalista
-description: Dan Eldon, fotógrafo criado em Nairobi, cobriu a fome na Somália para a Reuters e foi morto em Mogadíscio em 1993, aos 22 anos. Os seus diários deram um livro e um filme.
+description: Dan Eldon, fotógrafo criado em Nairobi, cobriu a fome na Somália para a Reuters e foi morto em Mogadíscio em 1993, aos 22 anos. Os diários deram um livro.
 summary: Dan Eldon (1970-1993) foi um fotojornalista britânico-americano que cresceu em Nairobi. Para a Reuters fotografou a fome e a guerra na Somália em 1992-1993, e foi morto por uma multidão em Mogadíscio a 12 de julho de 1993, aos 22 anos, juntamente com três colegas. Os seus diários de colagens foram depois publicados com o título The Journey Is the Destination.
 facts:
   - Nascimento | 1970, Londres

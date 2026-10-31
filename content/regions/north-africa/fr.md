@@ -1,9 +1,9 @@
 ---
-title: L'art d'Afrique du Nord : Égypte, Maghreb et Soudan, d'hier à aujourd'hui
+title: L'art d'Afrique du Nord : Égypte, Maghreb, Soudan, d'hier à nos jours
 label: Afrique du Nord
 heading: L'art d'Afrique du Nord
 kicker: Région
-description: L'art d'Afrique du Nord : art rupestre saharien, Égypte et Nubie antiques, architecture et calligraphie islamiques, tapis et bijoux amazighs, et peintres modernes du Caire à Casablanca.
+description: L'art d'Afrique du Nord : art rupestre saharien, Égypte et Nubie antiques, calligraphie islamique, tapis et bijoux amazighs, et peintres modernes.
 summary: L'Afrique du Nord — Égypte, Libye, Tunisie, Algérie, Maroc et, dans ce guide, Soudan — relie la Méditerranée, le monde arabe et le reste de l'Afrique. Son art va des peintures rupestres du Sahara et des monuments de l'Égypte et de la Nubie antiques aux mosquées, zelliges et calligraphies des siècles islamiques et aux tapis et bijoux d'argent des peuples amazighs (berbères), jusqu'aux peintres modernes comme Mahmoud Saïd, Baya, Farid Belkahia et Ibrahim El-Salahi.
 facts:
   - Pays | Égypte, Libye, Tunisie, Algérie, Maroc, Soudan

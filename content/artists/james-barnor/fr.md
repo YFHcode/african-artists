@@ -3,7 +3,7 @@ title: James Barnor : du studio Ever Young d'Accra aux couvertures de Drum
 label: James Barnor
 heading: James Barnor
 kicker: Photographe
-description: James Barnor a photographié l'indépendance du Ghana depuis son studio Ever Young d'Accra, signé des couvertures de Drum à Londres et contribué à introduire la couleur au Ghana.
+description: James Barnor a photographié l'indépendance du Ghana depuis son studio Ever Young d'Accra, signé des couvertures de Drum à Londres et aidé à y amener la couleur.
 summary: James Barnor (né en 1929) est un photographe ghanéen dont la carrière va de l'indépendance du Ghana au Swinging London. Il a tenu le studio Ever Young à Accra dans les années 1950, photographié l'arrivée de l'indépendance, réalisé des photos de mode et de couverture pour le magazine Drum à Londres dans les années 1960, puis est rentré en 1969 contribuer à installer le traitement couleur au Ghana. Une grande rétrospective à la Serpentine, à Londres, en 2021 a fait découvrir son œuvre à un large public.
 ---
 James Barnor est né à Accra en 1929 et, après un apprentissage auprès d'un parent, a ouvert son studio, Ever Young, dans le quartier de Jamestown, à Accra, au début des années 1950. Il a réalisé des portraits des gens de la ville et, comme photographe de presse au *Daily Graphic*, a couvert les événements politiques qui ont mené le Ghana à devenir, en 1957, le premier pays d'Afrique subsaharienne à gagner son indépendance de la domination coloniale.

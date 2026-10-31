@@ -1,9 +1,9 @@
 ---
-title: Skunder Boghossian : moderniste éthiopien entre Addis, Paris et Washington
+title: Skunder Boghossian : moderniste éthiopien d'Addis, Paris et Washington
 label: Skunder Boghossian
 heading: Skunder Boghossian
 kicker: Peintre
-description: Skunder Boghossian a mêlé à Paris rouleaux et icônes éthiopiens et surréalisme, a été le premier artiste africain contemporain acheté par le MoMA et a enseigné à l'université Howard.
+description: Skunder Boghossian a mêlé à Paris icônes éthiopiennes et surréalisme, fut le premier artiste africain contemporain acheté par le MoMA et enseigna à Howard.
 summary: Alexander « Skunder » Boghossian (1937-2003) était un peintre éthiopien, l'un des fondateurs du modernisme éthiopien et l'un des premiers artistes africains contemporains à attirer l'attention internationale. Après des études à Londres et des années à Paris, il est revenu enseigner à Addis-Abeba, puis a passé trois décennies à l'université Howard, à Washington. En 1965, le Museum of Modern Art a acheté l'un de ses tableaux, le premier d'un artiste africain contemporain.
 ---
 Skunder Boghossian est né à Addis-Abeba en 1937 ; son père était d'origine arménienne et sa mère éthiopienne. Après des études à Londres de 1955 à 1957, à St Martin's, à la Central School et à la Slade, il s'est installé à Paris, où il a passé près d'une décennie ; le Musée d'art moderne de Paris a acheté son œuvre en 1963. Il y a rencontré les écrivains de la Négritude, les surréalistes et des artistes comme le peintre cubain Wifredo Lam, et a développé son style visionnaire : des compositions tourbillonnantes et cosmiques où les formes des rouleaux magiques éthiopiens, des peintures d'église et des croix rencontrent la sculpture africaine et l'imagerie surréaliste.

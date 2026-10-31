@@ -3,7 +3,7 @@ title: Breve história da arte africana: da arte rupestre aos nossos dias
 label: História da arte africana
 heading: Breve história da arte africana
 kicker: Guia
-description: A arte africana, do desenho de Blombos com 73 000 anos a Nok, Ifé e Benim, das máscaras e têxteis às escolas modernistas e aos artistas de hoje: uma história breve.
+description: A arte africana, do desenho de Blombos (73 000 anos) a Nok, Ifé e Benim, das máscaras e têxteis ao modernismo e aos artistas de hoje: uma história breve.
 summary: A arte africana não é uma tradição, mas milhares, criadas em cinquenta e quatro países ao longo de mais de 70 000 anos: o mais antigo desenho conhecido, as pinturas rupestres do Sara e do Drakensberg, a escultura de Nok, Ifé e Benim, a arte cristã da Etiópia e a arquitetura islâmica do Norte de África e da costa suaíli, as máscaras, os têxteis e as missangas, as escolas modernistas das independências e os artistas contemporâneos que hoje expõem em todos os grandes museus. Este guia segue essa história por ordem e liga aos artigos que contam cada parte.
 ---
 ## A arte mais antiga do mundo

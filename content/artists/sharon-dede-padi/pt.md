@@ -3,7 +3,7 @@ title: Sharon Dede Padi: a artista ganesa das impressões de folhas
 label: Sharon Dede Padi
 heading: Sharon Dede Padi
 kicker: Pintora e poetisa
-description: Sharon Dede Padi, conhecida como Padiki, pintora e poetisa ganesa, bateu o recorde do Guinness da maior pintura com impressões de folhas. Morreu em julho de 2026, aos 50 anos.
+description: Sharon Dede Padi (Padiki), pintora e poetisa ganesa, bateu o recorde do Guinness da maior pintura com impressões de folhas. Morreu em julho de 2026, aos 50.
 summary: Sharon Dede Padi (1976-2026), conhecida como Padiki, foi uma artista visual e poetisa ganesa, célebre pelas pinturas feitas imprimindo folhas verdadeiras. Em Acra criou a maior pintura com impressões de folhas do mundo, reconhecida pelo Guinness World Records, e foi uma voz de destaque das artes criativas do Gana. Morreu em julho de 2026, aos 50 anos.
 facts:
   - Nascimento | 24 de junho de 1976, Gana

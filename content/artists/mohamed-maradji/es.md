@@ -3,7 +3,7 @@ title: Mohamed Maradji: el fotógrafo marroquí de los tres reyes
 label: Mohamed Maradji
 heading: Mohamed Maradji
 kicker: Fotógrafo
-description: Mohamed Maradji empezó como fotógrafo callejero en Casablanca en 1956 y pasó su carrera fotografiando a la familia real marroquí con Mohamed V, Hasán II y Mohamed VI.
+description: Mohamed Maradji empezó como fotógrafo callejero en Casablanca en 1956 y fotografió a la familia real marroquí con Mohamed V, Hasán II y Mohamed VI.
 summary: Mohamed Maradji (nacido en 1939) es un fotógrafo marroquí conocido como «el fotógrafo de los tres reyes». Empezó como fotógrafo callejero en Casablanca en los años cincuenta y pasó a fotografiar la monarquía y la vida pública de Marruecos durante más de seis décadas, con Mohamed V, Hasán II y Mohamed VI, y ha publicado varios libros con su archivo.
 ---
 Mohamed Maradji nació en Casablanca en 1939. En 1956, con dieciséis años, empezó como fotógrafo callejero en su ciudad natal, retratando a los transeúntes por un dírham la foto. Se hizo fotógrafo de prensa en los años posteriores a la independencia de Marruecos en 1956, y su carrera creció con el nuevo Estado.

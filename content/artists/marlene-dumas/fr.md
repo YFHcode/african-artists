@@ -1,9 +1,9 @@
 ---
-title: Marlene Dumas : la peintre d'origine sud-africaine des visages et des corps
+title: Marlene Dumas : la peintre sud-africaine des visages et des corps
 label: Marlene Dumas
 heading: Marlene Dumas
 kicker: Peintre
-description: Marlene Dumas, née au Cap et installée à Amsterdam depuis 1976, peint visages et corps d'après photographie, en lavis fluides — l'une des peintres vivantes les plus influentes.
+description: Marlene Dumas, née au Cap, à Amsterdam depuis 1976, peint visages et corps d'après photographie, en lavis fluides. Une peintre majeure de notre temps.
 summary: Marlene Dumas (née en 1953) est une peintre d'origine sud-africaine installée à Amsterdam depuis 1976. Travaillant d'après photographies — images de presse, photogrammes de films, pornographie, Polaroid d'amis —, elle peint visages et corps en lavis fluides d'encre et d'huile ; son œuvre sur la race, la sexualité, la violence, l'amour et la mort fait d'elle l'une des peintres vivantes les plus influentes.
 facts:
   - Naissance | 3 août 1953, Le Cap, Afrique du Sud

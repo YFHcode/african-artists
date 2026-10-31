@@ -1,9 +1,9 @@
 ---
-title: Lubaina Himid : lauréate du Turner Prize, peintre des histoires oubliées
+title: Lubaina Himid : Turner Prize et peinture des histoires oubliées
 label: Lubaina Himid
 heading: Lubaina Himid
 kicker: Peintre et artiste
-description: Lubaina Himid, née à Zanzibar en 1954, est devenue en 2017 la première femme noire lauréate du Turner Prize. Elle représente le Royaume-Uni à la Biennale de Venise 2026.
+description: Lubaina Himid, née à Zanzibar en 1954, est la première femme noire lauréate du Turner Prize (2017). Elle représente le Royaume-Uni à Venise en 2026.
 summary: Lubaina Himid (née en 1954) est une artiste britannique née à Zanzibar, installée à Preston. Figure majeure du Black Arts Movement dans la Grande-Bretagne des années 1980, elle peint et crée des figures découpées et des installations qui réintroduisent dans l'histoire des vies noires oubliées — domestiques, marins, travailleurs, femmes —, souvent avec humour et des motifs éclatants. En 2017, elle est la première femme noire à remporter le Turner Prize, et en 2026 elle représente le Royaume-Uni à la Biennale de Venise.
 facts:
   - Naissance | 1954, Zanzibar (aujourd'hui Tanzanie)

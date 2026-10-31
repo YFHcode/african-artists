@@ -3,7 +3,7 @@ title: Romuald Hazoumè : masques-bidons et La Bouche du Roi
 label: Romuald Hazoumè
 heading: Romuald Hazoumè
 kicker: Artiste
-description: Romuald Hazoumè, de Porto-Novo, transforme des bidons d'essence en plastique en masques et a créé La Bouche du Roi, un navire négrier de 304 masques acquis par le British Museum.
+description: Romuald Hazoumè, de Porto-Novo, fait des bidons en plastique des masques et a créé La Bouche du Roi, navire négrier de 304 masques acquis par le British Museum.
 summary: Romuald Hazoumè (né en 1962) est un artiste béninois de Porto-Novo. Depuis les années 1980, il fabrique des « masques » à partir des bidons en plastique qui servent partout au Bénin à transporter l'eau et l'essence de contrebande, faisant d'un objet bon marché des visages pleins de caractère et un commentaire sur la consommation, le commerce et l'exploitation. Son installation La Bouche du Roi, un navire négrier composé de 304 masques, a été acquise par le British Museum en 2007. Il travaille la sculpture, l'installation, la peinture et la photographie.
 ---
 Romuald Hazoumè est né à Porto-Novo, capitale du Bénin, en 1962, dans une famille yoruba. Il a commencé à fabriquer des masques à partir de bidons en plastique abandonnés au milieu des années 1980. Au Bénin, ces récipients sont partout : ils servent à transporter l'eau, l'huile et, surtout, l'essence passée en contrebande depuis le Nigeria sur des motos chargées de bidons.

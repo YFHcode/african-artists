@@ -3,7 +3,7 @@ title: Ladi Kwali: Nigeria's Master Potter, from Kwali to the 20 Naira Note
 label: Ladi Kwali
 heading: Ladi Kwali
 kicker: Potter
-description: Ladi Kwali, a Gbari potter from central Nigeria, became the country's most celebrated ceramicist at the Abuja Pottery Training Centre; her portrait is on the 20 naira note.
+description: Ladi Kwali, a Gbari potter from central Nigeria, became its most celebrated ceramicist at the Abuja Pottery Training Centre; she is on the 20 naira note.
 summary: Ladi Kwali (c. 1925–1984) was a Nigerian potter from the village of Kwali, in what is now the Federal Capital Territory. A master of the hand-built water jars of the Gbari tradition, she joined the Abuja Pottery Training Centre in 1954, learned the potter's wheel and glazes, and became internationally celebrated in the 1950s and 1960s. She was appointed MBE, and her portrait appears on the 20 naira note.
 facts:
   - Born | c. 1925, Kwali, Nigeria

@@ -3,7 +3,7 @@ title: Greg Marinovich: o fotógrafo do Bang-Bang Club vencedor do Pulitzer
 label: Greg Marinovich
 heading: Greg Marinovich
 kicker: Fotojornalista
-description: Greg Marinovich ganhou o Pulitzer de 1991 de fotografia de notícias, foi coautor de The Bang-Bang Club e investigou o massacre de Marikana em 2012. A sua vida e obra.
+description: Greg Marinovich ganhou o Pulitzer de 1991 de fotografia de notícias, foi coautor de The Bang-Bang Club e investigou o massacre de Marikana em 2012.
 summary: Greg Marinovich (nascido em 1962) é um fotojornalista, realizador e escritor sul-africano. Membro do Bang-Bang Club, ganhou o Prémio Pulitzer de 1991 de fotografia de notícias de última hora com imagens de um assassínio no Soweto, ficou gravemente ferido no tiroteio em que morreu Ken Oosterbroek e foi depois coautor do livro que contou a história do grupo. Em 2012, as suas investigações ajudaram a revelar o que aconteceu no massacre de Marikana.
 facts:
   - Nascimento | 1962, África do Sul

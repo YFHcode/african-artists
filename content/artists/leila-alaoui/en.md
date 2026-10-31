@@ -3,7 +3,7 @@ title: Leila Alaoui: Les Marocains and a Photographer's Life Cut Short
 label: Leila Alaoui
 heading: Leila Alaoui
 kicker: Photographer and video artist
-description: Leila Alaoui, the French-Moroccan photographer of Les Marocains, made life-size portraits of Moroccans and films about migration. She was killed in the 2016 Ouagadougou attack.
+description: Leila Alaoui, the French-Moroccan photographer of Les Marocains, made life-size portraits and films about migration. She was killed in Ouagadougou in 2016.
 summary: Leila Alaoui (1982–2016) was a French-Moroccan photographer and video artist. Her series Les Marocains, life-size studio portraits of people across Morocco, and her work on migration made her one of the most admired photographers of her generation. She was fatally wounded in the terrorist attack in Ouagadougou, Burkina Faso, in January 2016, while working on a project for Amnesty International.
 ---
 Leila Alaoui was a French-Moroccan photographer and video artist, born in 1982. Much of her work was about migration, identity and belonging: she filmed and photographed migrants trying to reach Europe, displaced Syrians in Lebanon, and people living between countries.

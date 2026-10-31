@@ -3,7 +3,7 @@ title: Vladimir Tretchikoff: Chinese Girl and the "King of Kitsch"
 label: Vladimir Tretchikoff
 heading: Vladimir Tretchikoff
 kicker: Painter
-description: Vladimir Tretchikoff, the Russian-born painter who settled in Cape Town in 1946, made Chinese Girl — the "Green Lady" — one of the most reproduced pictures of the twentieth century.
+description: Vladimir Tretchikoff, the Russian-born painter in Cape Town from 1946, made Chinese Girl, the "Green Lady", one of the 20th century's most reproduced pictures.
 summary: Vladimir Tretchikoff (1913–2006) was a Russian-born painter who settled in Cape Town in 1946. Dismissed by critics as the "King of Kitsch", he was adored by the public: prints of his paintings, above all Chinese Girl (1952), the "Green Lady", sold in vast numbers around the world and made it one of the most reproduced pictures of the twentieth century. The original sold at Bonhams in 2013 for nearly a million pounds.
 facts:
   - Born | 1913, Petropavlovsk, Russian Empire (now Petropavl, Kazakhstan)

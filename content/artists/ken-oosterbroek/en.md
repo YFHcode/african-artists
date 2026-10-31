@@ -3,7 +3,7 @@ title: Ken Oosterbroek: The Star's Chief Photographer, Killed in Thokoza
 label: Ken Oosterbroek
 heading: Ken Oosterbroek
 kicker: Photojournalist
-description: Ken Oosterbroek (1962–1994), chief photographer of Johannesburg's The Star and a member of the Bang-Bang Club, was killed covering a firefight in Thokoza days before the 1994 election.
+description: Ken Oosterbroek (1962–1994), chief photographer of The Star and a Bang-Bang Club member, was killed in Thokoza days before the 1994 election.
 summary: Ken Oosterbroek (1962–1994) was a South African photojournalist, chief photographer of Johannesburg's The Star and one of the four members of the Bang-Bang Club. Twice named South Africa's press photographer of the year, he was shot dead in the township of Thokoza on 18 April 1994, nine days before the country's first democratic election.
 facts:
   - Born | 1962, South Africa

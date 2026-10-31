@@ -3,7 +3,7 @@ title: J. H. Pierneef : le paysagiste sud-africain et les panneaux de la gare
 label: J. H. Pierneef
 heading: J. H. Pierneef
 kicker: Peintre
-description: J. H. Pierneef a peint le highveld sud-africain en paysages ordonnés et géométriques, surtout les 32 panneaux de la gare de Johannesburg (1929-1932). Célébré, et relu aujourd'hui.
+description: J. H. Pierneef a peint le highveld en paysages ordonnés et géométriques, surtout les 32 panneaux de la gare de Johannesburg (1929-1932), relus aujourd'hui.
 summary: Jacobus Hendrik Pierneef (1886-1957) était le paysagiste le plus connu d'Afrique du Sud. Ses vues claires, géométriques et soigneusement ordonnées du highveld, des montagnes et des arbres — avant tout les 32 panneaux de la gare de Johannesburg peints en 1929-1932 — ont fixé la manière dont une génération voyait le paysage sud-africain. Longtemps célébrée, son œuvre est aujourd'hui aussi discutée pour la terre vide et inhabitée qu'elle montre à l'époque du nationalisme afrikaner.
 ---
 J. H. Pierneef est né à Pretoria en 1886 dans une famille d'origine néerlandaise ; son père était un immigrant néerlandais. En 1900, pendant la guerre sud-africaine, la famille s'est installée aux Pays-Bas, où il a étudié à l'Académie des beaux-arts de Rotterdam ; il est ensuite rentré et a travaillé à Pretoria. Dans les années 1920, il avait mis au point son propre style : des paysages simplifiés et monumentaux, construits à partir de plans plats, aux contours nets et au fort sens du dessin, influencés par ses études d'art et d'architecture.

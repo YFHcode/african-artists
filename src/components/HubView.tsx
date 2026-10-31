@@ -5,6 +5,7 @@ import { JsonLd } from '@/components/JsonLd';
 import { dictionary } from '@/i18n';
 import { CATALOG, entryPath, findEntry, isAvailable, regionOf } from '@/content/catalog';
 import { type Hub, findHub, hubKind, hubPath, liveHubs } from '@/content/hubs';
+import { ROSTER } from '@/content/roster';
 import { type DataArtist, artistDescription, displayName, hubMembers, lifeYears, wikipediaLanguage, wikipediaUrl } from '@/lib/artist-data';
 import { listPortrait } from '@/lib/artist-images';
 import { quilt } from '@/lib/motifs';
@@ -20,6 +21,9 @@ import { SaleNote } from '@/components/Views';
  * lists; for a country and medium, the country, the medium across Africa and
  * the same country's other media; for a medium, the countries' lists of it.
  */
+/** People known mainly for other work: listed after the artists, under their own heading (roster.ts). */
+const OTHER_WORK = new Set(ROSTER.filter((r) => r.knownForOtherWork).map((r) => r.qid));
+
 function relatedHubs(hub: Hub, locale: Locale): Hub[] {
     const live = liveHubs(locale).filter((h) => h !== hub);
     const kind = hubKind(hub);
@@ -47,7 +51,8 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
     for (const e of CATALOG) {
         if (e.collection === 'artists' && e.qid && isAvailable(e, locale)) profiles.set(e.qid, getArticle(locale, 'artists', e.slug)!);
     }
-    const profiled = members.filter((m) => profiles.has(m.qid)).map((m) => profiles.get(m.qid)!);
+    const profiled = members.filter((m) => profiles.has(m.qid) && !OTHER_WORK.has(m.qid)).map((m) => profiles.get(m.qid)!);
+    const otherWork = members.filter((m) => profiles.has(m.qid) && OTHER_WORK.has(m.qid)).map((m) => profiles.get(m.qid)!);
     const others = members.filter((m) => !profiles.has(m.qid));
 
     const countryHub = kind === 'country-medium' ? findHub(hub.country, undefined) : undefined;
@@ -116,6 +121,7 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                         const url = wikipediaUrl(a, locale);
                         return url ? [{ name: displayName(a, locale), url }] : [];
                     }),
+                    ...otherWork.map((a) => ({ name: a.label, path: entryPath(a.entry) })),
                 ])}
             />
             <Breadcrumbs locale={locale} label={t.nav.breadcrumb} trail={trail} />
@@ -159,6 +165,22 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                     <ul className="mt-5 gap-x-8 sm:columns-2 lg:columns-3 [&_a]:font-medium [&_a]:text-clay [&_a]:underline [&_a]:underline-offset-4 [&_abbr]:ms-1.5 [&_abbr]:[unicode-bidi:isolate] [&_abbr]:rounded [&_abbr]:border [&_abbr]:border-line [&_abbr]:px-1 [&_abbr]:align-middle [&_abbr]:text-[0.65rem] [&_abbr]:font-semibold [&_abbr]:text-muted [&_abbr]:no-underline [&_b]:font-medium [&_img]:absolute [&_img]:start-0 [&_img]:top-1.5 [&_img]:size-10 [&_img]:rounded-full [&_img]:bg-sand [&_img]:object-cover [&_img]:object-[50%_20%] [&_li]:relative [&_li]:min-h-13 [&_li]:break-inside-avoid [&_li]:py-1.5 [&_li]:ps-13 max-sm:[&_li]:[content-visibility:auto] max-sm:[&_li]:[contain-intrinsic-size:auto_3.75rem] [&_li>span]:absolute [&_li>span]:start-0 [&_li>span]:top-1.5 [&_li>span]:size-10 [&_li>span]:rounded-full [&_p]:text-sm [&_p]:leading-snug [&_p]:text-ink/75 [&_small]:text-sm [&_small]:text-muted">
                         {others.map(line)}
                     </ul>
+                </section>
+            )}
+
+            {otherWork.length > 0 && (
+                <section aria-labelledby="hub-other-work" className="mx-auto mt-14 max-w-6xl px-4">
+                    <h2 id="hub-other-work" className="font-display text-2xl font-semibold">
+                        {t.hub.otherWork}
+                    </h2>
+                    <p className="mt-2 text-sm text-muted">{t.hub.otherWorkNote}</p>
+                    <div className="mt-6">
+                        <CardGrid count={otherWork.length}>
+                            {otherWork.map((article) => (
+                                <EntryCard key={article.entry.slug} article={article} t={t} />
+                            ))}
+                        </CardGrid>
+                    </div>
                 </section>
             )}
 

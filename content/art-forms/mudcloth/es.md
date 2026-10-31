@@ -3,7 +3,7 @@ title: El bogolan (tela de barro): cómo se hace la tela pintada de Malí
 label: Bogolan (tela de barro)
 heading: El bogolan (bogolanfini)
 kicker: Tradición textil
-description: El bogolan, o «tela de barro», es el algodón hecho a mano de Malí, teñido con hojas y pintado con barro fermentado. Cómo se hace, qué significaba y cómo reconocer el auténtico.
+description: El bogolan, o «tela de barro», es el algodón de Malí teñido con hojas y pintado con barro fermentado. Cómo se hace, qué significa, cómo reconocerlo.
 summary: El bogolan —bogolanfini en bambara— es una tela de algodón hecha a mano en Malí, teñida de amarillo en un baño de hojas y pintada después con un barro fermentado y rico en hierro que se vuelve negro donde reacciona con el tinte. Hecho tradicionalmente por mujeres bamana y llevado por cazadores y por mujeres en momentos de tránsito, se convirtió en símbolo de la identidad maliense en los años setenta y ochenta y hoy es conocido en todo el mundo gracias a la moda y la decoración.
 facts:
   - País | Malí (pueblo bamana o bambara); también se hace en Burkina Faso

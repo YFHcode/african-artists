@@ -3,7 +3,7 @@ title: Foires et biennales d'art africain : les rendez-vous à connaître
 label: Foires et biennales d'art africain
 heading: Foires et biennales d'art africain
 kicker: Guide
-description: Les principales foires et biennales d'art africain contemporain : Dak'Art, les Rencontres de Bamako, 1-54, l'Investec Cape Town Art Fair, FNB Art Joburg, ART X Lagos et d'autres.
+description: Les grandes foires et biennales d'art africain contemporain : Dak'Art, Rencontres de Bamako, 1-54, Investec Cape Town Art Fair, FNB Art Joburg, ART X Lagos.
 summary: Les rendez-vous réguliers les plus importants de l'art africain contemporain sont la Biennale de Dakar (Dak'Art) et la biennale de photographie des Rencontres de Bamako, ainsi que les foires commerciales 1-54 (Londres, New York et Marrakech), l'Investec Cape Town Art Fair, FNB Art Joburg et ART X Lagos. Les biennales sont le lieu où les commissaires fixent les tendances ; les foires, celui où la plupart des collectionneurs achètent.
 ---
 ## Biennales et foires : la différence

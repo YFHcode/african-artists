@@ -3,7 +3,7 @@ title: Afewerk Tekle: Ethiopia's Laureate Painter and the Africa Hall Windows
 label: Afewerk Tekle
 heading: Afewerk Tekle
 kicker: Painter and stained-glass artist
-description: Afewerk Tekle, Ethiopia's most famous painter, created the vast stained-glass windows of Africa Hall in Addis Ababa and painted the history and people of his country.
+description: Afewerk Tekle, Ethiopia's most famous painter, made the vast stained-glass windows of Africa Hall in Addis Ababa and painted his country's history and people.
 summary: Afewerk Tekle (1932–2012) was an Ethiopian painter and stained-glass artist, the best-known Ethiopian artist of the twentieth century. Sent to England to study mining engineering, he trained instead at the Central School and the Slade in London. Back in Ethiopia he painted portraits, history and religious subjects in a style that joined Ethiopian church art with European modernism, and created the monumental stained-glass windows of Africa Hall in Addis Ababa.
 facts:
   - Born | 1932, Ankober, Ethiopia

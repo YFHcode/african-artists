@@ -3,7 +3,7 @@ title: Arte africano contemporáneo: artistas, ideas y dónde se expone
 label: Arte africano contemporáneo
 heading: El arte africano contemporáneo
 kicker: Guía
-description: Qué es el arte africano contemporáneo, las exposiciones y comisarios que lo llevaron a la escena mundial, los artistas clave y los museos, bienales y ferias que lo muestran.
+description: Qué es el arte africano contemporáneo, las exposiciones y comisarios que lo llevaron al mundo, los artistas clave y los museos, bienales y ferias.
 summary: El arte africano contemporáneo es el arte hecho desde los años noventa aproximadamente por artistas de África y su diáspora, en todos los medios, de la pintura y la fotografía a la instalación y el cine. Exposiciones decisivas y comisarios como Okwui Enwezor y Koyo Kouoh lo llevaron al centro del mundo del arte; hoy artistas como El Anatsui, Julie Mehretu, Wangechi Mutu, Ibrahim Mahama y Zanele Muholi exponen en los grandes museos del mundo, y la Bienal de Venecia de 2026, In Minor Keys, fue concebida por la comisaria de origen camerunés Koyo Kouoh.
 ---
 ## Qué se entiende por arte africano contemporáneo

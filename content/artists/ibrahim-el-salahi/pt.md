@@ -3,7 +3,7 @@ title: Ibrahim El-Salahi: o modernista visionário do Sudão
 label: Ibrahim El-Salahi
 heading: Ibrahim El-Salahi
 kicker: Pintor
-description: Ibrahim El-Salahi uniu caligrafia árabe e formas africanas na Escola de Cartum, desenhou o seu Caderno da Prisão e teve a primeira retrospetiva africana da Tate Modern.
+description: Ibrahim El-Salahi uniu caligrafia árabe e formas africanas na Escola de Cartum, desenhou o seu Caderno da Prisão e teve uma retrospetiva na Tate Modern.
 summary: Ibrahim El-Salahi é um pintor sudanês, nascido em Omdurman em 1930, e um dos fundadores da Escola de Cartum. Combinou a caligrafia árabe com formas africanas e islâmicas, passou seis meses preso sem julgamento em 1975 e, em 2013, tornou-se o primeiro artista africano com uma retrospetiva na Tate Modern.
 facts:
   - Nascimento | 1930, Omdurman, Sudão

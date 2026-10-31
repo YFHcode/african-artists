@@ -1,5 +1,5 @@
 ---
-title: Afewerk Tekle : le grand peintre éthiopien et les vitraux de l'Africa Hall
+title: Afewerk Tekle : grand peintre éthiopien et vitraux de l'Africa Hall
 label: Afewerk Tekle
 heading: Afewerk Tekle
 kicker: Peintre et maître verrier

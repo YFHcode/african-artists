@@ -3,7 +3,7 @@ title: Masques africains : types, significations et peuples qui les créent
 label: Masques africains
 heading: Les masques africains
 kicker: Forme d'art
-description: À quoi servent les masques africains, comment ils vivent dans la mascarade, et les types les plus connus — des Dogon, Bamana, Dan et Baoulé aux Gèlèdé, Punu, Tchokwé et Kuba.
+description: À quoi servent les masques africains, leur rôle dans la mascarade, et les types les plus connus : Dogon, Bamana, Dan, Baoulé, Gèlèdé, Punu, Tchokwé, Kuba.
 summary: Dans les sociétés africaines qui les créent, un masque est rarement un objet isolé. Il fait partie d'une mascarade : porté avec un costume complet, animé par la musique et la danse, il fait entrer dans la communauté un esprit, un ancêtre ou une idée le temps d'une cérémonie. Les masques interviennent lors des initiations, des funérailles, des récoltes et des fêtes, et les traditions les plus connues viennent d'Afrique de l'Ouest et d'Afrique centrale.
 facts:
   - Régions principales | Afrique de l'Ouest et Afrique centrale, avec des traditions en Afrique de l'Est et australe

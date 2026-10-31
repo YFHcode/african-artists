@@ -3,7 +3,7 @@ title: Adel Abdessemed: el artista de la estatua del cabezazo de Zidane
 label: Adel Abdessemed
 heading: Adel Abdessemed
 kicker: Artista
-description: Adel Abdessemed, nacido en Constantina, dejó Argelia durante la guerra civil y se hizo conocido por obras provocadoras como Coup de tête, el gigantesco bronce del cabezazo de Zidane.
+description: Adel Abdessemed, nacido en Constantina, dejó Argelia durante la guerra civil y se dio a conocer con obras provocadoras como Coup de tête, el cabezazo de Zidane.
 summary: Adel Abdessemed (nacido en 1971) es un artista francés nacido en Argelia que trabaja en escultura, dibujo, vídeo, fotografía e instalación. Dejó Argelia en 1994, durante la guerra civil, y se instaló en Francia. Su obra trata sin rodeos la violencia, la religión y la política; su pieza más conocida, Coup de tête (2012), es un bronce de cinco metros de Zinedine Zidane dando un cabezazo a Marco Materazzi en la final del Mundial de 2006.
 ---
 Adel Abdessemed nació en Constantina, en el este de Argelia, en 1971. Estudió arte en la escuela de bellas artes de Batna y luego en la École des Beaux-Arts de Argel. En 1994, durante la guerra civil argelina, el director de la escuela, Ahmed Asselah, fue asesinado junto con su hijo, y Abdessemed dejó el país rumbo a Francia, donde continuó sus estudios en la École nationale supérieure des beaux-arts de Lyon.

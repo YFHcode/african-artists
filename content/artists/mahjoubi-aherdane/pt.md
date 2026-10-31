@@ -3,7 +3,7 @@ title: Mahjoubi Aherdane: o político amazigh que foi também pintor e poeta
 label: Mahjoubi Aherdane
 heading: Mahjoubi Aherdane
 kicker: Político, pintor e poeta
-description: Mahjoubi Aherdane, fundador do Movimento Popular de Marrocos e defensor da identidade amazigh, pintou durante décadas telas oníricas e escreveu poesia em francês.
+description: Mahjoubi Aherdane, fundador do Movimento Popular de Marrocos e defensor da identidade amazigh, pintou telas oníricas e escreveu poesia em francês.
 summary: Mahjoubi Aherdane (1921-2020) foi um político, pintor e poeta marroquino. Antigo dirigente da resistência, foi cofundador do partido Movimento Popular em 1957, ministro no reinado de Hassan II e, durante décadas, um dos grandes defensores da língua e da cultura amazigh (berbere). Pintou também toda a vida, num estilo onírico, quase surrealista, e expôs em Marrocos e na Europa.
 ---
 Mahjoubi Aherdane nasceu em Oulmès, no Médio Atlas, numa família amazigh; a maioria das fontes indica 1921, uma indica 1920. Formou-se como oficial, serviu como caide sob o protetorado francês e depois juntou-se à luta pela independência, tornando-se um dos dirigentes da resistência e do Exército de Libertação nos anos 1950. Em 1957, com Abdelkrim al-Khatib, fundou o Movimento Popular (um relato diz que o partido só foi legalmente reconhecido em 1959), um partido que falava pelo Marrocos rural e amazigh, e foi ministro, nomeadamente da Defesa, sob o rei Hassan II.

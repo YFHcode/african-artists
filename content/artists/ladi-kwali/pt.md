@@ -3,7 +3,7 @@ title: Ladi Kwali: a grande oleira da nota de 20 nairas
 label: Ladi Kwali
 heading: Ladi Kwali
 kicker: Oleira
-description: Ladi Kwali, oleira gbari do centro da Nigéria, tornou-se a ceramista mais célebre do país no centro de formação de olaria de Abuja; o seu retrato está na nota de 20 nairas.
+description: Ladi Kwali, oleira gbari do centro da Nigéria, tornou-se a ceramista mais célebre do país no centro de olaria de Abuja; está na nota de 20 nairas.
 summary: Ladi Kwali (c. 1925-1984) foi uma oleira nigeriana da aldeia de Kwali, no atual Território da Capital Federal. Mestra das grandes bilhas de água modeladas à mão da tradição gbari, entrou em 1954 para o centro de formação de olaria de Abuja, aprendeu a roda e os vidrados e tornou-se célebre internacionalmente nos anos 1950 e 1960. Foi nomeada membro da Ordem do Império Britânico (MBE), e o seu retrato está na nota de 20 nairas.
 facts:
   - Nascimento | C. 1925, Kwali, Nigéria

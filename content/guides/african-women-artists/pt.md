@@ -3,7 +3,7 @@ title: Mulheres artistas africanas: 14 nomes que marcaram a arte moderna
 label: Mulheres artistas africanas
 heading: Mulheres artistas africanas que deve conhecer
 kicker: Guia
-description: Catorze mulheres artistas de África que marcaram a arte moderna e contemporânea — de Baya, Ladi Kwali e Inji Efflatoun a Wangechi Mutu, Zanele Muholi e Julie Mehretu.
+description: Catorze mulheres artistas de África que marcaram a arte moderna e contemporânea, de Baya, Ladi Kwali e Inji Efflatoun a Wangechi Mutu e Zanele Muholi.
 summary: As mulheres artistas de África moldaram a arte moderna e contemporânea desde o início: a ceramista Ladi Kwali, a pintora argelina Baya, a pintora egípcia Inji Efflatoun e a pintora sudanesa Kamala Ibrahim Ishaq no século XX; Esther Mahlangu, Wangechi Mutu, Njideka Akunyili Crosby, Zanele Muholi e Julie Mehretu hoje. Este guia apresenta catorze delas.
 ---
 ## As pioneiras do século XX

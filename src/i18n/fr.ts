@@ -89,6 +89,8 @@ const fr: Dictionary = {
         count: (n: number) => `${n} artistes`,
         profiles: 'Portraits',
         more: 'Autres artistes',
+        otherWork: 'Plus connus pour autre chose',
+        otherWorkNote: 'Écrivains, présentateurs et personnalités que Wikidata classe aussi ici ; leur portrait explique le lien.',
         moreNote: 'Les plus recherchés d’abord. Les noms renvoient à notre portrait, ou à Wikipédia lorsque nous n’en avons pas encore.',
         related: 'Listes voisines',
         inEnglish: 'Article de Wikipédia en anglais',

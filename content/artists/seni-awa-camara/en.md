@@ -3,7 +3,7 @@ title: Seyni Awa Camara: The Senegalese Sculptor of Clay Mothers and Spirits
 label: Seyni Awa Camara
 heading: Seyni Awa Camara
 kicker: Sculptor
-description: Seyni Awa Camara of Bignona, Casamance, modelled clay figures of mothers, twins and many-headed spirits; shown at Magiciens de la Terre in 1989, she died in 2026.
+description: Seyni Awa Camara of Bignona, Casamance, modelled clay mothers, twins and many-headed spirits, shown at Magiciens de la Terre in 1989. She died in 2026.
 summary: Seyni Awa Camara (1945–2026), also spelled Seni or Seny, was a Senegalese sculptor from Bignona in Casamance. From a family of potters, she modelled unglazed clay figures — mothers carrying many children, couples, twins and figures with several heads — fired in the open air, some of them over two metres tall. Her work reached the world through the exhibition Magiciens de la Terre in Paris in 1989. She died in Bignona in January 2026, aged 81.
 ---
 Seyni Awa Camara was born around 1945 in Casamance, in southern Senegal, and lived and worked all her life in the town of Bignona. Her mother was a potter, and she learned the craft of making cooking pots and water jars from her family. Her own story of how she became an artist was more mysterious: as a child, she said, she disappeared into the forest and was taught to model clay by spirits, and she continued to say that her figures came to her in dreams.

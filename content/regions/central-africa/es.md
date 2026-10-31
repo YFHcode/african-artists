@@ -1,9 +1,9 @@
 ---
-title: Arte de África Central: Kongo, Kuba, Luba, Fang y los pintores de Kinshasa
+title: Arte de África Central: Kongo, Kuba, Luba, Fang y pintores de Kinshasa
 label: África Central
 heading: Arte de África Central
 kicker: Región
-description: El arte de África Central: figuras de poder kongo, rafia y máscaras reales kuba, taburetes luba, relicarios fang y kota, máscaras chokwe, abalorios de Camerún y pintores de Kinshasa.
+description: El arte de África Central: figuras de poder kongo, rafia y máscaras kuba, taburetes luba, relicarios fang y kota, máscaras chokwe y pintores de Kinshasa.
 summary: África Central —los dos Congos, Angola, Gabón, Camerún y sus vecinos— produjo algunas de las esculturas más célebres del mundo: figuras de poder kongo, taburetes reales luba, guardianes de relicario fang y kota, máscaras chokwe y punu, y las telas de rafia y las máscaras reales del reino kuba. En el siglo XX, Kinshasa y Brazzaville dieron a África la rumba congoleña y una escuela de pintura popular encabezada por Chéri Samba.
 facts:
   - Países | RD del Congo, República del Congo, Angola, Gabón, Camerún, República Centroafricana, Guinea Ecuatorial

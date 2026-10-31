@@ -1,9 +1,9 @@
 ---
-title: Rabah Driassa : le chanteur populaire algérien, qui était aussi peintre
+title: Rabah Driassa : le chanteur populaire algérien qui était aussi peintre
 label: Rabah Driassa
 heading: Rabah Driassa
 kicker: Chanteur, compositeur et peintre
-description: Rabah Driassa, de Blida, voix de Nedjma qotbiya et de Hizia, fut l'un des chanteurs les plus populaires d'Algérie, et aussi poète et peintre. Il est mort en 2021.
+description: Rabah Driassa, de Blida, voix de Nedjma qotbiya et de Hizia, fut l'un des chanteurs les plus populaires d'Algérie, poète et peintre. Il est mort en 2021.
 summary: Rabah Driassa (1934–2021) est un chanteur, compositeur, poète et peintre algérien de Blida. Débutant en 1953, il crée un nouveau style populaire à partir du chant bédouin des Hauts Plateaux, et des chansons comme Nedjma qotbiya, Yahya wlad bladi et Hizia font de lui une icône nationale. À côté de la musique, il peignait, une facette bien moins connue de son œuvre.
 ---
 Rabah Driassa est né à Blida, au sud-ouest d'Alger, le 19 août 1934. Il a commencé sa carrière de chanteur en 1953, après avoir exercé d'autres métiers ; avant la musique, il était miniaturiste et peintre. Au fil des décennies, il est devenu l'une des voix les plus populaires d'Algérie. S'inspirant du chant *bedoui* des hauts plateaux et le mêlant à d'autres styles algériens, il a créé une forme de musique populaire facile à chanter en chœur et enracinée dans la poésie orale du pays.

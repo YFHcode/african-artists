@@ -3,7 +3,7 @@ title: João Silva: del Bang-Bang Club a las guerras del New York Times
 label: João Silva
 heading: João Silva
 kicker: Fotoperiodista
-description: João Silva, fotógrafo sudafricano nacido en Portugal y miembro del Bang-Bang Club, cubrió guerras para The New York Times y volvió a trabajar tras perder las piernas en Afganistán.
+description: João Silva, fotógrafo sudafricano nacido en Portugal, del Bang-Bang Club, cubrió guerras para The New York Times y volvió a trabajar tras perder las piernas.
 summary: João Silva (nacido en 1966) es un fotoperiodista sudafricano nacido en Portugal. Uno de los cuatro miembros del Bang-Bang Club, cubrió la violencia de los townships sudafricanos a principios de los años noventa, viajó con Kevin Carter a Sudán en 1993, coescribió el libro The Bang-Bang Club y se convirtió en fotógrafo de guerra de The New York Times. En 2010 perdió ambas piernas al pisar una mina en Afganistán, y volvió a la fotografía.
 facts:
   - Nacimiento | 1966, Lisboa, Portugal

@@ -3,7 +3,7 @@ title: Otobong Nkanga : la terre, les minerais et le corps
 label: Otobong Nkanga
 heading: Otobong Nkanga
 kicker: Artiste
-description: Otobong Nkanga, artiste d'origine nigériane installée à Anvers, crée tapisseries, installations et performances sur la terre, les mines, le commerce et le corps.
+description: Otobong Nkanga, artiste d'origine nigériane installée à Anvers, crée tapisseries, installations et performances sur la terre, les mines, le commerce, le corps.
 summary: Otobong Nkanga (née en 1974) est une artiste d'origine nigériane installée à Anvers. Par le dessin, la tapisserie, l'installation, la photographie et la performance, elle explore la façon dont la terre et ses minerais sont extraits, échangés et consommés, et comment cette économie marque les corps et les paysages. Elle a reçu une mention spéciale à la Biennale de Venise 2019, et son œuvre a été montrée dans de grands musées du monde entier.
 facts:
   - Naissance | 1974, Kano, Nigeria

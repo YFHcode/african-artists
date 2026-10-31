@@ -3,7 +3,7 @@ title: Brève histoire de l'art africain : de l'art rupestre à nos jours
 label: Histoire de l'art africain
 heading: Brève histoire de l'art africain
 kicker: Guide
-description: L'art africain, du dessin de Blombos vieux de 73 000 ans à Nok, Ife et au Bénin, des masques et textiles aux modernistes et aux artistes d'aujourd'hui : une histoire brève.
+description: L'art africain, du dessin de Blombos (73 000 ans) à Nok, Ife et au Bénin, des masques et textiles aux modernistes et artistes actuels : une brève histoire.
 summary: L'art africain n'est pas une tradition mais des milliers, nées dans cinquante-quatre pays sur plus de 70 000 ans : le plus ancien dessin connu, les peintures rupestres du Sahara et du Drakensberg, la sculpture de Nok, d'Ife et du Bénin, l'art chrétien d'Éthiopie et l'architecture islamique d'Afrique du Nord et de la côte swahilie, les masques, les textiles et le perlage, les écoles modernistes des indépendances, et les artistes contemporains aujourd'hui présents dans tous les grands musées. Ce guide suit cette histoire dans l'ordre et renvoie aux articles qui en racontent chaque partie.
 ---
 ## Le plus ancien art du monde

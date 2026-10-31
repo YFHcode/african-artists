@@ -3,7 +3,7 @@ title: Ousmane Sow: Senegal's Monumental Sculptor (1935–2016)
 label: Ousmane Sow
 heading: Ousmane Sow
 kicker: Sculptor
-description: Ousmane Sow, a physiotherapist turned sculptor, made larger-than-life figures of Nuba wrestlers, Maasai and Zulu warriors and drew three million visitors in Paris.
+description: Ousmane Sow, a physiotherapist turned sculptor, made larger-than-life Nuba wrestlers and Maasai and Zulu warriors, and drew three million visitors in Paris.
 summary: Ousmane Sow (1935–2016) was a Senegalese sculptor of larger-than-life human figures. A physiotherapist for most of his working life, he turned to sculpture full-time in his fifties; his 1999 exhibition on the Pont des Arts in Paris drew more than three million visitors, and in 2012 he became the first Black member of France's Académie des Beaux-Arts.
 facts:
   - Born | 10 October 1935, Dakar, Senegal

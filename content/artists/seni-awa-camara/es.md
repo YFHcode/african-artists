@@ -3,7 +3,7 @@ title: Seyni Awa Camara: madres y espíritus de barro de Senegal
 label: Seyni Awa Camara
 heading: Seyni Awa Camara
 kicker: Escultora
-description: Seyni Awa Camara, de Bignona (Casamance), modeló en barro madres, gemelos y espíritus de varias cabezas; expuso en Magiciens de la Terre en 1989 y murió en 2026.
+description: Seyni Awa Camara, de Bignona (Casamance), modeló en barro madres, gemelos y espíritus de varias cabezas; expuso en Magiciens de la Terre en 1989. Murió en 2026.
 summary: Seyni Awa Camara (1945-2026), cuyo nombre también se escribe Seni o Seny, fue una escultora senegalesa de Bignona, en la Casamance. Hija de una familia de alfareras, modelaba figuras de barro sin esmaltar —madres cargadas de hijos, parejas, gemelos y figuras de varias cabezas— cocidas al aire libre, algunas de más de dos metros de altura. Su obra se dio a conocer al mundo con la exposición Magiciens de la Terre, en París, en 1989. Murió en Bignona en enero de 2026, a los 81 años.
 ---
 Seyni Awa Camara nació hacia 1945 en Casamance, en el sur de Senegal, y vivió y trabajó toda su vida en la ciudad de Bignona. Su madre era alfarera, y de su familia aprendió el oficio de hacer ollas de cocina y jarras de agua. Su propia historia de cómo se hizo artista era más misteriosa: de niña, decía, desapareció en el bosque y los espíritus le enseñaron a modelar el barro, y siguió diciendo que sus figuras le llegaban en sueños.

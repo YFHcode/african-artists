@@ -3,7 +3,7 @@ title: Hassan El Glaoui: The Pasha's Son Who Painted Morocco's Horsemen
 label: Hassan El Glaoui
 heading: Hassan El Glaoui
 kicker: Painter
-description: Hassan El Glaoui, son of the last Pasha of Marrakech, became a painter with Winston Churchill's help and spent seven decades painting horses, riders and fantasia.
+description: Hassan El Glaoui, son of the last Pasha of Marrakech, became a painter with Winston Churchill's help and painted horses, riders and fantasia for seven decades.
 summary: Hassan El Glaoui (1923–2018) was a Moroccan painter, famous for his paintings of horses and horsemen, above all the fantasia, the charge of mounted riders firing their rifles. A son of Thami El Glaoui, the powerful Pasha of Marrakech, he was allowed to become an artist after Winston Churchill spoke up for his talent. He trained and exhibited in Paris, showed in New York and London, and returned to Morocco in 1965.
 facts:
   - Born | 1923, Marrakech, Morocco

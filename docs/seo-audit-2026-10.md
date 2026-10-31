@@ -42,3 +42,24 @@ with the Appendix B scripts of the Universal SEO Playbook (CGP repo,
 - Search Console and Bing Webmaster Tools data are needed for the next steps (playbook 0.3):
   Performance export (3 months) and Pages report — to find pages at positions 8–20 and
   "Crawled – currently not indexed" patterns.
+
+## Follow-up — 31 October 2026
+
+Run on a production build after the profile expansion (916 pages).
+
+- **Hub order.** Lists are ranked by Wikipedia pageviews, so the photographers and painters
+  lists opened with people famous for something else (Du Bois, Riefenstahl, Ben Jelloun, Queen
+  Farida). `knownForOtherWork` in `src/content/roster.ts` marks ten such profiles; hubs now list
+  them last, under their own heading ("Better known for other work"), in all five languages.
+- **Share images.** Every article and hub (866 pages) has its own 1200×630 image,
+  `/share/<locale>/<path>.png`, written at build time by `app/share/[locale]/[...path]/route.tsx`:
+  the heading, the title's tagline, the kicker and, on artist profiles, the portrait shown whole
+  with its licence credit. Open Graph, Twitter and the Article schema use it; the home page and
+  the other fixed pages keep the site card in `public/og/`. Arabic lines are set by sharp's text
+  engine (Pango and HarfBuzz), because the layout renderer neither shapes Arabic nor orders it
+  right to left.
+- **Snippet length.** 678 titles and descriptions across the five languages were shortened to
+  fit results (titles 70 characters, descriptions 160), keeping their facts; the content test
+  now enforces those limits instead of 75 and 185. Of the 384 long descriptions in the backlog
+  above, none remain.
+

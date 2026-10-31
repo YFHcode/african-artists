@@ -32,6 +32,13 @@ export interface RosterEntry {
     media: Medium[];
     born: number | null;
     died: number | null;
+    /**
+     * Known mainly for something other than art (a writer, a presenter, a
+     * politician…), on the site because Wikidata lists them as an artist. Hub
+     * lists show them after the artists, under their own heading, so a list of
+     * African photographers or painters does not open with them.
+     */
+    knownForOtherWork?: true;
 }
 
 /** The original fourteen profiles (wave 0, all five editions): their Wikidata items and media. */
@@ -82,10 +89,10 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q113865925', slug: 'sani-maikatanga', name: 'Sani Maikatanga', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['NG'], media: ['photography'], born: 1975, died: null },
     { qid: 'Q99528599', slug: 'misan-harriman', name: 'Misan Harriman', wave: 1, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['NG'], media: ['photography'], born: 1977, died: null },
     // Wave 1, added later: people the data job had excluded or flagged, kept by decision
-    { qid: 'Q158060', slug: 'web-du-bois', name: 'W. E. B. Du Bois', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['photography'], born: 1868, died: 1963 },
-    { qid: 'Q55415', slug: 'leni-riefenstahl', name: 'Leni Riefenstahl', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SD'], media: ['photography'], born: 1902, died: 2003 },
-    { qid: 'Q443070', slug: 'foday-sankoh', name: 'Foday Sankoh', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SL'], media: ['photography'], born: 1937, died: 2003 },
-    { qid: 'Q109680685', slug: 'hamza-yassin', name: 'Hamza Yassin', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SD'], media: ['photography'], born: 1990, died: null },
+    { qid: 'Q158060', slug: 'web-du-bois', name: 'W. E. B. Du Bois', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['photography'], born: 1868, died: 1963, knownForOtherWork: true },
+    { qid: 'Q55415', slug: 'leni-riefenstahl', name: 'Leni Riefenstahl', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SD'], media: ['photography'], born: 1902, died: 2003, knownForOtherWork: true },
+    { qid: 'Q443070', slug: 'foday-sankoh', name: 'Foday Sankoh', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SL'], media: ['photography'], born: 1937, died: 2003, knownForOtherWork: true },
+    { qid: 'Q109680685', slug: 'hamza-yassin', name: 'Hamza Yassin', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SD'], media: ['photography'], born: 1990, died: null, knownForOtherWork: true },
     { qid: 'Q3345980', slug: 'ntare-mwine', name: 'Ntare Guma Mbaho Mwine', wave: 1, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['UG'], media: ['photography'], born: 1967, died: null },
     // Wave 2
     { qid: 'Q666092', slug: 'william-kentridge', name: 'William Kentridge', wave: 2, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ZA'], media: ['printmaking', 'sculpture', 'painting', 'visual-art'], born: 1955, died: null },
@@ -113,9 +120,9 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q4747518', slug: 'amon-kotei', name: 'Amon Kotei', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['sculpture', 'painting'], born: 1915, died: 2011 },
     { qid: 'Q52203720', slug: 'kwame-akoto-bamfo', name: 'Kwame Akoto-Bamfo', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['sculpture'], born: 1983, died: null },
     { qid: 'Q123111935', slug: 'sharon-dede-padi', name: 'Sharon Dede Padi', wave: 3, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['painting'], born: 1976, died: 2026 },
-    { qid: 'Q97657288', slug: 'frank-edoho', name: 'Frank Edoho', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['NG'], media: ['photography'], born: 1972, died: null },
+    { qid: 'Q97657288', slug: 'frank-edoho', name: 'Frank Edoho', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['NG'], media: ['photography'], born: 1972, died: null, knownForOtherWork: true },
     { qid: 'Q20687449', slug: 'ty-bello', name: 'TY Bello', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['NG'], media: ['photography'], born: 1978, died: null },
-    { qid: 'Q105357569', slug: 'caleb-azumah-nelson', name: 'Caleb Azumah Nelson', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['photography'], born: 1993, died: null },
+    { qid: 'Q105357569', slug: 'caleb-azumah-nelson', name: 'Caleb Azumah Nelson', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['GH'], media: ['photography'], born: 1993, died: null, knownForOtherWork: true },
     { qid: 'Q101982384', slug: 'caleb-femi', name: 'Caleb Femi', wave: 3, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['NG'], media: ['photography'], born: 1990, died: null },
     // Wave 4
     { qid: 'Q2016818', slug: 'chaibia-talal', name: 'Chaïbia Talal', wave: 4, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['painting', 'visual-art'], born: 1929, died: 2004 },
@@ -131,9 +138,9 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q12955922', slug: 'el-seed', name: 'eL Seed', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['TN'], media: ['sculpture', 'painting'], born: 1981, died: null },
     { qid: 'Q3319051', slug: 'mohamed-mrabet', name: 'Mohamed Mrabet', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['painting'], born: 1936, died: null },
     { qid: 'Q17183810', slug: 'bruno-catalano', name: 'Bruno Catalano', wave: 4, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['sculpture'], born: 1960, died: null },
-    { qid: 'Q3277762', slug: 'mahjoubi-aherdane', name: 'Mahjoubi Aherdane', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['painting'], born: 1921, died: 2020 },
-    { qid: 'Q3415851', slug: 'rabah-driassa', name: 'Rabah Driassa', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['DZ'], media: ['painting'], born: 1934, died: 2021 },
-    { qid: 'Q334989', slug: 'tahar-ben-jelloun', name: 'Tahar Ben Jelloun', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['painting'], born: 1944, died: null },
+    { qid: 'Q3277762', slug: 'mahjoubi-aherdane', name: 'Mahjoubi Aherdane', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['painting'], born: 1921, died: 2020, knownForOtherWork: true },
+    { qid: 'Q3415851', slug: 'rabah-driassa', name: 'Rabah Driassa', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['DZ'], media: ['painting'], born: 1934, died: 2021, knownForOtherWork: true },
+    { qid: 'Q334989', slug: 'tahar-ben-jelloun', name: 'Tahar Ben Jelloun', wave: 4, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['MA'], media: ['painting'], born: 1944, died: null, knownForOtherWork: true },
     // Wave 5
     { qid: 'Q1459134', slug: 'mahmoud-mokhtar', name: 'Mahmoud Mokhtar', wave: 5, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['EG'], media: ['sculpture'], born: 1891, died: 1934 },
     { qid: 'Q980418', slug: 'farouk-hosny', name: 'Farouk Hosny', wave: 5, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['EG'], media: ['painting'], born: 1938, died: null },
@@ -146,7 +153,7 @@ export const ROSTER: RosterEntry[] = [
     { qid: 'Q20724924', slug: 'anna-boghiguian', name: 'Anna Boghiguian', wave: 5, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['EG'], media: ['painting'], born: 1946, died: null },
     { qid: 'Q20394418', slug: 'hussein-shariffe', name: 'Hussein Shariffe', wave: 5, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SD'], media: ['painting'], born: 1934, died: 2005 },
     { qid: 'Q115109888', slug: 'ahmed-umar', name: 'Ahmed Umar', wave: 5, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['SD'], media: ['visual-art'], born: 1988, died: null },
-    { qid: 'Q2319146', slug: 'farida-of-egypt', name: 'Farida of Egypt', wave: 5, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['EG'], media: ['painting'], born: 1921, died: 1988 },
+    { qid: 'Q2319146', slug: 'farida-of-egypt', name: 'Farida of Egypt', wave: 5, kind: 'short', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['EG'], media: ['painting'], born: 1921, died: 1988, knownForOtherWork: true },
     // Wave 6
     { qid: 'Q6729929', slug: 'magdalene-odundo', name: 'Magdalene Odundo', wave: 6, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['KE'], media: ['ceramics'], born: 1950, died: null },
     { qid: 'Q382165', slug: 'afewerk-tekle', name: 'Afewerk Tekle', wave: 6, kind: 'full', locales: ['en', 'fr', 'es', 'pt', 'ar'], countries: ['ET'], media: ['painting'], born: 1932, died: 2012 },

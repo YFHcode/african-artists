@@ -1,9 +1,9 @@
 ---
-title: Arte del sur de África: arte rupestre san, Gran Zimbabue, los ndebele y hoy
+title: Arte del sur de África: arte rupestre san, Gran Zimbabue, ndebele, hoy
 label: Sur de África
 heading: Arte del sur de África
 kicker: Región
-description: El arte del sur de África: pinturas san, el oro de Mapungubwe y los pájaros de Gran Zimbabue, pintura y abalorios ndebele, escultura en piedra de Zimbabue y artistas sudafricanos.
+description: El arte del sur de África: pinturas san, oro de Mapungubwe, pájaros de Gran Zimbabue, pintura ndebele, escultura de Zimbabue y artistas de hoy.
 summary: El sur de África —Sudáfrica, Zimbabue, Mozambique, Namibia, Botsuana y sus vecinos— conserva parte del arte más antiguo del mundo, del dibujo de Blombos a las pinturas rupestres de los san. Produjo el rinoceronte de oro de Mapungubwe y los pájaros de esteatita de Gran Zimbabue, las casas pintadas y los abalorios de los ndebele y los zulúes, la escultura moderna en piedra de Zimbabue y al mozambiqueño Malangatana, y una escena contemporánea con centro en Johannesburgo y Ciudad del Cabo.
 facts:
   - Países | Sudáfrica, Zimbabue, Mozambique, Namibia, Botsuana, Zambia, Malaui, Lesoto, Esuatini

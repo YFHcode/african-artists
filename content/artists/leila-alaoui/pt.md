@@ -3,7 +3,7 @@ title: Leila Alaoui: Les Marocains e uma vida interrompida
 label: Leila Alaoui
 heading: Leila Alaoui
 kicker: Fotógrafa e videoartista
-description: Leila Alaoui, fotógrafa franco-marroquina de Les Marocains, retratou marroquinos em tamanho real e filmou a migração. Morreu no atentado de Ouagadougou, em 2016.
+description: Leila Alaoui, fotógrafa franco-marroquina de Les Marocains, retratou marroquinos em tamanho real e filmou a migração. Morreu em Ouagadougou, em 2016.
 summary: Leila Alaoui (1982-2016) foi uma fotógrafa e videoartista franco-marroquina. A série Les Marocains, retratos de estúdio em tamanho real de pessoas de todo o Marrocos, e o seu trabalho sobre a migração fizeram dela uma das fotógrafas mais admiradas da sua geração. Foi ferida mortalmente no atentado terrorista de Ouagadougou, no Burkina Faso, em janeiro de 2016, quando trabalhava num projeto para a Amnistia Internacional.
 ---
 Leila Alaoui foi uma fotógrafa e videoartista franco-marroquina, nascida em 1982. Grande parte do seu trabalho tratava de migração, identidade e pertença: filmou e fotografou migrantes que tentavam chegar à Europa, sírios deslocados no Líbano e pessoas que vivem entre países.

@@ -3,7 +3,7 @@ title: Ibrahim Mahama: sacos de yute, fantasmas del comercio y el SCCA Tamale
 label: Ibrahim Mahama
 heading: Ibrahim Mahama
 kicker: Artista
-description: Ibrahim Mahama cubre edificios con sacos de yute cosidos que transportaron el cacao y el carbón de Ghana, y ha creado centros de arte en Tamale, su ciudad natal.
+description: Ibrahim Mahama cubre edificios con sacos de yute que transportaron el cacao y el carbón de Ghana, y ha creado centros de arte en Tamale, su ciudad natal.
 summary: Ibrahim Mahama (nacido en 1987) es un artista ghanés que cubre edificios, monumentos y paredes de galerías con enormes patchworks de sacos de yute usados, los sacos en los que el cacao, el café, el arroz y el carbón recorren los mercados y puertos de Ghana. Su obra convierte materiales del comercio y del trabajo en monumentos al comercio global y a su historia. En Tamale, su ciudad natal, ha fundado el Savannah Centre for Contemporary Art y otros espacios para artistas y para el público.
 facts:
   - Nacimiento | 1987, Tamale, Ghana

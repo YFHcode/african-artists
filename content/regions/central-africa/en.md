@@ -3,7 +3,7 @@ title: Central African Art: Kongo, Kuba, Luba, Fang and Kinshasa's Painters
 label: Central Africa
 heading: Art of Central Africa
 kicker: Region
-description: The art of Central Africa: Kongo power figures, Kuba raffia cloth and royal masks, Luba stools, Fang and Kota reliquaries, Chokwe masks, Cameroon beadwork and Kinshasa painters.
+description: The art of Central Africa: Kongo power figures, Kuba raffia cloth and masks, Luba stools, Fang and Kota reliquaries, Chokwe masks and Kinshasa painters.
 summary: Central Africa — the two Congos, Angola, Gabon, Cameroon and their neighbours — produced some of the most celebrated sculpture in the world: Kongo power figures, Luba royal stools, Fang and Kota reliquary guardians, Chokwe and Punu masks, and the raffia textiles and royal masks of the Kuba kingdom. In the twentieth century Kinshasa and Brazzaville gave Africa Congolese rumba and a school of popular painting led by Chéri Samba.
 facts:
   - Countries | DR Congo, Republic of the Congo, Angola, Gabon, Cameroon, Central African Republic, Equatorial Guinea

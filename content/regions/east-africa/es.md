@@ -3,7 +3,7 @@ title: Arte de África Oriental: Etiopía, costa suajili, tingatinga y Makerere
 label: África Oriental
 heading: Arte de África Oriental
 kicker: Región
-description: El arte de África Oriental: iconos e iglesias de Etiopía, puertas suajilis, abalorios maasái, talla makonde, pintura tingatinga, la escuela de Makerere y los artistas de Nairobi.
+description: El arte de África Oriental: iconos e iglesias de Etiopía, puertas suajilis, abalorios maasái, talla makonde, tingatinga, Makerere y artistas de Nairobi.
 summary: África Oriental —Etiopía, Kenia, Tanzania, Uganda y sus vecinos— une el Cuerno de África, los Grandes Lagos y la costa del océano Índico. Su arte incluye las estelas de Aksum y los iconos e iglesias excavadas de Etiopía, las puertas talladas y la arquitectura de la costa suajili, los abalorios maasái y samburu, la escultura makonde y la pintura tingatinga de Tanzania, la tela de corteza y la escuela de arte de Makerere en Uganda, y artistas contemporáneos de Nairobi a Adís Abeba.
 facts:
   - Países | Etiopía, Eritrea, Kenia, Tanzania, Uganda, Ruanda, Somalia y sus vecinos

@@ -1,9 +1,9 @@
 ---
-title: Uche Okeke : synthèse naturelle, rebelles de Zaria et renouveau de l'uli
+title: Uche Okeke : synthèse naturelle, rebelles de Zaria, renouveau de l'uli
 label: Uche Okeke
 heading: Uche Okeke
 kicker: Peintre et enseignant
-description: Uche Okeke, chef de file de la Zaria Art Society, a formulé la « synthèse naturelle » et fait du dessin uli igbo un art moderne à l'université du Nigeria à Nsukka.
+description: Uche Okeke, chef de file de la Zaria Art Society, a formulé la « synthèse naturelle » et fait du dessin uli igbo un art moderne à l'université de Nsukka.
 summary: Uche Okeke (1933-2016) était un peintre, poète et enseignant nigérian, l'un des chefs de file de la Zaria Art Society et l'une des figures les plus influentes de l'art moderne nigérian. Il a formulé l'idée de « synthèse naturelle » — unir les traditions nigérianes et l'art moderne — et, à l'université du Nigeria à Nsukka, il s'est appuyé sur l'uli, le dessin corporel et mural des femmes igbo, pour fonder une école d'art moderne.
 ---
 Uche Okeke est né en 1933 à Nimo, dans l'actuel État d'Anambra, dans une famille igbo, et a étudié les beaux-arts au Nigerian College of Arts, Science and Technology de Zaria. En 1958, avec d'autres étudiants, il a fondé la Zaria Art Society, parfois appelée les « rebelles de Zaria », qui rejetaient le programme artistique colonial. Okeke a donné au groupe son idée directrice : une « synthèse naturelle » qui prendrait ce qui était précieux dans les traditions nigérianes et en Occident pour faire un art pour une nation nouvellement indépendante. Son manifeste de 1960 sur la « synthèse naturelle » est reproduit dans son livre *Art in Development – A Nigerian Perspective* (1982). Lisez l'histoire dans [Zaria Art Society](/movements/zaria-art-society).

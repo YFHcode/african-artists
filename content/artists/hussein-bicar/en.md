@@ -1,5 +1,5 @@
 ---
-title: Hussein Bicar: Egyptian Painter, Portraitist and Illustrator of Sindbad
+title: Hussein Bicar: Egyptian Painter, Portraitist, Illustrator of Sindbad
 label: Hussein Bicar
 heading: Hussein Bicar
 kicker: Painter and illustrator

@@ -3,7 +3,7 @@ title: Misan Harriman: The First Black Man to Shoot a British Vogue Cover
 label: Misan Harriman
 heading: Misan Harriman
 kicker: Photographer
-description: Misan Harriman, the Nigerian-born British photographer, became known for his 2020 Black Lives Matter pictures, then became the first Black man to shoot a British Vogue cover.
+description: Misan Harriman, the Nigerian-born British photographer, became known for his 2020 Black Lives Matter pictures and shot a British Vogue cover.
 summary: Misan Harriman (born 1977) is a Nigerian-born British photographer and filmmaker. Self-taught, he became widely known in 2020 for his photographs of Black Lives Matter protests in London, and that September became the first Black man to photograph the cover of British Vogue in its more than a century of publication.
 facts:
   - Born | 1977, Nigeria

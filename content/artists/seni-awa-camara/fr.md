@@ -1,9 +1,9 @@
 ---
-title: Seyni Awa Camara : sculptrice sénégalaise des mères et esprits d'argile
+title: Seyni Awa Camara : sculptrice sénégalaise de mères et d'esprits
 label: Seyni Awa Camara
 heading: Seyni Awa Camara
 kicker: Sculptrice
-description: Seyni Awa Camara, de Bignona en Casamance, modelait en argile mères, jumeaux et esprits à plusieurs têtes ; exposée aux Magiciens de la Terre en 1989, elle est morte en 2026.
+description: Seyni Awa Camara, de Bignona en Casamance, modelait mères, jumeaux et esprits à plusieurs têtes ; exposée aux Magiciens de la Terre en 1989, morte en 2026.
 summary: Seyni Awa Camara (1945–2026), aussi orthographiée Seni ou Sény, est une sculptrice sénégalaise de Bignona, en Casamance. Issue d'une famille de potières, elle modelait des figures d'argile non émaillée — mères portant de nombreux enfants, couples, jumeaux, figures à plusieurs têtes — cuites en plein air, certaines hautes de plus de deux mètres. Son œuvre s'est fait connaître dans le monde grâce à l'exposition Magiciens de la Terre à Paris en 1989. Elle est morte à Bignona en janvier 2026, à 81 ans.
 ---
 Seyni Awa Camara est née vers 1945 en Casamance, dans le sud du Sénégal, et a vécu et travaillé toute sa vie dans la ville de Bignona. Sa mère était potière, et elle a appris de sa famille l'art de fabriquer des pots de cuisine et des jarres à eau. Sa propre histoire de la façon dont elle est devenue artiste était plus mystérieuse : enfant, disait-elle, elle avait disparu dans la forêt et des esprits lui avaient appris à modeler l'argile, et elle continuait à dire que ses figures lui venaient en rêve.

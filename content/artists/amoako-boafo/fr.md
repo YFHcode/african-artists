@@ -1,9 +1,9 @@
 ---
-title: Amoako Boafo : portraits peints au doigt, d'Accra à Vienne et chez Dior
+title: Amoako Boafo : portraits peints au doigt, d'Accra à Vienne
 label: Amoako Boafo
 heading: Amoako Boafo
 kicker: Peintre
-description: Amoako Boafo, peintre ghanéen installé à Vienne, modèle au doigt la peau de ses modèles noirs. Son succès a déclenché une frénésie aux enchères ; il a fondé dot.ateliers à Accra.
+description: Amoako Boafo, peintre ghanéen installé à Vienne, modèle au doigt la peau de ses modèles noirs. Son succès a affolé les enchères ; il a fondé dot.ateliers.
 summary: Amoako Boafo (né en 1984) est un peintre ghanéen installé à Vienne. Ses portraits de personnes noires — amis, artistes, figures qu'il admire — placent les corps sur des fonds unis et vifs, en vêtements à motifs, avec une peau peinte au doigt en touches épaisses et expressives. Son ascension rapide, vers 2019-2020, a déclenché une frénésie spéculative aux enchères ; il a depuis collaboré avec Dior et fondé dot.ateliers, un lieu pour les artistes à Accra.
 facts:
   - Naissance | 1984, Accra, Ghana

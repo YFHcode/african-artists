@@ -3,7 +3,7 @@ title: La reina Farida de Egipto, pintora: del palacio al caballete
 label: Farida de Egipto
 heading: Farida de Egipto
 kicker: Reina y pintora
-description: La reina Farida, primera esposa del rey Faruk, se hizo pintora tras su divorcio. Animada por su tío Mahmoud Saïd, expuso en varios países y en El Cairo; el Mathaf conserva su obra.
+description: La reina Farida, primera esposa del rey Faruk, se hizo pintora tras su divorcio, animada por su tío Mahmoud Saïd. El Mathaf conserva su obra.
 summary: Farida de Egipto (1921-1988), nacida Safinaz Zulficar, fue reina de Egipto como primera esposa del rey Faruk, de 1938 a 1948. Se la recuerda sobre todo como reina, pero tras su divorcio se hizo pintora, animada por su tío, el pintor Mahmoud Saïd. Tras vivir en el extranjero, en Líbano y Europa, y más tarde en El Cairo, pintó paisajes y obras visionarias y expuso en varios países, entre ellos Egipto.
 facts:
   - Nacimiento | 1921, Alejandría, Egipto

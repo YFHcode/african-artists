@@ -3,7 +3,7 @@ title: The Benin Bronzes: History, Looting and Return to Nigeria
 label: Benin Bronzes
 heading: The Benin Bronzes
 kicker: Court art
-description: The Benin Bronzes are thousands of brass, bronze and ivory works from the Kingdom of Benin in Nigeria, looted by British troops in 1897. Their history and their return.
+description: The Benin Bronzes: thousands of brass, bronze and ivory works from the Kingdom of Benin in Nigeria, looted by British troops in 1897. Their history and return.
 summary: The Benin Bronzes are thousands of sculptures and plaques in brass, bronze, ivory and wood made for the royal court of the Kingdom of Benin, in what is now Edo State in southern Nigeria — not the modern Republic of Benin. Looted by British forces in 1897 and scattered to museums and collections worldwide, they became the most famous case in the debate over colonial-era collections; since 2021 museums in Germany, the United States, the United Kingdom and the Netherlands have returned or transferred hundreds of them to Nigeria.
 facts:
   - Kingdom | Benin, Edo State, southern Nigeria

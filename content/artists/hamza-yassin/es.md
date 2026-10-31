@@ -3,7 +3,7 @@ title: Hamza Yassin: camarógrafo de fauna y fotógrafo nacido en Sudán
 label: Hamza Yassin
 heading: Hamza Yassin
 kicker: Camarógrafo de fauna
-description: Hamza Yassin, nacido en Sudán y afincado en las Tierras Altas de Escocia, es camarógrafo de fauna, fotógrafo y presentador de televisión, y ganó Strictly Come Dancing en 2022.
+description: Hamza Yassin, nacido en Sudán y afincado en las Tierras Altas escocesas, es camarógrafo de fauna, fotógrafo y presentador; ganó Strictly Come Dancing en 2022.
 summary: Hamza Yassin (nacido en 1990) es un camarógrafo de fauna, fotógrafo y presentador de televisión británico nacido en Sudán, que vive en Kilchoan, en las Tierras Altas de Escocia. Formado en zoología y en imagen y fotografía biológicas, filma y fotografía la fauna británica para la BBC y otras cadenas, y se hizo muy conocido en el Reino Unido al ganar Strictly Come Dancing en 2022.
 facts:
   - Nacimiento | 22 de febrero de 1990, Sudán

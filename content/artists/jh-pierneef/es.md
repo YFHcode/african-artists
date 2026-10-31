@@ -1,9 +1,9 @@
 ---
-title: J. H. Pierneef: el paisajista de Sudáfrica y los paneles de la estación
+title: J. H. Pierneef: el paisajista sudafricano y los paneles de la estación
 label: J. H. Pierneef
 heading: J. H. Pierneef
 kicker: Pintor
-description: J. H. Pierneef pintó el highveld sudafricano en paisajes ordenados y geométricos, sobre todo los 32 paneles de la estación de Johannesburgo (1929-1932). Celebrado y hoy releído.
+description: J. H. Pierneef pintó el highveld en paisajes ordenados y geométricos, sobre todo los 32 paneles de la estación de Johannesburgo (1929-1932), hoy releídos.
 summary: Jacobus Hendrik Pierneef (1886-1957) fue el paisajista más conocido de Sudáfrica. Sus vistas claras, geométricas y cuidadosamente ordenadas del highveld, las montañas y los árboles —sobre todo los 32 paneles de la estación de Johannesburgo, pintados en 1929-1932— definieron cómo una generación veía el paisaje sudafricano. Celebrada durante mucho tiempo, su obra se discute hoy también por la tierra vacía y sin gente que muestra en la época del nacionalismo afrikáner.
 ---
 J. H. Pierneef nació en Pretoria en 1886 en una familia de origen neerlandés; su padre era un inmigrante neerlandés. En 1900, durante la guerra sudafricana, la familia se trasladó a los Países Bajos, donde estudió en la Academia de Arte de Róterdam; luego volvió y trabajó en Pretoria. En los años veinte ya había desarrollado su propio estilo: paisajes simplificados y monumentales, construidos con planos planos, de contornos nítidos y fuerte sentido del diseño, influidos por sus estudios de arte y arquitectura.

@@ -2,7 +2,7 @@
 title: Egyptian Painters: From Mahmoud Saïd and Bicar to Inji Aflatoun
 label: Egyptian painters
 heading: Egyptian painters
-description: Egyptian painters from the pioneers Mahmoud Saïd and Mohamed Naghi to Inji Aflatoun, Hussein Bicar, Gazbia Sirry, Abdel Hadi Al Gazzar and Farouk Hosny, most looked-up first.
+description: Egyptian painters from the pioneers Mahmoud Saïd and Mohamed Naghi to Inji Aflatoun, Hussein Bicar, Gazbia Sirry, Abdel Hadi Al Gazzar and Farouk Hosny.
 ---
 Egyptian painting entered the modern age with a generation born around 1890: Mohamed Naghi, Ragheb Ayad, Youssef Kamel and, above all, the Alexandrian judge-turned-painter [Mahmoud Saïd](/artists/mahmoud-said), who gave Egyptian people and landscapes a monumental, sensual form. In 1939 the surrealists of the Art and Freedom group, among them Ramses Younan and Kamel El-Telmissany, rebelled against academic painting and nationalism alike.
 

@@ -3,7 +3,7 @@ title: Amon Kotei: el artista que diseñó el escudo de Ghana
 label: Amon Kotei
 heading: Amon Kotei
 kicker: Pintor, escultor y diseñador
-description: Amon Kotei, pintor, escultor, topógrafo y músico ghanés, diseñó el escudo de armas de Ghana, aprobado en 1957. Fue honrado por el Estado y murió en 2011, a los 96 años.
+description: Amon Kotei, pintor, escultor, topógrafo y músico ghanés, diseñó el escudo de armas de Ghana, aprobado en 1957. Murió en 2011, a los 96 años.
 summary: Amon Kotei (1915-2011) fue un artista ghanés —pintor, escultor, diseñador gráfico y músico, topógrafo de formación— conocido sobre todo como el autor del escudo de armas de Ghana, aprobado en marzo de 1957, el mes en que el país se independizó. Recibió una condecoración del Estado por el diseño en 1997 y murió en 2011, a los 96 años.
 ---
 Amon Kotei nació el 24 de mayo de 1915 en La (Labadi), cerca de Accra, entonces en la colonia de la Costa de Oro. Se formó como agrimensor y delineante y trabajó de cartógrafo y artista gráfico, además de pintar, esculpir y tocar música. Durante la Segunda Guerra Mundial sirvió en la Royal West African Frontier Force y trabajó en la división cartográfica del ejército, dibujando mapas y planos para los soldados del frente.

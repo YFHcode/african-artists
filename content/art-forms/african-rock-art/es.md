@@ -1,9 +1,9 @@
 ---
-title: Arte rupestre africano: el Sahara, las pinturas san y los primeros dibujos
+title: Arte rupestre africano: Sahara, pinturas san y los primeros dibujos
 label: Arte rupestre africano
 heading: El arte rupestre africano
 kicker: Forma de arte
-description: África tiene uno de los artes rupestres más antiguos y ricos de la Tierra: Blombos, la cueva Apolo 11, el Tassili n'Ajjer, las pinturas san, Twyfelfontein y Laas Geel.
+description: África tiene uno de los artes rupestres más antiguos de la Tierra: Blombos, la cueva Apolo 11, el Tassili n'Ajjer, las pinturas san, Twyfelfontein y Laas Geel.
 summary: África tiene uno de los artes rupestres más antiguos y abundantes del mundo. Un dibujo de líneas cruzadas sobre piedra de la cueva de Blombos, en Sudáfrica, tiene unos 73 000 años; unas losas de piedra pintadas de la cueva Apolo 11, en Namibia, datan de hace entre 25 000 y 30 000 años; y cientos de miles de pinturas y grabados —en el Sahara, el Drakensberg, Namibia, Tanzania y el Cuerno de África— registran durante milenios animales, personas y creencias.
 facts:
   - Dibujo más antiguo | Trazos cruzados de ocre sobre una lasca de piedra, cueva de Blombos, Sudáfrica, unos 73 000 años

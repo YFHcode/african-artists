@@ -3,7 +3,7 @@ title: Símbolos adinkra y su significado: el lenguaje visual de Ghana
 label: Símbolos adinkra
 heading: Los símbolos adinkra y su significado
 kicker: Tradición visual
-description: Los adinkra son símbolos akan de Ghana, cada uno ligado a un proverbio: Gye Nyame, Sankofa, Dwennimmen y más. Qué significan 20 símbolos comunes y cómo se hace la tela adinkra.
+description: Los adinkra son símbolos akan de Ghana, cada uno ligado a un proverbio: Gye Nyame, Sankofa, Dwennimmen… Qué significan 20 símbolos y cómo se hace la tela.
 summary: Los adinkra son símbolos visuales de los pueblos akan de Ghana y Costa de Marfil, cada uno ligado a un proverbio, un acontecimiento histórico o una idea: Gye Nyame para la supremacía de Dios, Sankofa para aprender del pasado, Dwennimmen para la humildad unida a la fuerza. Tradicionalmente estampados con un tinte negro de corteza sobre telas que se llevan en funerales y ocasiones importantes, hoy aparecen en edificios, muebles, joyas, logotipos y tatuajes de todo el mundo.
 facts:
   - Pueblo | Akan (entre ellos los asante), Ghana y Costa de Marfil

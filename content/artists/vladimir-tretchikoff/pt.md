@@ -3,7 +3,7 @@ title: Vladimir Tretchikoff: Chinese Girl e o «rei do kitsch»
 label: Vladimir Tretchikoff
 heading: Vladimir Tretchikoff
 kicker: Pintor
-description: Vladimir Tretchikoff, pintor nascido na Rússia e radicado na Cidade do Cabo em 1946, fez de Chinese Girl, a «senhora verde», uma das imagens mais reproduzidas do século XX.
+description: Vladimir Tretchikoff, nascido na Rússia e na Cidade do Cabo desde 1946, fez de Chinese Girl, a «senhora verde», uma das imagens mais reproduzidas do século XX.
 summary: Vladimir Tretchikoff (1913-2006) foi um pintor nascido na Rússia que se fixou na Cidade do Cabo em 1946. Desprezado pela crítica como o «rei do kitsch», era adorado pelo público: as reproduções dos seus quadros, sobretudo Chinese Girl (1952), a «senhora verde», venderam-se em enormes quantidades em todo o mundo e fizeram dela uma das imagens mais reproduzidas do século XX. O original foi vendido na Bonhams em 2013 por quase um milhão de libras.
 facts:
   - Nascimento | 1913, Petropavlovsk, Império Russo (hoje Petropavl, Cazaquistão)

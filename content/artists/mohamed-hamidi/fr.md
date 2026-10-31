@@ -1,9 +1,9 @@
 ---
-title: Mohamed Hamidi : peintre de l'École de Casablanca, du corps et du signe
+title: Mohamed Hamidi : peintre du corps et du signe, École de Casablanca
 label: Mohamed Hamidi
 heading: Mohamed Hamidi
 kicker: Peintre
-description: Mohamed Hamidi, pionnier de l'École de Casablanca, enseigna aux Beaux-Arts de la ville et peignit des compositions audacieuses de corps et de signes. Il est mort en 2025.
+description: Mohamed Hamidi, pionnier de l'École de Casablanca, enseigna aux Beaux-Arts de la ville et peignit corps et signes avec audace. Il est mort en 2025.
 summary: Mohamed Hamidi (1941–2025) est un peintre marocain, l'un des pionniers de l'École de Casablanca. Formé à Casablanca et à Paris, il enseigne à l'École des beaux-arts de Casablanca de 1967 à 1975, participe en 1969 à l'exposition en plein air de la place Jemaa el-Fna à Marrakech et développe une peinture audacieuse et colorée qui unit le corps et l'érotisme aux signes géométriques de l'artisanat marocain.
 ---
 Mohamed Hamidi est né à Casablanca le 7 août 1941. Il a étudié à l'École des Beaux-Arts de la ville, qu'il a terminée en 1958, et est parti pour Paris l'année suivante, rejoignant l'atelier de la Grande Chaumière ; il est entré à l'École nationale supérieure des Beaux-Arts en 1962, est devenu l'assistant du peintre français Jean Aujame et a obtenu un diplôme d'art monumental en 1964. En 1967, il est rentré enseigner à l'école de Casablanca, où [Farid Belkahia](/artists/farid-belkahia), Mohamed Melehi et Mohamed Chabâa réinventaient l'enseignement artistique autour de l'artisanat et des signes marocains. Il y a enseigné jusqu'en 1975 et est devenu l'un des membres centraux de ce qu'on appelle aujourd'hui l'[École de Casablanca](/movements/casablanca-school). En 1969, il était parmi les peintres qui ont accroché leurs œuvres en plein air sur la place Jemaa el-Fna à Marrakech, l'exposition souvent considérée comme l'acte fondateur du mouvement.

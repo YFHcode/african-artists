@@ -3,7 +3,7 @@ title: Amoako Boafo: Finger-Painted Portraits from Accra to Vienna and Dior
 label: Amoako Boafo
 heading: Amoako Boafo
 kicker: Painter
-description: Amoako Boafo, the Ghanaian painter based in Vienna, paints Black sitters with skin modelled by his fingers. His rise caused an auction frenzy; he founded dot.ateliers in Accra.
+description: Amoako Boafo, the Vienna-based Ghanaian painter, models Black sitters' skin with his fingers. His rise set off an auction frenzy; he founded dot.ateliers.
 summary: Amoako Boafo (born 1984) is a Ghanaian painter based in Vienna. His portraits of Black people — friends, artists, people he admires — set figures against flat, bright backgrounds and patterned clothes, with skin painted with his fingers in thick, expressive strokes. His rapid rise around 2019–2020 set off a speculative auction frenzy; he has since collaborated with Dior and founded dot.ateliers, a space for artists in Accra.
 facts:
   - Born | 1984, Accra, Ghana

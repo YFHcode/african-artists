@@ -3,7 +3,7 @@ title: Afrobeats: How West African Pop Conquered the World
 label: Afrobeats
 heading: Afrobeats
 kicker: Music genre
-description: Afrobeats is the 21st-century pop sound of Nigeria and Ghana, from D'banj and Wizkid to Burna Boy, Tems and Rema. Where the name came from and how it went global.
+description: Afrobeats is the 21st-century pop sound of Nigeria and Ghana, from D'banj and Wizkid to Burna Boy, Tems and Rema. Where the name came from and how it spread.
 summary: Afrobeats is the umbrella name for the popular music that came out of Nigeria and Ghana from the 2000s — a mix of West African rhythms and melodies with hip-hop, dancehall, R&B and electronic production. The term was popularised in 2011 by the UK-based Ghanaian DJ Abrantee, and the sound has since topped charts worldwide through artists such as Wizkid, Davido, Burna Boy, Tems and Rema.
 facts:
   - Origin | Nigeria and Ghana, 2000s; named in the UK in 2011

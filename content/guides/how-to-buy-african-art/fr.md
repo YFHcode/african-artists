@@ -3,7 +3,7 @@ title: Acheter de l'art africain : provenance, faux et règles d'exportation
 label: Comment acheter de l'art africain
 heading: Comment acheter de l'art africain en toute confiance
 kicker: Guide
-description: Guide pratique pour acheter de l'art africain : contemporain ou ancien, où acheter, quels documents demander, comment repérer les faux, quelles règles d'exportation.
+description: Guide pratique pour acheter de l'art africain : contemporain ou ancien, où acheter, quels documents demander, repérer les faux, règles d'exportation.
 summary: Acheter de l'art africain en sécurité revient à se poser trois questions : de quel type d'œuvre s'agit-il (contemporaine, moderne ou ancienne), son histoire peut-elle être documentée, et peut-elle légalement quitter le pays où elle se trouve ? Une œuvre contemporaine achetée à l'artiste, à une galerie ou dans une foire ne pose guère de difficulté ; un objet ancien exige une provenance documentée, et certains ne peuvent pas être exportés légalement.
 ---
 ## Savoir sur quel marché on se trouve

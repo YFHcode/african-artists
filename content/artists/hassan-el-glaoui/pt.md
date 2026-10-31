@@ -3,7 +3,7 @@ title: Hassan El Glaoui: o filho do paxá que pintou os cavaleiros de Marrocos
 label: Hassan El Glaoui
 heading: Hassan El Glaoui
 kicker: Pintor
-description: Hassan El Glaoui, filho do último paxá de Marraquexe, tornou-se pintor com a ajuda de Winston Churchill e passou sete décadas a pintar cavalos, cavaleiros e a fantasia.
+description: Hassan El Glaoui, filho do último paxá de Marraquexe, tornou-se pintor com a ajuda de Winston Churchill e pintou sete décadas cavalos, cavaleiros e a fantasia.
 summary: Hassan El Glaoui (1923-2018) foi um pintor marroquino famoso pelos quadros de cavalos e cavaleiros, sobretudo a fantasia, a carga de cavaleiros que disparam as espingardas. Filho de Thami El Glaoui, o poderoso paxá de Marraquexe, foi autorizado a ser artista depois de Winston Churchill ter elogiado o seu talento. Formou-se e expôs em Paris, mostrou a sua obra em Nova Iorque e Londres e voltou a Marrocos em 1965.
 facts:
   - Nascimento | 1923, Marraquexe, Marrocos

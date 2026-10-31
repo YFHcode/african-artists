@@ -3,7 +3,7 @@ title: Austin Stevens: Snakemaster, herpetólogo y fotógrafo de naturaleza
 label: Austin Stevens
 heading: Austin Stevens
 kicker: Fotógrafo de naturaleza
-description: Austin Stevens, herpetólogo y fotógrafo de naturaleza nacido en Sudáfrica, presentó Snakemaster en Animal Planet y vivió 107 días en una jaula con 36 serpientes venenosas.
+description: Austin Stevens, herpetólogo y fotógrafo de naturaleza nacido en Sudáfrica, presentó Snakemaster y vivió 107 días en una jaula con 36 serpientes venenosas.
 summary: Austin Stevens (nacido en 1950) es un herpetólogo, fotógrafo de fauna y presentador de televisión nacido en Sudáfrica, conocido sobre todo por la serie de Animal Planet Austin Stevens: Snakemaster (2004-2009). Se mudó a Australia a finales de la década de 2000.
 ---
 Austin Stevens nació el 19 de mayo de 1950 en Pretoria, entonces en la provincia del Transvaal y hoy en Gauteng, Sudáfrica. Se hizo un nombre con los reptiles y no con el mundo de las galerías, y su fotografía siempre ha estado al servicio de sus expediciones: la imagen de una serpiente concreta en su hábitat suele ser el objetivo del viaje.

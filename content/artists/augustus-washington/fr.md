@@ -1,9 +1,9 @@
 ---
-title: Augustus Washington : le daguerréotypiste de John Brown, devenu libérien
+title: Augustus Washington : daguerréotypiste de John Brown, devenu libérien
 label: Augustus Washington
 heading: Augustus Washington
 kicker: Daguerréotypiste
-description: Augustus Washington, daguerréotypiste afro-américain, a fait le plus ancien portrait connu de John Brown, puis a émigré au Liberia en 1853, où il a photographié et fait de la politique.
+description: Augustus Washington, daguerréotypiste afro-américain, fit le plus ancien portrait connu de John Brown, puis émigra au Liberia en 1853 et y entra en politique.
 summary: Augustus Washington (1820-1875) était un photographe afro-américain qui tenait un studio de daguerréotype à Hartford, dans le Connecticut, où il a réalisé le plus ancien portrait connu de l'abolitionniste John Brown. En 1853, il a émigré au Liberia, a photographié ses habitants et ses dirigeants, puis est devenu agriculteur, rédacteur en chef d'un journal et homme politique, président de la Chambre des représentants.
 ---
 Augustus Washington est né en 1820 à Trenton, dans le New Jersey, fils d'un ancien esclave. Il est entré à Dartmouth College en 1843, seul étudiant afro-américain, et, comme l'argent manquait, a appris la technique nouvelle du daguerréotype ; il est parti sans diplôme. En 1846, il a ouvert un studio à Hartford, dans le Connecticut, en faisant de la publicité dans les journaux antiesclavagistes. Vers 1846-1847, il a photographié John Brown, l'abolitionniste qui conduirait le raid de Harpers Ferry en 1859, une main levée comme pour prêter serment — le plus ancien portrait connu de lui. La National Portrait Gallery de la Smithsonian a acheté ce daguerréotype aux enchères en 1996, et le Nelson-Atkins Museum de Kansas City conserve une autre copie au quart de plaque portant l'adresse de Hartford.

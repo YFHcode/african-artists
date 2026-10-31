@@ -3,7 +3,7 @@ title: Baya: a pintora argelina que Breton celebrou aos dezasseis anos
 label: Baya
 heading: Baya Mahieddine
 kicker: Pintora
-description: Baya (1931–1998) tinha dezasseis anos quando a Galerie Maeght expôs as suas pinturas em Paris, com prefácio de André Breton. A sua vida, as suas mulheres e jardins.
+description: Baya (1931–1998) tinha dezasseis anos quando a Galerie Maeght expôs as suas pinturas em Paris, com prefácio de André Breton. A vida, as mulheres, os jardins.
 summary: Baya Mahieddine, conhecida simplesmente como Baya (1931–1998), foi uma pintora argelina autodidata. A sua primeira exposição individual, na Galerie Maeght, em Paris, em 1947, abriu quando tinha apenas dezasseis anos, com prefácio de André Breton; os seus guaches luminosos de mulheres, pássaros, plantas e instrumentos fizeram dela uma figura central da arte moderna argelina.
 facts:
   - Nascimento | 12 de dezembro de 1931, Bordj El Kiffan, Argélia

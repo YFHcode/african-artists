@@ -3,7 +3,7 @@ title: Kevin Carter: The Photographer Behind the Vulture Picture (1960–1994)
 label: Kevin Carter
 heading: Kevin Carter
 kicker: Photojournalist
-description: Kevin Carter covered South Africa's township wars and, in Sudan in 1993, made the vulture photograph that won a Pulitzer Prize. His life, his work and the debate it started.
+description: Kevin Carter covered South Africa's township wars and, in Sudan in 1993, made the Pulitzer-winning vulture photograph. His life, work and the debate it started.
 summary: Kevin Carter (1960–1994) was a South African photojournalist and a member of the Bang-Bang Club, the four photographers who covered the violence in South Africa's townships in the last years of apartheid. His 1993 photograph of a starving child and a vulture in Sudan won the 1994 Pulitzer Prize for Feature Photography and remains one of the most debated news pictures ever made. He died in July 1994, aged 33.
 facts:
   - Born | 13 September 1960, Johannesburg, South Africa

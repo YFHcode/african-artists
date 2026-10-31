@@ -1,9 +1,9 @@
 ---
-title: Hussein Bicar : peintre, portraitiste et illustrateur égyptien de Sindbad
+title: Hussein Bicar : peintre, portraitiste et illustrateur de Sindbad
 label: Hussein Bicar
 heading: Hussein Bicar
 kicker: Peintre et illustrateur
-description: Hussein Bicar a peint des portraits lumineux et des scènes de Nubie et de la campagne égyptienne, et a dessiné pour Akhbar el-Yom et le magazine pour enfants Sindbad.
+description: Hussein Bicar a peint des portraits lumineux et des scènes de Nubie et de la campagne égyptienne, et dessiné pour Akhbar el-Yom et le magazine Sindbad.
 summary: Hussein Bicar (1913-2002) était un peintre, illustrateur et poète égyptien originaire d'Alexandrie. Maître du portrait et des scènes calmes et lumineuses de la campagne égyptienne et de la Nubie, il a aussi été l'illustrateur de presse et de livres le plus connu du pays : il a dessiné pour Akhbar el-Yom dès ses premières années et créé l'univers visuel de Sindbad, le premier magazine égyptien pour enfants. Il a reçu le prix Moubarak des arts en 2000.
 facts:
   - Naissance | 1913, Alexandrie, Égypte

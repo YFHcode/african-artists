@@ -1,9 +1,9 @@
 ---
-title: M'hamed Issiakhem : le peintre algérien de la douleur et de la résistance
+title: M'hamed Issiakhem : peintre algérien de la douleur et de la résistance
 label: M'hamed Issiakhem
 heading: M'hamed Issiakhem
 kicker: Peintre
-description: M'hamed Issiakhem perd un bras à quinze ans dans l'explosion d'une grenade et devient un fondateur de la peinture algérienne moderne, ami de Kateb Yacine et auteur de billets.
+description: M'hamed Issiakhem perd un bras à quinze ans et devient un fondateur de la peinture algérienne moderne, ami de Kateb Yacine et auteur de billets et de timbres.
 summary: M'hamed Issiakhem (1928–1985) est un peintre algérien, l'un des fondateurs de l'art algérien moderne. À quinze ans, l'explosion d'une grenade tue deux de ses sœurs et un neveu et lui coûte le bras gauche. Formé à Alger et à Paris, ami et complice de toujours de l'écrivain Kateb Yacine, il peint la souffrance de la guerre, surtout les mères et les veuves, dans un style expressionniste puissant. Il dessine aussi des billets de banque et des timbres algériens.
 facts:
   - Naissance | 17 juin 1928, Kabylie, Algérie

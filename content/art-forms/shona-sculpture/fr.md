@@ -3,7 +3,7 @@ title: Sculpture shona : la sculpture moderne sur pierre du Zimbabwe
 label: Sculpture sur pierre du Zimbabwe
 heading: La sculpture shona : les sculpteurs sur pierre du Zimbabwe
 kicker: Mouvement sculptural
-description: La « sculpture shona », sculpture moderne sur pierre du Zimbabwe, née dans les années 1950 à la National Gallery et à Tengenenge, a été exposée à Paris, Londres et New York.
+description: La « sculpture shona », sculpture moderne sur pierre du Zimbabwe, née dans les années 1950 à la National Gallery et à Tengenenge, exposée dans le monde entier.
 summary: La « sculpture shona » est le nom longtemps donné à la sculpture moderne sur pierre du Zimbabwe, née à la fin des années 1950 autour de l'atelier de la National Gallery de Salisbury (aujourd'hui Harare), sous la direction de Frank McEwen, et de la communauté de sculpteurs de Tengenenge, fondée en 1966. En taillant la serpentine et d'autres pierres locales, des artistes comme Joram Mariga, Nicholas Mukomberanwa, Henry Munyaradzi, Sylvester Mubayi et Agnes Nyanhongo en ont fait l'un des mouvements d'art moderne les plus connus d'Afrique.
 facts:
   - Pays | Zimbabwe (Rhodésie jusqu'en 1980)

@@ -3,7 +3,7 @@ title: Irma Stern: a expressionista sul-africana, de Berlim a Zanzibar
 label: Irma Stern
 heading: Irma Stern
 kicker: Pintora
-description: Irma Stern levou o expressionismo alemão para a África do Sul nos anos 1920, foi ridicularizada e depois celebrada; os seus retratos de Zanzibar e do Congo valem hoje milhões.
+description: Irma Stern levou o expressionismo alemão para a África do Sul nos anos 1920; ridicularizada e depois celebrada, os seus retratos valem hoje milhões.
 summary: Irma Stern (1894-1966) foi uma pintora sul-africana que se formou na Alemanha no círculo dos expressionistas e levou para a África do Sul, nos anos 1920, a sua cor ousada e a sua pincelada solta. Ridicularizada de início pela crítica, tornou-se a principal pintora moderna do país. Os seus retratos de pessoas da África do Sul, de Zanzibar e do Congo estão entre os quadros sul-africanos mais valiosos; a sua casa na Cidade do Cabo é hoje o Museu Irma Stern.
 facts:
   - Nascimento | 2 de outubro de 1894, Schweizer-Reneke, Transvaal, África do Sul

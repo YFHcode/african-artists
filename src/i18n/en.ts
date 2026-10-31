@@ -90,6 +90,8 @@ const en = {
         count: (n: number) => `${n} artists`,
         profiles: 'Profiles',
         more: 'More artists',
+        otherWork: 'Better known for other work',
+        otherWorkNote: 'Writers, presenters and public figures whom Wikidata also lists here; their profiles explain the connection.',
         moreNote: 'Most looked-up first. Names link to our profile, or to Wikipedia where we do not have one yet.',
         related: 'Related lists',
         inEnglish: 'Wikipedia article in English',

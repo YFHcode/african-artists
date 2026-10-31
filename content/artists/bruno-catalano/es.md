@@ -3,7 +3,7 @@ title: Bruno Catalano: el escultor de Les Voyageurs, viajeros con un vacío
 label: Bruno Catalano
 heading: Bruno Catalano
 kicker: Escultor
-description: Bruno Catalano, nacido en Marruecos en una familia siciliana, hace viajeros de bronce a tamaño natural a los que les faltan partes enteras del cuerpo, expuestos en Marsella en 2013.
+description: Bruno Catalano, nacido en Marruecos en una familia siciliana, hace viajeros de bronce de tamaño natural a los que les faltan partes del cuerpo.
 summary: Bruno Catalano (nacido en 1960) es un escultor francés nacido en Khouribga, Marruecos, en una familia siciliana. Es conocido por Les Voyageurs (Los viajeros), figuras de bronce a tamaño natural con maletas cuyos cuerpos están abiertos, con grandes partes que simplemente faltan. Diez de ellas se instalaron en los muelles de Marsella en 2013, cuando la ciudad fue Capital Europea de la Cultura.
 facts:
   - Nacimiento | 1960, Khouribga, Marruecos

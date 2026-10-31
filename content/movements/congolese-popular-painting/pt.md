@@ -3,7 +3,7 @@ title: A pintura popular congolesa: a arte das ruas de Kinshasa
 label: Pintura popular congolesa
 heading: A pintura popular congolesa
 kicker: Movimento artístico
-description: Desde os anos 1970, pintores autodidatas de Kinshasa como Chéri Samba, Moké e Chéri Chérin pintam a vida, os escândalos e a história da cidade com a linguagem dos cartazes.
+description: Desde os anos 1970, pintores autodidatas de Kinshasa como Chéri Samba, Moké e Chéri Chérin pintam a vida e a história da cidade na linguagem dos cartazes.
 summary: A pintura popular congolesa é a obra de artistas de Kinshasa, em grande parte autodidatas, que desde o início dos anos 1970 pintam a vida, o humor, a política e a história da cidade para compradores locais. Fundada por Chéri Samba, Moké, Chéri Chérin e Pierre Bodo, inspira-se nos cartazes publicitários e na banda desenhada — contornos fortes, cores vivas e legendas escritas — e passou a ser colecionada internacionalmente a partir do final dos anos 1980.
 facts:
   - Local | Kinshasa, República Democrática do Congo (então Zaire)

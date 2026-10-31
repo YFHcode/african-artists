@@ -1,5 +1,5 @@
 ---
-title: Zoubeir Turki : peintre de l'École de Tunis et sculpteur d'Ibn Khaldoun
+title: Zoubeir Turki : peintre de l'École de Tunis, sculpteur d'Ibn Khaldoun
 label: Zoubeir Turki
 heading: Zoubeir Turki
 kicker: Peintre et sculpteur

@@ -2,7 +2,7 @@
 title: Artistas sudafricanos: pintores, escultores y fotógrafos famosos
 label: Artistas sudafricanos
 heading: Artistas sudafricanos
-description: Los artistas sudafricanos, de Irma Stern y Gerard Sekoto a William Kentridge, Marlene Dumas, Esther Mahlangu y Zanele Muholi: perfiles y una lista de más de 200 nombres.
+description: Los artistas sudafricanos, de Irma Stern y Gerard Sekoto a William Kentridge, Marlene Dumas, Esther Mahlangu y Zanele Muholi: perfiles y más de 200 nombres.
 ---
 Sudáfrica tiene una de las historias del arte más ricas del continente y una de sus escenas contemporáneas más fuertes. Su arte más antiguo es la pintura rupestre de los san y sus antepasados; el oro de Mapungubwe, las casas pintadas y los abalorios de los ndebele, que Esther Mahlangu llevó al mundo, forman parte de la misma larga historia. En el siglo XX, pintores como Irma Stern, J. H. Pierneef, Gerard Sekoto, George Pemba y Ernest Mancoba crearon el modernismo sudafricano, mientras centros de arte como Polly Street y Rorke's Drift formaban a artistas negros excluidos de las escuelas de arte.
 

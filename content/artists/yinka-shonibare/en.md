@@ -1,9 +1,9 @@
 ---
-title: Yinka Shonibare: Dutch Wax, Headless Figures and Nelson's Ship in a Bottle
+title: Yinka Shonibare: Dutch Wax, Headless Figures and Nelson's Ship
 label: Yinka Shonibare
 heading: Yinka Shonibare
 kicker: Artist
-description: Yinka Shonibare dresses headless figures in Victorian costume made of "African" Dutch wax print, a fabric with a European history, to question empire, class and identity.
+description: Yinka Shonibare dresses headless figures in Victorian costume of "African" Dutch wax print, a fabric with a European history, to question empire and identity.
 summary: Yinka Shonibare (born 1962) is a British-Nigerian artist known for headless mannequins in Victorian dress made of Dutch wax print — a fabric sold across West Africa as "African" though it was developed in Europe for Asian markets. His sculptures, installations, photographs and films about colonialism, class and identity include Nelson's Ship in a Bottle (2010), shown on London's Fourth Plinth, and The British Library (2014).
 facts:
   - Born | 1962, London, United Kingdom; grew up in Lagos, Nigeria

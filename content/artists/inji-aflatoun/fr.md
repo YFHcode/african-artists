@@ -3,7 +3,7 @@ title: Inji Aflatoun : la peintre égyptienne qui peignit ses codétenues
 label: Inji Aflatoun
 heading: Inji Aflatoun
 kicker: Peintre et militante
-description: Inji Aflatoun (Efflatoun), surréaliste, communiste et féministe, fut emprisonnée de 1959 à 1963 et peignit les femmes détenues avec elle : ses œuvres les plus connues.
+description: Inji Aflatoun (Efflatoun), surréaliste, communiste et féministe, fut emprisonnée de 1959 à 1963 et peignit les femmes détenues avec elle, ses œuvres phares.
 summary: Inji Aflatoun (1924-1989), dont le nom s'écrit aussi Efflatoun, est une peintre égyptienne et une militante marxiste et féministe. Élève du surréaliste Kamel El-Telmissany, elle expose adolescente avec le groupe Art et Liberté, puis se consacre à la politique et à la peinture de la vie des paysans et des ouvriers égyptiens. Emprisonnée de 1959 à 1963 pour son engagement communiste, elle peint les femmes de sa prison ; ces œuvres sont considérées comme ses plus belles. Ses paysages plus tardifs sont pleins de lumière blanche.
 facts:
   - Naissance | 1924, Le Caire, Égypte

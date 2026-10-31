@@ -3,7 +3,7 @@ title: Amon Kotei: The Artist Who Designed Ghana's Coat of Arms
 label: Amon Kotei
 heading: Amon Kotei
 kicker: Painter, sculptor and designer
-description: Amon Kotei, a Ghanaian painter, sculptor, surveyor and musician, designed the coat of arms of Ghana, approved in 1957. He was honoured by the state and died in 2011, aged 96.
+description: Amon Kotei, a Ghanaian painter, sculptor, surveyor and musician, designed the coat of arms of Ghana, approved in 1957. He died in 2011, aged 96.
 summary: Amon Kotei (1915–2011) was a Ghanaian artist — painter, sculptor, graphic designer and musician, and a surveyor by training — best known as the designer of Ghana's coat of arms, approved in March 1957, the month the country became independent. He received a state honour for the design in 1997 and died in 2011, aged 96.
 ---
 Amon Kotei was born on 24 May 1915 in La (Labadi), near Accra, then in the Gold Coast colony. He trained as a surveyor and draughtsman and worked as a cartographer and graphic artist, while also painting, sculpting and playing music. During the Second World War he served in the Royal West African Frontier Force and worked in the army's cartographic division, drawing maps and plans for soldiers at the front.

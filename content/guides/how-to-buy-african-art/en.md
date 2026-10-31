@@ -3,7 +3,7 @@ title: How to Buy African Art: Provenance, Fakes and Export Rules
 label: How to buy African art
 heading: How to buy African art with confidence
 kicker: Guide
-description: A practical guide to buying African art: contemporary versus historical works, where to buy, documents to ask for, how fakes work and the export rules that apply.
+description: A practical guide to buying African art: contemporary versus historical works, where to buy, documents to ask for, how fakes work and export rules.
 summary: Buying African art safely comes down to three questions: what kind of work it is (contemporary, modern or historical), whether its history can be documented, and whether it can legally leave the country it is in. Contemporary art bought from the artist, a gallery or a fair is straightforward; historical objects need documented provenance, and some cannot be legally exported at all.
 ---
 ## Know which market you are in

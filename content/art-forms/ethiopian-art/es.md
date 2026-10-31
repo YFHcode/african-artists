@@ -3,7 +3,7 @@ title: Arte etíope: iconos, manuscritos, iglesias y pintores modernos
 label: Arte etíope
 heading: El arte etíope
 kicker: Tradición artística
-description: El arte etíope, de las estelas de Aksum y las iglesias excavadas de Lalibela a los evangelios iluminados, los iconos, las cruces y los pintores modernos de Adís Abeba.
+description: El arte etíope, de las estelas de Aksum y las iglesias de Lalibela a los evangelios iluminados, los iconos, las cruces y los pintores modernos de Adís Abeba.
 summary: Etiopía tiene una de las tradiciones artísticas continuas más largas de África. El reino de Aksum levantó sus gigantescas estelas de piedra en los primeros siglos de nuestra era; después de que sus gobernantes adoptaran el cristianismo en el siglo IV, los artistas etíopes crearon manuscritos iluminados, iconos, cruces y murales de iglesia con un estilo propio que todavía se practica. La Escuela de Bellas Artes de Adís Abeba, abierta en 1958, lanzó a pintores modernos como Gebre Kristos Desta y Skunder Boghossian.
 facts:
   - Reino antiguo | Aksum, norte de Etiopía, primeros siglos de nuestra era

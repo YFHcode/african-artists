@@ -3,7 +3,7 @@ title: Roger Ballen: o fotógrafo dos estranhos interiores da África do Sul
 label: Roger Ballen
 heading: Roger Ballen
 kicker: Fotógrafo
-description: Roger Ballen, fotógrafo nascido em Nova Iorque e radicado em Joanesburgo desde 1982, passou do retrato documental rural a inquietantes encenações a preto e branco.
+description: Roger Ballen, fotógrafo nascido em Nova Iorque e em Joanesburgo desde 1982, passou do retrato documental rural a inquietantes encenações a preto e branco.
 summary: Roger Ballen (nascido em 1950) é um fotógrafo nascido nos Estados Unidos que vive e trabalha em Joanesburgo desde 1982. As suas fotografias a preto e branco passaram dos retratos documentais de sul-africanos brancos pobres em pequenas vilas do interior para cenas encenadas e teatrais que misturam fotografia, desenho e escultura, um estilo a que chama «ballenesco».
 facts:
   - Nascimento | 1950, Nova Iorque, Estados Unidos

@@ -3,7 +3,7 @@ title: Roger Ballen: The Photographer of South Africa's Strange Interiors
 label: Roger Ballen
 heading: Roger Ballen
 kicker: Photographer
-description: Roger Ballen, a New York-born photographer based in Johannesburg since 1982, moved from documentary portraits of rural South Africa to staged, unsettling black-and-white tableaux.
+description: Roger Ballen, a New York-born photographer in Johannesburg since 1982, moved from portraits of rural South Africa to staged, unsettling black-and-white scenes.
 summary: Roger Ballen (born 1950) is an American-born photographer who has lived and worked in Johannesburg since 1982. His black-and-white photographs moved from documentary portraits of poor white South Africans in small country towns to staged, theatrical scenes that blur photography, drawing and sculpture, a style he calls "Ballenesque".
 facts:
   - Born | 1950, New York, United States

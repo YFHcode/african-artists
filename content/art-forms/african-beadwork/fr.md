@@ -1,9 +1,9 @@
 ---
-title: Le perlage africain : perles maasaï, zouloues, ndébélé, yoruba et krobo
+title: Le perlage africain : perles maasaï, zouloues, ndébélé, yoruba, krobo
 label: Perlage africain
 heading: Le perlage africain
 kicker: Forme d'art
-description: Le perlage africain, des perles de coquillage de 75 000 ans au verre vénitien : colliers maasaï, « lettres d'amour » zouloues, tabliers ndébélé, couronnes yoruba, trônes du Cameroun.
+description: Le perlage africain, des perles de coquillage de 75 000 ans au verre vénitien : colliers maasaï, « lettres d'amour » zouloues, tabliers ndébélé, couronnes.
 summary: Les perles comptent parmi les plus anciens ornements fabriqués par l'humanité, et certaines des plus anciennes connues viennent d'Afrique : des perles de coquillage vieilles d'environ 75 000 ans, découvertes dans la grotte de Blombos en Afrique du Sud. Les perles de verre arrivées par le commerce transsaharien et l'océan Indien, puis de Venise et de Bohême, ont été transformées en arts singuliers — colliers maasaï, perlage zoulou et ndébélé, couronnes royales yoruba, trônes perlés du Cameroun —, tandis que les Krobo du Ghana fabriquent leurs propres perles de verre.
 facts:
   - Plus anciennes perles | Perles de coquillage d'environ 75 000 ans, grotte de Blombos, Afrique du Sud

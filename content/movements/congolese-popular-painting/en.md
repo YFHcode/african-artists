@@ -3,7 +3,7 @@ title: Congolese Popular Painting: Kinshasa's Street-Wise Art
 label: Congolese popular painting
 heading: Congolese popular painting
 kicker: Art movement
-description: From the 1970s, self-taught Kinshasa painters like Chéri Samba, Moké and Chéri Chérin painted the city's life, scandals and history in a style borrowed from billboards.
+description: From the 1970s, self-taught Kinshasa painters such as Chéri Samba, Moké and Chéri Chérin painted the city's life, scandals and history in a billboard style.
 summary: Congolese popular painting is the work of largely self-taught artists in Kinshasa who, from the early 1970s, painted the life, humour, politics and history of the city for local buyers. Founded by Chéri Samba, Moké, Chéri Chérin and Pierre Bodo, it borrows from billboards and comics — bold outlines, bright colour and written captions — and became internationally collected from the late 1980s.
 facts:
   - Place | Kinshasa, Democratic Republic of the Congo (then Zaire)

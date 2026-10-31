@@ -3,7 +3,7 @@ title: Ousmane Sow : le sculpteur monumental du Sénégal (1935–2016)
 label: Ousmane Sow
 heading: Ousmane Sow
 kicker: Sculpteur
-description: Kinésithérapeute devenu sculpteur, Ousmane Sow a créé des figures plus grandes que nature — lutteurs noubas, guerriers massaïs — et attiré trois millions de visiteurs à Paris.
+description: Kinésithérapeute devenu sculpteur, Ousmane Sow a créé des figures plus grandes que nature, lutteurs noubas et guerriers massaïs, vues par trois millions.
 summary: Ousmane Sow (1935–2016) était un sculpteur sénégalais de figures humaines plus grandes que nature. Kinésithérapeute pendant l'essentiel de sa vie professionnelle, il se consacre à la sculpture dans la cinquantaine ; son exposition de 1999 sur le pont des Arts à Paris a attiré plus de trois millions de visiteurs, et en 2012 il est devenu le premier membre noir de l'Académie des beaux-arts.
 facts:
   - Naissance | 10 octobre 1935, Dakar, Sénégal

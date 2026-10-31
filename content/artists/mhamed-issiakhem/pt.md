@@ -3,7 +3,7 @@ title: M'hamed Issiakhem: o pintor argelino do luto e da resistência
 label: M'hamed Issiakhem
 heading: M'hamed Issiakhem
 kicker: Pintor
-description: M'hamed Issiakhem perdeu um braço na explosão de uma granada aos quinze anos e foi um dos fundadores da pintura argelina moderna, amigo de Kateb Yacine e autor de notas e selos.
+description: M'hamed Issiakhem perdeu um braço aos quinze anos e foi um fundador da pintura argelina moderna, amigo de Kateb Yacine e autor de notas e selos.
 summary: M'hamed Issiakhem (1928-1985) foi um pintor argelino, um dos fundadores da arte moderna da Argélia. Aos quinze anos, a explosão de uma granada matou duas das suas irmãs e um sobrinho e custou-lhe o braço esquerdo. Formou-se em Argel e Paris, foi amigo e colaborador de toda a vida do escritor Kateb Yacine e pintou o sofrimento da guerra, sobretudo mães e viúvas, num poderoso estilo expressionista. Desenhou também notas e selos argelinos.
 facts:
   - Nascimento | 17 de junho de 1928, Cabília, Argélia

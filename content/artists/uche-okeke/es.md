@@ -1,5 +1,5 @@
 ---
-title: Uche Okeke: síntesis natural, los rebeldes de Zaria y el renacer del uli
+title: Uche Okeke: síntesis natural, rebeldes de Zaria y renacer del uli
 label: Uche Okeke
 heading: Uche Okeke
 kicker: Pintor y profesor

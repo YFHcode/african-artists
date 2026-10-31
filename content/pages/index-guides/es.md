@@ -1,7 +1,7 @@
 ---
 title: Guías de arte africano: historia, compra, ferias y museos
 heading: Guías
-description: Guías de arte africano: una breve historia del arte rupestre a hoy, el arte africano contemporáneo, cómo comprar con confianza, ferias y bienales, museos y mujeres artistas.
+description: Guías de arte africano: breve historia del arte rupestre a hoy, arte contemporáneo, cómo comprar con confianza, ferias, museos y mujeres artistas.
 ---
 Empiece por [una breve historia del arte africano](/guides/african-art-history), de los grabados más antiguos del mundo a las bienales de hoy, y por el [arte africano contemporáneo](/guides/contemporary-african-art), con los artistas y las instituciones que le dan forma ahora.
 

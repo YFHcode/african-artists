@@ -1,9 +1,9 @@
 ---
-title: Le kente : histoire, signification et couleurs de l'étoffe tissée du Ghana
+title: Le kente : histoire, sens et couleurs de l'étoffe tissée du Ghana
 label: Kente
 heading: Le kente
 kicker: Tradition textile
-description: Le kente est l'étoffe tissée en bandes des tisserands ashanti et ewe du Ghana. Sa fabrication, le sens de ses couleurs et de ses motifs, et sa reconnaissance par l'UNESCO en 2024.
+description: Le kente est l'étoffe tissée en bandes des tisserands ashanti et ewe du Ghana : sa fabrication, le sens de ses couleurs et motifs, sa reconnaissance à l'UNESCO.
 summary: Le kente est une étoffe tissée à la main au Ghana, faite par des tisserands ashanti et ewe à partir d'étroites bandes de soie, de coton ou de rayonne tissées sur des métiers horizontaux à pédales, puis cousues bord à bord. Étoffe de prestige des chefs et de la royauté, il est devenu un symbole de l'indépendance du Ghana et du patrimoine africain dans le monde entier, et en décembre 2024 l'UNESCO a inscrit le savoir-faire du kente sur sa liste du patrimoine culturel immatériel de l'humanité.
 facts:
   - Pays | Ghana ; des étoffes apparentées sont tissées au Togo et en Côte d'Ivoire

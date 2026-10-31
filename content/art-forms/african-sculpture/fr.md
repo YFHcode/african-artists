@@ -1,9 +1,9 @@
 ---
-title: Sculpture africaine : des terres cuites de Nok aux artistes d'aujourd'hui
+title: Sculpture africaine : des terres cuites de Nok aux artistes actuels
 label: Sculpture africaine
 heading: La sculpture africaine
 kicker: Forme d'art
-description: Un guide de la sculpture africaine : Nok, Igbo-Ukwu et Ife, laitons du Bénin, statues nkisi kongo, reliquaires fang, sculpture baoulé et luba, Grand Zimbabwe et sculpteurs modernes.
+description: Guide de la sculpture africaine : Nok, Igbo-Ukwu et Ife, laitons du Bénin, nkisi kongo, reliquaires fang, sculpture baoulé et luba, sculpteurs modernes.
 summary: La sculpture est l'une des formes d'art les plus anciennes et les plus riches d'Afrique. Les figures en terre cuite de la culture Nok, au centre du Nigeria, réalisées il y a plus de deux mille ans, comptent parmi les plus anciennes connues ; les têtes coulées d'Ife et les plaques en laiton du Bénin se rangent parmi les grands arts de cour du monde ; et la sculpture sur bois — statues, sièges, sceptres, gardiens de reliquaire — a fleuri dans toute l'Afrique de l'Ouest et centrale. Les sculpteurs modernes et contemporains poursuivent cette histoire avec de nouveaux matériaux.
 facts:
   - Plus ancienne tradition figurative | Terres cuites de Nok, centre du Nigeria, Ier millénaire av. J.-C.

@@ -2,7 +2,7 @@
 title: Nigerian Artists: Famous Painters, Sculptors and Photographers
 label: Nigerian artists
 heading: Nigerian artists
-description: Nigerian artists from Ben Enwonwu, Ladi Kwali and Twins Seven-Seven to El Anatsui, Yinka Shonibare and Njideka Akunyili Crosby: profiles and a list of more than 130 names.
+description: Nigerian artists from Ben Enwonwu, Ladi Kwali and Twins Seven-Seven to El Anatsui, Yinka Shonibare and Njideka Akunyili Crosby: profiles and over 130 names.
 ---
 Nigeria's art history is among the longest and richest in the world. The terracotta heads of the Nok culture, the bronzes of Igbo-Ukwu and Ife, and the [Benin Bronzes](/art-forms/benin-bronzes) are masterpieces of world sculpture, and Yoruba carvers such as Olowe of Ise worked in a living tradition into the twentieth century. Modern Nigerian art began with painters such as Aina Onabolu and [Ben Enwonwu](/artists/ben-enwonwu), and grew in three famous centres: the [Zaria Art Society](/movements/zaria-art-society), the [Oshogbo school](/movements/oshogbo-school) and the university at Nsukka.
 

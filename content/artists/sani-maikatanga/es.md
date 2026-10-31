@@ -1,9 +1,9 @@
 ---
-title: Sani Maikatanga: fotógrafo de las fiestas y la cultura del norte de Nigeria
+title: Sani Maikatanga: fotógrafo de las fiestas del norte de Nigeria
 label: Sani Maikatanga
 heading: Sani Maikatanga
 kicker: Fotoperiodista
-description: Sani Maikatanga, fotoperiodista de Kano, documenta las fiestas, la artesanía y la vida cotidiana del norte de Nigeria, del festival de pesca de Argungu a los durbars de Kano.
+description: Sani Maikatanga, fotoperiodista de Kano, documenta las fiestas, la artesanía y la vida del norte de Nigeria, del festival de pesca de Argungu a los durbars.
 summary: Sani Maikatanga (nacido en 1975) es un fotoperiodista y fotógrafo documental nigeriano que vive en Kano. Es conocido por sus imágenes de la cultura y la vida tradicional del norte de Nigeria, sobre todo del Festival de Pesca de Argungu, y ha trabajado para publicaciones en hausa y medios nacionales como Leadership y el Daily Trust.
 ---
 Sani Mohammed Maikatanga nació en 1975 en Kano, la mayor ciudad del norte de Nigeria, y empezó a fotografiar de estudiante de secundaria, a principios de los años noventa. En 2000 empezó a trabajar como reportero y fotógrafo en *Fim*, una revista popular sobre Kannywood, la industria cinematográfica en lengua hausa con sede en Kano. Colaboró con el diario *Leadership* en 2005-2006, se incorporó a Media Trust, editora del *Daily Trust*, en 2009, y la dejó en 2021 para abrir su propio estudio, Sani Maikatanga Photography.

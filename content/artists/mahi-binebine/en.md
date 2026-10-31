@@ -1,5 +1,5 @@
 ---
-title: Mahi Binebine: Marrakech Painter, Sculptor and Novelist of Horses of God
+title: Mahi Binebine: Marrakech Painter, Sculptor and Novelist
 label: Mahi Binebine
 heading: Mahi Binebine
 kicker: Painter, sculptor and novelist

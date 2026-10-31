@@ -1,9 +1,9 @@
 ---
-title: eL Seed: el artista del caligrafiti detrás del mural Perception de El Cairo
+title: eL Seed: el artista del caligrafiti y del mural Perception de El Cairo
 label: eL Seed
 heading: eL Seed
 kicker: Artista del caligrafiti
-description: eL Seed, artista franco-tunecino, pinta caligrafía árabe a escala monumental, desde el minarete de una mezquita en Gabes hasta Perception, sobre 50 edificios de El Cairo.
+description: eL Seed, artista franco-tunecino, pinta caligrafía árabe a escala monumental, del minarete de una mezquita de Gabes a Perception, en 50 edificios de El Cairo.
 summary: eL Seed (nacido en 1981) es un artista franco-tunecino que combina caligrafía árabe y grafiti, un estilo que llama caligrafiti. Nacido en París de padres tunecinos de Gabes, pinta enormes mensajes de tolerancia y diálogo en muros de todo el mundo. Su obra más conocida, Perception (2016), se extiende por unos cincuenta edificios de Manshiyat Naser, en El Cairo, el barrio de los recolectores de basura coptos de la ciudad.
 ---
 eL Seed nació en 1981 en la región de París (la mayoría de las fuentes dicen París, una dice Le Chesnay) en una familia tunecina de Gabes. Creció hablando árabe tunecino en casa, pero solo aprendió a leer y escribir árabe estándar de adolescente, y la caligrafía se convirtió en su puerta de entrada a la lengua. Tomó su nombre de *El Cid*, la obra francesa de Corneille, que conoció en la escuela. Empezando en la escena del grafiti, desarrolló un estilo que mezcla las letras fluidas de la caligrafía árabe con la escala y el spray del arte urbano: el calligraffiti.

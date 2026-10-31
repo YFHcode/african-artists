@@ -3,7 +3,7 @@ title: Caleb Azumah Nelson: Novelist and Photographer of South-East London
 label: Caleb Azumah Nelson
 heading: Caleb Azumah Nelson
 kicker: Writer and photographer
-description: Caleb Azumah Nelson, a British-Ghanaian writer and photographer, won the Costa First Novel Award for Open Water (2021), whose narrator is a photographer in south-east London.
+description: Caleb Azumah Nelson, a British-Ghanaian writer and photographer, won the Costa First Novel Award for Open Water (2021), narrated by a south London photographer.
 summary: Caleb Azumah Nelson (born 1993) is a British-Ghanaian writer and photographer from south-east London. His debut novel, Open Water (2021), about two young Black artists falling in love — the narrator a photographer — won the Costa First Novel Award. Photography runs through his writing as well as his own work with the camera.
 ---
 Caleb Azumah Nelson was born in 1993 and grew up in south-east London, in a family of Ghanaian heritage. He studied sports and exercise science at Coventry University, and began making both photographs and writing, finding in each a way to record Black life in London with tenderness.

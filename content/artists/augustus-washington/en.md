@@ -1,9 +1,9 @@
 ---
-title: Augustus Washington: Daguerreotypist of John Brown, Liberian Politician
+title: Augustus Washington: John Brown's Daguerreotypist, Liberian Politician
 label: Augustus Washington
 heading: Augustus Washington
 kicker: Daguerreotypist
-description: Augustus Washington, an African American daguerreotypist, made the earliest known portrait of John Brown, then emigrated to Liberia in 1853, where he photographed and entered politics.
+description: Augustus Washington, an African American daguerreotypist, made the earliest known portrait of John Brown, then moved to Liberia in 1853 and entered politics.
 summary: Augustus Washington (1820–1875) was an African American photographer who ran a daguerreotype studio in Hartford, Connecticut, where he made the earliest known portrait of the abolitionist John Brown. In 1853 he emigrated to Liberia, photographed its people and leaders, and became a farmer, newspaper editor and politician, serving in the legislature as Speaker of the House.
 ---
 Augustus Washington was born in 1820 in Trenton, New Jersey, the son of a formerly enslaved father. He entered Dartmouth College in 1843, the only African American student there, and, because money was short, learned the new technique of the daguerreotype; he left without a degree. In 1846 he opened a studio in Hartford, Connecticut, advertising in anti-slavery newspapers. Around 1846–47 he photographed John Brown, the abolitionist who would lead the raid on Harpers Ferry in 1859, one hand raised as if taking an oath — the earliest known portrait of him. The Smithsonian's National Portrait Gallery bought the daguerreotype at auction in 1996, and the Nelson-Atkins Museum in Kansas City holds a separate quarter-plate copy stamped with the Hartford address.

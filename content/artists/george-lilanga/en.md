@@ -3,7 +3,7 @@ title: George Lilanga: Tanzania's Makonde Master of Dancing Shetani Figures
 label: George Lilanga
 heading: George Lilanga
 kicker: Painter and sculptor
-description: George Lilanga turned the shetani spirits of Makonde carving into joyful paintings crowded with long-eared dancing figures, and became East Africa's best-known artist abroad.
+description: George Lilanga turned the shetani spirits of Makonde carving into joyful paintings of long-eared dancing figures, and became East Africa's best-known artist.
 summary: George Lilanga (1934–2005) was a Tanzanian painter and sculptor of Makonde origin, based in Dar es Salaam. Starting as a carver of shetani, the spirit figures of modern Makonde sculpture, he developed a bright, humorous style of painting, printmaking and carving in which crowds of long-limbed, big-eared figures dance, argue and celebrate. His work was shown around the world, from a Washington exhibition of African artists around 1978 to Africa Remix in 2004.
 ---
 George Lilanga was born among the Makonde, a people famous for their wood carving, in the Masasi district of southern Tanzania. He said he was born in 1934 in the village of Kikwetu, though one source gives 1935. He grew up carving and making clay figures and, like many Makonde artists, moved to Dar es Salaam, where carving for collectors had become a living. In the early 1970s he joined Nyumba ya Sanaa, the "House of Art" (now the Nyerere Cultural Centre), where artists were trained and their work sold; by one account he was first hired as a watchman there, until a staff member's interest in his carvings changed his duties, and he then added drawing and painting. Some sources say he co-founded the centre in 1973, but we have not seen that confirmed independently.

@@ -3,7 +3,7 @@ title: Sam Nzima: The Photograph of Hector Pieterson, Soweto 1976
 label: Sam Nzima
 heading: Sam Nzima
 kicker: Photojournalist
-description: Sam Nzima took the photograph of the dying Hector Pieterson during the 1976 Soweto uprising — one of the defining images of apartheid — and paid for it with harassment and hiding.
+description: Sam Nzima photographed the dying Hector Pieterson in the 1976 Soweto uprising, one of apartheid's defining images, and paid for it with harassment and hiding.
 summary: Sam Nzima (1934–2018) was a South African photojournalist whose photograph of the schoolboy Hector Pieterson, carried by Mbuyisa Makhubo after police opened fire on students in Soweto on 16 June 1976, became one of the defining images of the struggle against apartheid. Harassed by the security police, Nzima went into hiding and gave up press photography.
 facts:
   - Born | 8 August 1934, Lillydale, South Africa

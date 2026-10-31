@@ -1,9 +1,9 @@
 ---
-title: Breyten Breytenbach : le poète afrikaans qui peignait, emprisonné sept ans
+title: Breyten Breytenbach : le poète afrikaans peintre, emprisonné sept ans
 label: Breyten Breytenbach
 heading: Breyten Breytenbach
 kicker: Écrivain et peintre
-description: Breyten Breytenbach, grand poète afrikaans opposé à l'apartheid, a passé sept ans en prison en Afrique du Sud et a peint toute sa vie. Il est mort à Paris en 2024.
+description: Breyten Breytenbach, grand poète afrikaans opposé à l'apartheid, a passé sept ans en prison et a peint toute sa vie. Il est mort à Paris en 2024.
 summary: Breyten Breytenbach (1939-2024) était un poète, romancier et peintre sud-africain, l'un des plus grands écrivains de langue afrikaans et un adversaire farouche de l'apartheid. Il a vécu surtout à Paris, où il peignait autant qu'il écrivait. Arrêté lors d'un voyage clandestin en Afrique du Sud en 1975, il a passé sept ans en prison, qu'il raconte dans Confession véridique d'un terroriste albinos (1984). Il est mort à Paris en novembre 2024.
 ---
 Breyten Breytenbach est né en 1939 à Bonnievale, dans le Cap-Occidental, et a étudié les beaux-arts à l'Université du Cap avant de quitter l'Afrique du Sud au début des années 1960 pour Paris. Il y a épousé Yolande Ngo Thi Hoang Lien, une Française d'origine vietnamienne ; selon les lois de l'apartheid, ce mariage était un crime en Afrique du Sud, et elle s'est vu refuser un visa pour lui rendre visite.

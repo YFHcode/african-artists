@@ -3,7 +3,7 @@ title: Le Bang-Bang Club : quatre photographes et la fin de l'apartheid
 label: Le Bang-Bang Club
 heading: Le Bang-Bang Club
 kicker: Guide
-description: Le Bang-Bang Club — Kevin Carter, Ken Oosterbroek, Greg Marinovich et João Silva — a photographié la guerre des townships de 1990-1994. Leur histoire, deux Pulitzer et leur prix.
+description: Le Bang-Bang Club, Kevin Carter, Ken Oosterbroek, Greg Marinovich et João Silva, a photographié la guerre des townships de 1990-1994. Leur histoire, leur prix.
 summary: Le Bang-Bang Club est le surnom de quatre jeunes photographes sud-africains — Kevin Carter, Ken Oosterbroek, Greg Marinovich et João Silva — qui ont couvert les violences dans les townships entre la libération de Nelson Mandela en 1990 et les premières élections démocratiques de 1994. Deux d'entre eux ont reçu le prix Pulitzer ; à la fin de 1994, deux d'entre eux étaient morts. Leur histoire pose sur la photographie et la violence des questions toujours débattues.
 facts:
   - Membres | Kevin Carter, Ken Oosterbroek, Greg Marinovich, João Silva

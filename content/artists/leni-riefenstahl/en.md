@@ -3,7 +3,7 @@ title: Leni Riefenstahl in Africa: The Nuba Photographs and Their Critics
 label: Leni Riefenstahl
 heading: Leni Riefenstahl
 kicker: Filmmaker and photographer
-description: Leni Riefenstahl, director of Nazi propaganda films, photographed the Nuba of Sudan in the 1960s–70s; a Berlin project still studies them. Why the pictures are contested.
+description: Leni Riefenstahl, director of Nazi propaganda films, photographed the Nuba of Sudan in the 1960s–70s. Why the pictures are contested, and who studies them.
 summary: Leni Riefenstahl (1902–2003) was a German film director best known for Nazi propaganda films, above all Triumph of the Will (1935). She is not an African artist. She appears here because from the 1960s she photographed the Nuba of southern Sudan, published the bestselling books Die Nuba (1973) and Die Nuba von Kau (1976) — photographs that critics have argued carry the same aesthetic as her Nazi-era films.
 facts:
   - Born | 22 August 1902, Berlin, Germany

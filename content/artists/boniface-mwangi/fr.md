@@ -3,7 +3,7 @@ title: Boniface Mwangi : photojournaliste et militant kényan
 label: Boniface Mwangi
 heading: Boniface Mwangi
 kicker: Photojournaliste et militant
-description: Boniface Mwangi a photographié les violences post-électorales de 2007-2008 au Kenya, les a exposées dans la rue et est devenu l'un des militants les plus connus du pays.
+description: Boniface Mwangi a photographié les violences post-électorales de 2007-2008 au Kenya, les a exposées dans la rue et est devenu un militant de premier plan.
 summary: Boniface Mwangi (né en 1983) est un photojournaliste et militant politique kényan. Ses photographies des violences qui ont suivi l'élection de 2007 au Kenya lui ont valu deux fois le prix CNN MultiChoice du photojournaliste africain de l'année. Il a montré ces images dans la rue lors d'une exposition itinérante, a fondé l'espace créatif PAWA254 et s'est tourné vers le militantisme et la politique.
 ---
 Boniface Mwangi est né en 1983 et a grandi à Nairobi. Il est devenu photographe salarié de *The Standard*, l'un des principaux quotidiens du Kenya.

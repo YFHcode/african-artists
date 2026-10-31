@@ -3,7 +3,7 @@ title: Afrobeat: o som de Fela Kuti e a diferença para o Afrobeats
 label: Afrobeat
 heading: Afrobeat
 kicker: Género musical
-description: O afrobeat é a música longa, política e marcada pelos sopros que Fela Kuti e Tony Allen criaram em Lagos nos anos 1970. O som, a história e a diferença para o afrobeats.
+description: O afrobeat é a música longa, política e de sopros que Fela Kuti e Tony Allen criaram em Lagos nos anos 1970. O som, a história e o que o distingue.
 summary: O afrobeat é a música criada em Lagos no final dos anos 1960 e nos anos 1970 por Fela Anikulapo Kuti e pelo baterista Tony Allen. Funde ritmos iorubás, highlife, jazz e o funk de James Brown em grooves longos e hipnóticos, conduzidos pelos sopros, com letras fortemente políticas. Não é o mesmo que o afrobeats, o pop do século XXI.
 facts:
   - Origem | Lagos, Nigéria, final dos anos 1960–anos 1970

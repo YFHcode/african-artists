@@ -3,7 +3,7 @@ title: Wael Shawky : Cabaret Crusades, marionnettes et Drama 1882
 label: Wael Shawky
 heading: Wael Shawky
 kicker: Artiste et cinéaste
-description: Wael Shawky a raconté les croisades du point de vue arabe avec des marionnettes dans Cabaret Crusades et réalisé Drama 1882 pour le pavillon égyptien de Venise en 2024.
+description: Wael Shawky a raconté les croisades du point de vue arabe avec des marionnettes dans Cabaret Crusades et réalisé Drama 1882 pour l'Égypte à Venise en 2024.
 summary: Wael Shawky (né en 1971) est un artiste égyptien d'Alexandrie qui travaille le film, la performance, le dessin et la sculpture. Il est surtout connu pour Cabaret Crusades (2010–2015), trilogie de films qui raconte les croisades du point de vue arabe avec des marionnettes, et pour Drama 1882, film musical sur la révolte d'Urabi réalisé pour le pavillon égyptien de la Biennale de Venise 2024. Il a fondé l'école d'art MASS Alexandria.
 ---
 Wael Shawky est né à Alexandrie en 1971. Il a étudié les beaux-arts à l'Université d'Alexandrie, puis aux États-Unis, à l'Université de Pennsylvanie. L'histoire, la religion et la façon dont on raconte les histoires — et qui les raconte — traversent son œuvre.

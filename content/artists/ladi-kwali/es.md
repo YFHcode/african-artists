@@ -3,7 +3,7 @@ title: Ladi Kwali: la gran alfarera del billete de 20 nairas
 label: Ladi Kwali
 heading: Ladi Kwali
 kicker: Alfarera
-description: Ladi Kwali, alfarera gbari del centro de Nigeria, fue la ceramista más célebre del país en el centro alfarero de Abuja; su retrato está en el billete de 20 nairas.
+description: Ladi Kwali, alfarera gbari del centro de Nigeria, fue la ceramista más célebre del país en el centro alfarero de Abuja; aparece en el billete de 20 nairas.
 summary: Ladi Kwali (hacia 1925-1984) fue una alfarera nigeriana del pueblo de Kwali, en el actual Territorio de la Capital Federal. Maestra de las grandes tinajas para agua modeladas a mano de la tradición gbari, entró en 1954 en el centro de formación alfarera de Abuja, aprendió el torno y los esmaltes y alcanzó fama internacional en los años cincuenta y sesenta. Fue nombrada miembro de la Orden del Imperio Británico (MBE), y su retrato aparece en el billete de 20 nairas.
 facts:
   - Nacimiento | Hacia 1925, Kwali, Nigeria

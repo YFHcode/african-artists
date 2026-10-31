@@ -3,7 +3,7 @@ title: Gnawa: la música de trance de Marruecos y el festival de Esauira
 label: Gnawa
 heading: Gnawa (Gnaoua)
 kicker: Música y ritual
-description: El gnawa es la música curativa de trance de Marruecos, creada por descendientes de africanos esclavizados: guembri, qraqeb y la lila nocturna. Patrimonio UNESCO desde 2019.
+description: El gnawa es la música curativa de trance de Marruecos, creada por descendientes de africanos esclavizados: guembri, qraqeb y la lila. Patrimonio UNESCO en 2019.
 summary: El gnawa (o gnaoua) es una tradición musical, espiritual y curativa marroquí creada por los descendientes de personas esclavizadas traídas del África subsahariana. Dirigida por un maâlem al guembri de tres cuerdas, con castañuelas de hierro qraqeb y canto de llamada y respuesta, acompaña las ceremonias nocturnas de trance llamadas lila. La UNESCO la inscribió como patrimonio cultural inmaterial de la humanidad en diciembre de 2019.
 facts:
   - Origen | Marruecos; comunidades descendientes de africanos occidentales esclavizados, al menos desde el siglo XVI

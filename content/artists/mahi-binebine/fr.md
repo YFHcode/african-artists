@@ -1,9 +1,9 @@
 ---
-title: Mahi Binebine : peintre, sculpteur et romancier des Étoiles de Sidi Moumen
+title: Mahi Binebine : peintre, sculpteur, auteur des Étoiles de Sidi Moumen
 label: Mahi Binebine
 heading: Mahi Binebine
 kicker: Peintre, sculpteur et romancier
-description: Mahi Binebine, ancien professeur de mathématiques de Marrakech, peint des figures masquées, sculpte le bronze et a écrit le roman adapté au cinéma par Nabil Ayouch.
+description: Mahi Binebine, ancien professeur de mathématiques de Marrakech, peint des figures masquées, sculpte le bronze et a écrit le roman adapté par Nabil Ayouch.
 summary: Mahi Binebine (né en 1959) est un peintre, sculpteur et romancier marocain de Marrakech. Il enseigne les mathématiques à Paris avant de se consacrer à l'art et à l'écriture, vit à New York dans les années 1990 et travaille à Marrakech depuis 2002. Ses tableaux de figures masquées et entassées figurent notamment dans la collection du Guggenheim, et son roman Les Étoiles de Sidi Moumen est devenu le film Les Chevaux de Dieu de Nabil Ayouch (2012).
 facts:
   - Naissance | 1959, Marrakech, Maroc

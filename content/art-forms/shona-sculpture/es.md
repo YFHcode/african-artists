@@ -3,7 +3,7 @@ title: Escultura shona: el movimiento moderno de talla en piedra de Zimbabue
 label: Escultura en piedra de Zimbabue
 heading: Escultura shona: los escultores en piedra de Zimbabue
 kicker: Movimiento escultórico
-description: La «escultura shona», la talla moderna en piedra de Zimbabue, nació en los años cincuenta del taller de la National Gallery y de Tengenenge y llegó a París, Londres y Nueva York.
+description: La «escultura shona», talla moderna en piedra de Zimbabue, nació en los años cincuenta en la National Gallery y Tengenenge y llegó a museos de todo el mundo.
 summary: «Escultura shona» es el nombre que se dio durante mucho tiempo a la escultura moderna en piedra de Zimbabue, que se desarrolló desde finales de los años cincuenta en torno al taller de la National Gallery de Salisbury (hoy Harare), bajo su director Frank McEwen, y en la comunidad escultórica de Tengenenge, fundada en 1966. Tallando serpentina y otras piedras locales, artistas como Joram Mariga, Nicholas Mukomberanwa, Henry Munyaradzi, Sylvester Mubayi y Agnes Nyanhongo la convirtieron en uno de los movimientos de arte moderno más conocidos de África.
 facts:
   - País | Zimbabue (Rodesia hasta 1980)

@@ -1,5 +1,5 @@
 ---
-title: Magdalene Odundo: The Kenyan-Born Potter of Burnished, Body-Like Vessels
+title: Magdalene Odundo: Kenyan-Born Potter of Burnished, Body-Like Vessels
 label: Magdalene Odundo
 heading: Magdalene Odundo
 kicker: Ceramic artist

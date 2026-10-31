@@ -3,7 +3,7 @@ title: La Zaria Art Society et la « synthèse naturelle » (1958–1962)
 label: Zaria Art Society
 heading: La Zaria Art Society
 kicker: Mouvement artistique
-description: En 1958, des étudiants en art de Zaria se révoltent contre un enseignement colonial et fondent la Zaria Art Society. Comment la « synthèse naturelle » a façonné l'art nigérian moderne.
+description: En 1958, des étudiants de Zaria rejettent l'enseignement colonial et fondent la Zaria Art Society. Comment la « synthèse naturelle » a marqué l'art nigérian.
 summary: La Zaria Art Society est un groupe d'étudiants en art nigérians fondé le 9 octobre 1958 au collège de Zaria qui deviendra l'université Ahmadu Bello. Surnommés les « rebelles de Zaria », ils rejettent l'enseignement centré sur l'Europe de leurs professeurs britanniques et élaborent la « synthèse naturelle » — un art moderne construit à partir des traditions visuelles nigérianes et des idées étrangères utiles.
 facts:
   - Fondation | 9 octobre 1958, Zaria, Nigeria

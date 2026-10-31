@@ -1,9 +1,9 @@
 ---
-title: Nzante Spee: pintor camerunés y fundador de un centro de arte en Bamenda
+title: Nzante Spee: pintor camerunés y fundador de un centro de arte
 label: Nzante Spee
 heading: Nzante Spee
 kicker: Pintor
-description: Nzante Spee pintó escenas oníricas y abarrotadas que mezclan cubismo, surrealismo y caricatura, y fundó en Bamenda un centro de arte que formó a una generación de pintores.
+description: Nzante Spee pintó escenas oníricas que mezclan cubismo, surrealismo y caricatura, y fundó en Bamenda un centro de arte que formó a una generación de pintores.
 summary: Nzante Spee (1953-2005) fue un pintor camerunés de la región del Noroeste. Tras formarse en Nigeria y Costa de Marfil, volvió a Bamenda y fundó el Spee Art Centre, uno de los primeros centros de arte de la región, donde formó a artistas más jóvenes como Angu Walters. Sus cuadros mezclan cubismo, surrealismo y caricatura naíf en escenas abarrotadas y oníricas a las que llamaba la «melting age». Murió en California en 2005.
 ---
 Sunday Nzante Spee nació en 1953 en Mbem, en las tierras altas del noroeste de Camerún. Terminó la secundaria en el Baptist Missionary College de Bamenda y, de 1976 a 1979, estudió bellas artes en Nigeria; luego continuó en Abiyán, Costa de Marfil, hasta 1982, en una época en que Camerún apenas tenía enseñanza artística formal. En 1984 ganó el Premio Bastos, concedido a la mejor pintura del año en Camerún.

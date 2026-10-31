@@ -1,7 +1,7 @@
 ---
-title: Arte africana por região: Norte, Ocidental, Central, Oriental e Austral
+title: Arte africana por região: Norte, Ocidental, Central, Oriental, Austral
 heading: Arte africana por região
-description: Explore a arte africana região a região — Norte de África e África Ocidental, Central, Oriental e Austral — com as tradições, os artistas e a música de cada parte do continente.
+description: A arte africana região a região, Norte e África Ocidental, Central, Oriental e Austral, com as tradições, os artistas e a música de cada uma.
 ---
 África tem cinquenta e quatro países e milhares de povos e línguas, e a sua arte é tão variada como a sua geografia. Estas páginas apresentam a história da arte de cada uma das cinco grandes regiões do continente — da arte rupestre e dos reinos antigos aos movimentos modernos e aos artistas contemporâneos — e reúnem todos os artigos deste site sobre essa parte de África.
 

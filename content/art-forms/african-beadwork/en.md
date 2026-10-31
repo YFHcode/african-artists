@@ -3,7 +3,7 @@ title: African Beadwork: Maasai, Zulu, Ndebele, Yoruba and Krobo Beads
 label: African beadwork
 heading: African beadwork
 kicker: Art form
-description: African beadwork from 75,000-year-old shell beads to Venetian glass: Maasai collars, Zulu love letters, Ndebele aprons, Yoruba crowns, Krobo beads and Cameroon's thrones.
+description: African beadwork from 75,000-year-old shell beads to Venetian glass: Maasai collars, Zulu love letters, Ndebele aprons, Yoruba crowns and Krobo beads.
 summary: Beads are among the oldest ornaments made by humans, and some of the oldest yet found come from Africa: shell beads about 75,000 years old from Blombos Cave in South Africa. Glass beads that arrived through trade across the Sahara and the Indian Ocean, and later from Venice and Bohemia, were transformed into distinctive arts — Maasai collars, Zulu and Ndebele beadwork, Yoruba royal crowns, the beaded thrones of Cameroon — while Ghana's Krobo makers produce glass beads of their own.
 facts:
   - Oldest beads | Shell beads about 75,000 years old, Blombos Cave, South Africa

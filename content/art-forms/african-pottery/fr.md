@@ -3,7 +3,7 @@ title: Poterie et céramique africaines : traditions, artisans et Ladi Kwali
 label: Céramique africaine
 heading: Poterie et céramique africaines
 kicker: Forme d'art
-description: La poterie africaine, des premières céramiques du Sahara à Ladi Kwali et Magdalene Odundo : montage à la main, cuisson en plein air, jarres zouloues, glaçures marocaines.
+description: La poterie africaine, des premières céramiques du Sahara à Ladi Kwali et Magdalene Odundo : montage à la main, cuisson en plein air, jarres zouloues.
 summary: L'Afrique possède l'une des plus anciennes traditions céramiques du monde : les poteries d'Ounjougou, au Mali, ont environ 11 000 ans. Dans la plus grande partie du continent, les pots étaient montés à la main — le plus souvent par des femmes — et cuits sur des feux en plein air plutôt qu'au four, des méthodes encore en usage, tandis que l'Afrique du Nord développait des céramiques glaçurées tournées. Des potières et céramistes modernes comme la Nigériane Ladi Kwali et Magdalene Odundo, née au Kenya, ont porté ces traditions jusque dans les musées du monde.
 facts:
   - Plus ancienne poterie | Ounjougou, Mali, vers 9400 av. J.-C.

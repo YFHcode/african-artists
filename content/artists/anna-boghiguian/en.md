@@ -3,7 +3,7 @@ title: Anna Boghiguian: Cairo-Born Artist of Cities, Trade and Wandering
 label: Anna Boghiguian
 heading: Anna Boghiguian
 kicker: Artist
-description: Anna Boghiguian, an Armenian-Egyptian artist born in Cairo in 1946, makes drawings, paintings and sprawling installations about cities, trade routes and history.
+description: Anna Boghiguian, an Armenian-Egyptian artist born in Cairo in 1946, makes drawings, paintings and sprawling installations about cities, trade and history.
 summary: Anna Boghiguian (born 1946) is an Egyptian artist of Armenian descent, born in Cairo. Living a near-nomadic life between Cairo, India and Europe, she makes expressive drawings, paintings, artist's books and large installations about cities, history, trade and the people caught up in them. She has shown at Documenta 13, the Istanbul Biennial and the Venice Biennale, and her work is in collections such as the Museum of Modern Art in New York.
 ---
 Anna Boghiguian was born in Cairo in 1946 to an Armenian-Egyptian family. She graduated in 1969 from the American University in Cairo, in economics and political science, then took a BFA in visual arts and music at Concordia University in Montreal. Since then she has lived on the move, between Cairo, India, Canada and Europe, drawing and painting wherever she goes; travel itself became her method.

@@ -1,9 +1,9 @@
 ---
-title: Chéri Chérin: pintor popular de Kinshasa, sátira e política (1955-2025)
+title: Chéri Chérin: pintor popular de Kinshasa, sátira e política
 label: Chéri Chérin
 heading: Chéri Chérin
 kicker: Pintor
-description: Chéri Chérin, um dos fundadores da pintura popular de Kinshasa, pintou a política, os escândalos e os sonhos da cidade com um humor mordaz. Morreu em outubro de 2025.
+description: Chéri Chérin, um dos fundadores da pintura popular de Kinshasa, pintou a política, os escândalos e os sonhos da cidade com humor. Morreu em 2025.
 summary: Chéri Chérin (1955-2025), nascido Joseph Kinkonda, foi um pintor congolês, uma das figuras fundadoras da pintura popular de Kinshasa, ao lado de Chéri Samba, Moké e Bodo. Formado na Académie des Beaux-Arts de Kinshasa, pintou a vida, a política e as contradições da cidade num estilo que mistura realismo e caricatura, com legendas que comentam a cena. Formou pintores mais novos como JP Mika e morreu em Kinshasa em outubro de 2025.
 ---
 Chéri Chérin nasceu Joseph Kinkonda a 16 de fevereiro de 1955 em Léopoldville, nome de Kinshasa na época. Estudou na Académie des Beaux-Arts da cidade, onde fez cerâmica, e depois trabalhou em tabuletas comerciais e murais no bairro de N'Djili e, como outros pintores da sua geração, trabalhou sobretudo para compradores locais, pintando quadros que ficavam em casas, bares e lojas. A partir dos anos 1970 tornou-se um dos grandes nomes da [pintura popular congolesa](/movements/congolese-popular-painting), o movimento de pintores de Kinshasa que contavam a história da sua cidade em imagens vivas e legíveis com legendas escritas.

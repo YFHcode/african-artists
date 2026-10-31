@@ -1,5 +1,5 @@
 ---
-title: Mohamed Hamidi: Casablanca School Painter of Bodies and Signs (1941–2025)
+title: Mohamed Hamidi: Casablanca School Painter of Bodies and Signs
 label: Mohamed Hamidi
 heading: Mohamed Hamidi
 kicker: Painter

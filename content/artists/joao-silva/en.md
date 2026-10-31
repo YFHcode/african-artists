@@ -1,9 +1,9 @@
 ---
-title: João Silva: Bang-Bang Club Photographer and New York Times War Photographer
+title: João Silva: Bang-Bang Club and New York Times War Photographer
 label: João Silva
 heading: João Silva
 kicker: Photojournalist
-description: João Silva, the Portuguese-born South African photographer of the Bang-Bang Club, covered wars for The New York Times and returned to work after losing both legs in Afghanistan in 2010.
+description: João Silva, the Bang-Bang Club photographer, covered wars for The New York Times and returned to work after losing both legs in Afghanistan in 2010.
 summary: João Silva (born 1966) is a Portuguese-born South African photojournalist. One of the four members of the Bang-Bang Club, he covered South Africa's township violence in the early 1990s, went with Kevin Carter to Sudan in 1993, co-wrote the book The Bang-Bang Club, and became a war photographer for The New York Times. In 2010 he lost both legs when he stepped on a landmine in Afghanistan, and went back to photography.
 facts:
   - Born | 1966, Lisbon, Portugal

@@ -3,7 +3,7 @@ title: Youssef Nabil : photographies coloriées et âge d'or du cinéma égyptie
 label: Youssef Nabil
 heading: Youssef Nabil
 kicker: Photographe et cinéaste
-description: Youssef Nabil colorie à la main ses tirages noir et blanc, à la manière des affiches et des portraits de studio du vieux cinéma égyptien, et photographie stars, artistes et lui-même.
+description: Youssef Nabil colorie à la main ses tirages noir et blanc, à la manière du vieux cinéma égyptien, et photographie stars, artistes et lui-même.
 summary: Youssef Nabil (né en 1972) est un photographe et cinéaste égyptien qui colorie à la main ses tirages noir et blanc, à la manière des portraits de studio et des affiches de cinéma de l'Égypte du milieu du XXe siècle. Ses portraits de stars, d'artistes et d'amis, et ses autoportraits, parlent de mémoire, d'exil, de désir et d'un cinéma égyptien disparu.
 ---
 Youssef Nabil est né au Caire en 1972 et a grandi en regardant les mélodrames en noir et blanc de l'âge d'or du cinéma égyptien. Jeune photographe, il a assisté les photographes de mode David LaChapelle à New York (1993-1994, selon une biographie) et Mario Testino (1997-1998, à New York puis à Paris), avant de mettre au point sa propre technique. Sa première exposition personnelle a eu lieu au Caire en 1999, et en 2001 l'artiste britannique Tracey Emin y a vu son travail et l'a aidé à se faire connaître plus largement.

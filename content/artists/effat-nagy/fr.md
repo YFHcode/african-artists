@@ -3,7 +3,7 @@ title: Effat Nagy : magie populaire, amulettes et mythes égyptiens
 label: Effat Nagy
 heading: Effat Nagy
 kicker: Peintre
-description: Effat Nagy, sœur du pionnier Mohamed Naghi, a tiré peintures et assemblages de la magie populaire, des amulettes et du bois peint d'Égypte ; un musée du Caire les montre.
+description: Effat Nagy, sœur du pionnier Mohamed Naghi, a tiré peintures et assemblages de la magie populaire, des amulettes et du bois peint d'Égypte. Un musée les montre.
 summary: Effat Nagy (1905-1994), dont le nom s'écrit aussi Naghi, est une peintre égyptienne d'Alexandrie et l'une des premières artistes égyptiennes à avoir été reconnues. Sœur du peintre pionnier Mohamed Naghi, elle a développé avec son mari, le folkloriste et artiste Saad El-Khadem, un art nourri des croyances populaires, de la magie et des amulettes égyptiennes, y compris des assemblages mêlant plusieurs matériaux. Le musée Saad El-Khadem et Effat Nagy, au Caire, conserve leur œuvre.
 ---
 Effat Nagy est née à Alexandrie en 1905 dans une famille cultivée ; son frère aîné Mohamed Naghi (1888–1956), qui avait une vingtaine d'années de plus qu'elle, peintre, avocat et diplomate, fut l'un des fondateurs de la peinture égyptienne moderne. En 1945, elle a épousé le chercheur, écrivain et peintre Saad El-Khadem. En 1947, lorsque son frère a été nommé à la tête de l'Académie d'Égypte à Rome, elle y a commencé une formation formelle, étudiant la fresque et la sculpture pendant trois ans à l'Accademia di Belle Arti auprès de Ferruccio Ferrazzi. En 1949, à Paris, elle a rencontré le peintre cubiste français André Lhote, et elle s'est alors éloignée de la peinture académique traditionnelle.

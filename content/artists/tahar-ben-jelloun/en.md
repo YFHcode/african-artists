@@ -1,9 +1,9 @@
 ---
-title: Tahar Ben Jelloun, Painter: The Goncourt-Winning Novelist's Art of Light
+title: Tahar Ben Jelloun, Painter: The Goncourt Novelist's Art of Light
 label: Tahar Ben Jelloun
 heading: Tahar Ben Jelloun
 kicker: Writer and painter
-description: Tahar Ben Jelloun, the Moroccan novelist who won the 1987 Prix Goncourt, has painted for decades; his canvases were shown at the Institut du monde arabe and in a Rabat retrospective.
+description: Tahar Ben Jelloun, the Moroccan novelist who won the 1987 Prix Goncourt, has painted for decades, shown at the Institut du monde arabe and in Rabat.
 summary: Tahar Ben Jelloun (born 1944) is a Moroccan writer and painter, one of the best-known authors in the French language and winner of the 1987 Prix Goncourt for La Nuit sacrée. He is known above all for his novels, but he has also painted for many years: bright, colourful canvases shown at the Institut du monde arabe in Paris in 2017 and in a retrospective at the Musée Mohammed VI in Rabat in 2025.
 facts:
   - Born | 1 December 1944, Fez, Morocco

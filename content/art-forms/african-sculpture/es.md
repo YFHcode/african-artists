@@ -3,7 +3,7 @@ title: Escultura africana: de las terracotas de Nok a los artistas actuales
 label: Escultura africana
 heading: La escultura africana
 kicker: Forma de arte
-description: Guía de la escultura africana: Nok, Igbo-Ukwu e Ife, los latones de Benín, las figuras de poder kongo, los relicarios fang, la talla baulé y luba, y escultores modernos.
+description: Guía de la escultura africana: Nok, Igbo-Ukwu e Ife, latones de Benín, figuras de poder kongo, relicarios fang, talla baulé y luba, y escultores modernos.
 summary: La escultura es una de las formas de arte más antiguas y ricas de África. Las figuras de terracota de la cultura Nok, en el centro de Nigeria, hechas hace más de dos mil años, están entre las más antiguas que se conocen; las cabezas fundidas de Ife y las placas de latón de Benín figuran entre las grandes artes cortesanas del mundo; y la talla en madera —figuras, taburetes, bastones y guardianes de relicario— floreció en toda África Occidental y Central. Los escultores modernos y contemporáneos continúan la historia con nuevos materiales.
 facts:
   - Tradición figurativa más antigua | Terracotas de Nok, centro de Nigeria, I milenio a. C.

@@ -3,7 +3,7 @@ title: African Masks: Types, Meanings and the Peoples Who Make Them
 label: African masks
 heading: African masks
 kicker: Art form
-description: What African masks are for, how they are used in masquerade, and the best-known types — from Dogon, Bamana, Dan and Baule to Yoruba Gelede, Punu, Chokwe and Kuba.
+description: What African masks are for, how they are used in masquerade, and the best-known types, from Dogon, Bamana, Dan and Baule to Gelede, Punu, Chokwe and Kuba.
 summary: In the African societies that make them, a mask is rarely an object on its own. It is one part of a masquerade — worn with a full costume, brought to life by music and dance, and understood to bring a spirit, an ancestor or an idea into the community for a ceremony. Masks appear at initiations, funerals, harvests and festivals, and the best-known traditions come from West and Central Africa.
 facts:
   - Main regions | West and Central Africa, with traditions in East and Southern Africa

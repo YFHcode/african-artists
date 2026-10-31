@@ -25,6 +25,8 @@ export interface PageMetaInput {
     ogAlt: string;
     /** Editions this page exists in, when not all five (some artist profiles and hubs). */
     locales?: readonly Locale[];
+    /** Articles and hubs have their own share image (app/share); other pages use the site card. */
+    shareCard?: boolean;
 }
 
 /** Every edition of a page, plus x-default (English, which every page has), as absolute URLs. */
@@ -52,10 +54,15 @@ export function ogImage(locale: Locale): string {
     return absoluteUrl(`/og/${locale}.png`);
 }
 
+/** The share image of an article or hub in one edition (app/share/[locale]/[...path]). */
+export function shareCardUrl(locale: Locale, path: string): string {
+    return absoluteUrl(`/share/${locale}${path}.png`);
+}
+
 export function pageMetadata(input: PageMetaInput): Metadata {
-    const { locale, path, title, description, absoluteTitle, noindex, article, ogAlt, locales = LOCALES } = input;
+    const { locale, path, title, description, absoluteTitle, noindex, article, ogAlt, locales = LOCALES, shareCard } = input;
     const url = absoluteUrl(localePath(locale, path));
-    const image = { url: ogImage(locale), width: 1200, height: 630, alt: ogAlt };
+    const image = { url: shareCard ? shareCardUrl(locale, path) : ogImage(locale), width: 1200, height: 630, alt: ogAlt };
 
     return {
         title: { absolute: documentTitle(title, absoluteTitle) },

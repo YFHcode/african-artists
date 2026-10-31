@@ -3,7 +3,7 @@ title: Les bronzes du Bénin : histoire, pillage et retour au Nigeria
 label: Bronzes du Bénin
 heading: Les bronzes du Bénin
 kicker: Art de cour
-description: Les bronzes du Bénin sont des milliers d'œuvres en laiton, bronze et ivoire du royaume du Bénin, au Nigeria, pillées par les troupes britanniques en 1897. Leur histoire et leur retour.
+description: Les bronzes du Bénin : des milliers d'œuvres en laiton, bronze et ivoire du royaume du Bénin (Nigeria), pillées par les Britanniques en 1897. Histoire, retour.
 summary: Les bronzes du Bénin sont des milliers de sculptures et de plaques en laiton, en bronze, en ivoire et en bois réalisées pour la cour royale du royaume du Bénin, dans l'actuel État d'Edo, au sud du Nigeria — et non dans l'actuelle République du Bénin. Pillés par les forces britanniques en 1897 et dispersés dans des musées et des collections du monde entier, ils sont devenus le cas le plus célèbre du débat sur les collections coloniales ; depuis 2021, des musées d'Allemagne, des États-Unis, du Royaume-Uni et des Pays-Bas en ont restitué ou cédé des centaines au Nigeria.
 facts:
   - Royaume | Bénin, État d'Edo, sud du Nigeria

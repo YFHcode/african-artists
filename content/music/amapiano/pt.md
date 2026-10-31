@@ -3,7 +3,7 @@ title: Amapiano: o som do log drum dos townships sul-africanos
 label: Amapiano
 heading: Amapiano
 kicker: Género musical
-description: O amapiano nasceu nos townships da África do Sul por volta de 2012: deep house, piano jazzístico e o estrondo do log drum. As origens, as estrelas e a expansão global.
+description: O amapiano nasceu nos townships da África do Sul por volta de 2012: deep house, piano jazzístico e o estrondo do log drum. Origens, estrelas, expansão.
 summary: O amapiano é um estilo sul-africano de house music que surgiu nos townships de Gauteng — Joanesburgo e Pretória — no início e meados dos anos 2010. O nome significa «os pianos» em isiZulu; a sua assinatura é um baixo percussivo e profundo, o «log drum», sob acordes de piano jazzísticos e grooves lentos e espaçosos. Numa década chegou a toda a África e ao pop global.
 facts:
   - Origem | Townships de Gauteng, África do Sul, início dos anos 2010

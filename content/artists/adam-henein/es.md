@@ -3,7 +3,7 @@ title: Adam Henein: escultor egipcio del granito, el bronce y la Esfinge
 label: Adam Henein
 heading: Adam Henein
 kicker: Escultor y pintor
-description: Adam Henein talló figuras serenas e intemporales en granito y bronce, dirigió el equipo de restauración de la Gran Esfinge y fundó el simposio de escultura de Asuán.
+description: Adam Henein talló figuras serenas e intemporales en granito y bronce, dirigió la restauración de la Gran Esfinge y fundó el simposio de escultura de Asuán.
 summary: Adam Henein (1929-2020) fue un escultor y pintor egipcio, el escultor egipcio más célebre desde Mahmoud Mokhtar. Sus figuras simplificadas de personas, aves y animales en bronce y granito llevan la quietud del arte del antiguo Egipto a una forma moderna. Tras muchos años en París volvió a Egipto, dirigió el equipo de diseño de la restauración de la Gran Esfinge, fundó el Simposio Internacional de Escultura de Asuán y convirtió su casa cerca de Guiza en un museo.
 facts:
   - Nacimiento | 1929, El Cairo, Egipto

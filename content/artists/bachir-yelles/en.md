@@ -1,5 +1,5 @@
 ---
-title: Bachir Yellès: Dean of Algerian Painters and Head of the Algiers Art School
+title: Bachir Yellès: Dean of Algerian Painters, Head of the Algiers School
 label: Bachir Yellès
 heading: Bachir Yellès
 kicker: Painter

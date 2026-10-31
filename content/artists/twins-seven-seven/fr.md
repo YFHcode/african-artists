@@ -3,7 +3,7 @@ title: Twins Seven-Seven : peintre, musicien et vedette de l'école d'Oshogbo
 label: Twins Seven-Seven
 heading: Twins Seven-Seven
 kicker: Peintre et musicien
-description: Twins Seven-Seven, seul survivant de sept paires de jumeaux, est devenu le plus célèbre peintre de l'école d'Oshogbo, peuplant ses œuvres des esprits du folklore yoruba.
+description: Twins Seven-Seven, seul survivant de sept paires de jumeaux, devint le plus célèbre peintre de l'école d'Oshogbo, peuplant ses œuvres d'esprits yoruba.
 summary: Twins Seven-Seven (1944-2011) était un peintre, sculpteur, graveur et musicien nigérian, l'artiste le plus connu de l'école d'Oshogbo. Il tirait son nom du fait d'être le seul survivant des sept paires de jumeaux mises au monde par sa mère, et il a rempli des œuvres denses et minutieuses d'esprits, d'animaux et de dieux du folklore yoruba. L'UNESCO l'a nommé Artiste pour la paix en 2005.
 facts:
   - Naissance | 1944, Nigeria

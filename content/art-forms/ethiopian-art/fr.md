@@ -3,7 +3,7 @@ title: L'art éthiopien : icônes, manuscrits, églises et peintres modernes
 label: Art éthiopien
 heading: L'art éthiopien
 kicker: Tradition artistique
-description: L'art éthiopien, des stèles d'Aksoum et des églises rupestres de Lalibela aux évangiles enluminés, aux icônes, aux croix et aux peintres modernes de l'école d'art d'Addis-Abeba.
+description: L'art éthiopien, des stèles d'Aksoum et des églises rupestres de Lalibela aux évangiles enluminés, aux icônes, aux croix et aux peintres modernes d'Addis-Abeba.
 summary: L'Éthiopie possède l'une des plus longues traditions artistiques continues d'Afrique. Le royaume d'Aksoum a dressé ses stèles de pierre géantes dans les premiers siècles de notre ère ; après la conversion de ses souverains au christianisme au IVe siècle, les artistes éthiopiens ont créé manuscrits enluminés, icônes, croix et peintures murales d'églises dans un style singulier, toujours pratiqué. L'École des beaux-arts d'Addis-Abeba, ouverte en 1958, a révélé des peintres modernes comme Gebre Kristos Desta et Skunder Boghossian.
 facts:
   - Royaume antique | Aksoum, nord de l'Éthiopie, premiers siècles de notre ère

@@ -3,7 +3,7 @@ title: Kofi Antubam : l'artiste d'État de Nkrumah et les symboles du Ghana
 label: Kofi Antubam
 heading: Kofi Antubam
 kicker: Peintre et designer
-description: Kofi Antubam, nommé artiste d'État par Kwame Nkrumah, a dessiné le trône présidentiel et d'autres symboles du Ghana indépendant, et a écrit Ghana's Heritage of Culture (1963).
+description: Kofi Antubam, artiste d'État de Kwame Nkrumah, a dessiné le trône présidentiel et d'autres symboles du Ghana indépendant, et écrit Ghana's Heritage of Culture.
 summary: Kofi Antubam (1922-1964) était un peintre, sculpteur, designer, écrivain et enseignant ghanéen qui a façonné l'identité visuelle du Ghana indépendant. Nommé artiste d'État par Kwame Nkrumah, il a dessiné le siège d'État utilisé par le président, a travaillé sur les insignes officiels et les bâtiments publics, et a écrit Ghana's Heritage of Culture (1963), un livre sur les traditions du pays.
 ---
 Kofi Antubam est né en 1922 en Côte-de-l'Or, nom que portait alors le Ghana, et a été emmené à Kumasi chez un oncle à la mort de son père. Il a été encouragé au Adisadel College, a étudié à Achimota, où l'enseignement de l'art s'appuyait sur les traditions locales, puis à Goldsmiths College à Londres. La plupart des sources donnent 1922 ; un article dit 1923. Il est devenu enseignant et l'un des principaux artistes de la génération qui a vu le Ghana accéder à l'indépendance en 1957.

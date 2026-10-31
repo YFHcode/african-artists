@@ -2,7 +2,7 @@
 title: Moroccan Photographers: Leila Alaoui, Hassan Hajjaj, Yto Barrada
 label: Moroccan photographers
 heading: Moroccan photographers
-description: Moroccan photographers, from Mohamed Maradji's six decades of royal pictures to Leila Alaoui's Les Marocains, Hassan Hajjaj's pop portraits and Yto Barrada's Tangier.
+description: Moroccan photographers, from Mohamed Maradji's royal pictures to Leila Alaoui's Les Marocains, Hassan Hajjaj's pop portraits and Yto Barrada's Tangier.
 ---
 For much of its history Morocco was photographed by visitors who came for the light, the souks and the "exotic", and Moroccan photographers have spent decades answering those images. Mohamed Maradji, who began as a street photographer in Casablanca in the 1950s, recorded the monarchy and public life of independent Morocco for more than sixty years. Daoud Aoulad-Syad photographed rural Morocco before turning to film.
 

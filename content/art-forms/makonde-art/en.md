@@ -3,7 +3,7 @@ title: Makonde Art: Mapiko Masks and the Blackwood Sculpture of East Africa
 label: Makonde art
 heading: Makonde art
 kicker: Sculpture tradition
-description: The Makonde of Mozambique and Tanzania carve mapiko helmet masks and modern blackwood sculpture — ujamaa "trees of life" and shetani spirits. Their history and artists.
+description: The Makonde of Mozambique and Tanzania carve mapiko helmet masks and blackwood sculpture: ujamaa "trees of life" and shetani spirits. History and artists.
 summary: The Makonde are a people of the Mueda plateau in northern Mozambique and of south-eastern Tanzania, renowned as carvers. Their mapiko helmet masks, worn in masquerade dances, belong to a long tradition; from the 1950s Makonde carvers in Tanzania and Mozambique also created a modern sculpture in dense African blackwood, from the interlaced figures of ujamaa "family trees" to the distorted spirits called shetani. Artists such as George Lilanga and Reinata Sadimba became internationally known.
 facts:
   - Homeland | Mueda plateau, northern Mozambique; south-eastern Tanzania

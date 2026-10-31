@@ -3,7 +3,7 @@ title: Yinka Shonibare: tela wax, figuras sin cabeza y el barco de Nelson
 label: Yinka Shonibare
 heading: Yinka Shonibare
 kicker: Artista
-description: Yinka Shonibare viste figuras sin cabeza con trajes victorianos de tela wax «africana», un tejido de historia europea, para cuestionar el imperio, la clase y la identidad.
+description: Yinka Shonibare viste figuras sin cabeza con trajes victorianos de tela wax «africana», tejido de historia europea, para cuestionar el imperio y la identidad.
 summary: Yinka Shonibare (nacido en 1962) es un artista británico-nigeriano conocido por sus maniquíes sin cabeza con trajes victorianos hechos de tela wax holandesa, un tejido que se vende en toda África Occidental como «africano» aunque se desarrolló en Europa para mercados asiáticos. Sus esculturas, instalaciones, fotografías y películas sobre el colonialismo, la clase y la identidad incluyen Nelson's Ship in a Bottle (2010), expuesta en el Cuarto Pedestal de Londres, y The British Library (2014).
 facts:
   - Nacimiento | 1962, Londres, Reino Unido; creció en Lagos, Nigeria

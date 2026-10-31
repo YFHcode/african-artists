@@ -1,9 +1,9 @@
 ---
-title: Khadija Saye: The Gambian-British Photographer Lost in the Grenfell Fire
+title: Khadija Saye: The Gambian-British Photographer Lost in Grenfell
 label: Khadija Saye
 heading: Khadija Saye
 kicker: Photographer
-description: Khadija Saye, a British-Gambian photographer, made tintype self-portraits about Gambian spiritual practices, shown in Venice in 2017 weeks before she died in the Grenfell Tower fire.
+description: Khadija Saye, a British-Gambian photographer, made tintypes about Gambian spiritual practices, shown in Venice in 2017 weeks before she died at Grenfell.
 summary: Khadija Saye (1992–2017) was a British-Gambian photographer whose tintype self-portrait series Dwelling: in this space we breathe explored the spiritual practices of her Gambian heritage. The work was shown at the 2017 Venice Biennale; weeks later, on 14 June 2017, she died with her mother in the Grenfell Tower fire in London. She was 24.
 facts:
   - Born | 1992, London, United Kingdom

@@ -1,9 +1,9 @@
 ---
-title: L'art d'Afrique de l'Est : Éthiopie, côte swahilie, tingatinga et Makerere
+title: L'art d'Afrique de l'Est : Éthiopie, Swahili, tingatinga, Makerere
 label: Afrique de l'Est
 heading: L'art d'Afrique de l'Est
 kicker: Région
-description: L'art d'Afrique de l'Est : icônes et églises d'Éthiopie, portes swahilies, perlage maasaï, sculpture makondé, peinture tingatinga, école de Makerere et artistes de Nairobi.
+description: L'art d'Afrique de l'Est : icônes et églises d'Éthiopie, portes swahilies, perlage maasaï, sculpture makondé, tingatinga, Makerere et artistes de Nairobi.
 summary: L'Afrique de l'Est — Éthiopie, Kenya, Tanzanie, Ouganda et leurs voisins — relie la Corne de l'Afrique, les Grands Lacs et la côte de l'océan Indien. Son art comprend les stèles d'Aksoum, les icônes et églises rupestres d'Éthiopie, les portes sculptées et l'architecture de la côte swahilie, le perlage maasaï et samburu, la sculpture makondé et la peinture tingatinga de Tanzanie, l'étoffe d'écorce et l'école d'art de Makerere en Ouganda, et des artistes contemporains de Nairobi à Addis-Abeba.
 facts:
   - Pays | Éthiopie, Érythrée, Kenya, Tanzanie, Ouganda, Rwanda, Somalie et leurs voisins

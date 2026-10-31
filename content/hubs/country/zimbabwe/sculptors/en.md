@@ -2,7 +2,7 @@
 title: Zimbabwean Sculptors: Masters of Modern Stone Sculpture
 label: Zimbabwean sculptors
 heading: Zimbabwean sculptors
-description: Zimbabwean stone sculptors — Henry Munyaradzi, Nicholas Mukomberanwa, Sylvester Mubayi, John Takawira, Colleen Madamombe, Dominic Benhura and more than 40 others.
+description: Zimbabwean stone sculptors: Henry Munyaradzi, Nicholas Mukomberanwa, Sylvester Mubayi, John Takawira, Colleen Madamombe, Dominic Benhura and 40 more.
 ---
 Few countries are as closely identified with one art form as Zimbabwe is with stone sculpture. From the late 1950s, sculptors working at the National Gallery workshop in Salisbury (now Harare) and at Tengenenge, in the north of the country, began carving serpentine, springstone and other local stones into heads, figures, animals and spirits. Their simplified, polished forms, between the figurative and the abstract, made them famous in Europe and North America in the 1960s and 1970s.
 

@@ -3,7 +3,7 @@ title: William Kentridge : films au fusain, opéra et mémoire sud-africaine
 label: William Kentridge
 heading: William Kentridge
 kicker: Artiste
-description: William Kentridge tire des films de dessins au fusain qu'il dessine, efface et redessine — les Drawings for Projection — et crée opéras, théâtre et sculptures sur l'Afrique du Sud.
+description: William Kentridge tire des films de dessins au fusain qu'il dessine, efface et redessine, les Drawings for Projection, et crée opéras et sculptures.
 summary: William Kentridge (né en 1955) est un artiste sud-africain, l'un des plus célébrés de sa génération dans le monde. Il est surtout connu pour ses films d'animation réalisés à partir de dessins au fusain qu'il dessine, efface et redessine image par image, en laissant les traces visibles ; depuis la fin des années 1980, ils parlent d'apartheid, de mémoire, de culpabilité et de responsabilité. Il réalise aussi des estampes, des sculptures, du théâtre et des mises en scène d'opéra pour les plus grandes maisons.
 facts:
   - Naissance | 28 avril 1955, Johannesburg, Afrique du Sud

@@ -3,7 +3,7 @@ title: Kwame Akoto-Bamfo : Nkyinkyim et le mémorial aux victimes de lynchage
 label: Kwame Akoto-Bamfo
 heading: Kwame Akoto-Bamfo
 kicker: Sculpteur
-description: Kwame Akoto-Bamfo, sculpteur ghanéen, a créé l'installation Nkyinkyim, des figures enchaînées à l'entrée du National Memorial for Peace and Justice de Montgomery, en Alabama.
+description: Kwame Akoto-Bamfo, sculpteur ghanéen, a créé les figures enchaînées à l'entrée du National Memorial for Peace and Justice de Montgomery, en Alabama.
 summary: Kwame Akoto-Bamfo (né en 1983) est un sculpteur et militant ghanéen dont le projet Nkyinkyim — des milliers de têtes en béton inspirées de personnes réelles et des portraits funéraires akan — rend hommage aux victimes de la traite transatlantique. Un groupe de figures enchaînées issu de ce projet se dresse à l'entrée du National Memorial for Peace and Justice de Montgomery, en Alabama, ouvert en 2018.
 ---
 Kwame Akoto-Bamfo est né au Ghana en 1983, a grandi à Accra et dans la région de l'Est, et est diplômé de la Kwame Nkrumah University of Science and Technology (KNUST) de Kumasi. Il est artiste, enseignant et militant. S'inspirant de la tradition akan des têtes funéraires en terre cuite, qui représentent et honorent les morts, il a lancé le projet *Nkyinkyim* — le nom vient d'un symbole adinkra de chemins sinueux et de voyages de la vie — pour commémorer les millions d'Africains pris dans la traite transatlantique et affronter son héritage. Le projet compte aujourd'hui des milliers de têtes sculptées, beaucoup modelées d'après des Ghanéens vivants.

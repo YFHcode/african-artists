@@ -3,7 +3,7 @@ title: Les Gnaoua : la musique de transe du Maroc et le festival d'Essaouira
 label: Gnaoua
 heading: Les Gnaoua (Gnawa)
 kicker: Musique et rituel
-description: Les Gnaoua, musique de transe et de guérison du Maroc créée par les descendants d'Africains de l'Ouest réduits en esclavage : guembri, qraqeb et lila. À l'UNESCO depuis 2019.
+description: Les Gnaoua, musique de transe et de guérison du Maroc, créée par des descendants d'Africains de l'Ouest asservis : guembri, qraqeb, lila. À l'UNESCO en 2019.
 summary: L'art gnaoua (ou gnawa) est une tradition musicale, spirituelle et thérapeutique marocaine créée par les descendants de personnes réduites en esclavage venues d'Afrique subsaharienne. Mené par un maâlem au guembri à trois cordes, avec les crotales de fer qraqeb et des chants en appel-réponse, il accompagne les lila, des cérémonies nocturnes de transe. L'UNESCO l'a inscrit au patrimoine culturel immatériel de l'humanité en décembre 2019.
 facts:
   - Origine | Maroc ; communautés descendant d'Africains de l'Ouest réduits en esclavage, depuis au moins le XVIe siècle

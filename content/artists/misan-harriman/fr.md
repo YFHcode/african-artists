@@ -1,9 +1,9 @@
 ---
-title: Misan Harriman : le premier homme noir à signer une couverture de Vogue
+title: Misan Harriman : premier homme noir à signer une couverture de Vogue
 label: Misan Harriman
 heading: Misan Harriman
 kicker: Photographe
-description: Misan Harriman, photographe britannique né au Nigeria, connu pour ses images de Black Lives Matter en 2020, a été le premier homme noir à photographier une couverture de British Vogue.
+description: Misan Harriman, photographe britannique né au Nigeria, connu pour ses images de Black Lives Matter en 2020, a photographié une couverture de British Vogue.
 summary: Misan Harriman (né en 1977) est un photographe et réalisateur britannique né au Nigeria. Autodidacte, il s'est fait largement connaître en 2020 par ses photographies des manifestations Black Lives Matter à Londres et, en septembre de la même année, il est devenu le premier homme noir à photographier la couverture de British Vogue en plus d'un siècle d'existence du magazine.
 facts:
   - Naissance | 1977, Nigeria

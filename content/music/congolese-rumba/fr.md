@@ -3,7 +3,7 @@ title: La rumba congolaise : la grande musique de danse inscrite à l'UNESCO
 label: Rumba congolaise
 heading: La rumba congolaise
 kicker: Genre musical
-description: Née dans le Kinshasa et le Brazzaville des années 1940, la rumba congolaise a donné à l'Afrique Franco, Tabu Ley et Papa Wemba. L'UNESCO l'a inscrite au patrimoine en 2021.
+description: Née à Kinshasa et Brazzaville dans les années 1940, la rumba congolaise a donné Franco, Tabu Ley et Papa Wemba. L'UNESCO l'a inscrite au patrimoine en 2021.
 summary: La rumba congolaise est la musique de danse urbaine née à la fin des années 1940 et dans les années 1950 à Léopoldville (Kinshasa) et à Brazzaville, de part et d'autre du fleuve Congo, en mêlant les disques de son et de rumba cubains aux rythmes et aux langues d'Afrique centrale. Elle a révélé des vedettes comme Wendo Kolosoy, le Grand Kallé, Franco et Papa Wemba, s'est répandue dans toute l'Afrique et a été inscrite par l'UNESCO au patrimoine culturel immatériel en décembre 2021.
 facts:
   - Origine | Kinshasa et Brazzaville, fin des années 1940–années 1950

@@ -3,7 +3,7 @@ title: Anton Hammerl: fotoperiodista sudafricano muerto en Libia en 2011
 label: Anton Hammerl
 heading: Anton Hammerl
 kicker: Fotoperiodista
-description: Anton Hammerl, fotoperiodista sudafricano y austriaco, murió a manos de las fuerzas libias cerca de Brega en abril de 2011; su muerte no se supo hasta seis semanas después.
+description: Anton Hammerl, fotoperiodista sudafricano y austriaco, murió a manos de las fuerzas libias cerca de Brega en abril de 2011; su muerte se ocultó seis semanas.
 summary: Anton Hammerl (1969-2011) fue un fotoperiodista sudafricano y austriaco que cubrió conflictos y la vida cotidiana en el sur de África y más allá. El 5 de abril de 2011, mientras cubría la guerra de Libia, fue abatido por fuerzas gubernamentales cerca de la ciudad de Brega. Su muerte no se conoció hasta mayo, cuando fueron liberados los colegas capturados con él.
 ---
 Anton Hammerl nació en 1969 y creció en Sudáfrica. Trabajó para periódicos sudafricanos y más tarde como fotógrafo independiente, cubriendo noticias, deporte y la vida en el África austral y luego guerras más lejanas. Vivía en Londres con su familia en los últimos años de su vida.

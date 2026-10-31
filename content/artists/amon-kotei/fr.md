@@ -3,7 +3,7 @@ title: Amon Kotei : l'artiste qui a dessiné les armoiries du Ghana
 label: Amon Kotei
 heading: Amon Kotei
 kicker: Peintre, sculpteur et graphiste
-description: Amon Kotei, peintre, sculpteur, géomètre et musicien ghanéen, a dessiné les armoiries du Ghana, adoptées en 1957. Honoré par l'État, il est mort en 2011, à 96 ans.
+description: Amon Kotei, peintre, sculpteur, géomètre et musicien ghanéen, a dessiné les armoiries du Ghana, adoptées en 1957. Il est mort en 2011, à 96 ans.
 summary: Amon Kotei (1915-2011) était un artiste ghanéen — peintre, sculpteur, graphiste et musicien, géomètre de formation — surtout connu comme l'auteur des armoiries du Ghana, adoptées en mars 1957, le mois de l'indépendance du pays. Il a reçu une distinction d'État pour ce dessin en 1997 et il est mort en 2011, à 96 ans.
 ---
 Amon Kotei est né le 24 mai 1915 à La (Labadi), près d'Accra, alors dans la colonie de la Côte-de-l'Or. Il a été formé comme géomètre et dessinateur et a travaillé comme cartographe et graphiste, tout en peignant, sculptant et jouant de la musique. Pendant la Seconde Guerre mondiale, il a servi dans la Royal West African Frontier Force et travaillé à la division cartographique de l'armée, dessinant cartes et plans pour les soldats au front.

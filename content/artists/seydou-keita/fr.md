@@ -3,7 +3,7 @@ title: Seydou Keïta : le grand portraitiste de studio de Bamako
 label: Seydou Keïta
 heading: Seydou Keïta
 kicker: Photographe
-description: Seydou Keïta a tenu le studio photo le plus célèbre de Bamako de 1948 à 1962. Ses portraits d'une ville à la veille de l'indépendance sont devenus des classiques.
+description: Seydou Keïta a tenu le studio le plus célèbre de Bamako de 1948 à 1962. Ses portraits d'une ville à la veille de l'indépendance sont devenus des classiques.
 summary: Seydou Keïta (vers 1921–2001) était un photographe portraitiste malien qui a tenu le studio le plus célèbre de Bamako de 1948 à 1962. Ses portraits élégants et soigneusement composés des habitants de la ville, réalisés juste avant et juste après l'indépendance, sont aujourd'hui reconnus comme des classiques de la photographie du XXe siècle.
 facts:
   - Naissance | Vers 1921, Bamako, Mali

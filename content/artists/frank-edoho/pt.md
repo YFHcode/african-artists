@@ -1,5 +1,5 @@
 ---
-title: Frank Edoho: apresentador de televisão, realizador e fotógrafo nigeriano
+title: Frank Edoho: apresentador de televisão, realizador e fotógrafo
 label: Frank Edoho
 heading: Frank Edoho
 kicker: Apresentador de televisão e fotógrafo

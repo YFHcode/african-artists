@@ -3,7 +3,7 @@ title: Bruno Catalano: The Sculptor of Les Voyageurs, Travellers With a Void
 label: Bruno Catalano
 heading: Bruno Catalano
 kicker: Sculptor
-description: Bruno Catalano, born in Morocco to a Sicilian family, makes life-size bronze travellers with whole sections of their bodies missing, shown on Marseille's quays in 2013.
+description: Bruno Catalano, born in Morocco to a Sicilian family, makes life-size bronze travellers with whole parts of their bodies missing, shown in Marseille in 2013.
 summary: Bruno Catalano (born 1960) is a French sculptor born in Khouribga, Morocco, to a Sicilian family. He is known for Les Voyageurs (The Travellers), life-size bronze figures carrying suitcases whose bodies are torn open, with large parts simply missing. Ten of them stood on the quays of Marseille in 2013, when the city was European Capital of Culture.
 facts:
   - Born | 1960, Khouribga, Morocco

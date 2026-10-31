@@ -1,9 +1,9 @@
 ---
-title: L'art d'Afrique de l'Ouest : masques, bronzes, textiles et maîtres modernes
+title: L'art d'Afrique de l'Ouest : masques, bronzes, textiles, modernes
 label: Afrique de l'Ouest
 heading: L'art d'Afrique de l'Ouest
 kicker: Région
-description: L'art d'Afrique de l'Ouest : terres cuites de Nok, bronzes d'Ife et du Bénin, masques dogon, dan et yoruba, kente, adinkra et bogolan, architecture sahélienne et modernistes.
+description: L'art d'Afrique de l'Ouest : terres cuites de Nok, bronzes d'Ife et du Bénin, masques dogon, dan et yoruba, kente et bogolan, architecture sahélienne.
 summary: L'Afrique de l'Ouest — du Sénégal et du Mali au Nigeria et au Cap-Vert — abrite beaucoup des traditions auxquelles on pense spontanément en parlant d'art africain : les terres cuites de Nok, les bronzes d'Ife et du Bénin, les masques des Dogon, Bamana, Dan, Baoulé et Yoruba, et des étoffes comme le kente, l'adinkra et le bogolan. Au XXe siècle, elle a vu naître les écoles modernistes de Zaria, d'Oshogbo et de Dakar, la photographie de studio de Bamako, le highlife et l'afrobeat.
 facts:
   - Pays | Sénégal, Mali, Burkina Faso, Côte d'Ivoire, Ghana, Togo, Bénin, Nigeria, Cap-Vert et leurs voisins

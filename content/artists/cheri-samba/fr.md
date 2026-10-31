@@ -3,7 +3,7 @@ title: Chéri Samba : le peintre populaire et satiriste de Kinshasa
 label: Chéri Samba
 heading: Chéri Samba
 kicker: Peintre
-description: Chéri Samba a débuté comme peintre d'enseignes à Kinshasa et est devenu l'un des artistes africains les plus connus, avec des tableaux-bandes dessinées pleins de texte et d'humour.
+description: Chéri Samba, ancien peintre d'enseignes à Kinshasa, est devenu l'un des artistes africains les plus connus, avec des tableaux-BD pleins de texte et d'humour.
 summary: Chéri Samba est un peintre congolais né en 1956, qui a commencé comme peintre d'enseignes à Kinshasa avant de devenir l'un des artistes africains les plus connus de sa génération. Ses tableaux vifs, proches de la bande dessinée, portent des textes en français et en lingala et commentent avec humour la politique, l'argent, le sexe, la santé et le monde de l'art lui-même.
 facts:
   - Naissance | 30 décembre 1956, Kinto M'Vuila, République démocratique du Congo

@@ -1,8 +1,8 @@
 ---
-title: Congolese Artists (DRC): Chéri Samba, Bodys Isek Kingelez, Sammy Baloji
+title: Congolese Artists (DRC): Chéri Samba, Kingelez, Sammy Baloji and More
 label: Congolese artists
 heading: Congolese artists
-description: Artists of the Democratic Republic of the Congo, from Chéri Samba, Moké and Chéri Chérin to Bodys Isek Kingelez, Sammy Baloji and Freddy Tsimba, most looked-up first.
+description: Artists of the Democratic Republic of the Congo, from Chéri Samba, Moké and Chéri Chérin to Bodys Isek Kingelez, Sammy Baloji and Freddy Tsimba.
 ---
 The Congo basin is home to some of Africa's most celebrated sculpture: the power figures of the Kongo, the masks of the Pende, Luba and Songye, the Kuba kingdom's textiles and royal portraits. Modern Congolese art began in the colonial period with pioneers such as Antoinette Lubaki, who painted watercolours in the 1920s, and Pilipili Mulongoy of the Hangar workshop in Lubumbashi.
 

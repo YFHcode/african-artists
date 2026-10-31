@@ -1,5 +1,5 @@
 ---
-title: Frank Edoho : animateur de télévision, réalisateur et photographe nigérian
+title: Frank Edoho : animateur de télévision, réalisateur et photographe
 label: Frank Edoho
 heading: Frank Edoho
 kicker: Animateur de télévision et photographe

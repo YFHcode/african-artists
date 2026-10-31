@@ -3,7 +3,7 @@ title: Missangas africanas: maasai, zulu, ndebele, iorubá e krobo
 label: Missangas africanas
 heading: As missangas africanas
 kicker: Forma de arte
-description: As missangas africanas, das contas de concha com 75 000 anos ao vidro veneziano: colares maasai, «cartas de amor» zulu, aventais ndebele, coroas iorubás e tronos dos Camarões.
+description: As missangas africanas, das contas de concha com 75 000 anos ao vidro veneziano: colares maasai, «cartas de amor» zulu, aventais ndebele, coroas iorubás.
 summary: As contas estão entre os mais antigos ornamentos feitos pelo ser humano, e algumas das mais antigas conhecidas vêm de África: contas de concha com cerca de 75 000 anos, encontradas na gruta de Blombos, na África do Sul. As contas de vidro chegadas pelo comércio transariano e do oceano Índico, e mais tarde de Veneza e da Boémia, foram transformadas em artes próprias — colares maasai, missangas zulu e ndebele, coroas reais iorubás, tronos de missangas dos Camarões —, enquanto os krobo do Gana fabricam as suas próprias contas de vidro.
 facts:
   - Contas mais antigas | Contas de concha com cerca de 75 000 anos, gruta de Blombos, África do Sul

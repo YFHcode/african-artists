@@ -3,7 +3,7 @@ title: Escultura shona: o movimento moderno de escultura em pedra do Zimbabué
 label: Escultura em pedra do Zimbabué
 heading: Escultura shona: os escultores em pedra do Zimbabué
 kicker: Movimento escultórico
-description: A «escultura shona», a escultura moderna em pedra do Zimbabué, nasceu nos anos 1950 da oficina da National Gallery e de Tengenenge e chegou a Paris, Londres e Nova Iorque.
+description: A «escultura shona», escultura moderna em pedra do Zimbabué, nasceu nos anos 1950 na National Gallery e em Tengenenge e chegou a museus de todo o mundo.
 summary: «Escultura shona» é o nome dado durante muito tempo à escultura moderna em pedra do Zimbabué, que se desenvolveu a partir do final dos anos 1950 em torno da oficina da National Gallery de Salisbury (hoje Harare), sob o seu diretor Frank McEwen, e na comunidade de escultores de Tengenenge, fundada em 1966. Talhando serpentina e outras pedras locais, artistas como Joram Mariga, Nicholas Mukomberanwa, Henry Munyaradzi, Sylvester Mubayi e Agnes Nyanhongo fizeram dela um dos movimentos de arte moderna mais conhecidos de África.
 facts:
   - País | Zimbabué (Rodésia até 1980)

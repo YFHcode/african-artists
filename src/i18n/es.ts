@@ -5,7 +5,7 @@ const es: Dictionary = {
     meta: {
         homeTitle: 'Arte africano: artistas, máscaras, textiles, movimientos y música',
         homeDescription:
-            'Una guía del arte africano en cinco idiomas: máscaras, escultura, kente y bogolan, arte rupestre, bronces de Benín, artistas modernos y contemporáneos, y música.',
+            'Una guía del arte africano en cinco idiomas: máscaras, escultura, kente y bogolan, arte rupestre, bronces de Benín, artistas modernos y contemporáneos, música.',
         ogAlt: 'AfricanArtists.com — arte africano, artistas y música',
     },
     skip: 'Ir al contenido',
@@ -89,6 +89,8 @@ const es: Dictionary = {
         count: (n: number) => `${n} artistas`,
         profiles: 'Perfiles',
         more: 'Más artistas',
+        otherWork: 'Más conocidos por otra cosa',
+        otherWorkNote: 'Escritores, presentadores y figuras públicas que Wikidata también clasifica aquí; su perfil explica la relación.',
         moreNote: 'Primero, los más buscados. Los nombres enlazan con nuestro perfil o, si aún no lo tenemos, con Wikipedia.',
         related: 'Listas relacionadas',
         inEnglish: 'Artículo de Wikipedia en inglés',
@@ -120,7 +122,7 @@ const es: Dictionary = {
     buy: {
         title: 'Comprar AfricanArtists.com — dominio premium en venta',
         description:
-            'AfricanArtists.com está a la venta: un .com de dos palabras que nombra a los artistas y músicos de todo un continente. Haga su oferta; pago y transferencia con escrow.',
+            'AfricanArtists.com está a la venta: un .com de dos palabras que nombra a los artistas de todo un continente. Haga su oferta; pago y transferencia con escrow.',
         heading: 'AfricanArtists.com está a la venta',
         lead: 'Un .com corto y exacto para una de las mayores categorías de la cultura: los pintores, escultores, fotógrafos, diseñadores y músicos de África y de su diáspora.',
         status: 'Abierto a ofertas',

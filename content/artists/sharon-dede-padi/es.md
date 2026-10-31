@@ -3,7 +3,7 @@ title: Sharon Dede Padi: la artista ghanesa de las huellas de hojas
 label: Sharon Dede Padi
 heading: Sharon Dede Padi
 kicker: Pintora y poeta
-description: Sharon Dede Padi, conocida como Padiki, pintora y poeta ghanesa, logró el récord Guinness de la mayor pintura con huellas de hojas. Murió en julio de 2026, a los 50 años.
+description: Sharon Dede Padi (Padiki), pintora y poeta ghanesa, logró el récord Guinness de la mayor pintura con huellas de hojas. Murió en julio de 2026, a los 50 años.
 summary: Sharon Dede Padi (1976-2026), conocida como Padiki, fue una artista visual y poeta ghanesa, célebre por sus pinturas hechas estampando hojas reales. En Acra creó la mayor pintura con huellas de hojas del mundo, reconocida por Guinness World Records, y fue una voz destacada de las artes creativas de Ghana. Murió en julio de 2026, a los 50 años.
 facts:
   - Nacimiento | 24 de junio de 1976, Ghana

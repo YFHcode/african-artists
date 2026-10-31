@@ -3,7 +3,7 @@ title: Nzante Spee: Cameroonian Painter and Founder of a Bamenda Art Centre
 label: Nzante Spee
 heading: Nzante Spee
 kicker: Painter
-description: Nzante Spee painted dreamlike, crowded scenes mixing cubism, surrealism and caricature, and founded an art centre in Bamenda that trained a generation of Cameroonian painters.
+description: Nzante Spee painted dreamlike, crowded scenes mixing cubism, surrealism and caricature, and founded a Bamenda art centre that trained a generation of painters.
 summary: Nzante Spee (1953–2005) was a Cameroonian painter from the North West Region. After training in Nigeria and Côte d'Ivoire, he returned to Bamenda and founded the Spee Art Centre, one of the first art centres in the region, where he trained younger artists such as Angu Walters. His paintings mix cubism, surrealism and naive caricature in crowded, dreamlike scenes he called the "melting age". He died in California in 2005.
 ---
 Sunday Nzante Spee was born in 1953 in Mbem, in the grassfields of north-western Cameroon. He finished secondary school at the Baptist Missionary College in Bamenda, and from 1976 to 1979 studied fine arts in Nigeria, then continued in Abidjan, Côte d'Ivoire, until 1982, at a time when Cameroon had little formal art education of its own. In 1984 he won the Bastos Prize, awarded for the year's best painting in Cameroon.

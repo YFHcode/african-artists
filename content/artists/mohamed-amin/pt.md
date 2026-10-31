@@ -1,5 +1,5 @@
 ---
-title: Mohamed Amin: o operador de câmara queniano que filmou a fome na Etiópia
+title: Mohamed Amin: o operador de câmara que filmou a fome na Etiópia
 label: Mohamed Amin
 heading: Mohamed Amin
 kicker: Fotojornalista

@@ -3,7 +3,7 @@ title: The École de Dakar: Négritude in Paint and Tapestry
 label: École de Dakar
 heading: The École de Dakar
 kicker: Art movement
-description: Backed by President Senghor's Négritude, the École de Dakar (1960–1974) produced Senegal's first modern painters, the Thiès tapestries and the 1966 world festival.
+description: Backed by Senghor's Négritude, the École de Dakar (1960–1974) produced Senegal's first modern painters, the Thiès tapestries and the 1966 world festival.
 summary: The École de Dakar was the modern art movement of Senegal between about 1960 and 1974, supported by President Léopold Sédar Senghor and shaped by his philosophy of Négritude. Led by artists such as Papa Ibra Tall and Iba N'Diaye, it produced vivid, rhythmic paintings and monumental tapestries, and helped stage the 1966 World Festival of Negro Arts in Dakar.
 facts:
   - Place | Dakar and Thiès, Senegal

@@ -3,7 +3,7 @@ title: Malangatana: pintor, poeta y muralista de Mozambique
 label: Malangatana
 heading: Malangatana Ngwenya
 kicker: Pintor y poeta
-description: Malangatana Ngwenya (1936–2011) pintó lienzos abarrotados y visionarios, fue encarcelado por la policía política portuguesa y fue nombrado Artista por la Paz de la UNESCO.
+description: Malangatana Ngwenya (1936–2011) pintó lienzos abarrotados y visionarios, fue encarcelado por la policía política portuguesa y nombrado Artista por la Paz.
 summary: Malangatana Valente Ngwenya (1936–2011) fue un pintor y poeta mozambiqueño y el artista más conocido del país. Sus pinturas abarrotadas y visionarias mezclan la vida del pueblo, los espíritus y la violencia; fue encarcelado por la policía política portuguesa en los años sesenta, y en 1997 la UNESCO lo nombró Artista por la Paz.
 facts:
   - Nacimiento | 6 de junio de 1936, Matalana, Mozambique

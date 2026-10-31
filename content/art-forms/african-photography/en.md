@@ -3,7 +3,7 @@ title: African Photography: From Studio Portraits to Contemporary Artists
 label: African photography
 heading: African photography
 kicker: Art form
-description: A history of African photography: early studios, Seydou Keïta and Malick Sidibé, Drum magazine and apartheid, J.D. 'Okhai Ojeikere, Zanele Muholi and today's festivals.
+description: A history of African photography: early studios, Seydou Keïta and Malick Sidibé, Drum and apartheid, J.D. 'Okhai Ojeikere, Zanele Muholi and festivals.
 summary: Photography reached the African coast within a few years of its invention, and African photographers were running studios in coastal cities of West Africa by the late nineteenth century. The studio portraits of Seydou Keïta and Malick Sidibé in Bamako, the documentary photographers who confronted apartheid in South Africa, and contemporary artists such as Zanele Muholi have made African photography one of the most admired bodies of work in the medium.
 facts:
   - Early studios | Coastal West African cities, late 19th century

@@ -3,7 +3,7 @@ title: African Sculpture: From Nok Terracottas to Today's Artists
 label: African sculpture
 heading: African sculpture
 kicker: Art form
-description: A guide to African sculpture: Nok, Igbo-Ukwu and Ife, Benin brass, Kongo power figures, Fang reliquaries, Baule and Luba carving, Great Zimbabwe and modern sculptors.
+description: A guide to African sculpture: Nok, Igbo-Ukwu and Ife, Benin brass, Kongo power figures, Fang reliquaries, Baule and Luba carving and modern sculptors.
 summary: Sculpture is one of Africa's oldest and richest art forms. Terracotta figures made by the Nok culture of central Nigeria more than two thousand years ago are among the earliest known; the cast heads of Ife and the brass plaques of Benin rank among the great court arts of the world; and wood carving — figures, stools, staffs and reliquary guardians — flourished across West and Central Africa. Modern and contemporary sculptors continue the story in new materials.
 facts:
   - Oldest figurative tradition | Nok terracottas, central Nigeria, first millennium BCE

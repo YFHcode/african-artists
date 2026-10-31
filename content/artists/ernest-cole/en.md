@@ -3,7 +3,7 @@ title: Ernest Cole: House of Bondage and the Lost Archive of an Exile
 label: Ernest Cole
 heading: Ernest Cole
 kicker: Photographer
-description: Ernest Cole photographed daily life under apartheid, published House of Bondage (1967) in exile, and died in New York in 1990. His lost negatives were found in a Swedish bank in 2017.
+description: Ernest Cole photographed daily life under apartheid and published House of Bondage (1967) in exile. His lost negatives were found in a Swedish bank in 2017.
 summary: Ernest Cole (1940–1990) was a South African photographer whose book House of Bondage (1967), published in New York after he left the country, showed the world what apartheid did to daily life. The book was banned in South Africa; Cole never returned, and died in New York in 1990, days after Nelson Mandela's release. In 2017 around 60,000 of his negatives were found in a Swedish bank, and in 2024 Raoul Peck's film about him won the documentary prize at Cannes.
 facts:
   - Born | 21 March 1940, Pretoria, South Africa

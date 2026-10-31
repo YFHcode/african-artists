@@ -3,7 +3,7 @@ title: Laetitia Ky : l'artiste ivoirienne qui sculpte ses cheveux
 label: Laetitia Ky
 heading: Laetitia Ky
 kicker: Artiste et photographe
-description: Laetitia Ky, artiste abidjanaise, sculpte ses cheveux en mains, silhouettes ou mots et les photographie pour parler des femmes, de la beauté et de la justice. Exposée à Venise en 2022.
+description: Laetitia Ky, artiste abidjanaise, sculpte ses cheveux et les photographie pour parler des femmes, de la beauté et de la justice. Exposée à Venise en 2022.
 summary: Laetitia Ky (née en 1996) est une artiste ivoirienne d'Abidjan qui sculpte ses propres cheveux, avec de la laine, du fil de fer et du fil, en formes — bras, silhouettes, animaux, mots — et photographie le résultat. Ses images, largement diffusées en ligne, parlent de la condition des femmes, de la beauté noire et de justice sociale. Elle a participé au pavillon de la Côte d'Ivoire à la Biennale de Venise 2022.
 ---
 Laetitia Ky est née en 1996 à Abidjan. Elle a dit que ce travail avait commencé comme une manière de renouer avec son héritage africain. Avec ses propres cheveux, de la laine, du fil de fer et du fil, elle les façonne en formes qui commentent le monde : une carte de l'Afrique, une main tenant une guitare, des poings levés, des mots et des slogans.

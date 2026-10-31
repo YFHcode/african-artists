@@ -3,7 +3,7 @@ title: Arte africana contemporânea: artistas, ideias e onde é mostrada
 label: Arte africana contemporânea
 heading: A arte africana contemporânea
 kicker: Guia
-description: O que é a arte africana contemporânea, as exposições e curadores que a levaram ao palco mundial, os artistas a conhecer e os museus, bienais e feiras que a mostram.
+description: O que é a arte africana contemporânea, as exposições e curadores que a levaram ao mundo, os artistas a conhecer e os museus, bienais e feiras.
 summary: A arte africana contemporânea é a arte feita desde cerca dos anos 1990 por artistas de África e da sua diáspora, em todos os meios, da pintura e da fotografia à instalação e ao cinema. Exposições marcantes e curadores como Okwui Enwezor e Koyo Kouoh levaram-na ao centro do mundo da arte; hoje artistas como El Anatsui, Julie Mehretu, Wangechi Mutu, Ibrahim Mahama e Zanele Muholi expõem nos grandes museus do mundo, e a Bienal de Veneza de 2026, In Minor Keys, foi concebida pela curadora de origem camaronesa Koyo Kouoh.
 ---
 ## O que se entende por arte africana contemporânea

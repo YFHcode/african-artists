@@ -3,7 +3,7 @@ title: Cerámica africana: tradiciones, artesanas y Ladi Kwali
 label: Cerámica africana
 heading: Alfarería y cerámica africanas
 kicker: Forma de arte
-description: La cerámica africana, de las primeras vasijas del Sahara a Ladi Kwali y Magdalene Odundo: modelado a mano, cocción al aire libre, jarras zulúes, vidriados marroquíes y ceramistas.
+description: La cerámica africana, de las primeras vasijas del Sahara a Ladi Kwali y Magdalene Odundo: modelado a mano, cocción al aire libre, jarras zulúes.
 summary: África tiene una de las tradiciones cerámicas más antiguas del mundo: la cerámica de Ounjougou, en Malí, tiene unos 11 000 años. En la mayor parte del continente, las vasijas se modelaban a mano —casi siempre por mujeres— y se cocían en hogueras al aire libre y no en hornos, métodos que siguen en uso, mientras que el norte de África desarrolló piezas vidriadas hechas a torno. Ceramistas modernas como la nigeriana Ladi Kwali y Magdalene Odundo, nacida en Kenia, han llevado estas tradiciones a los museos del mundo.
 facts:
   - Cerámica más antigua | Ounjougou, Malí, hacia 9400 a. C.

@@ -1,9 +1,9 @@
 ---
-title: Le bogolan (bogolanfini) : comment se fabrique le tissu de boue du Mali
+title: Le bogolan (bogolanfini) : comment se fabrique le tissu de boue malien
 label: Bogolan
 heading: Le bogolan (bogolanfini)
 kicker: Tradition textile
-description: Le bogolan, ou « tissu de boue », est le coton fait main du Mali, teint aux feuilles et peint à la boue fermentée. Sa fabrication, son sens, et comment reconnaître un vrai.
+description: Le bogolan, ou « tissu de boue », est le coton du Mali teint aux feuilles et peint à la boue fermentée. Sa fabrication, son sens, comment reconnaître un vrai.
 summary: Le bogolan — bogolanfini en bambara — est un tissu de coton fait main au Mali, teint en jaune dans un bain de feuilles puis peint avec une boue fermentée et riche en fer qui noircit là où elle réagit avec la teinture. Traditionnellement fabriqué par les femmes bamanan et porté par les chasseurs et par les femmes aux moments de passage, il est devenu un symbole de l'identité malienne dans les années 1970 et 1980, et il est aujourd'hui connu dans le monde entier grâce à la mode et à la décoration.
 facts:
   - Pays | Mali (peuple bamanan, ou bambara) ; également fabriqué au Burkina Faso

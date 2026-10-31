@@ -3,7 +3,7 @@ title: Farid Belkahia: cuero, alheña y modernismo marroquí
 label: Farid Belkahia
 heading: Farid Belkahia
 kicker: Pintor
-description: Farid Belkahia (1934–2014) dirigió la escuela de arte de Casablanca, pintó con alheña sobre cuero tensado y ayudó a dar al arte moderno marroquí sus propios materiales.
+description: Farid Belkahia (1934–2014) dirigió la escuela de arte de Casablanca, pintó con alheña sobre cuero y dio al arte moderno marroquí sus propios materiales.
 summary: Farid Belkahia (1934–2014) fue un artista marroquí y uno de los fundadores del modernismo marroquí. Como director de la Escuela de Bellas Artes de Casablanca de 1962 a 1974 la convirtió en un centro de experimentación, y desde los años setenta pintó sobre cuero tensado con alheña y pigmentos naturales, con signos tomados de las tradiciones visuales amazigh y árabes.
 facts:
   - Nacimiento | 15 de noviembre de 1934, Marrakech, Marruecos

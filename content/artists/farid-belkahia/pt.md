@@ -3,7 +3,7 @@ title: Farid Belkahia: couro, hena e o modernismo marroquino
 label: Farid Belkahia
 heading: Farid Belkahia
 kicker: Pintor
-description: Farid Belkahia (1934–2014) dirigiu a escola de belas-artes de Casablanca, pintou com hena sobre pele esticada e deu à arte moderna marroquina os seus próprios materiais.
+description: Farid Belkahia (1934–2014) dirigiu a escola de belas-artes de Casablanca, pintou com hena sobre pele e deu à arte moderna marroquina os seus materiais.
 summary: Farid Belkahia (1934–2014) foi um artista marroquino e um dos fundadores do modernismo em Marrocos. Como diretor da Escola de Belas-Artes de Casablanca entre 1962 e 1974, transformou-a num centro de experimentação e, a partir dos anos 1970, pintou sobre pele esticada com hena e pigmentos naturais, usando sinais das tradições visuais amazigh e árabe.
 facts:
   - Nascimento | 15 de novembro de 1934, Marraquexe, Marrocos

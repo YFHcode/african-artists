@@ -3,7 +3,7 @@ title: A Escola de Casablanca: a vanguarda modernista de Marrocos
 label: Escola de Casablanca
 heading: A Escola de Casablanca
 kicker: Movimento artístico
-description: A partir de 1962, Farid Belkahia, Mohamed Melehi e Mohamed Chabâa fizeram da escola de belas-artes de Casablanca um laboratório de arte moderna com raízes marroquinas.
+description: A partir de 1962, Farid Belkahia, Mohamed Melehi e Mohamed Chabâa fizeram da escola de Casablanca um laboratório de arte moderna com raízes marroquinas.
 summary: A Escola de Casablanca é o grupo de artistas e professores que, a partir de 1962, transformou a École des Beaux-Arts de Casablanca sob a direção de Farid Belkahia. Com Mohamed Melehi, Mohamed Chabâa, Toni Maraini e Bert Flint, construíram uma arte moderna marroquina a partir de tapetes, joalharia, madeira pintada, caligrafia e sinais amazigh, e em 1969 levaram-na para as praças públicas.
 facts:
   - Local | École des Beaux-Arts, Casablanca, Marrocos

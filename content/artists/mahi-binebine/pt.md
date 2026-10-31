@@ -3,7 +3,7 @@ title: Mahi Binebine: pintor, escultor e romancista de Marraquexe
 label: Mahi Binebine
 heading: Mahi Binebine
 kicker: Pintor, escultor e romancista
-description: Mahi Binebine, antigo professor de matemática de Marraquexe, pinta figuras mascaradas, esculpe em bronze e escreveu o romance que deu origem ao filme Les Chevaux de Dieu.
+description: Mahi Binebine, antigo professor de matemática de Marraquexe, pinta figuras mascaradas, esculpe em bronze e escreveu o romance do filme Les Chevaux de Dieu.
 summary: Mahi Binebine (nascido em 1959) é um pintor, escultor e romancista marroquino de Marraquexe. Ensinou matemática em Paris antes de se dedicar à arte e à escrita, viveu em Nova Iorque nos anos 1990 e trabalha em Marraquexe desde 2002. Os seus quadros de figuras mascaradas e apinhadas estão em coleções como a do Guggenheim, e o seu romance Les Étoiles de Sidi Moumen deu origem ao filme de Nabil Ayouch Les Chevaux de Dieu (2012).
 facts:
   - Nascimento | 1959, Marraquexe, Marrocos

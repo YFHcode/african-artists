@@ -3,7 +3,7 @@ title: Le mbalax : la pop sénégalaise du sabar et de Youssou N'Dour
 label: Mbalax
 heading: Le mbalax
 kicker: Genre musical
-description: Le mbalax est la pop nationale du Sénégal : les tambours sabar wolof mêlés aux musiques cubaines, à la soul et au rock, rendue célèbre par Youssou N'Dour et le Super Étoile de Dakar.
+description: Le mbalax est la pop nationale du Sénégal : tambours sabar wolof mêlés aux musiques cubaines, à la soul et au rock, popularisée par Youssou N'Dour.
 summary: Le mbalax est la musique de danse populaire du Sénégal, construite sur les rythmes des tambours sabar wolof et du tama, le tambour parlant, associés aux guitares électriques, aux claviers, aux cuivres et aux influences de la musique cubaine, de la soul et du rock. Il prend forme à Dakar dans les années 1970, et Youssou N'Dour, avec son groupe le Super Étoile de Dakar, l'a fait connaître dans le monde entier.
 facts:
   - Origine | Dakar, Sénégal, années 1970

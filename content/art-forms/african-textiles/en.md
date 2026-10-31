@@ -3,7 +3,7 @@ title: African Textiles: Kente, Mudcloth, Adire, Kuba Cloth and Wax Print
 label: African textiles
 heading: African textiles
 kicker: Art form
-description: A guide to African textiles and their patterns: kente, bogolan mudcloth, adire indigo, aso oke, adinkra, Kuba raffia cloth, kanga, shweshwe, barkcloth and wax print.
+description: A guide to African textiles and their patterns: kente, bogolan mudcloth, adire indigo, aso oke, adinkra, Kuba raffia cloth, kanga, shweshwe and wax print.
 summary: Cloth in Africa is wealth, language and art at once. Strip-woven kente and aso oke, Mali's mud-painted bogolan, Yoruba adire indigo, the raffia cloth of the Kuba, East Africa's printed kanga and Uganda's barkcloth each have their own techniques and meanings — and the "African print" wax fabrics sold in every market have a history that runs through the Netherlands and Indonesia.
 facts:
   - Woven | Kente (Ghana), aso oke (Nigeria), Kuba raffia cloth (DR Congo), Ethiopian cotton

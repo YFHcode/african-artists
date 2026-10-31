@@ -1,5 +1,5 @@
 ---
-title: À propos d'AfricanArtists.com : qui nous sommes et comment nous travaillons
+title: À propos d'AfricanArtists.com : qui nous sommes, comment on travaille
 heading: À propos du guide
 description: AfricanArtists.com est un guide indépendant de l'art, des artistes et des musiques d'Afrique, en cinq langues. Comment il est écrit, sourcé et corrigé.
 ---

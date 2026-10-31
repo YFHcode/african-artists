@@ -89,6 +89,8 @@ const pt: Dictionary = {
         count: (n: number) => `${n} artistas`,
         profiles: 'Perfis',
         more: 'Mais artistas',
+        otherWork: 'Mais conhecidos por outra coisa',
+        otherWorkNote: 'Escritores, apresentadores e figuras públicas que a Wikidata também classifica aqui; o perfil explica a ligação.',
         moreNote: 'Primeiro, os mais procurados. Os nomes ligam ao nosso perfil ou, quando ainda não o temos, à Wikipédia.',
         related: 'Listas relacionadas',
         inEnglish: 'Artigo da Wikipédia em inglês',
@@ -120,7 +122,7 @@ const pt: Dictionary = {
     buy: {
         title: 'Comprar AfricanArtists.com — domínio premium à venda',
         description:
-            'AfricanArtists.com está à venda: um .com de duas palavras que nomeia os artistas e músicos de um continente. Faça uma oferta; pagamento e transferência via escrow.',
+            'AfricanArtists.com está à venda: um .com de duas palavras que nomeia os artistas de um continente. Faça uma oferta; pagamento e transferência via escrow.',
         heading: 'AfricanArtists.com está à venda',
         lead: 'Um .com curto e exato para uma das maiores categorias da cultura: os pintores, escultores, fotógrafos, designers e músicos de África e da sua diáspora.',
         status: 'Aberto a ofertas',

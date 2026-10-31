@@ -3,7 +3,7 @@ title: Abalorios africanos: cuentas maasái, zulúes, ndebele, yoruba y krobo
 label: Abalorios africanos
 heading: Los abalorios africanos
 kicker: Forma de arte
-description: Los abalorios africanos, de cuentas de concha de 75 000 años al vidrio veneciano: collares maasái, «cartas de amor» zulúes, delantales ndebele, coronas yoruba y tronos de Camerún.
+description: Los abalorios africanos, de cuentas de concha de 75 000 años al vidrio veneciano: collares maasái, «cartas de amor» zulúes, delantales ndebele, coronas yoruba.
 summary: Las cuentas están entre los adornos más antiguos que ha hecho el ser humano, y algunas de las más antiguas conocidas proceden de África: cuentas de concha de unos 75 000 años halladas en la cueva de Blombos, en Sudáfrica. Las cuentas de vidrio llegadas por el comercio transahariano y del océano Índico, y después de Venecia y Bohemia, se transformaron en artes propias —collares maasái, abalorios zulúes y ndebele, coronas reales yoruba, tronos de cuentas de Camerún—, mientras que los krobo de Ghana fabrican sus propias cuentas de vidrio.
 facts:
   - Cuentas más antiguas | Cuentas de concha de unos 75 000 años, cueva de Blombos, Sudáfrica

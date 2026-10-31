@@ -3,7 +3,7 @@ title: L'art africain contemporain : artistes, idées et lieux d'exposition
 label: Art africain contemporain
 heading: L'art africain contemporain
 kicker: Guide
-description: Ce qu'est l'art africain contemporain, les expositions et commissaires qui l'ont porté sur la scène mondiale, les artistes à connaître, et les musées, biennales et foires.
+description: Ce qu'est l'art africain contemporain, les expositions et commissaires qui l'ont imposé, les artistes à connaître, et les musées, biennales et foires.
 summary: L'art africain contemporain désigne l'art produit depuis les années 1990 environ par des artistes d'Afrique et de sa diaspora, dans tous les médiums, de la peinture et de la photographie à l'installation et au cinéma. Des expositions marquantes et des commissaires comme Okwui Enwezor et Koyo Kouoh l'ont placé au centre du monde de l'art ; des artistes comme El Anatsui, Julie Mehretu, Wangechi Mutu, Ibrahim Mahama et Zanele Muholi exposent aujourd'hui dans les plus grands musées, et la Biennale de Venise 2026, In Minor Keys, a été conçue par la commissaire d'origine camerounaise Koyo Kouoh.
 ---
 ## Ce que recouvre l'« art africain contemporain »

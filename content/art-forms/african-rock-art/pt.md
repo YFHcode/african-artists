@@ -1,5 +1,5 @@
 ---
-title: Arte rupestre africana: o Sara, as pinturas san e os desenhos mais antigos
+title: Arte rupestre africana: o Sara, as pinturas san e os desenhos antigos
 label: Arte rupestre africana
 heading: A arte rupestre africana
 kicker: Forma de arte

@@ -1,5 +1,5 @@
 ---
-title: Afewerk Tekle: el gran pintor de Etiopía y los vitrales del Africa Hall
+title: Afewerk Tekle: gran pintor de Etiopía y los vitrales del Africa Hall
 label: Afewerk Tekle
 heading: Afewerk Tekle
 kicker: Pintor y vidriero

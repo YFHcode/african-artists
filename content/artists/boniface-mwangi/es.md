@@ -3,7 +3,7 @@ title: Boniface Mwangi: fotoperiodista y activista keniano
 label: Boniface Mwangi
 heading: Boniface Mwangi
 kicker: Fotoperiodista y activista
-description: Boniface Mwangi fotografió la violencia poselectoral de 2007-2008 en Kenia, llevó sus imágenes a la calle y se convirtió en uno de los activistas más conocidos del país.
+description: Boniface Mwangi fotografió la violencia poselectoral de 2007-2008 en Kenia, llevó las imágenes a la calle y se convirtió en un activista de primer plano.
 summary: Boniface Mwangi (nacido en 1983) es un fotoperiodista y activista político keniano. Sus fotografías de la violencia que siguió a las elecciones de 2007 en Kenia le valieron dos veces el premio CNN MultiChoice al fotoperiodista africano del año. Llevó las imágenes a la calle en una exposición itinerante, fundó el espacio creativo PAWA254 y se volcó en el activismo y la política.
 ---
 Boniface Mwangi nació en 1983 y creció en Nairobi. Llegó a ser fotógrafo de plantilla de *The Standard*, uno de los principales diarios de Kenia.

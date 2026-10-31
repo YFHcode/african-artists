@@ -3,7 +3,7 @@ title: Wangechi Mutu : collage, sculpture et la façade du Met
 label: Wangechi Mutu
 heading: Wangechi Mutu
 kicker: Artiste
-description: L'artiste kényane Wangechi Mutu crée des figures hybrides en collage, en bronze et en terre. De Nairobi à la toute première commande pour la façade du Met en 2019.
+description: L'artiste kényane Wangechi Mutu crée des figures hybrides en collage, en bronze et en terre, de Nairobi à la première commande pour la façade du Met en 2019.
 summary: Wangechi Mutu est une artiste kényane née à Nairobi en 1972, qui travaille entre Nairobi et New York. Connue d'abord pour ses collages de figures féminines hybrides, puis aussi pour sa sculpture, elle a réalisé en 2019 les premières sculptures jamais installées dans les niches de la façade du Metropolitan Museum of Art.
 facts:
   - Naissance | 22 juin 1972, Nairobi, Kenya

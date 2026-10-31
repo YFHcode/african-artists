@@ -1,9 +1,9 @@
 ---
-title: W. E. B. Du Bois et la photographie : l'exposition de Paris 1900, le Ghana
+title: W. E. B. Du Bois et la photographie : l'exposition de 1900 et le Ghana
 label: W. E. B. Du Bois
 heading: W. E. B. Du Bois
 kicker: Sociologue et passeur d'images
-description: W. E. B. Du Bois, figure des droits civiques mort citoyen ghanéen, a fait de la photographie un argument : son exposition de Paris 1900, des centaines de portraits d'Afro-Américains.
+description: W. E. B. Du Bois, figure des droits civiques mort citoyen ghanéen, a fait de la photographie un argument dans son exposition de Paris en 1900.
 summary: W. E. B. Du Bois (1868-1963) était un sociologue, historien et militant américain des droits civiques, cofondateur de la NAACP et l'un des penseurs noirs les plus influents du XXe siècle. Il figure sur ce site pour deux raisons : son usage pionnier de la photographie dans l'Exhibit of American Negroes, à l'Exposition universelle de Paris en 1900, et ses dernières années au Ghana, dont il est devenu citoyen et où il est mort en 1963.
 facts:
   - Naissance | 23 février 1868, Great Barrington, Massachusetts, États-Unis

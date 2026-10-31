@@ -1,8 +1,8 @@
 ---
-title: Artistes congolais (RDC) : Chéri Samba, Bodys Isek Kingelez, Sammy Baloji
+title: Artistes congolais (RDC) : Chéri Samba, Kingelez, Sammy Baloji…
 label: Artistes congolais
 heading: Artistes congolais
-description: Les artistes de la République démocratique du Congo, de Chéri Samba, Moké et Chéri Chérin à Bodys Isek Kingelez, Sammy Baloji et Freddy Tsimba, les plus recherchés d'abord.
+description: Les artistes de RD Congo, de Chéri Samba, Moké et Chéri Chérin à Bodys Isek Kingelez, Sammy Baloji et Freddy Tsimba.
 ---
 Le bassin du Congo a produit certaines des sculptures les plus célèbres d'Afrique : figures de pouvoir kongo, masques pende, luba et songye, textiles et portraits royaux du royaume kuba. L'art congolais moderne naît pendant la période coloniale avec des pionniers comme Antoinette Lubaki, qui peint des aquarelles dans les années 1920, et Pilipili Mulongoy, de l'atelier du Hangar à Lubumbashi.
 

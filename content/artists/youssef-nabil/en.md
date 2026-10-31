@@ -1,9 +1,9 @@
 ---
-title: Youssef Nabil: Hand-Coloured Photographs of Egypt's Golden Age of Cinema
+title: Youssef Nabil: Hand-Coloured Photographs of Egypt's Golden Cinema Age
 label: Youssef Nabil
 heading: Youssef Nabil
 kicker: Photographer and filmmaker
-description: Youssef Nabil hand-colours his black-and-white photographs in the style of old Egyptian cinema posters and studio portraits, and portrays stars, artists and himself.
+description: Youssef Nabil hand-colours black-and-white photographs in the style of old Egyptian film posters and studio portraits, portraying stars, artists and himself.
 summary: Youssef Nabil (born 1972) is an Egyptian photographer and filmmaker who hand-colours his black-and-white prints in the manner of the studio portraits and film posters of mid-century Egypt. His portraits of film stars, artists and friends, and his self-portraits, are about memory, exile, desire and a vanishing Egyptian cinema.
 ---
 Youssef Nabil was born in Cairo in 1972 and grew up watching the black-and-white melodramas of Egyptian cinema's golden age. As a young photographer he assisted the fashion photographers David LaChapelle in New York (1993–94, according to one biography) and Mario Testino (1997–98, in New York and then Paris), before developing his own technique. His first solo show was in Cairo in 1999, and in 2001 the British artist Tracey Emin saw his work there and helped bring it to wider notice.

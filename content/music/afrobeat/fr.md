@@ -3,7 +3,7 @@ title: L'afrobeat : le son de Fela Kuti, et ce qui le distingue des afrobeats
 label: Afrobeat
 heading: L'afrobeat
 kicker: Genre musical
-description: L'afrobeat est la musique longue, politique et cuivrée créée par Fela Kuti et Tony Allen dans le Lagos des années 1970. Son son, son histoire et sa différence avec les afrobeats.
+description: L'afrobeat est la musique longue, politique et cuivrée de Fela Kuti et Tony Allen, née à Lagos dans les années 1970. Son histoire, et ce qui le distingue.
 summary: L'afrobeat est la musique créée à Lagos à la fin des années 1960 et dans les années 1970 par Fela Anikulapo Kuti et le batteur Tony Allen. Il fusionne rythmes yoruba, highlife, jazz et funk de James Brown en longs grooves hypnotiques portés par les cuivres, avec des textes résolument politiques. Ce n'est pas la même chose que les afrobeats, la pop du XXIe siècle.
 facts:
   - Origine | Lagos, Nigeria, fin des années 1960–années 1970

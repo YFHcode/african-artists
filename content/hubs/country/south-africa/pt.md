@@ -2,7 +2,7 @@
 title: Artistas sul-africanos: pintores, escultores e fotógrafos famosos
 label: Artistas sul-africanos
 heading: Artistas sul-africanos
-description: Os artistas sul-africanos, de Irma Stern e Gerard Sekoto a William Kentridge, Marlene Dumas, Esther Mahlangu e Zanele Muholi: perfis e uma lista de mais de 200 nomes.
+description: Os artistas sul-africanos, de Irma Stern e Gerard Sekoto a William Kentridge, Marlene Dumas, Esther Mahlangu e Zanele Muholi: perfis e mais de 200 nomes.
 ---
 A África do Sul tem uma das histórias da arte mais ricas do continente e uma das suas cenas contemporâneas mais fortes. A sua arte mais antiga é a pintura rupestre dos san e dos seus antepassados; o ouro de Mapungubwe, as casas pintadas e as missangas dos ndebele, que Esther Mahlangu levou ao mundo, pertencem à mesma longa história. No século XX, pintores como Irma Stern, J. H. Pierneef, Gerard Sekoto, George Pemba e Ernest Mancoba fizeram o modernismo sul-africano, enquanto centros de arte como Polly Street e Rorke's Drift formavam artistas negros excluídos das escolas de arte.
 

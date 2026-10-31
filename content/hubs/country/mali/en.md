@@ -2,7 +2,7 @@
 title: Malian Artists: Seydou Keïta, Malick Sidibé and Abdoulaye Konaté
 label: Malian artists
 heading: Malian artists
-description: Malian artists from the studio photographers Seydou Keïta and Malick Sidibé to the textile artist Abdoulaye Konaté, the bogolan painter Nakunte Diarra and Fatoumata Diabaté.
+description: Malian artists from the studio photographers Seydou Keïta and Malick Sidibé to Abdoulaye Konaté, the bogolan painter Nakunte Diarra and Fatoumata Diabaté.
 ---
 Mali's art history includes the terracotta figures of the Inland Niger Delta around Djenné, the sculpture of the Dogon and Bamana, and textiles such as [bògòlanfini](/art-forms/mudcloth), the mud-dyed cloth of the Bamana that women like Nakunte Diarra raised to a fine art. The great mud mosques of Djenné and Timbuktu are among Africa's most famous buildings.
 

@@ -3,7 +3,7 @@ title: Inji Aflatoun: a pintora que pintou as companheiras presas
 label: Inji Aflatoun
 heading: Inji Aflatoun
 kicker: Pintora e ativista
-description: Inji Aflatoun (Efflatoun), surrealista, comunista e feminista, esteve presa de 1959 a 1963 e pintou as mulheres encarceradas com ela: as suas obras mais conhecidas.
+description: Inji Aflatoun (Efflatoun), surrealista, comunista e feminista, esteve presa de 1959 a 1963 e pintou as mulheres encarceradas com ela, as suas obras maiores.
 summary: Inji Aflatoun (1924-1989), cujo nome também se escreve Efflatoun, foi uma pintora egípcia e uma ativista marxista e feminista. Aluna do surrealista Kamel El-Telmissany, expôs ainda adolescente com o grupo Arte e Liberdade e depois dedicou-se à política e a pintar a vida dos camponeses e operários egípcios. Presa de 1959 a 1963 pela sua atividade comunista, pintou as mulheres da sua prisão; estas obras são consideradas as melhores que fez. As paisagens posteriores estão cheias de luz branca.
 facts:
   - Nascimento | 1924, Cairo, Egito

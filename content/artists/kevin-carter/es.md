@@ -3,7 +3,7 @@ title: Kevin Carter: el fotógrafo del niño y el buitre (1960-1994)
 label: Kevin Carter
 heading: Kevin Carter
 kicker: Fotoperiodista
-description: Kevin Carter cubrió la guerra de los townships sudafricanos y tomó en 1993, en Sudán, la foto del niño y el buitre que ganó el Pulitzer. Su vida, su obra y el debate que abrió.
+description: Kevin Carter cubrió la guerra de los townships y tomó en 1993, en Sudán, la foto del niño y el buitre que ganó el Pulitzer. Su vida, su obra y el debate.
 summary: Kevin Carter (1960-1994) fue un fotoperiodista sudafricano, miembro del Bang-Bang Club, los cuatro fotógrafos que cubrieron la violencia en los townships de Sudáfrica en los últimos años del apartheid. Su fotografía de un niño hambriento y un buitre, tomada en Sudán en 1993, ganó el premio Pulitzer de Fotografía de Reportaje en 1994 y sigue siendo una de las imágenes periodísticas más debatidas de la historia. Murió en julio de 1994, a los 33 años.
 facts:
   - Nacimiento | 13 de septiembre de 1960, Johannesburgo, Sudáfrica

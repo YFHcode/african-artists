@@ -3,7 +3,7 @@ title: O kente: história, significado e cores do pano tecido do Gana
 label: Kente
 heading: O kente
 kicker: Tradição têxtil
-description: O kente é o pano tecido em tiras pelos tecelões axantes e ewe do Gana. Como é feito, o que significam as cores e os nomes dos padrões, e o reconhecimento da UNESCO em 2024.
+description: O kente é o pano tecido em tiras pelos tecelões axantes e ewe do Gana: como é feito, o que significam cores e padrões, e o reconhecimento da UNESCO.
 summary: O kente é um pano tecido à mão no Gana por tecelões axantes e ewe, com tiras estreitas de seda, algodão ou raiom tecidas em teares horizontais de pedais e cosidas lado a lado. Outrora pano de prestígio de chefes e da realeza, tornou-se símbolo da independência do Gana e da herança africana em todo o mundo, e em dezembro de 2024 a UNESCO inscreveu o saber-fazer do kente na sua lista do património cultural imaterial da humanidade.
 facts:
   - País | Gana; panos aparentados são tecidos no Togo e na Costa do Marfim

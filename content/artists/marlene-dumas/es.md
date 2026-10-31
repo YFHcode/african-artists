@@ -3,7 +3,7 @@ title: Marlene Dumas: la pintora de origen sudafricano de rostros y cuerpos
 label: Marlene Dumas
 heading: Marlene Dumas
 kicker: Pintora
-description: Marlene Dumas, nacida en Ciudad del Cabo y afincada en Ámsterdam desde 1976, pinta rostros y cuerpos a partir de fotografías: una de las pintoras vivas más influyentes.
+description: Marlene Dumas, nacida en Ciudad del Cabo y en Ámsterdam desde 1976, pinta rostros y cuerpos a partir de fotografías. Una pintora clave de nuestro tiempo.
 summary: Marlene Dumas (1953) es una pintora de origen sudafricano que vive en Ámsterdam desde 1976. Trabaja a partir de fotografías —imágenes de prensa, fotogramas de películas, pornografía, polaroids de amigos— y pinta rostros y cuerpos con aguadas fluidas de tinta y óleo; su obra sobre la raza, la sexualidad, la violencia, el amor y la muerte la ha convertido en una de las pintoras vivas más influyentes.
 facts:
   - Nacimiento | 3 de agosto de 1953, Ciudad del Cabo, Sudáfrica

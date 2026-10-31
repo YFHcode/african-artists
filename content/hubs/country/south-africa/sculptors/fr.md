@@ -2,7 +2,7 @@
 title: Sculpteurs sud-africains : monuments, résistance et art contemporain
 label: Sculpteurs sud-africains
 heading: Sculpteurs sud-africains
-description: Les sculpteurs sud-africains, des monuments d'Anton van Wouw et Coert Steynberg à Dumile Feni, aux Butcher Boys de Jane Alexander, à Mary Sibande et Nandipha Mntambo.
+description: Les sculpteurs sud-africains, des monuments d'Anton van Wouw et Coert Steynberg à Dumile Feni, aux Butcher Boys de Jane Alexander et à Mary Sibande.
 ---
 La sculpture sud-africaine est longtemps restée liée au pouvoir et à la mémoire. Dans la première moitié du XXe siècle, des sculpteurs comme Anton van Wouw et Coert Steynberg ont réalisé les présidents, généraux et pionniers en bronze qui peuplaient places et monuments, dont beaucoup célébraient le récit afrikaner sur lequel l'apartheid s'est construit. Les figures en bois sculpté d'Ernest Mancoba dans les années 1920 et 1930, et le travail des artistes formés dans des centres comme Polly Street et Rorke's Drift, offraient une autre tradition.
 

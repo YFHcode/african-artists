@@ -1,9 +1,9 @@
 ---
-title: J. H. Pierneef: South Africa's Landscape Painter and the Station Panels
+title: J. H. Pierneef: South African Landscape Painter and the Station Panels
 label: J. H. Pierneef
 heading: J. H. Pierneef
 kicker: Painter
-description: J. H. Pierneef painted South Africa's highveld in ordered, geometric landscapes, above all the 32 Johannesburg Station Panels (1929–32). Celebrated, and now read in political context.
+description: J. H. Pierneef painted the highveld in ordered, geometric landscapes, above all the 32 Johannesburg Station Panels (1929–32), now read in political context.
 summary: Jacobus Hendrik Pierneef (1886–1957) was South Africa's best-known landscape painter. His clear, geometric, carefully ordered views of the highveld, mountains and trees — above all the 32 Johannesburg Station Panels painted in 1929–32 — defined how a generation saw the South African landscape. Long celebrated, his work is now also discussed for the empty, unpeopled land it shows in the age of Afrikaner nationalism.
 ---
 J. H. Pierneef was born in Pretoria in 1886 to a family of Dutch origin; his father was a Dutch immigrant. In 1900, during the South African War, the family moved to the Netherlands, where he studied at the Rotterdam Art Academy; he afterwards returned and worked in Pretoria. By the 1920s he had developed his own style: simplified, monumental landscapes built from flat planes, with clear outlines and a strong sense of design, influenced by his studies of art and architecture.

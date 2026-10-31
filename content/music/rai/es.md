@@ -3,7 +3,7 @@ title: Raï: la canción popular rebelde de Argelia, de Orán al mundo
 label: Raï
 heading: Raï
 kicker: Género musical
-description: El raï nació como canción rural en torno a Orán, se convirtió en el pop de Cheb Khaled y Cheb Mami, y la UNESCO lo inscribió en 2022 como canción popular de Argelia.
+description: El raï nació como canción rural en torno a Orán, se volvió el pop de Cheb Khaled y Cheb Mami, y la UNESCO lo inscribió en 2022 como canción popular argelina.
 summary: El raï es una tradición de canción popular del oeste de Argelia, con centro en la ciudad de Orán. Empezó como canción rural interpretada por cheikhs y cheikhates en árabe dialectal, rompió tabúes sociales sobre el amor, el alcohol y la libertad, se convirtió en pop eléctrico en los años ochenta con cantantes como Cheb Khaled y Cheb Mami, y la UNESCO lo inscribió como patrimonio cultural inmaterial de la humanidad en diciembre de 2022.
 facts:
   - Origen | Región de Orán, oeste de Argelia, principios del siglo XX

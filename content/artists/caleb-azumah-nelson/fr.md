@@ -3,7 +3,7 @@ title: Caleb Azumah Nelson : romancier et photographe du sud-est de Londres
 label: Caleb Azumah Nelson
 heading: Caleb Azumah Nelson
 kicker: Écrivain et photographe
-description: Caleb Azumah Nelson, écrivain et photographe britannique d'origine ghanéenne, a reçu le Costa du premier roman pour Open Water (2021), dont le narrateur est photographe à Londres.
+description: Caleb Azumah Nelson, écrivain et photographe britannique d'origine ghanéenne, a reçu le Costa du premier roman pour Open Water (2021), narré par un photographe.
 summary: Caleb Azumah Nelson (né en 1993) est un écrivain et photographe britannique d'origine ghanéenne, originaire du sud-est de Londres. Son premier roman, Open Water (2021), l'histoire d'amour de deux jeunes artistes noirs — le narrateur est photographe —, a reçu le prix Costa du premier roman. La photographie traverse son écriture autant que son propre travail avec l'appareil.
 ---
 Caleb Azumah Nelson est né en 1993 et a grandi dans le sud-est de Londres, dans une famille d'origine ghanéenne. Il a étudié les sciences du sport et de l'exercice à l'Université de Coventry, et s'est mis à faire à la fois des photographies et de l'écriture, trouvant dans chacune une façon de consigner avec tendresse la vie des Noirs à Londres.

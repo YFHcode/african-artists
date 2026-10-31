@@ -1,9 +1,9 @@
 ---
-title: Arte da África Ocidental: máscaras, bronzes, têxteis e mestres modernos
+title: Arte da África Ocidental: máscaras, bronzes, têxteis, modernos
 label: África Ocidental
 heading: Arte da África Ocidental
 kicker: Região
-description: A arte da África Ocidental: terracotas de Nok, bronzes de Ifé e do Benim, máscaras dogon, dan e iorubás, kente, adinkra e bogolan, arquitetura do Sahel, fotografia e modernistas.
+description: A arte da África Ocidental: terracotas de Nok, bronzes de Ifé e do Benim, máscaras dogon, dan e iorubás, kente e bogolan, arquitetura do Sahel.
 summary: A África Ocidental — do Senegal e do Mali à Nigéria e a Cabo Verde — é a casa de muitas das tradições em que as pessoas pensam quando pensam em arte africana: as terracotas de Nok, os bronzes de Ifé e do Benim, as máscaras dos dogon, bamana, dan, baulé e iorubás, e panos como o kente, o adinkra e o bogolan. No século XX produziu as escolas modernistas de Zaria, Oshogbo e Dacar, a fotografia de estúdio de Bamaco, o highlife e o afrobeat.
 facts:
   - Países | Senegal, Mali, Burkina Faso, Costa do Marfim, Gana, Togo, Benim, Nigéria, Cabo Verde e vizinhos

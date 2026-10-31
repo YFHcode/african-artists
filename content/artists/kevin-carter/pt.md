@@ -3,7 +3,7 @@ title: Kevin Carter: o fotógrafo da criança e do abutre (1960-1994)
 label: Kevin Carter
 heading: Kevin Carter
 kicker: Fotojornalista
-description: Kevin Carter cobriu a guerra dos townships sul-africanos e fez em 1993, no Sudão, a fotografia da criança e do abutre que ganhou o Pulitzer. A sua vida, a sua obra e o debate que abriu.
+description: Kevin Carter cobriu a guerra dos townships e fez em 1993, no Sudão, a fotografia da criança e do abutre que ganhou o Pulitzer. A vida, a obra e o debate.
 summary: Kevin Carter (1960-1994) foi um fotojornalista sul-africano, membro do Bang-Bang Club, os quatro fotógrafos que cobriram a violência nos townships da África do Sul nos últimos anos do apartheid. A sua fotografia de uma criança faminta e de um abutre, feita no Sudão em 1993, ganhou o Prémio Pulitzer de Fotografia de Reportagem em 1994 e continua a ser uma das imagens de imprensa mais discutidas de sempre. Morreu em julho de 1994, aos 33 anos.
 facts:
   - Nascimento | 13 de setembro de 1960, Joanesburgo, África do Sul

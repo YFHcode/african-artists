@@ -3,7 +3,7 @@ title: Amon Kotei: o artista que desenhou o brasão do Gana
 label: Amon Kotei
 heading: Amon Kotei
 kicker: Pintor, escultor e designer
-description: Amon Kotei, pintor, escultor, topógrafo e músico ganês, desenhou o brasão de armas do Gana, aprovado em 1957. Foi distinguido pelo Estado e morreu em 2011, aos 96 anos.
+description: Amon Kotei, pintor, escultor, topógrafo e músico ganês, desenhou o brasão de armas do Gana, aprovado em 1957. Morreu em 2011, aos 96 anos.
 summary: Amon Kotei (1915-2011) foi um artista ganês — pintor, escultor, designer gráfico e músico, topógrafo de formação — mais conhecido como o autor do brasão de armas do Gana, aprovado em março de 1957, o mês em que o país se tornou independente. Recebeu uma condecoração do Estado pelo desenho em 1997 e morreu em 2011, aos 96 anos.
 ---
 Amon Kotei nasceu a 24 de maio de 1915 em La (Labadi), perto de Acra, então na colónia da Costa do Ouro. Formou-se como agrimensor e desenhador e trabalhou como cartógrafo e artista gráfico, ao mesmo tempo que pintava, esculpia e tocava música. Durante a Segunda Guerra Mundial serviu na Royal West African Frontier Force e trabalhou na divisão cartográfica do exército, desenhando mapas e plantas para os soldados na frente.

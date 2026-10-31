@@ -3,7 +3,7 @@ title: Romuald Hazoumè: las máscaras de bidón y La Bouche du Roi
 label: Romuald Hazoumè
 heading: Romuald Hazoumè
 kicker: Artista
-description: Romuald Hazoumè, de Porto Novo, convierte bidones de plástico de gasolina en máscaras y construyó La Bouche du Roi, un barco negrero de 304 máscaras que hoy es del British Museum.
+description: Romuald Hazoumè, de Porto Novo, convierte bidones de plástico en máscaras y creó La Bouche du Roi, un barco negrero de 304 máscaras del British Museum.
 summary: Romuald Hazoumè (nacido en 1962) es un artista beninés de Porto Novo. Desde los años ochenta hace «máscaras» con los bidones de plástico que se usan en todo Benín para llevar agua y gasolina de contrabando, convirtiendo un objeto barato en rostros llenos de carácter y en un comentario sobre el consumo, el comercio y la explotación. Su instalación La Bouche du Roi, un barco negrero hecho con 304 máscaras, fue adquirida por el British Museum en 2007. Trabaja en escultura, instalación, pintura y fotografía.
 ---
 Romuald Hazoumè nació en Porto-Novo, capital de Benín, en 1962, en una familia yoruba. Empezó a hacer máscaras con bidones de plástico desechados a mediados de los años ochenta. En Benín estos recipientes están por todas partes: sirven para llevar agua, aceite y, sobre todo, gasolina de contrabando desde Nigeria en motos cargadas de bidones.

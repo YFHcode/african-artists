@@ -3,7 +3,7 @@ title: Mahmoud Saïd : le juge devenu maître de la peinture égyptienne
 label: Mahmoud Saïd
 heading: Mahmoud Saïd
 kicker: Peintre
-description: Mahmoud Saïd (1897–1964) a quitté la magistrature pour peindre le peuple et la lumière d'Égypte. Ses Chadoufs ont établi en 2010 un record pour un artiste arabe.
+description: Mahmoud Saïd (1897–1964) quitta la magistrature pour peindre le peuple et la lumière d'Égypte. Ses Chadoufs ont battu en 2010 un record pour un artiste arabe.
 summary: Mahmoud Saïd (1897–1964) était un peintre égyptien issu d'une famille aristocratique d'Alexandrie, qui a exercé comme juriste puis juge pendant des décennies avant de se consacrer entièrement à l'art en 1947. Fondateur de la peinture égyptienne moderne, il est connu pour ses figures monumentales et lumineuses de femmes, de travailleurs et de paysages égyptiens ; son tableau de 1929 *Les Derviches tourneurs* s'est vendu 2,55 millions de dollars chez Christie's Dubaï en octobre 2010, alors le prix le plus élevé jamais payé pour une peinture du Moyen-Orient.
 facts:
   - Naissance | 8 avril 1897, Alexandrie, Égypte

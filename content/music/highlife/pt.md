@@ -3,7 +3,7 @@ title: Highlife: o primeiro grande pop do Gana e da Nigéria
 label: Highlife
 heading: Highlife
 kicker: Género musical
-description: O highlife nasceu das orquestras de dança e dos guitarristas «palm-wine» do Gana e tornou-se o primeiro grande pop da África Ocidental. E.T. Mensah, os estilos e os herdeiros.
+description: O highlife nasceu das orquestras de dança e dos guitarristas «palm-wine» do Gana: o primeiro grande pop da África Ocidental. E.T. Mensah e os herdeiros.
 summary: O highlife é uma família de estilos de música popular que nasceu no Gana no início do século XX, combinando ritmos e melodias locais com influências de bandas de metais, jazz, Caraíbas e América Latina. Líderes de orquestra como E.T. Mensah, «o Rei do Highlife», espalharam-no pela África Ocidental a partir dos anos 1950, e é antepassado direto tanto do afrobeat como do afrobeats.
 facts:
   - Origem | Costa do Ouro (Gana), início do século XX

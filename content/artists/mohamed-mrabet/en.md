@@ -1,5 +1,5 @@
 ---
-title: Mohamed Mrabet: Tangier Storyteller and Painter, Translated by Paul Bowles
+title: Mohamed Mrabet: Tangier Storyteller and Painter, with Paul Bowles
 label: Mohamed Mrabet
 heading: Mohamed Mrabet
 kicker: Storyteller and painter

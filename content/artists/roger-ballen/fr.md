@@ -1,5 +1,5 @@
 ---
-title: Roger Ballen : les intérieurs étranges d'un photographe de Johannesburg
+title: Roger Ballen : les intérieurs étranges d'un photographe sud-africain
 label: Roger Ballen
 heading: Roger Ballen
 kicker: Photographe

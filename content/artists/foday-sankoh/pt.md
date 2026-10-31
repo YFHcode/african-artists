@@ -3,7 +3,7 @@ title: Foday Sankoh: da fotografia à chefia da RUF na Serra Leoa
 label: Foday Sankoh
 heading: Foday Sankoh
 kicker: Fotógrafo que se tornou chefe rebelde
-description: Foday Sankoh foi fotógrafo de casamentos e operador de câmara antes de fundar a RUF, cuja guerra na Serra Leoa ficou marcada por atrocidades em massa. Morreu à espera de julgamento.
+description: Foday Sankoh foi fotógrafo de casamentos e cameraman antes de fundar a RUF, cuja guerra na Serra Leoa foi marcada por atrocidades. Morreu antes de ser julgado.
 summary: Foday Sankoh (1937-2003) foi um cabo do exército da Serra Leoa que trabalhou como fotógrafo itinerante, fotógrafo de casamentos e operador de câmara de televisão antes de fundar a Frente Revolucionária Unida (RUF). A guerra da RUF contra o governo da Serra Leoa, de 1991 a 2002, ficou marcada por massacres, amputações, violações e o recrutamento de crianças-soldado. Acusado de crimes de guerra e crimes contra a humanidade, Sankoh morreu sob custódia em 2003, antes do julgamento.
 facts:
   - Nascimento | 1937, Serra Leoa

@@ -3,7 +3,7 @@ title: Contemporary African Art: Artists, Ideas and Where It Is Shown
 label: Contemporary African art
 heading: Contemporary African art
 kicker: Guide
-description: What contemporary African art is, the exhibitions and curators that put it on the world stage, the artists to know today, and the museums, biennales and fairs that show it.
+description: What contemporary African art is, the exhibitions and curators that put it on the world stage, the artists to know, and the museums and fairs that show it.
 summary: Contemporary African art is the art made since roughly the 1990s by artists from Africa and its diaspora, in every medium from painting and photography to installation and film. Landmark exhibitions and curators such as Okwui Enwezor and Koyo Kouoh brought it to the centre of the art world; today artists such as El Anatsui, Julie Mehretu, Wangechi Mutu, Ibrahim Mahama and Zanele Muholi show in the world's major museums, and the 2026 Venice Biennale, In Minor Keys, was conceived by the Cameroonian-born curator Koyo Kouoh.
 ---
 ## What counts as contemporary African art

@@ -3,7 +3,7 @@ title: La peinture populaire congolaise : l'art de la rue à Kinshasa
 label: Peinture populaire congolaise
 heading: La peinture populaire congolaise
 kicker: Mouvement artistique
-description: Dès les années 1970, des peintres kinois autodidactes comme Chéri Samba, Moké et Chéri Chérin ont peint la vie, les scandales et l'histoire de la ville avec les codes de l'affiche.
+description: Dès les années 1970, des peintres kinois autodidactes comme Chéri Samba, Moké et Chéri Chérin ont peint la vie et les scandales de la ville, façon affiche.
 summary: La peinture populaire congolaise est l'œuvre d'artistes kinois, en grande partie autodidactes, qui depuis le début des années 1970 peignent la vie, l'humour, la politique et l'histoire de la ville pour une clientèle locale. Fondée par Chéri Samba, Moké, Chéri Chérin et Pierre Bodo, elle emprunte à l'affiche et à la bande dessinée — contours appuyés, couleurs vives, légendes écrites — et a gagné les collections internationales à partir de la fin des années 1980.
 facts:
   - Lieu | Kinshasa, République démocratique du Congo (alors Zaïre)

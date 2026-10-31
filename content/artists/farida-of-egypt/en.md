@@ -3,7 +3,7 @@ title: Queen Farida of Egypt, Painter: From the Palace to the Easel
 label: Farida of Egypt
 heading: Farida of Egypt
 kicker: Queen and painter
-description: Queen Farida, King Farouk's first wife, became a painter after her divorce. Encouraged by her uncle Mahmoud Saïd, she exhibited in several countries; Mathaf holds her work.
+description: Queen Farida, King Farouk's first wife, became a painter after her divorce, encouraged by her uncle Mahmoud Saïd. She exhibited widely; Mathaf holds her work.
 summary: Farida of Egypt (1921–1988), born Safinaz Zulficar, was queen of Egypt as the first wife of King Farouk from 1938 to 1948. She is remembered mostly as a queen, but after her divorce she became a painter, encouraged by her uncle, the painter Mahmoud Saïd. After living abroad in Lebanon and Europe and later in Cairo, she painted landscapes and visionary work and exhibited in several countries, including Egypt.
 facts:
   - Born | 1921, Alexandria, Egypt

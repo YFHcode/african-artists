@@ -1,9 +1,9 @@
 ---
-title: Otobong Nkanga: Land, Minerals and the Body in Tapestry and Installation
+title: Otobong Nkanga: Land, Minerals and the Body in Tapestry and Space
 label: Otobong Nkanga
 heading: Otobong Nkanga
 kicker: Artist
-description: Otobong Nkanga, a Nigerian-born artist based in Antwerp, makes tapestries, installations and performances about land, mining, trade and the body — from documenta 14 to Venice.
+description: Otobong Nkanga, a Nigerian-born artist in Antwerp, makes tapestries, installations and performances about land, mining, trade and the body.
 summary: Otobong Nkanga (born 1974) is a Nigerian-born artist based in Antwerp. Through drawing, tapestry, installation, photography and performance, she explores how land and its minerals are extracted, traded and consumed, and how that economy marks bodies and landscapes. She received a Special Mention at the 2019 Venice Biennale, and her work has been shown in major museums worldwide.
 facts:
   - Born | 1974, Kano, Nigeria

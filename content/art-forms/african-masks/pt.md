@@ -3,7 +3,7 @@ title: Máscaras africanas: tipos, significados e os povos que as fazem
 label: Máscaras africanas
 heading: As máscaras africanas
 kicker: Forma de arte
-description: Para que servem as máscaras africanas, como vivem na mascarada e quais os tipos mais conhecidos — dos dogon, bamana, dan e baulé aos gelede, punu, tchokwe e kuba.
+description: Para que servem as máscaras africanas, como vivem na mascarada e os tipos mais conhecidos: dogon, bamana, dan, baulé, gelede, punu, tchokwe e kuba.
 summary: Nas sociedades africanas que as criam, uma máscara raramente é um objeto isolado. Faz parte de uma mascarada: é usada com um traje completo, ganha vida com a música e a dança, e traz à comunidade um espírito, um antepassado ou uma ideia durante uma cerimónia. As máscaras surgem em iniciações, funerais, colheitas e festas, e as tradições mais conhecidas vêm da África Ocidental e Central.
 facts:
   - Regiões principais | África Ocidental e Central, com tradições na África Oriental e Austral

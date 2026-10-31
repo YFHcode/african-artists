@@ -1,9 +1,9 @@
 ---
-title: Nzante Spee: pintor camaronês e fundador de um centro de arte em Bamenda
+title: Nzante Spee: pintor camaronês e fundador de um centro de arte
 label: Nzante Spee
 heading: Nzante Spee
 kicker: Pintor
-description: Nzante Spee pintou cenas oníricas e apinhadas que misturam cubismo, surrealismo e caricatura, e fundou em Bamenda um centro de arte que formou uma geração de pintores.
+description: Nzante Spee pintou cenas oníricas que misturam cubismo, surrealismo e caricatura, e fundou em Bamenda um centro de arte que formou uma geração de pintores.
 summary: Nzante Spee (1953-2005) foi um pintor camaronês da região do Noroeste. Depois de se formar na Nigéria e na Costa do Marfim, voltou a Bamenda e fundou o Spee Art Centre, um dos primeiros centros de arte da região, onde formou artistas mais novos como Angu Walters. Os seus quadros misturam cubismo, surrealismo e caricatura ingénua em cenas apinhadas e oníricas a que chamava a «melting age». Morreu na Califórnia em 2005.
 ---
 Sunday Nzante Spee nasceu em 1953 em Mbem, nas terras altas do noroeste dos Camarões. Concluiu o secundário no Baptist Missionary College, em Bamenda, e de 1976 a 1979 estudou belas-artes na Nigéria, prosseguindo depois em Abidjã, na Costa do Marfim, até 1982, numa altura em que os Camarões tinham pouco ensino artístico formal. Em 1984 ganhou o Prémio Bastos, atribuído à melhor pintura do ano nos Camarões.

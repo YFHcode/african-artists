@@ -3,7 +3,7 @@ title: Les afrobeats : comment la pop ouest-africaine a conquis le monde
 label: Afrobeats
 heading: Les afrobeats
 kicker: Genre musical
-description: Les afrobeats sont la pop du XXIe siècle venue du Nigeria et du Ghana, de D'banj et Wizkid à Burna Boy, Tems et Rema. D'où vient le nom et comment le son est devenu mondial.
+description: Les afrobeats, pop du XXIe siècle du Nigeria et du Ghana, de D'banj et Wizkid à Burna Boy, Tems et Rema. D'où vient le nom, comment le son s'est mondialisé.
 summary: « Afrobeats » est le nom générique des musiques populaires venues du Nigeria et du Ghana depuis les années 2000 — un mélange de rythmes et de mélodies ouest-africains avec le hip-hop, le dancehall, le R&B et la production électronique. Le terme a été popularisé en 2011 par le DJ ghanéen installé au Royaume-Uni DJ Abrantee, et ce son a depuis conquis les classements du monde entier avec Wizkid, Davido, Burna Boy, Tems ou Rema.
 facts:
   - Origine | Nigeria et Ghana, années 2000 ; nommé au Royaume-Uni en 2011

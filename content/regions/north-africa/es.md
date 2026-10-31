@@ -1,9 +1,9 @@
 ---
-title: Arte del norte de África: Egipto, el Magreb y Sudán, de la Antigüedad a hoy
+title: Arte del norte de África: Egipto, el Magreb y Sudán, de ayer a hoy
 label: Norte de África
 heading: Arte del norte de África
 kicker: Región
-description: El arte del norte de África: arte rupestre sahariano, el antiguo Egipto y Nubia, arquitectura y caligrafía islámicas, alfombras y joyas amazigh y pintores modernos.
+description: El arte del norte de África: arte rupestre sahariano, antiguo Egipto y Nubia, caligrafía islámica, alfombras y joyas amazigh y pintores modernos.
 summary: El norte de África —Egipto, Libia, Túnez, Argelia, Marruecos y, en esta guía, Sudán— une el Mediterráneo, el mundo árabe y el resto de África. Su arte va de las pinturas rupestres del Sahara y los monumentos del antiguo Egipto y Nubia a las mezquitas, los azulejos y la caligrafía de los siglos islámicos y las alfombras y joyas de plata de los pueblos amazigh (bereberes), hasta pintores modernos como Mahmoud Saïd, Baya, Farid Belkahia e Ibrahim El-Salahi.
 facts:
   - Países | Egipto, Libia, Túnez, Argelia, Marruecos, Sudán

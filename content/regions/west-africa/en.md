@@ -3,7 +3,7 @@ title: West African Art: Masks, Bronzes, Textiles and Modern Masters
 label: West Africa
 heading: Art of West Africa
 kicker: Region
-description: The art of West Africa: Nok terracottas, Ife and Benin bronzes, Dogon, Dan and Yoruba masks, kente, adinkra and mudcloth, Sahel architecture, studio photography and modernists.
+description: The art of West Africa: Nok terracottas, Ife and Benin bronzes, Dogon, Dan and Yoruba masks, kente and mudcloth, Sahel architecture and studio photography.
 summary: West Africa — from Senegal and Mali to Nigeria and Cabo Verde — is home to many of the traditions people picture when they think of African art: the terracottas of Nok, the bronzes of Ife and Benin, the masks of the Dogon, Bamana, Dan, Baule and Yoruba, and cloths such as kente, adinkra and bogolan. In the twentieth century it produced the modernist schools of Zaria, Oshogbo and Dakar, the studio photography of Bamako, and highlife and Afrobeat.
 facts:
   - Countries | Senegal, Mali, Burkina Faso, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cabo Verde and their neighbours

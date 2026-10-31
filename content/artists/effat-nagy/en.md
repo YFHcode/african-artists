@@ -1,9 +1,9 @@
 ---
-title: Effat Nagy: Egyptian Painter of Folk Magic, Amulets and Myth (1905–1994)
+title: Effat Nagy: Egyptian Painter of Folk Magic, Amulets and Myth
 label: Effat Nagy
 heading: Effat Nagy
 kicker: Painter
-description: Effat Nagy, sister of the pioneer Mohamed Naghi, built paintings and assemblages from Egyptian folk magic, amulets and painted wood; a Cairo museum shows her work.
+description: Effat Nagy, sister of the pioneer Mohamed Naghi, made paintings and assemblages from Egyptian folk magic, amulets and painted wood; a Cairo museum shows them.
 summary: Effat Nagy (1905–1994), also spelled Naghi, was an Egyptian painter from Alexandria and one of the first Egyptian women artists to gain recognition. The sister of the pioneer painter Mohamed Naghi, she developed with her husband, the folklorist and artist Saad El-Khadem, an art drawn from Egyptian folk beliefs, magic and amulets, including mixed-media assemblages. The Museum of Saad El-Khadem and Effat Nagy in Cairo holds their work.
 ---
 Effat Nagy was born in Alexandria in 1905 into a cultivated family; her elder brother Mohamed Naghi (1888–1956), some twenty years her senior, a painter, lawyer and diplomat, was one of the founders of modern Egyptian painting. In 1945 she married the researcher, writer and painter Saad El-Khadem. In 1947, when her brother was appointed head of the Egyptian Academy in Rome, she began formal training there, studying fresco and sculpture for three years at the Accademia di Belle Arti with Ferruccio Ferrazzi. In 1949, in Paris, she met the French Cubist painter André Lhote, and from then she moved away from traditional academic painting.

@@ -3,7 +3,7 @@ title: Textiles africains : kente, bogolan, adire, raphia kuba et wax
 label: Textiles africains
 heading: Les textiles africains
 kicker: Forme d'art
-description: Un guide des textiles africains et de leurs motifs : kente, bogolan, adire à l'indigo, aso oke, adinkra, velours de raphia kuba, kanga, shweshwe, étoffe d'écorce et wax.
+description: Guide des textiles africains et de leurs motifs : kente, bogolan, adire à l'indigo, aso oke, adinkra, velours de raphia kuba, kanga, shweshwe et wax.
 summary: En Afrique, le tissu est à la fois richesse, langage et art. Le kente et l'aso oke tissés en bandes, le bogolan malien peint à la boue, l'adire yoruba à l'indigo, les étoffes de raphia des Kuba, le kanga imprimé d'Afrique de l'Est et l'étoffe d'écorce de l'Ouganda ont chacun leurs techniques et leurs significations — et les tissus « wax » vendus sur tous les marchés ont une histoire qui passe par les Pays-Bas et l'Indonésie.
 facts:
   - Tissés | Kente (Ghana), aso oke (Nigeria), raphia kuba (RD Congo), coton éthiopien

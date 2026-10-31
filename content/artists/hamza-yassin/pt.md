@@ -3,7 +3,7 @@ title: Hamza Yassin: operador de câmara de vida selvagem nascido no Sudão
 label: Hamza Yassin
 heading: Hamza Yassin
 kicker: Operador de câmara de vida selvagem
-description: Hamza Yassin, nascido no Sudão e radicado nas Terras Altas da Escócia, é operador de câmara de vida selvagem, fotógrafo e apresentador, e venceu o Strictly Come Dancing em 2022.
+description: Hamza Yassin, nascido no Sudão e radicado nas Terras Altas escocesas, é operador de câmara, fotógrafo de vida selvagem e apresentador; venceu o Strictly (2022).
 summary: Hamza Yassin (nascido em 1990) é um operador de câmara de vida selvagem, fotógrafo e apresentador de televisão britânico nascido no Sudão, que vive em Kilchoan, nas Terras Altas da Escócia. Formado em zoologia e em imagem e fotografia biológicas, filma e fotografa a vida selvagem britânica para a BBC e outros canais, e tornou-se muito conhecido no Reino Unido ao vencer o Strictly Come Dancing em 2022.
 facts:
   - Nascimento | 22 de fevereiro de 1990, Sudão

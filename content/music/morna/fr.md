@@ -3,7 +3,7 @@ title: La morna : le chant de la sodade et de Cesária Évora
 label: Morna
 heading: La morna
 kicker: Genre musical
-description: La morna est le chant lent et mélancolique de la sodade au Cap-Vert, rendu célèbre par Cesária Évora. Ses poètes, ses instruments et son inscription à l'UNESCO en 2019.
+description: La morna est le chant lent et mélancolique de la sodade au Cap-Vert, rendu célèbre par Cesária Évora. Ses poètes, ses instruments, son inscription à l'UNESCO.
 summary: La morna est la forme chantée nationale du Cap-Vert : une musique lente et mélancolique chantée en créole capverdien, accompagnée de guitare, de cavaquinho, de violon et de piano, et consacrée à l'amour, au départ et à la sodade — la nostalgie de ce qui est absent. Façonnée par des poètes comme Eugénio Tavares et B.Léza et portée dans le monde entier par Cesária Évora, elle a été inscrite par l'UNESCO au patrimoine culturel immatériel en décembre 2019.
 facts:
   - Origine | Cap-Vert, XIXe siècle

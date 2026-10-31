@@ -3,7 +3,7 @@ title: Adel Abdessemed : l'artiste du « Coup de tête » de Zidane
 label: Adel Abdessemed
 heading: Adel Abdessemed
 kicker: Artiste
-description: Adel Abdessemed, né à Constantine, quitte l'Algérie pendant la guerre civile et devient célèbre pour des œuvres provocantes comme Coup de tête, le bronze géant de Zidane.
+description: Adel Abdessemed, né à Constantine, quitte l'Algérie pendant la guerre civile et se fait connaître par des œuvres provocantes comme Coup de tête.
 summary: Adel Abdessemed (né en 1971) est un artiste français né en Algérie qui travaille la sculpture, le dessin, la vidéo, la photographie et l'installation. Il quitte l'Algérie en 1994, pendant la guerre civile, et s'installe en France. Son œuvre aborde sans détour la violence, la religion et la politique ; sa pièce la plus connue, Coup de tête (2012), est un bronze de cinq mètres montrant Zinedine Zidane donnant un coup de tête à Marco Materazzi en finale de la Coupe du monde 2006.
 ---
 Adel Abdessemed est né à Constantine, dans l'est de l'Algérie, en 1971. Il a étudié l'art à l'école des beaux-arts de Batna puis à l'École des beaux-arts d'Alger. En 1994, pendant la guerre civile algérienne, le directeur de l'école, Ahmed Asselah, a été assassiné avec son fils, et Abdessemed a quitté le pays pour la France, où il a poursuivi ses études à l'École nationale supérieure des beaux-arts de Lyon.

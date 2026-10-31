@@ -3,7 +3,7 @@ title: Tingatinga Painting: Tanzania's Bright Enamel Art and Its Founder
 label: Tingatinga
 heading: Tingatinga painting
 kicker: Painting style
-description: Tingatinga is the bright, glossy painting style of Dar es Salaam, created by Edward Saidi Tingatinga around 1968: animals, birds and village life in enamel paint.
+description: Tingatinga is the bright, glossy painting style of Dar es Salaam, created by Edward Saidi Tingatinga around 1968: animals, birds and village life in enamel.
 summary: Tingatinga is a popular painting style from Tanzania, created in Dar es Salaam in the late 1960s by Edward Saidi Tingatinga (1932–1972). Painted in glossy enamel on board, and later on canvas, with flat bright colours and bold outlines, it shows animals and birds and, later, crowded scenes of Swahili life. After Tingatinga's early death his students and relatives carried the style on, and it became one of East Africa's best-known art forms.
 facts:
   - Founder | Edward Saidi Tingatinga (1932–1972)

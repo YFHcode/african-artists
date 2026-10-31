@@ -3,7 +3,7 @@ title: Hussein Shariffe: Sudanese Painter, Filmmaker and Poet (1934–2005)
 label: Hussein Shariffe
 heading: Hussein Shariffe
 kicker: Painter, filmmaker and poet
-description: Hussein Shariffe, a pioneer of Sudanese modern art linked to the Khartoum School, exhibited in London in 1957, taught in Khartoum, made films and died in exile in 2005.
+description: Hussein Shariffe, a pioneer of Sudanese modern art linked to the Khartoum School, showed in London in 1957, taught, made films and died in exile in 2005.
 summary: Hussein Shariffe (1934–2005) was a Sudanese painter, filmmaker and poet, one of the pioneers of modern art in Sudan and associated with the Khartoum School. Trained in England, he exhibited in London in the 1950s, taught at the University of Khartoum, and from 1973 made documentary and poetic films. Forced into exile in the late 1980s, he spent his last years in Cairo.
 ---
 Hussein Shariffe was born in Omdurman in 1934 into a prominent Sudanese family. He went to England to study, first history and then art. His first exhibition was at Gallery One in London in 1957, and one source places further London gallery shows in 1958 and 1960. He won recognition in British competitions for young painters.

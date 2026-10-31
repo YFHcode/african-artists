@@ -3,7 +3,7 @@ title: Arte makonde: máscaras mapiko y escultura en madera negra
 label: Arte makonde
 heading: El arte makonde
 kicker: Tradición escultórica
-description: Los makonde de Mozambique y Tanzania tallan máscaras casco mapiko y una escultura moderna en madera negra: «árboles de la vida» ujamaa y espíritus shetani. Su historia y sus artistas.
+description: Los makonde de Mozambique y Tanzania tallan máscaras mapiko y escultura en madera negra: «árboles de la vida» ujamaa y espíritus shetani. Historia y artistas.
 summary: Los makonde son un pueblo de la meseta de Mueda, en el norte de Mozambique, y del sureste de Tanzania, famoso por sus tallistas. Sus máscaras casco mapiko, que se llevan en danzas de máscaras, pertenecen a una larga tradición; desde los años cincuenta, tallistas makonde de Tanzania y Mozambique crearon también una escultura moderna en madera negra africana, desde las figuras entrelazadas de los «árboles familiares» ujamaa hasta los espíritus deformes llamados shetani. Artistas como George Lilanga y Reinata Sadimba alcanzaron fama internacional.
 facts:
   - Territorio | Meseta de Mueda, norte de Mozambique; sureste de Tanzania

@@ -3,7 +3,7 @@ title: Mahi Binebine: pintor, escultor y novelista de Marrakech
 label: Mahi Binebine
 heading: Mahi Binebine
 kicker: Pintor, escultor y novelista
-description: Mahi Binebine, antiguo profesor de matemáticas de Marrakech, pinta figuras enmascaradas, esculpe en bronce y escribió la novela de la película Los caballos de Dios.
+description: Mahi Binebine, antiguo profesor de matemáticas de Marrakech, pinta figuras enmascaradas, esculpe en bronce y escribió la novela de Los caballos de Dios.
 summary: Mahi Binebine (nacido en 1959) es un pintor, escultor y novelista marroquí de Marrakech. Enseñó matemáticas en París antes de dedicarse al arte y a la escritura, vivió en Nueva York en los años noventa y trabaja en Marrakech desde 2002. Sus cuadros de figuras enmascaradas y apiñadas están en colecciones como la del Guggenheim, y su novela Les Étoiles de Sidi Moumen se convirtió en la película de Nabil Ayouch Los caballos de Dios (2012).
 facts:
   - Nacimiento | 1959, Marrakech, Marruecos

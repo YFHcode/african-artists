@@ -3,7 +3,7 @@ title: Laetitia Ky: The Ivorian Artist Who Sculpts Her Own Hair
 label: Laetitia Ky
 heading: Laetitia Ky
 kicker: Artist and photographer
-description: Laetitia Ky, an artist from Abidjan, shapes her hair into sculptures and photographs them to speak about womanhood, beauty and justice. She showed at Venice in 2022.
+description: Laetitia Ky, an artist from Abidjan, shapes her hair into sculptures and photographs them to speak about womanhood, beauty and justice. Shown in Venice, 2022.
 summary: Laetitia Ky (born 1996) is an Ivorian artist from Abidjan who sculpts her own hair, with wool, wire and thread, into shapes — arms, figures, animals, words — and photographs the results. Her images, shared widely online, address womanhood, Black beauty and social justice. She took part in the Côte d'Ivoire pavilion at the 2022 Venice Biennale.
 ---
 Laetitia Ky was born in 1996 in Abidjan. She has said that the work began as a way of reconnecting with her African heritage. Using her own hair together with wool, wire and thread, she shapes it into forms that comment on the world: a map of Africa, a hand holding a guitar, raised fists, words and slogans.

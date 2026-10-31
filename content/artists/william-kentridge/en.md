@@ -3,7 +3,7 @@ title: William Kentridge: Charcoal Animations, Opera and South African Memory
 label: William Kentridge
 heading: William Kentridge
 kicker: Artist
-description: William Kentridge makes films from charcoal drawings he draws, erases and redraws — the Drawings for Projection — as well as operas, theatre and sculpture about South Africa's history.
+description: William Kentridge makes films from charcoal drawings he draws, erases and redraws, the Drawings for Projection, and operas and sculpture about South Africa.
 summary: William Kentridge (born 1955) is a South African artist, one of the most celebrated of his generation anywhere. He is best known for his animated films made from charcoal drawings that he draws, erases and redraws frame by frame, leaving the traces visible; since the late 1980s they have dealt with apartheid, memory, guilt and responsibility. He also makes prints, sculpture, theatre and opera productions staged at the world's major houses.
 facts:
   - Born | 28 April 1955, Johannesburg, South Africa

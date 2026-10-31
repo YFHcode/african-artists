@@ -3,7 +3,7 @@ title: Morna: la canción de la sodade de Cabo Verde y Cesária Évora
 label: Morna
 heading: Morna
 kicker: Género musical
-description: La morna es la canción lenta y melancólica de la sodade de Cabo Verde, que Cesária Évora hizo famosa. Sus poetas, sus instrumentos y su reconocimiento por la UNESCO en 2019.
+description: La morna es la canción lenta y melancólica de la sodade de Cabo Verde, que Cesária Évora hizo famosa. Sus poetas, sus instrumentos, su paso a la UNESCO.
 summary: La morna es la forma de canción nacional de Cabo Verde: una música lenta y melancólica cantada en criollo caboverdiano, acompañada de guitarra, cavaquinho, violín y piano, y dedicada al amor, la partida y la sodade, la nostalgia de lo ausente. Moldeada por poetas como Eugénio Tavares y B.Léza y llevada al mundo por Cesária Évora, la UNESCO la inscribió como patrimonio cultural inmaterial en diciembre de 2019.
 facts:
   - Origen | Cabo Verde, siglo XIX

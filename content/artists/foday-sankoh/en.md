@@ -3,7 +3,7 @@ title: Foday Sankoh: From Photographer to Leader of the RUF in Sierra Leone
 label: Foday Sankoh
 heading: Foday Sankoh
 kicker: Photographer turned rebel leader
-description: Foday Sankoh worked as a wedding photographer and cameraman before founding the RUF, whose war in Sierra Leone was marked by mass atrocities. He died awaiting trial for war crimes.
+description: Foday Sankoh was a wedding photographer and cameraman before founding the RUF, whose war in Sierra Leone was marked by atrocities. He died awaiting trial.
 summary: Foday Sankoh (1937–2003) was a Sierra Leonean army corporal who worked as an itinerant and wedding photographer and as a television cameraman before founding the Revolutionary United Front (RUF). The RUF's war against the government of Sierra Leone, from 1991 to 2002, was marked by mass killings, amputations, rape and the use of child soldiers. Indicted for war crimes and crimes against humanity, Sankoh died in custody in 2003 before his trial.
 facts:
   - Born | 1937, Sierra Leone

@@ -3,7 +3,7 @@ title: Chaïbia Talal: a pintora autodidata da cor em Marrocos
 label: Chaïbia Talal
 heading: Chaïbia Talal
 kicker: Pintora
-description: Chaïbia Talal, viúva e empregada de limpeza que começou a pintar depois de um sonho, tornou-se a pintora autodidata mais famosa de Marrocos; expôs em Paris desde 1966.
+description: Chaïbia Talal, viúva e empregada de limpeza que começou a pintar após um sonho, tornou-se a pintora autodidata mais famosa de Marrocos e expôs em Paris.
 summary: Chaïbia Talal (1929-2004) foi uma pintora marroquina, a artista autodidata mais conhecida do país. Casada em criança e viúva aos quinze anos, trabalhou como empregada de limpeza em Casablanca e começou a pintar no início dos anos 1960, depois de um sonho. A partir de 1966 expôs em Casablanca e Paris, e as suas telas luminosas e espontâneas de rostos, flores e vida rural fizeram dela uma das pintoras marroquinas mais célebres e mais procuradas.
 facts:
   - Nascimento | 1929, perto de El Jadida, Marrocos

@@ -1,9 +1,9 @@
 ---
-title: L'art makondé : masques mapiko et sculpture en bois noir d'Afrique de l'Est
+title: L'art makondé : masques mapiko et sculpture en bois noir
 label: Art makondé
 heading: L'art makondé
 kicker: Tradition sculpturale
-description: Les Makondé du Mozambique et de Tanzanie sculptent les masques mapiko et une sculpture moderne en bois noir : « arbres de vie » ujamaa et esprits shetani. Histoire et artistes.
+description: Les Makondé du Mozambique et de Tanzanie sculptent les masques mapiko et le bois noir : « arbres de vie » ujamaa et esprits shetani. Histoire et artistes.
 summary: Les Makondé sont un peuple du plateau de Mueda, au nord du Mozambique, et du sud-est de la Tanzanie, réputé pour ses sculpteurs. Leurs masques-heaumes mapiko, portés dans des danses masquées, relèvent d'une longue tradition ; à partir des années 1950, des sculpteurs makondé de Tanzanie et du Mozambique ont aussi créé une sculpture moderne en bois noir d'Afrique, des figures entrelacées des « arbres de famille » ujamaa aux esprits déformés appelés shetani. Des artistes comme George Lilanga et Reinata Sadimba ont acquis une renommée internationale.
 facts:
   - Territoire | Plateau de Mueda, nord du Mozambique ; sud-est de la Tanzanie

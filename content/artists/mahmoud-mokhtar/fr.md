@@ -1,9 +1,9 @@
 ---
-title: Mahmoud Mokhtar : le père de la sculpture égyptienne moderne (1891–1934)
+title: Mahmoud Mokhtar : le père de la sculpture égyptienne moderne
 label: Mahmoud Mokhtar
 heading: Mahmoud Mokhtar
 kicker: Sculpteur
-description: Mahmoud Mokhtar, enfant d'un village du delta, devint le père de la sculpture égyptienne moderne ; son Réveil de l'Égypte en granit devint un monument national en 1928.
+description: Mahmoud Mokhtar, enfant d'un village du delta, devint le père de la sculpture égyptienne moderne ; son Réveil de l'Égypte devint un monument national en 1928.
 summary: Mahmoud Mokhtar (1891–1934) est un sculpteur égyptien, fondateur de la sculpture égyptienne moderne. L'un des premiers élèves de l'École des beaux-arts du Caire, formé à Paris, il crée Le Réveil de l'Égypte (Nahdet Misr), statue de granit d'une paysanne aux côtés d'un sphinx qui se lève, devenue un symbole de la révolution de 1919 et du nationalisme égyptien. Il réalise aussi deux monuments au leader nationaliste Saad Zaghloul et de nombreuses petites sculptures de paysannes.
 facts:
   - Naissance | 1891, delta du Nil, Égypte

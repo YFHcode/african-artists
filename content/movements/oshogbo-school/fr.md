@@ -3,7 +3,7 @@ title: L'école d'Oshogbo : les ateliers qui ont fait l'art yoruba moderne
 label: École d'Oshogbo
 heading: L'école d'Oshogbo (Osogbo)
 kicker: Mouvement artistique
-description: L'école d'Oshogbo est née d'ateliers organisés dans les années 1960 au club Mbari Mbayo d'Osogbo, au Nigeria, et a révélé Twins Seven-Seven, Jimoh Buraimoh et Nike Okundaye.
+description: L'école d'Oshogbo est née d'ateliers des années 1960 au club Mbari Mbayo d'Osogbo, au Nigeria, et a révélé Twins Seven-Seven, Jimoh Buraimoh et Nike Okundaye.
 summary: L'école d'Oshogbo (ou Osogbo) désigne un groupe d'artistes nigérians issus d'ateliers expérimentaux organisés entre 1962 et 1966 au club Mbari Mbayo d'Osogbo, une ville yoruba du sud-ouest du Nigeria. Pour la plupart sans formation artistique, ils ont puisé dans la mythologie et le théâtre yoruba et ont acquis une renommée internationale — parmi eux Twins Seven-Seven, Jimoh Buraimoh, Muraina Oyelami et Nike Okundaye.
 facts:
   - Lieu | Osogbo, sud-ouest du Nigeria

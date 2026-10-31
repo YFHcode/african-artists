@@ -1,7 +1,7 @@
 ---
 title: Politique de confidentialité
 heading: Politique de confidentialité
-description: Ce que collecte AfricanArtists.com — uniquement ce que vous envoyez via le formulaire d'offre et des statistiques de visite anonymes —, pourquoi, et comment en demander la suppression.
+description: Ce que collecte AfricanArtists.com (ce que vous envoyez par le formulaire d'offre et des statistiques anonymes), pourquoi, et comment le faire supprimer.
 ---
 Cette page explique quelles informations AfricanArtists.com traite et pourquoi. En bref : le site ne dépose aucun cookie, et les seules données personnelles qu'il reçoit sont celles que vous choisissez d'envoyer via le formulaire d'offre.
 

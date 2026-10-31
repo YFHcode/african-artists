@@ -2,7 +2,7 @@
 title: Tunisian Artists: The École de Tunis, Nja Mahdaoui and eL Seed
 label: Tunisian artists
 heading: Tunisian artists
-description: Tunisian artists from Yahia Turki, Zoubeir Turki and the École de Tunis to Nja Mahdaoui, Nadia Kaabi-Linke and the calligraffiti artist eL Seed, most looked-up first.
+description: Tunisian artists from Yahia Turki, Zoubeir Turki and the École de Tunis to Nja Mahdaoui, Nadia Kaabi-Linke and the calligraffiti artist eL Seed.
 ---
 Tunisia sits on one of the oldest crossroads of art in the Mediterranean: Carthaginian and Roman cities, some of the finest Roman mosaics anywhere (many now in the Bardo Museum in Tunis), and the mosques, ceramics and textiles of Kairouan and the medinas. Modern Tunisian painting began with Yahia Turki, often called its father, who painted the streets and people of Tunis from the 1920s.
 

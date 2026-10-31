@@ -3,7 +3,7 @@ title: Hamza Yassin : cameraman animalier et photographe né au Soudan
 label: Hamza Yassin
 heading: Hamza Yassin
 kicker: Cameraman animalier
-description: Hamza Yassin, né au Soudan et installé dans les Highlands écossais, est cameraman animalier, photographe et présentateur de télévision ; il a gagné Strictly Come Dancing en 2022.
+description: Hamza Yassin, né au Soudan et installé dans les Highlands écossais, est cameraman animalier, photographe et présentateur ; il a gagné Strictly en 2022.
 summary: Hamza Yassin (né en 1990) est un cameraman animalier, photographe et présentateur de télévision britannique né au Soudan, installé à Kilchoan, dans les Highlands écossais. Formé à la zoologie ainsi qu'à l'imagerie et à la photographie biologiques, il filme et photographie la faune britannique pour la BBC et d'autres chaînes, et il est devenu très connu au Royaume-Uni en remportant Strictly Come Dancing en 2022.
 facts:
   - Naissance | 22 février 1990, Soudan

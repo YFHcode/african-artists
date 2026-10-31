@@ -3,7 +3,7 @@ title: Amoako Boafo: retratos pintados con los dedos, de Acra a Viena y Dior
 label: Amoako Boafo
 heading: Amoako Boafo
 kicker: Pintor
-description: Amoako Boafo, pintor ghanés afincado en Viena, pinta a personas negras con la piel modelada con los dedos. Su ascenso desató un frenesí en las subastas; fundó dot.ateliers en Acra.
+description: Amoako Boafo, pintor ghanés afincado en Viena, modela con los dedos la piel de sus retratados negros. Su ascenso agitó las subastas; fundó dot.ateliers.
 summary: Amoako Boafo (nacido en 1984) es un pintor ghanés afincado en Viena. Sus retratos de personas negras —amigos, artistas, gente a la que admira— sitúan las figuras sobre fondos planos y vivos y ropas estampadas, con la piel pintada con los dedos en trazos gruesos y expresivos. Su rápido ascenso en 2019-2020 desató un frenesí especulativo en las subastas; desde entonces ha colaborado con Dior y ha fundado dot.ateliers, un espacio para artistas en Acra.
 facts:
   - Nacimiento | 1984, Acra, Ghana

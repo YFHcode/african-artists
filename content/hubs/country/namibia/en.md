@@ -1,8 +1,8 @@
 ---
-title: Namibian Artists: John Muafangejo, Landscape Painters and Photographers
+title: Namibian Artists: John Muafangejo, Landscape Painters, Photographers
 label: Namibian artists
 heading: Namibian artists
-description: Namibian artists, from John Muafangejo's linocuts to the landscape painters Adolph Jentsch and Dieter Aschenborn and photographers such as Helga Kohl and Tony Figueira.
+description: Namibian artists, from John Muafangejo's linocuts to the landscape painters Adolph Jentsch and Dieter Aschenborn and photographers such as Helga Kohl.
 ---
 Namibia's best-known artist is John Muafangejo, who trained at the Rorke's Drift art centre in South Africa and made bold black-and-white linocuts of the history, politics and daily life of Namibia, often with handwritten text, before his death in 1987. His prints are in museums around the world.
 

@@ -3,7 +3,7 @@ title: Ibrahim El-Salahi: el modernista visionario de Sudán
 label: Ibrahim El-Salahi
 heading: Ibrahim El-Salahi
 kicker: Pintor
-description: Ibrahim El-Salahi fusionó caligrafía árabe y formas africanas en la Escuela de Jartum, dibujó su Prison Notebook en 1975–76 y tuvo la primera retrospectiva africana de la Tate Modern.
+description: Ibrahim El-Salahi fusionó caligrafía árabe y formas africanas en la Escuela de Jartum, dibujó su Prison Notebook en 1975–76 y tuvo una retrospectiva en la Tate.
 summary: Ibrahim El-Salahi es un pintor sudanés, nacido en Omdurmán en 1930, y uno de los fundadores de la Escuela de Jartum de arte moderno. Combinó la caligrafía árabe con formas africanas e islámicas, sobrevivió a seis meses de prisión sin juicio en 1975 y en 2013 se convirtió en el primer artista africano con una retrospectiva en la Tate Modern.
 facts:
   - Nacimiento | 1930, Omdurmán, Sudán

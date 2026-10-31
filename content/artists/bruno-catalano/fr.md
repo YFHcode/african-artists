@@ -1,9 +1,9 @@
 ---
-title: Bruno Catalano : le sculpteur des Voyageurs, ces corps traversés de vide
+title: Bruno Catalano : le sculpteur des Voyageurs aux corps évidés
 label: Bruno Catalano
 heading: Bruno Catalano
 kicker: Sculpteur
-description: Bruno Catalano, né au Maroc dans une famille sicilienne, sculpte des voyageurs de bronze grandeur nature dont des pans entiers du corps manquent, exposés à Marseille en 2013.
+description: Bruno Catalano, né au Maroc dans une famille sicilienne, sculpte des voyageurs de bronze grandeur nature au corps en partie absent, exposés à Marseille en 2013.
 summary: Bruno Catalano (né en 1960) est un sculpteur français né à Khouribga, au Maroc, dans une famille sicilienne. Il est connu pour Les Voyageurs, des figures de bronze grandeur nature portant une valise, dont le corps est déchiré et privé de grandes parties. Dix d'entre elles se dressaient sur les quais de Marseille en 2013, lorsque la ville était capitale européenne de la culture.
 facts:
   - Naissance | 1960, Khouribga, Maroc

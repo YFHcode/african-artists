@@ -3,7 +3,7 @@ title: La rumba congoleña: la gran música de baile de África
 label: Rumba congoleña
 heading: La rumba congoleña
 kicker: Género musical
-description: Nacida en Kinshasa y Brazzaville en los años cuarenta, la rumba congoleña dio a África a Franco, Tabu Ley y Papa Wemba. La UNESCO la declaró patrimonio mundial en 2021.
+description: Nacida en Kinshasa y Brazzaville en los años cuarenta, la rumba congoleña dio a Franco, Tabu Ley y Papa Wemba. Patrimonio de la UNESCO desde 2021.
 summary: La rumba congoleña es la música de baile urbana que creció a finales de los años cuarenta y en los cincuenta en Léopoldville (Kinshasa) y Brazzaville, a ambas orillas del río Congo, mezclando discos de son y rumba cubanos con ritmos y lenguas de África Central. Dio estrellas como Wendo Kolosoy, Le Grand Kallé, Franco y Papa Wemba, se extendió por toda África y la UNESCO la inscribió en su lista del patrimonio cultural inmaterial en diciembre de 2021.
 facts:
   - Origen | Kinshasa y Brazzaville, finales de los cuarenta–años cincuenta

@@ -1,5 +1,5 @@
 ---
-title: Farouk Hosny: Abstract Painter and Egypt's Culture Minister for 24 Years
+title: Farouk Hosny: Abstract Painter, Egypt's Culture Minister for 24 Years
 label: Farouk Hosny
 heading: Farouk Hosny
 kicker: Painter and minister

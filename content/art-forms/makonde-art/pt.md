@@ -1,9 +1,9 @@
 ---
-title: Arte maconde: máscaras mapiko e a escultura em pau-preto da África Oriental
+title: Arte maconde: máscaras mapiko e escultura em pau-preto
 label: Arte maconde
 heading: A arte maconde
 kicker: Tradição escultórica
-description: Os macondes de Moçambique e da Tanzânia esculpem máscaras mapiko e uma escultura moderna em pau-preto: «árvores da vida» ujamaa e espíritos shetani. História e artistas.
+description: Os macondes de Moçambique e da Tanzânia esculpem máscaras mapiko e pau-preto: «árvores da vida» ujamaa e espíritos shetani. História e artistas.
 summary: Os macondes são um povo do planalto de Mueda, no norte de Moçambique, e do sudeste da Tanzânia, famoso pelos seus escultores. As suas máscaras-capacete mapiko, usadas em danças mascaradas, pertencem a uma longa tradição; a partir dos anos 1950, escultores macondes da Tanzânia e de Moçambique criaram também uma escultura moderna em pau-preto africano, das figuras entrelaçadas das «árvores de família» ujamaa aos espíritos deformados chamados shetani. Artistas como George Lilanga e Reinata Sadimba ganharam fama internacional.
 facts:
   - Território | Planalto de Mueda, norte de Moçambique; sudeste da Tanzânia

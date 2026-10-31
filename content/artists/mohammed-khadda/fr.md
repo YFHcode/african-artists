@@ -3,7 +3,7 @@ title: Mohammed Khadda : le peintre algérien du signe (1930–1991)
 label: Mohammed Khadda
 heading: Mohammed Khadda
 kicker: Peintre
-description: Mohammed Khadda, apprenti typographe à Mostaganem, devient l'un des fondateurs de la peinture algérienne moderne en faisant des lettres arabes un langage abstrait.
+description: Mohammed Khadda, apprenti typographe de Mostaganem, devient un fondateur de la peinture algérienne moderne en faisant des lettres arabes un langage abstrait.
 summary: Mohammed Khadda (1930–1991) est un peintre, sculpteur et écrivain algérien, l'un des fondateurs de l'art algérien moderne. D'abord autodidacte, il travaille comme typographe à Mostaganem avant de passer dix ans à Paris. De retour dans l'Algérie indépendante, il devient la figure majeure des « peintres du signe », qui construisent un art abstrait à partir des formes de l'écriture arabe et des signes amazighs, et défend cet art dans ses écrits.
 facts:
   - Naissance | 14 mars 1930, Mostaganem, Algérie

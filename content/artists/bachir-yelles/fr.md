@@ -1,9 +1,9 @@
 ---
-title: Bachir Yellès : doyen des peintres algériens et directeur des Beaux-Arts
+title: Bachir Yellès : doyen des peintres algériens, directeur des Beaux-Arts
 label: Bachir Yellès
 heading: Bachir Yellès
 kicker: Peintre
-description: Bachir Yellès, peintre de Tlemcen et dessinateur de timbres, dirigea les Beaux-Arts d'Alger pendant vingt ans et mourut en 2022 à 100 ans, doyen des artistes algériens.
+description: Bachir Yellès, peintre de Tlemcen et dessinateur de timbres, dirigea les Beaux-Arts d'Alger vingt ans et mourut en 2022 à 100 ans, doyen des artistes algériens.
 summary: Bachir Yellès (1921–2022) est un peintre, dessinateur de timbres et enseignant algérien originaire de Tlemcen. Formé à Alger et à Paris, il dirige pendant une vingtaine d'années l'école nationale des beaux-arts d'Alger, où il forme des générations d'artistes, et dessine des timbres-poste pour son pays. Il meurt à Alger en 2022 à l'âge de 100 ans, salué comme le doyen des peintres algériens.
 ---
 Bachir Yellès est né à Tlemcen, dans l'ouest de l'Algérie, le 12 septembre 1921. Il a fait ses études secondaires au Collège de Slane à Tlemcen, étudié à l'École des Beaux-Arts d'Alger de 1943 à 1947 puis à l'École des Beaux-Arts de Paris de 1947 à 1950, où ses professeurs comptaient Eugène Narbonne et Nicolas Untersteller. Il a été l'un des très rares Algériens de sa génération à recevoir une formation artistique académique complète sous la domination coloniale.

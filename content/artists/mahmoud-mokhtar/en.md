@@ -3,7 +3,7 @@ title: Mahmoud Mokhtar: Father of Modern Egyptian Sculpture (1891–1934)
 label: Mahmoud Mokhtar
 heading: Mahmoud Mokhtar
 kicker: Sculptor
-description: Mahmoud Mokhtar, a village boy from the Nile Delta, became the father of modern Egyptian sculpture; his granite Egypt's Awakening became a national monument in 1928.
+description: Mahmoud Mokhtar, a village boy from the Nile Delta, became the father of modern Egyptian sculpture; his Egypt's Awakening became a national monument in 1928.
 summary: Mahmoud Mokhtar (1891–1934) was an Egyptian sculptor, the founder of modern Egyptian sculpture. One of the first students of Cairo's School of Fine Arts, he trained in Paris and created Egypt's Awakening (Nahdet Misr), a granite statue of a peasant woman beside a rising sphinx that became a symbol of the 1919 revolution and of Egyptian nationalism. He also made two monuments to the nationalist leader Saad Zaghloul and many small sculptures of Egyptian peasant women.
 facts:
   - Born | 1891, Nile Delta, Egypt

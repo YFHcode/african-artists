@@ -3,7 +3,7 @@ title: Inji Aflatoun: The Egyptian Painter Who Painted Her Fellow Prisoners
 label: Inji Aflatoun
 heading: Inji Aflatoun
 kicker: Painter and activist
-description: Inji Aflatoun (Efflatoun), surrealist, communist and feminist, was jailed from 1959 to 1963 and painted the women imprisoned with her. Her prison works are her best known.
+description: Inji Aflatoun (Efflatoun), surrealist, communist and feminist, was jailed from 1959 to 1963 and painted the women imprisoned with her: her best-known works.
 summary: Inji Aflatoun (1924–1989), also spelled Efflatoun, was an Egyptian painter and a Marxist and feminist activist. Taught by the surrealist Kamel El-Telmissany, she showed with the Art and Freedom group as a teenager, then devoted herself to politics and to painting the lives of Egyptian peasants and workers. Imprisoned from 1959 to 1963 for her communist activity, she painted the women in her prison; these works are considered her finest. Her later landscapes are full of white light.
 facts:
   - Born | 1924, Cairo, Egypt

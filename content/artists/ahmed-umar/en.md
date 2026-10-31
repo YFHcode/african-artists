@@ -1,5 +1,5 @@
 ---
-title: Ahmed Umar: Sudanese-Norwegian Artist of Ceramics, Textiles and Queer Lives
+title: Ahmed Umar: Sudanese-Norwegian Artist of Clay, Cloth and Queer Lives
 label: Ahmed Umar
 heading: Ahmed Umar
 kicker: Artist

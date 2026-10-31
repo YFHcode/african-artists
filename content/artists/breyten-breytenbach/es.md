@@ -1,5 +1,5 @@
 ---
-title: Breyten Breytenbach: el poeta en afrikáans que pintaba, siete años preso
+title: Breyten Breytenbach: el poeta afrikáans que pintaba, preso siete años
 label: Breyten Breytenbach
 heading: Breyten Breytenbach
 kicker: Escritor y pintor

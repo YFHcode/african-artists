@@ -1,9 +1,9 @@
 ---
-title: Arte da África Austral: arte rupestre san, Grande Zimbabué, ndebele e hoje
+title: Arte da África Austral: arte rupestre san, Grande Zimbabué, ndebele
 label: África Austral
 heading: Arte da África Austral
 kicker: Região
-description: A arte da África Austral: pinturas san, o ouro de Mapungubwe e as aves do Grande Zimbabué, pintura e missangas ndebele, escultura em pedra do Zimbabué e artistas sul-africanos.
+description: A arte da África Austral: pinturas san, ouro de Mapungubwe, aves do Grande Zimbabué, pintura ndebele, escultura do Zimbabué e artistas de hoje.
 summary: A África Austral — África do Sul, Zimbabué, Moçambique, Namíbia, Botsuana e os seus vizinhos — guarda alguma da arte mais antiga do mundo, do desenho de Blombos às pinturas rupestres dos san. Produziu o rinoceronte de ouro de Mapungubwe e as aves de esteatite do Grande Zimbabué, as casas pintadas e as missangas dos ndebele e dos zulu, a escultura moderna em pedra do Zimbabué e o moçambicano Malangatana, e uma cena contemporânea centrada em Joanesburgo e na Cidade do Cabo.
 facts:
   - Países | África do Sul, Zimbabué, Moçambique, Namíbia, Botsuana, Zâmbia, Malawi, Lesoto, Essuatíni

@@ -1,7 +1,7 @@
 ---
-title: Formas de arte africana: máscaras, escultura, têxteis, missangas e mais
+title: Formas de arte africana: máscaras, escultura, têxteis, missangas…
 heading: Formas de arte e tradições africanas
-description: Guia das formas de arte de África: máscaras, escultura, têxteis, missangas, cerâmica, arte rupestre e fotografia, e tradições como o kente, o adinkra e os bronzes do Benim.
+description: As formas de arte de África: máscaras, escultura, têxteis, missangas, cerâmica, arte rupestre e fotografia, com o kente, o adinkra e os bronzes do Benim.
 ---
 A maior parte da arte criada em África ao longo dos séculos não foi pintada em tela nem assinada por um nome famoso. Foi dançada como máscaras em funerais e colheitas, esculpida para altares e cortes reais, tecida e tingida como pano, enfiada em missangas, moldada em potes e pintada nas paredes de abrigos rochosos há dezenas de milhares de anos. A fotografia, chegada no século XIX, tornou-se uma das grandes artes modernas do continente.
 

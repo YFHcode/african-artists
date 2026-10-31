@@ -1,9 +1,9 @@
 ---
-title: Arte de África Occidental: máscaras, bronces, textiles y maestros modernos
+title: Arte de África Occidental: máscaras, bronces, textiles, modernos
 label: África Occidental
 heading: Arte de África Occidental
 kicker: Región
-description: El arte de África Occidental: terracotas de Nok, bronces de Ife y Benín, máscaras dogón, dan y yoruba, kente, adinkra y bogolan, arquitectura del Sahel, fotografía y modernistas.
+description: El arte de África Occidental: terracotas de Nok, bronces de Ife y Benín, máscaras dogón, dan y yoruba, kente y bogolan, arquitectura del Sahel.
 summary: África Occidental —de Senegal y Malí a Nigeria y Cabo Verde— alberga muchas de las tradiciones que la gente imagina cuando piensa en arte africano: las terracotas de Nok, los bronces de Ife y Benín, las máscaras de los dogón, bamana, dan, baulé y yoruba, y telas como el kente, el adinkra y el bogolan. En el siglo XX produjo las escuelas modernistas de Zaria, Oshogbo y Dakar, la fotografía de estudio de Bamako, el highlife y el afrobeat.
 facts:
   - Países | Senegal, Malí, Burkina Faso, Costa de Marfil, Ghana, Togo, Benín, Nigeria, Cabo Verde y sus vecinos

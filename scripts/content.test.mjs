@@ -164,8 +164,10 @@ test('titles and descriptions fit in search results', () => {
     const problems = [];
     for (const [segments] of ALL_FILES) {
         const { file, data } = read(...segments);
-        if (data.title.length > 75) problems.push(`${file}: title ${data.title.length} chars`);
-        if (data.description.length > 185) problems.push(`${file}: description ${data.description.length} chars`);
+        // Results show about 60–70 characters of a title and 155–160 of a description; past
+        // that the snippet is cut mid-phrase (seo-audit-2026-10.md, October 2026 follow-up).
+        if (data.title.length > 70) problems.push(`${file}: title ${data.title.length} chars`);
+        if (data.description.length > 160) problems.push(`${file}: description ${data.description.length} chars`);
     }
     assert.deepEqual(problems, []);
 });

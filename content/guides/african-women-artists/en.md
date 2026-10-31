@@ -3,7 +3,7 @@ title: African Women Artists: 14 Names Who Shaped Modern Art
 label: African women artists
 heading: African women artists you should know
 kicker: Guide
-description: Fourteen women artists from Africa who shaped modern and contemporary art — from Baya, Ladi Kwali and Inji Efflatoun to Wangechi Mutu, Zanele Muholi and Julie Mehretu.
+description: Fourteen women artists from Africa who shaped modern and contemporary art, from Baya, Ladi Kwali and Inji Efflatoun to Wangechi Mutu and Zanele Muholi.
 summary: Women artists from Africa have shaped modern and contemporary art from its beginnings: the potter Ladi Kwali, the Algerian painter Baya, the Egyptian painter Inji Efflatoun and the Sudanese painter Kamala Ibrahim Ishaq in the twentieth century; Esther Mahlangu, Wangechi Mutu, Njideka Akunyili Crosby, Zanele Muholi and Julie Mehretu today. This guide introduces fourteen of them.
 ---
 ## Pioneers of the twentieth century

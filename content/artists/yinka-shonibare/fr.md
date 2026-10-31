@@ -1,9 +1,9 @@
 ---
-title: Yinka Shonibare : wax hollandais, figures sans tête et bateau en bouteille
+title: Yinka Shonibare : wax, figures sans tête et bateau en bouteille
 label: Yinka Shonibare
 heading: Yinka Shonibare
 kicker: Artiste
-description: Yinka Shonibare habille des figures sans tête de costumes victoriens en wax hollandais, tissu « africain » à l'histoire européenne, pour interroger l'empire, la classe et l'identité.
+description: Yinka Shonibare habille des figures sans tête de costumes victoriens en wax, tissu « africain » à l'histoire européenne, pour interroger l'empire et l'identité.
 summary: Yinka Shonibare (né en 1962) est un artiste britannico-nigérian connu pour ses mannequins sans tête vêtus de costumes victoriens taillés dans le wax hollandais — un tissu vendu en Afrique de l'Ouest comme « africain » mais mis au point en Europe pour les marchés asiatiques. Ses sculptures, installations, photographies et films sur le colonialisme, la classe et l'identité comprennent Nelson's Ship in a Bottle (2010), exposé sur le Fourth Plinth de Londres, et The British Library (2014).
 facts:
   - Naissance | 1962, Londres, Royaume-Uni ; a grandi à Lagos, Nigeria

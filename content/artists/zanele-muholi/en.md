@@ -3,7 +3,7 @@ title: Zanele Muholi: Visual Activist, Faces and Phases, Somnyama Ngonyama
 label: Zanele Muholi
 heading: Zanele Muholi
 kicker: Visual activist
-description: Zanele Muholi, the South African photographer and visual activist, documents Black LGBTQIA+ lives in Faces and Phases and turns the camera on themself in Somnyama Ngonyama.
+description: Zanele Muholi, the South African photographer and visual activist, documents Black LGBTQIA+ lives in Faces and Phases and turns the camera on themself.
 summary: Zanele Muholi (born 1972) is a South African photographer who calls themself a visual activist. Their portrait series Faces and Phases, begun in 2006, is a living archive of South Africa's Black lesbian, gay, trans, queer and intersex communities; their self-portrait series Somnyama Ngonyama ("Hail the Dark Lioness") is among the best-known photographic works of the century so far. Muholi uses they/them pronouns.
 facts:
   - Born | 1972, Umlazi, Durban, South Africa

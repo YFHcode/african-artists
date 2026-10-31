@@ -3,7 +3,7 @@ title: Malick Sidibé: el fotógrafo de las noches de Bamako
 label: Malick Sidibé
 heading: Malick Sidibé
 kicker: Fotógrafo
-description: Malick Sidibé fotografió las fiestas, la moda y la libertad del Bamako de los años sesenta. Primer fotógrafo en recibir el León de Oro a toda una carrera (2007).
+description: Malick Sidibé fotografió las fiestas, la moda y la libertad del Bamako de los sesenta. Primer fotógrafo con un León de Oro a toda una carrera (2007).
 summary: Malick Sidibé (hacia 1935–2016) fue un fotógrafo maliense cuyas imágenes en blanco y negro de jóvenes que bailan, se arreglan y posan en el Bamako de los años sesenta se convirtieron en algunas de las más conocidas del África de la posindependencia. En 2007 fue el primer fotógrafo, y el primer artista africano, en recibir el León de Oro a toda una carrera de la Bienal de Venecia.
 facts:
   - Nacimiento | 1935 o 1936, Soloba, Malí

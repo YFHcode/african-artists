@@ -3,7 +3,7 @@ title: Mbalax: o pop do sabar senegalês e de Youssou N'Dour
 label: Mbalax
 heading: Mbalax
 kicker: Género musical
-description: O mbalax é o pop nacional do Senegal: tambores sabar wolof misturados com música cubana, soul e rock, tornado famoso por Youssou N'Dour e a Super Étoile de Dakar.
+description: O mbalax é o pop nacional do Senegal: tambores sabar wolof com música cubana, soul e rock, tornado famoso por Youssou N'Dour e a Super Étoile de Dakar.
 summary: O mbalax é a música de dança popular do Senegal, construída sobre os ritmos dos tambores sabar wolof e do tama, o tambor falante, combinados com guitarras elétricas, teclados, sopros e influências de música cubana, soul e rock. Ganhou forma em Dacar nos anos 1970, e Youssou N'Dour, com a sua banda Super Étoile de Dakar, tornou-o famoso no mundo inteiro.
 facts:
   - Origem | Dacar, Senegal, anos 1970

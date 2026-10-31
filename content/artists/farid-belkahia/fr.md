@@ -3,7 +3,7 @@ title: Farid Belkahia : cuir, henné et modernisme marocain
 label: Farid Belkahia
 heading: Farid Belkahia
 kicker: Peintre
-description: Farid Belkahia (1934–2014) a dirigé l'école des beaux-arts de Casablanca, peint au henné sur peau tendue et donné à l'art moderne marocain ses propres matériaux.
+description: Farid Belkahia (1934–2014) a dirigé les beaux-arts de Casablanca, peint au henné sur peau tendue et donné à l'art moderne marocain ses propres matériaux.
 summary: Farid Belkahia (1934–2014) était un artiste marocain et l'un des fondateurs du modernisme marocain. Directeur de l'École des beaux-arts de Casablanca de 1962 à 1974, il en a fait un lieu d'expérimentation, et à partir des années 1970 il a peint sur peau tendue avec du henné et des pigments naturels, en utilisant des signes issus des traditions visuelles amazighes et arabes.
 facts:
   - Naissance | 15 novembre 1934, Marrakech, Maroc

@@ -3,7 +3,7 @@ title: Sam Nzima: a fotografia de Hector Pieterson, Soweto 1976
 label: Sam Nzima
 heading: Sam Nzima
 kicker: Fotojornalista
-description: Sam Nzima fez a fotografia de Hector Pieterson a morrer durante a revolta do Soweto de 1976, uma imagem marcante do apartheid, e pagou-a com perseguição e clandestinidade.
+description: Sam Nzima fotografou Hector Pieterson a morrer no Soweto em 1976, imagem marcante do apartheid, e pagou-a com perseguição e clandestinidade.
 summary: Sam Nzima (1934-2018) foi um fotojornalista sul-africano cuja fotografia do estudante Hector Pieterson, levado nos braços por Mbuyisa Makhubo depois de a polícia ter disparado sobre alunos no Soweto a 16 de junho de 1976, se tornou uma das imagens decisivas da luta contra o apartheid. Perseguido pela polícia de segurança, Nzima teve de se esconder e abandonou a fotografia de imprensa.
 facts:
   - Nascimento | 8 de agosto de 1934, Lillydale, África do Sul

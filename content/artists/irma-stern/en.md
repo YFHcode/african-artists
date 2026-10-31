@@ -3,7 +3,7 @@ title: Irma Stern: South Africa's Expressionist, from Berlin to Zanzibar
 label: Irma Stern
 heading: Irma Stern
 kicker: Painter
-description: Irma Stern brought German Expressionism to South Africa in the 1920s, was derided, then celebrated; her portraits of Zanzibar and the Congo now sell for millions. Her home is a museum.
+description: Irma Stern brought German Expressionism to South Africa in the 1920s; derided, then celebrated, her portraits now sell for millions. Her home is a museum.
 summary: Irma Stern (1894–1966) was a South African painter who trained in Germany in the circle of the Expressionists and brought their bold colour and loose brushwork to South Africa in the 1920s. Mocked by critics at first, she became the country's leading modernist. Her portraits of people in South Africa, Zanzibar and the Congo are among the most valuable South African paintings; her house in Cape Town is now the Irma Stern Museum.
 facts:
   - Born | 2 October 1894, Schweizer-Reneke, Transvaal, South Africa

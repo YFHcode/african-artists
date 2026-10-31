@@ -3,7 +3,7 @@ title: Leila Alaoui : Les Marocains et une vie de photographe brisée
 label: Leila Alaoui
 heading: Leila Alaoui
 kicker: Photographe et vidéaste
-description: Leila Alaoui, photographe franco-marocaine, auteure des Marocains, portraits grandeur nature, et de films sur la migration. Tuée lors de l'attentat de Ouagadougou en 2016.
+description: Leila Alaoui, photographe franco-marocaine, auteure des Marocains, portraits grandeur nature, et de films sur la migration. Tuée à Ouagadougou en 2016.
 summary: Leila Alaoui (1982-2016) était une photographe et vidéaste franco-marocaine. Sa série Les Marocains, des portraits de studio grandeur nature réalisés à travers tout le Maroc, et son travail sur la migration en ont fait l'une des photographes les plus admirées de sa génération. Elle a été mortellement blessée lors de l'attentat de Ouagadougou, au Burkina Faso, en janvier 2016, alors qu'elle travaillait pour Amnesty International.
 ---
 Leila Alaoui était une photographe et vidéaste franco-marocaine, née en 1982. Une grande partie de son travail portait sur la migration, l'identité et l'appartenance : elle a filmé et photographié des migrants tentant de gagner l'Europe, des Syriens déplacés au Liban et des personnes vivant entre plusieurs pays.

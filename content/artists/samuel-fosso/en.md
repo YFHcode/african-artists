@@ -3,7 +3,7 @@ title: Samuel Fosso: The Studio Self-Portraits of Bangui and African Spirits
 label: Samuel Fosso
 heading: Samuel Fosso
 kicker: Photographer
-description: Samuel Fosso opened a studio in Bangui at thirteen and has photographed himself in costume ever since — from 1970s pop-star poses to African Spirits, his homage to liberation heroes.
+description: Samuel Fosso opened a studio in Bangui at thirteen and has photographed himself in costume ever since, from 1970s pop-star poses to his African Spirits.
 summary: Samuel Fosso (born 1962) is a photographer born in Cameroon, raised partly in Nigeria and based for decades in Bangui, Central African Republic, and later Paris. Since he opened his own studio at the age of thirteen, his main subject has been himself: staged, costumed self-portraits that play with identity, gender, fashion and history.
 ---
 Samuel Fosso was born in 1962 in Kumba, Cameroon, to Nigerian parents, and spent part of his childhood in Nigeria; the family fled the conflict over Biafra's secession in the late 1960s. He moved to Bangui in the Central African Republic, apprenticed with a photographer and in 1975, aged about thirteen, opened his own studio there.

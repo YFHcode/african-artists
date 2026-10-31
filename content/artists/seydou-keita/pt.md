@@ -3,7 +3,7 @@ title: Seydou Keïta: o grande retratista de estúdio de Bamaco
 label: Seydou Keïta
 heading: Seydou Keïta
 kicker: Fotógrafo
-description: Seydou Keïta dirigiu o estúdio fotográfico mais famoso de Bamaco entre 1948 e 1962. Os seus retratos de uma cidade às portas da independência são hoje clássicos.
+description: Seydou Keïta dirigiu o estúdio mais famoso de Bamaco entre 1948 e 1962. Os seus retratos de uma cidade às portas da independência são hoje clássicos.
 summary: Seydou Keïta (c. 1921–2001) foi um fotógrafo retratista maliano que dirigiu o estúdio mais famoso de Bamaco entre 1948 e 1962. Os seus retratos elegantes e cuidadosamente compostos dos habitantes da cidade, feitos pouco antes e pouco depois da independência, são hoje reconhecidos como clássicos da fotografia do século XX.
 facts:
   - Nascimento | c. 1921, Bamaco, Mali

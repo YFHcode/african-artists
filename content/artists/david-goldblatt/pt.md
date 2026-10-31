@@ -3,7 +3,7 @@ title: David Goldblatt: fotógrafo das estruturas e paisagens do apartheid
 label: David Goldblatt
 heading: David Goldblatt
 kicker: Fotógrafo
-description: David Goldblatt (1930-2018) fotografou durante seis décadas as minas, os subúrbios, os trabalhadores e os edifícios da África do Sul, e fundou o Market Photo Workshop.
+description: David Goldblatt (1930-2018) fotografou seis décadas as minas, os subúrbios, os trabalhadores e os edifícios da África do Sul, e fundou o Market Photo Workshop.
 summary: David Goldblatt (1930-2018) foi um fotógrafo sul-africano que passou seis décadas a mostrar como o apartheid estava inscrito na paisagem, nos edifícios e no quotidiano do seu país. Os seus livros — On the Mines, Some Afrikaners Photographed, In Boksburg, The Transported of KwaNdebele — são clássicos da fotografia documental. Em 1989 fundou em Joanesburgo o Market Photo Workshop, que formou uma geração de fotógrafos.
 facts:
   - Nascimento | 29 de novembro de 1930, Randfontein, África do Sul

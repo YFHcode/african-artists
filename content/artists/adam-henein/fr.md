@@ -3,7 +3,7 @@ title: Adam Henein : sculpteur égyptien du granit, du bronze et du Sphinx
 label: Adam Henein
 heading: Adam Henein
 kicker: Sculpteur et peintre
-description: Adam Henein a taillé dans le granit et le bronze des figures calmes et intemporelles, a dirigé l'équipe de restauration du Grand Sphinx et fondé le symposium de sculpture d'Assouan.
+description: Adam Henein a taillé dans le granit et le bronze des figures calmes et intemporelles, dirigé la restauration du Grand Sphinx et fondé le symposium d'Assouan.
 summary: Adam Henein (1929-2020) était un sculpteur et peintre égyptien, le plus célèbre sculpteur égyptien depuis Mahmoud Mokhtar. Ses figures simplifiées d'êtres humains, d'oiseaux et d'animaux, en bronze et en granit, portent l'immobilité de l'art égyptien antique dans une forme moderne. Après de longues années à Paris, il est rentré en Égypte, a dirigé l'équipe chargée de concevoir la restauration du Grand Sphinx, a fondé le Symposium international de sculpture d'Assouan et a transformé sa maison près de Gizeh en musée.
 facts:
   - Naissance | 1929, Le Caire, Égypte

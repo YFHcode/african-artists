@@ -2,7 +2,7 @@
 title: Artistes sénégalais : Ousmane Sow, l'École de Dakar et aujourd'hui
 label: Artistes sénégalais
 heading: Artistes sénégalais
-description: Les artistes sénégalais, d'Ousmane Sow, Iba N'Diaye et Papa Ibra Tall à Seyni Awa Camara, Issa Samb et le photographe Omar Victor Diop, les plus recherchés d'abord.
+description: Les artistes sénégalais, d'Ousmane Sow, Iba N'Diaye et Papa Ibra Tall à Seyni Awa Camara, Issa Samb et le photographe Omar Victor Diop.
 ---
 Le Sénégal est l'un des grands foyers artistiques d'Afrique depuis l'indépendance. Le président-poète Léopold Sédar Senghor fait de l'art un projet national : l'[École de Dakar](/movements/ecole-de-dakar) de Papa Ibra Tall et Iba N'Diaye, les manufactures de tapisserie de Thiès, le Festival mondial des arts nègres de 1966. En réaction, Issa Samb et le Laboratoire Agit'Art créent un art expérimental et politique dans les rues de Dakar.
 

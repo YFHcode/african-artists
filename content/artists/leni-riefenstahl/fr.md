@@ -3,7 +3,7 @@ title: Leni Riefenstahl en Afrique : les photos des Nouba et leurs critiques
 label: Leni Riefenstahl
 heading: Leni Riefenstahl
 kicker: Cinéaste et photographe
-description: Leni Riefenstahl, réalisatrice de films de propagande nazis, a photographié les Nouba du Soudan ; un projet de recherche berlinois les étudie encore. Des images toujours contestées.
+description: Leni Riefenstahl, réalisatrice de films de propagande nazis, a photographié les Nouba du Soudan. Pourquoi ces images sont contestées, et qui les étudie.
 summary: Leni Riefenstahl (1902-2003) était une réalisatrice allemande connue avant tout pour ses films de propagande nazie, à commencer par Le Triomphe de la volonté (1935). Ce n'est pas une artiste africaine. Elle figure ici parce qu'à partir des années 1960 elle a photographié les Nouba du sud du Soudan, publié les livres à succès Die Nuba (1973) et Die Nuba von Kau (1976) — des photographies dont la critique a dit qu'elles prolongeaient l'esthétique de ses films nazis.
 facts:
   - Naissance | 22 août 1902, Berlin, Allemagne

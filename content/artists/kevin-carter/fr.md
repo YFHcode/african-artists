@@ -3,7 +3,7 @@ title: Kevin Carter : le photographe de l'enfant et du vautour (1960-1994)
 label: Kevin Carter
 heading: Kevin Carter
 kicker: Photojournaliste
-description: Kevin Carter a couvert la guerre des townships sud-africains et pris en 1993, au Soudan, la photo de l'enfant et du vautour, prix Pulitzer. Sa vie, son œuvre, le débat.
+description: Kevin Carter a couvert la guerre des townships et pris en 1993, au Soudan, la photo de l'enfant et du vautour, prix Pulitzer. Sa vie, son œuvre, le débat.
 summary: Kevin Carter (1960-1994) était un photojournaliste sud-africain, membre du Bang-Bang Club, les quatre photographes qui ont couvert la violence dans les townships pendant les dernières années de l'apartheid. Sa photographie d'un enfant affamé et d'un vautour, prise au Soudan en 1993, a reçu le prix Pulitzer de la photographie de reportage en 1994 et reste l'une des images de presse les plus discutées. Il est mort en juillet 1994, à 33 ans.
 facts:
   - Naissance | 13 septembre 1960, Johannesburg, Afrique du Sud

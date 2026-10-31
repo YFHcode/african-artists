@@ -2,7 +2,7 @@
 title: South African Painters: From Pierneef and Irma Stern to Marlene Dumas
 label: South African painters
 heading: South African painters
-description: South African painters, from J. H. Pierneef's landscapes and Irma Stern's Expressionism to Gerard Sekoto, Tretchikoff's Chinese Girl, Esther Mahlangu and Marlene Dumas.
+description: South African painters, from Pierneef's landscapes and Irma Stern's Expressionism to Gerard Sekoto, Tretchikoff, Esther Mahlangu and Marlene Dumas.
 ---
 South African painting in the twentieth century began with landscape and with the encounter with European modernism. J. H. Pierneef painted the highveld in ordered, geometric views; Irma Stern and Maggie Laubser brought German Expressionism home in the 1920s and were mocked for it before they were celebrated. Gerard Sekoto painted township life before leaving for Paris in 1947, George Pemba painted the Eastern Cape for seven decades, and Ernest Mancoba became part of the European avant-garde as a member of CoBrA. Vladimir Tretchikoff, scorned by critics, sold prints of *Chinese Girl* by the million.
 

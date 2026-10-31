@@ -1,5 +1,5 @@
 ---
-title: Romuald Hazoumè: The Beninese Artist of Jerrycan Masks and La Bouche du Roi
+title: Romuald Hazoumè: Benin's Artist of Jerrycan Masks, La Bouche du Roi
 label: Romuald Hazoumè
 heading: Romuald Hazoumè
 kicker: Artist

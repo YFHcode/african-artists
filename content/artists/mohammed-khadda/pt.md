@@ -3,7 +3,7 @@ title: Mohammed Khadda: o pintor argelino do signo (1930-1991)
 label: Mohammed Khadda
 heading: Mohammed Khadda
 kicker: Pintor
-description: Mohammed Khadda, aprendiz de tipografia em Mostaganem, foi um dos fundadores da pintura argelina moderna e fez das formas das letras árabes uma linguagem abstrata livre.
+description: Mohammed Khadda, aprendiz de tipografia em Mostaganem, foi um fundador da pintura argelina moderna e fez das letras árabes uma linguagem abstrata livre.
 summary: Mohammed Khadda (1930-1991) foi um pintor, escultor e escritor argelino, um dos fundadores da arte moderna da Argélia. A princípio autodidata, trabalhou como tipógrafo em Mostaganem antes de passar dez anos em Paris. De regresso à Argélia independente tornou-se a figura principal dos «pintores do signo», que construíram uma arte abstrata a partir das formas da escrita árabe e dos sinais amazigh, e defendeu essa arte nos seus escritos.
 facts:
   - Nascimento | 14 de março de 1930, Mostaganem, Argélia

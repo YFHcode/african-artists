@@ -3,7 +3,7 @@ title: Bachir Yellès: o decano dos pintores argelinos
 label: Bachir Yellès
 heading: Bachir Yellès
 kicker: Pintor
-description: Bachir Yellès, de Tlemcen, pintor e autor de selos, dirigiu durante duas décadas a escola de belas-artes de Argel e morreu em 2022 aos 100 anos, decano dos artistas argelinos.
+description: Bachir Yellès, de Tlemcen, pintor e autor de selos, dirigiu vinte anos a escola de belas-artes de Argel e morreu em 2022 aos 100 anos.
 summary: Bachir Yellès (1921-2022) foi um pintor, autor de selos e professor argelino de Tlemcen. Formado em Argel e Paris, dirigiu a escola nacional de belas-artes de Argel durante cerca de vinte anos, formando gerações de artistas argelinos, e desenhou selos para o seu país. Morreu em Argel em 2022 aos 100 anos, homenageado como o decano dos pintores argelinos.
 ---
 Bachir Yellès nasceu em Tlemcen, no oeste da Argélia, a 12 de setembro de 1921. Fez o secundário no Collège de Slane, em Tlemcen, estudou na Escola de Belas-Artes de Argel de 1943 a 1947 e depois na Escola de Belas-Artes de Paris de 1947 a 1950, onde teve entre os professores Eugène Narbonne e Nicolas Untersteller. Foi um dos pouquíssimos argelinos da sua geração a receber uma formação artística académica completa sob o domínio colonial.

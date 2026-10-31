@@ -3,7 +3,7 @@ title: Zanele Muholi : activisme visuel, Faces and Phases, Somnyama Ngonyama
 label: Zanele Muholi
 heading: Zanele Muholi
 kicker: Activisme visuel
-description: Zanele Muholi, photographe sud-africain·e et activiste visuel·le, documente les vies LGBTQIA+ noires avec Faces and Phases et se met en scène dans Somnyama Ngonyama.
+description: Zanele Muholi, photographe sud-africain·e et activiste visuel·le, documente les vies LGBTQIA+ noires avec Faces and Phases et se met en scène.
 summary: Zanele Muholi (né·e en 1972) est photographe et se définit comme activiste visuel·le. Sa série de portraits Faces and Phases, commencée en 2006, est une archive vivante des communautés lesbiennes, gays, trans, queer et intersexes noires d'Afrique du Sud ; sa série d'autoportraits Somnyama Ngonyama (« Salut à toi, lionne noire ») compte parmi les œuvres photographiques les plus connues du siècle. Muholi utilise des pronoms neutres (they en anglais, iel en français).
 facts:
   - Naissance | 1972, Umlazi, Durban, Afrique du Sud

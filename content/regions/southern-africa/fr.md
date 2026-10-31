@@ -3,7 +3,7 @@ title: L'art d'Afrique australe : art rupestre san, Grand Zimbabwe et Ndébélé
 label: Afrique australe
 heading: L'art d'Afrique australe
 kicker: Région
-description: L'art d'Afrique australe : peintures rupestres san, or de Mapungubwe et oiseaux du Grand Zimbabwe, peinture et perlage ndébélé, sculpture du Zimbabwe et artistes sud-africains.
+description: L'art d'Afrique australe : peintures san, or de Mapungubwe, oiseaux du Grand Zimbabwe, peinture ndébélé, sculpture du Zimbabwe et artistes d'aujourd'hui.
 summary: L'Afrique australe — Afrique du Sud, Zimbabwe, Mozambique, Namibie, Botswana et leurs voisins — conserve certains des plus anciens arts du monde, du dessin de Blombos aux peintures rupestres des San. Elle a produit le rhinocéros d'or de Mapungubwe et les oiseaux en stéatite du Grand Zimbabwe, les maisons peintes et le perlage des Ndébélé et des Zoulous, la sculpture moderne sur pierre du Zimbabwe et le Mozambicain Malangatana, ainsi qu'une scène contemporaine centrée sur Johannesburg et Le Cap.
 facts:
   - Pays | Afrique du Sud, Zimbabwe, Mozambique, Namibie, Botswana, Zambie, Malawi, Lesotho, Eswatini

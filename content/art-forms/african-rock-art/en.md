@@ -3,7 +3,7 @@ title: African Rock Art: The Sahara, San Paintings and the Oldest Drawings
 label: African rock art
 heading: African rock art
 kicker: Art form
-description: Africa holds some of the oldest and richest rock art on Earth: the Blombos drawing, Apollo 11 Cave, the Sahara's Tassili n'Ajjer, San paintings, Twyfelfontein and Laas Geel.
+description: Africa holds some of the oldest rock art on Earth: the Blombos drawing, Apollo 11 Cave, Tassili n'Ajjer, San paintings, Twyfelfontein and Laas Geel.
 summary: Africa has some of the oldest and most abundant rock art in the world. A cross-hatched drawing on stone from Blombos Cave in South Africa is about 73,000 years old; painted stone slabs from Apollo 11 Cave in Namibia date to between about 25,000 and 30,000 years ago; and hundreds of thousands of paintings and engravings — in the Sahara, the Drakensberg, Namibia, Tanzania and the Horn of Africa — record animals, people and beliefs over millennia.
 facts:
   - Oldest drawing | Ochre cross-hatching on a stone flake, Blombos Cave, South Africa, about 73,000 years old

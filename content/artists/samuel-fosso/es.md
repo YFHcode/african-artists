@@ -3,7 +3,7 @@ title: Samuel Fosso: los autorretratos de estudio de Bangui y African Spirits
 label: Samuel Fosso
 heading: Samuel Fosso
 kicker: Fotógrafo
-description: Samuel Fosso abrió un estudio en Bangui a los trece años y desde entonces se fotografía disfrazado, de estrella pop de los setenta a los libertadores de African Spirits.
+description: Samuel Fosso abrió un estudio en Bangui a los trece años y desde entonces se fotografía disfrazado, de estrella pop de los setenta a African Spirits.
 summary: Samuel Fosso (nacido en 1962) es un fotógrafo nacido en Camerún, criado en parte en Nigeria y afincado durante décadas en Bangui, República Centroafricana, y después en París. Desde que abrió su propio estudio a los trece años, su tema principal ha sido él mismo: autorretratos escenificados y disfrazados que juegan con la identidad, el género, la moda y la historia.
 ---
 Samuel Fosso nació en 1962 en Kumba, Camerún, de padres nigerianos, y pasó parte de su infancia en Nigeria; la familia huyó del conflicto por la secesión de Biafra a finales de los años sesenta. Se trasladó a Bangui, en la República Centroafricana, fue aprendiz de un fotógrafo y en 1975, con unos trece años, abrió allí su propio estudio.

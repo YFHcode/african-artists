@@ -66,10 +66,14 @@ the page, no fabricated facts, every article reachable within three clicks.
    place (`@vercel/analytics`, `<Analytics />` in the layout) and the English rewrite in
    `next.config.ts` leaves `/_vercel/` alone. A sent message is recorded as the custom event
    `contact_sent`.
-5. **Skipped builds:** `vercel.json` has an `ignoreCommand` that skips the build when a commit
-   only touches `docs/`, `data/sources/` or `README.md` — none of them are read by the build, and a
-   needless deploy resets the CDN cache for all ~2,000 prerendered routes. Any other change builds
-   as usual. To force a deploy of a docs-only commit, use Redeploy in the Vercel dashboard.
+5. **Deploys only on request:** `vercel.json` sets `git.deploymentEnabled` to `false`, so a push to
+   GitHub does not build anything. To publish what is on `main`, run the **Deploy to Vercel**
+   workflow (GitHub → Actions → Deploy to Vercel → Run workflow), or ask Claude to run it. It
+   calls a Vercel Deploy Hook stored as the repository secret `VERCEL_DEPLOY_HOOK_URL`; set it up
+   once: Vercel → Project → Settings → Git → Deploy Hooks → create one for branch `main`, copy its
+   URL, then GitHub → Settings → Secrets and variables → Actions → New repository secret. A
+   deploy can also be started from the Vercel dashboard (Deployments → Create Deployment, branch
+   `main`). Until a deploy runs, the live site keeps the last deployed version.
 
 ## After launch (playbook D.1 / 17.1)
 

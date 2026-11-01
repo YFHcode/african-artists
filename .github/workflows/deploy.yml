@@ -1,0 +1,44 @@
+# Deploys the site to Vercel production — only when someone asks.
+#
+# Pushes no longer build on their own (vercel.json: git.deploymentEnabled is
+# false), so commits to main wait until this runs. Start it from GitHub:
+# Actions → "Deploy to Vercel" → Run workflow (or ask Claude to run it).
+#
+# It calls a Vercel Deploy Hook for the main branch. The hook's URL is a
+# secret: anyone who has it can start a build. Create it once in Vercel
+# (Project → Settings → Git → Deploy Hooks, branch "main") and store it as the
+# repository secret VERCEL_DEPLOY_HOOK_URL (GitHub → Settings → Secrets and
+# variables → Actions). The "Live site check" runs when the deploy finishes.
+name: Deploy to Vercel
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Call the Vercel deploy hook
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::The VERCEL_DEPLOY_HOOK_URL secret is not set. Create a deploy hook in Vercel (Project → Settings → Git → Deploy Hooks, branch main) and add its URL as a repository secret with that name."
+            exit 1
+          fi
+          response=$(curl -fsS -X POST "$HOOK")
+          echo "$response"
+          {
+            echo "### Deploy requested"
+            echo
+            echo "Vercel accepted the request and is building \`main\` at ${GITHUB_SHA::7}: \`$response\`."
+            echo "The build takes a few minutes; the Live site check runs when it is done."
+          } >> "$GITHUB_STEP_SUMMARY"

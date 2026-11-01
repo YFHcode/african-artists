@@ -228,32 +228,6 @@
    {
     "src": "/images/places/instruments-kalimba-1.webp",
     "width": 800,
-    "height": 678,
-    "file": "Mbira1.png",
-    "author": "Alex Weeks , Later version(s) were uploaded by Jellocube27",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:Mbira1.png",
-    "caption": {
-     "en": "Taken be me, Alex Weeks on an Olympus C770. 2\" at F8 under under an incandescent room light."
-    }
-   },
-   {
-    "src": "/images/places/instruments-kalimba-2.webp",
-    "width": 800,
-    "height": 765,
-    "file": "Mbira dzavadzimu in deze.jpg",
-    "author": "Alex Weeks",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:Mbira_dzavadzimu_in_deze.jpg",
-    "caption": {
-     "en": "An Mbira Dzavadzimu in a deze, taken with an Olympus C-770 digital camera on 2005-11-11, cropped using the GIMP."
-    }
-   },
-   {
-    "src": "/images/places/instruments-kalimba-3.webp",
-    "width": 800,
     "height": 671,
     "file": "Holding an mbira dzavadzimu.jpg",
     "author": "Alex Weeks",
@@ -263,52 +237,132 @@
     "caption": {
      "en": "Image of how to hold an Mbira Dzavadzimu, taken with an Olympus C-770 digital camera- Cropped using the GIMP."
     }
+   },
+   {
+    "src": "/images/places/instruments-kalimba-2.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Ikembe-sanza-mbira.JPG",
+    "author": "19Tarrestnom65",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ikembe-sanza-mbira.JPG",
+    "caption": {
+     "en": "Piano de mano de Burundi"
+    }
+   },
+   {
+    "src": "/images/places/instruments-kalimba-3.webp",
+    "width": 800,
+    "height": 659,
+    "file": "Musée africain de Lyon - décembre 2015 (7).JPG",
+    "author": "Benoît Prieur",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_africain_de_Lyon_-_d%C3%A9cembre_2015_(7).JPG",
+    "caption": {
+     "en": "Images du musée africain de Lyon: Sanza d'enfant à cinq lames. Yoruba? Bénin? 1920. Bois et lamelles de palmes."
+    }
    }
   ],
   "instruments/djembe": [
    {
     "src": "/images/places/instruments-djembe-1.webp",
     "width": 800,
-    "height": 710,
-    "file": "Djembe skin mounting system.jpg",
-    "author": "Michi Henning",
+    "height": 686,
+    "file": "Djembé player.JPG",
+    "author": "Jacopo Prisco",
     "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Djembe_skin_mounting_system.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Djemb%C3%A9_player.JPG",
     "caption": {
-     "en": "Schematic of how the skin is routed and trapped between the crown ring and flesh ring."
+     "en": "Some Djmbé player at Festmbiente 2007 Vicenza"
     }
    },
    {
     "src": "/images/places/instruments-djembe-2.webp",
     "width": 800,
-    "height": 710,
-    "file": "Djembe skin mounting system - three rings.jpg",
-    "author": "Michi Henning",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Djembe_skin_mounting_system_-_three_rings.jpg",
+    "height": 533,
+    "file": "La fabrique du \"Diembé\".jpg",
+    "author": "COD photographer",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_fabrique_du_%22Diemb%C3%A9%22.jpg",
     "caption": {
-     "en": "Schematic of how the skin is routed and trapped between the crown ring and flesh ring with a three-ring system."
+     "en": "Processus de sculpture d'instrument musicale du tam-tam avec de la hache."
     }
    },
    {
     "src": "/images/places/instruments-djembe-3.webp",
     "width": 800,
-    "height": 600,
-    "file": "Djembe - Inside Spiral.JPG",
-    "author": "Michi Henning",
+    "height": 533,
+    "file": "La finition.jpg",
+    "author": "COD photographer",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_finition.jpg",
+    "caption": {
+     "en": "Processus de sculpture d'instrument musicale du tam-tam avec de la hache."
+    }
+   },
+   {
+    "src": "/images/places/instruments-djembe-4.webp",
+    "width": 800,
+    "height": 522,
+    "file": "2006-07-06 crash paiste 16.jpg",
+    "author": "Stephan Czuratis ( Jazz-face )",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:2006-07-06_crash_paiste_16.jpg",
+    "caption": {
+     "en": "16 inches Crash Cymbal made by Paiste"
+    }
+   },
+   {
+    "src": "/images/places/instruments-djembe-5.webp",
+    "width": 800,
+    "height": 533,
+    "file": "Djembé kessing.jpg",
+    "author": "Qniemiec",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Djembe_-_Inside_Spiral.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Djemb%C3%A9_kessing.jpg",
     "caption": {
-     "en": "Spiral pattern that is left behind by carving on the inside of a djembe made of djalla wood."
+     "en": "West-African djembé kessing"
+    }
+   },
+   {
+    "src": "/images/places/instruments-djembe-6.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Learning djembe.jpg",
+    "author": "sookie",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Learning_djembe.jpg",
+    "caption": {
+     "en": "Learning the djembe in Queen's Park."
     }
    }
   ],
   "instruments/mbira": [
    {
     "src": "/images/places/instruments-mbira-1.webp",
+    "width": 800,
+    "height": 671,
+    "file": "Holding an mbira dzavadzimu.jpg",
+    "author": "Alex Weeks",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Holding_an_mbira_dzavadzimu.jpg",
+    "caption": {
+     "en": "Holding an mbira dzavadzimu: both hands support the board while the thumbs and a finger pluck the keys.",
+     "fr": "Tenir une mbira dzavadzimu : les deux mains soutiennent la planche pendant que les pouces et un doigt pincent les lames.",
+     "pt": "Segurar uma mbira dzavadzimu: as duas mãos apoiam a tábua enquanto os polegares e um dedo tocam as lâminas."
+    }
+   },
+   {
+    "src": "/images/places/instruments-mbira-2.webp",
     "width": 800,
     "height": 678,
     "file": "Mbira1.png",
@@ -317,11 +371,13 @@
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "page": "https://commons.wikimedia.org/wiki/File:Mbira1.png",
     "caption": {
-     "en": "Taken be me, Alex Weeks on an Olympus C770. 2\" at F8 under under an incandescent room light."
+     "en": "A Shona mbira: metal keys fixed to a wooden board.",
+     "fr": "Une mbira shona : des lames métalliques fixées sur une planche de bois.",
+     "pt": "Uma mbira shona: lâminas de metal presas a uma tábua de madeira."
     }
    },
    {
-    "src": "/images/places/instruments-mbira-2.webp",
+    "src": "/images/places/instruments-mbira-3.webp",
     "width": 800,
     "height": 765,
     "file": "Mbira dzavadzimu in deze.jpg",
@@ -330,7 +386,9 @@
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "page": "https://commons.wikimedia.org/wiki/File:Mbira_dzavadzimu_in_deze.jpg",
     "caption": {
-     "en": "An Mbira Dzavadzimu in a deze, taken with an Olympus C-770 digital camera on 2005-11-11, cropped using the GIMP."
+     "en": "An mbira dzavadzimu inside its deze, a gourd resonator with a rim of shells.",
+     "fr": "Une mbira dzavadzimu dans sa deze, calebasse résonante au bord orné de coquillages.",
+     "pt": "Uma mbira dzavadzimu dentro da sua deze, cabaça ressoante com o rebordo ornado de conchas."
     }
    }
   ],
@@ -345,7 +403,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "page": "https://commons.wikimedia.org/wiki/File:Kora-Player2.jpg",
     "caption": {
-     "en": "\"Jali Fily Sissokho, a Mandinka kora player from Senegal. Performance in the Pitt Rivers Museum\""
+     "en": "Jali Fily Sissokho, a Mandinka kora player from Senegal, performing at the Pitt Rivers Museum.",
+     "fr": "Jali Fily Sissokho, joueur de kora mandingue du Sénégal, en concert au Pitt Rivers Museum."
     }
    },
    {
@@ -358,20 +417,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:4_Koras_showing_4_sides.jpg",
     "caption": {
-     "en": "This is an image from"
-    }
-   },
-   {
-    "src": "/images/places/instruments-kora-3.webp",
-    "width": 800,
-    "height": 600,
-    "file": "4 Koras.jpg",
-    "author": "Mathaz",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:4_Koras.jpg",
-    "caption": {
-     "en": "This is an image from"
+     "en": "Four koras seen from different sides: calabash bodies covered with skin, long necks and two hand posts.",
+     "fr": "Quatre koras vues sous différents angles : corps en calebasse couverts de peau, longs manches et deux montants."
     }
    }
   ],
@@ -386,7 +433,8 @@
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "page": "https://commons.wikimedia.org/wiki/File:African_Balafon_in_Museu_Oscar_Niemeyer.jpg",
     "caption": {
-     "en": "The balafon is a West African xylophone with wooden keys over gourd resonators, played with mallets; it sometimes uses membranes for a characteristic buzz and…"
+     "en": "A balafon with wooden slats over gourd resonators, in the Museu Oscar Niemeyer.",
+     "fr": "Un balafon aux lames de bois posées sur des calebasses résonantes, au Museu Oscar Niemeyer."
     }
    },
    {
@@ -399,39 +447,14 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "page": "https://commons.wikimedia.org/wiki/File:Balafon_children_burkina_faso.jpg",
     "caption": {
-     "en": "Children from Burkina Faso perform during the 5th Cross Culture Festival in Warszawa, Poland"
-    }
-   },
-   {
-    "src": "/images/places/instruments-balafon-3.webp",
-    "width": 800,
-    "height": 598,
-    "file": "Balafoon.jpg",
-    "author": "Redmedea at Dutch Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:Balafoon.jpg",
-    "caption": {
-     "en": "Een balafoon is een slaginstrument, afkomstig uit West-Afrika. Het instrument lijkt op een xylofoon. Zelfgemaakte foto."
+     "en": "Children from Burkina Faso playing balafons and drums at the Cross Culture Festival in Warsaw.",
+     "fr": "Des enfants du Burkina Faso jouant du balafon et des tambours au Cross Culture Festival de Varsovie."
     }
    }
   ],
   "instruments/talking-drum": [
    {
     "src": "/images/places/instruments-talking-drum-1.webp",
-    "width": 800,
-    "height": 533,
-    "file": "Gangan.jpg",
-    "author": "EmmanuelOEmmanuel",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Gangan.jpg",
-    "caption": {
-     "en": "This is an image from"
-    }
-   },
-   {
-    "src": "/images/places/instruments-talking-drum-2.webp",
     "width": 800,
     "height": 422,
     "file": "Iya Ilu Dundun.png",
@@ -440,11 +463,12 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Iya_Ilu_Dundun.png",
     "caption": {
-     "en": "This is an image from"
+     "en": "An ìyá ìlù dùndún, the lead talking drum of the Yoruba, with a decorated strap and small bells.",
+     "fr": "Un ìyá ìlù dùndún, tambour parleur principal des Yoruba, avec sa bandoulière décorée et ses petites clochettes."
     }
    },
    {
-    "src": "/images/places/instruments-talking-drum-3.webp",
+    "src": "/images/places/instruments-talking-drum-2.webp",
     "width": 800,
     "height": 533,
     "file": "WIKI LOVES AFRICA 2016 HYPERFOCALSTUDIOS.jpg",
@@ -453,7 +477,8 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:WIKI_LOVES_AFRICA_2016_HYPERFOCALSTUDIOS.jpg",
     "caption": {
-     "en": "This is an image from"
+     "en": "Young drummers carrying talking drums and curved sticks in a procession.",
+     "fr": "De jeunes tambourinaires portant des tambours parleurs et des baguettes courbes lors d'un cortège."
     }
    }
   ]

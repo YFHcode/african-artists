@@ -61,7 +61,7 @@ Semrush data yet — pull it before writing.*
 | [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
 | [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☑ 1 Nov; check 19 Dec |
 | [12](#batch-12--instruments-1) | Instruments 1 | 7 | 4 | 30 Nov 2026 | ☑ 1 Nov, with photographs |
-| [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ |
+| [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ planned in detail 1 Nov; header fix first |
 | [14](#batch-14--patterns-and-dress-1) | Patterns and dress 1 | 7 | 3 | 31 Dec 2026 | ☐ |
 | [15](#batch-15--black-history-month) | Black History Month (US) | 3 | 3 | 10 Jan 2027 | ☐ |
 | [16](#batch-16--artists-of-the-diaspora-and-today) | Artists of the diaspora and today | 9–10 | 4 | 31 Jan 2027 | ☐ |
@@ -347,25 +347,134 @@ Mapfumo and the mbira, Fela Kuti and the talking drum, the "lunsi" spelling.
 
 ## Batch 13 — Symbols 1
 
-**Target:** 15 December 2026.
-**Code:** new `symbols` collection; a printable adinkra chart (PDF), offered as the newsletter's
-welcome gift once the newsletter exists.
+**Target:** 15 December 2026. Detailed plan written 1 November 2026 after reading the adinkra page,
+the pages that will link in, and the site header, and after a fresh Semrush pull (below). Scope
+is the original list: the hub, the adinkra upgrade with drawings and a printable chart, and five
+symbol pages.
 
 | Page | Primary keyword | Secondary keywords | Other markets | Languages |
 |---|---|---|---|---|
-| `/symbols` (hub) — African symbols and their meanings | *african symbols* 1,900 / 28 | *african symbols meaning* 590 / 22 · *africa symbol* 590 / 28 · *african symbols and meanings* 480 / 22 · *meaning of african symbols* 480 / 35 · *symbol of africa* 480 / 21 · *akan symbols* 320 / 25 | — | EN FR ES PT AR |
-| `art-forms/adinkra-symbols` — **upgrade** to a full dictionary (each symbol drawn as our own SVG, with its name, meaning and proverb), plus the printable chart | *adinkra symbols* 9,900 / 31 | as batch 11, plus *adinkra symbol* 720 / 37 · *adinkra jewelry* 1,000 / 7 (a buying box) | BR *adinkra* 6,600 / 34, *símbolos adinkra* 2,900 / 23 · UK 2,400 / 32 · FR 480 / 35 | all 5 |
-| `symbols/sankofa` | *sankofa meaning* 3,600 / 28 | *sankofa symbol* 1,300 / 21 · *sankofa* 12,100 / 47 (shared with a person's name) | BR *sankofa* 12,100 / 29 · UK 1,600 / 40 · MX 1,000 / 38 · FR 590 / 26 | EN PT ES FR |
-| `symbols/gye-nyame` | *gye nyame* 2,400 / 19 | *gye nyame symbol* 880 / 25 · *gye nyame meaning* 320 / 14 · *meaning of gye nyame* 260 / 12 · *adinkra gye nyame* 210 / 26 · *gye nyame tattoo* 210 / 19 | — | EN PT |
-| `symbols/ankh` | *ankh meaning* 18,100 / 39 · *ankh* 49,500 / 31 | *ankh symbol* 9,900 / 27 · *symbol for ankh* 12,100 / 57 · *ankh cross* 4,400 / 37 · buying box: *ankh necklace* 4,400 / 29, *ankh jewelry* 3,600 / 14 | UK 8,100 / 50 · BR 6,600 / 34 · EG *مفتاح الحياة* 6,600 / 33 · FR 4,400 / 26 · MX 2,900 / 44 · ES 2,400 / 33 | all 5 |
-| `symbols/eye-of-horus` | *eye of horus* 40,500 / 50 · *eye of horus meaning* 5,400 / 40 | *eye of horus eye of ra* 6,600 / 42 · *eye of horus vs eye of ra* 3,600 / 50 · *eye of horus amulet* 2,400 / 16 · *eye of horus tattoo* 4,400 / 31 | MX *ojo de horus* 18,100 / 33 · BR *olho de horus* 14,800 / 34 · ES 6,600 / 33 · EG *عين حورس* 6,600 / 34 · PT 1,300 / 25 | ES PT AR EN FR |
-| `symbols/nsibidi` | *nsibidi* 1,000 / 36 | — | — | EN |
+| `/symbols` (hub) — African symbols and their meanings | *african symbols* 1,900 / 28 | *african symbols meaning* 590 / 22 · *africa symbol* 590 / 28 · *african symbols and meanings* 480 / 22 · *meaning of african symbols* 480 / 35 · *symbol of africa* 480 / 21 · *akan symbols* 320 / 25 | BR *simbolos africanos* 1,900 / 35, *símbolos africanos* 1,000 / 34, *simbolos africanos e seus significados* 590 / **15** · FR *symbole africain* 260 / 32 · MX 110 · EG 10 | EN FR ES PT AR |
+| `art-forms/adinkra-symbols` — **upgrade** to a full dictionary (each symbol drawn as our own SVG, with its name, meaning and proverb), plus the printable chart | *adinkra symbols* 9,900 / 31 | as batch 11, plus *adinkra symbol* 720 / 37 · *adinkra jewelry* 1,000 / 7 (a buying box) | BR *adinkra* 6,600 / 34, *símbolos adinkra* 2,900 / 23 · UK 2,400 / 32 · FR *adinkra* 480 / 35, *symboles adinkra* 110 | all 5 |
+| `symbols/sankofa` | *sankofa meaning* 3,600 / 28 | *sankofa symbol* 1,300 / 21 · **sankofa bird 2,400 / 22** · *sankofa heart* 260 / 25 · *sankofa* 12,100 / 47 (shared with a person's name) | BR *sankofa* 12,100 / 29, *sankofa significado* 2,400 / 30 · UK 1,600 / 40 · MX 1,000 / 38 · FR 590 / 26 | EN PT ES FR |
+| `symbols/gye-nyame` | *gye nyame* 2,400 / 19 | *gye nyame symbol* 880 / 25 · *gye nyame meaning* 320 / 14 · *meaning of gye nyame* 260 / 12 · *adinkra gye nyame* 210 / 26 · *gye nyame tattoo* 210 / 19 | BR 590 / 28 · FR 140 (no French edition) | EN PT |
+| `symbols/ankh` | *ankh meaning* 18,100 / 39 · *ankh* 49,500 / 31 | *ankh symbol* 9,900 / 27 · *symbol for ankh* 12,100 / 57 · *ankh cross* 4,400 / 37 · *ankh vs cross* 320 / 34 · buying box: *ankh necklace* 4,400 / 29, *ankh jewelry* 3,600 / 14 | UK 8,100 / 50 · BR 6,600 / 34, *cruz ansata* 2,900 / 30, *ankh significado* 1,300 / 33 · EG *مفتاح الحياة* 6,600 / 33, *مفتاح الحياة الفرعوني* 1,600 / 27, *عنخ* 590 · FR 4,400 / 26, *croix ankh* 1,900 / **21** · MX 2,900 / 44 · ES 2,400 / 33 | all 5 |
+| `symbols/eye-of-horus` | *eye of horus* 40,500 / 50 · *eye of horus meaning* 5,400 / 40 | **eye of ra 12,100 / 21** · *eye of horus eye of ra* 6,600 / 42 · *eye of horus vs eye of ra* 3,600 / 50 · *eye of horus amulet* 2,400 / 16 · *eye of horus tattoo* 4,400 / 31 | MX *ojo de horus* 18,100 / 33, *ojo de ra* 2,900 / 34, *ojo de horus significado* 2,400 / 37 · BR *olho de horus* 14,800 / 34, *olho de horus significado* 2,900 / **19**, *olho de rá* 1,000 · FR *oeil d'horus* 4,400 / **19**, *oeil de ra* 880 / **10** · EG *عين حورس* 6,600 / 34, *عين رع* 260 · ES 6,600 / 33 · PT 1,300 / 25 | ES PT AR EN FR |
+| `symbols/nsibidi` | *nsibidi* 1,000 / 36 | *nsibidi symbols* 320 / 24 · *nsibidi writing* 90 / 13 | FR 110 | EN |
 
-**Links in:** `art-forms/kente-cloth`, `art-forms/adinkra-symbols`, `art-forms/mudcloth`, Ghana and
-Egypt country lists, `regions/west-africa`, `regions/north-africa`, Kwame Akoto-Bamfo and other
-artists who use adinkra.
-**Done when:** ☐ collection code · ☐ SVG drawings · ☐ printable PDF · ☐ 6 EN pages ·
-☐ translations · ☐ released
+### What the new keyword pull changed (1 November 2026, 680 units)
+
+- **Eye of Ra is big on its own:** *eye of ra* 12,100 / 21 in the US, easier than *eye of horus*.
+  The Eye of Horus page gets a full section "Eye of Horus and Eye of Ra", with a clear answer at the
+  top. Whether it later deserves its own page is a question for the four-week check, not this batch.
+- **French is a real market for the two Egyptian symbols:** *oeil d'horus* 4,400 / 19 and *croix
+  ankh* 1,900 / 21, both easier than the English terms. French editions get the same care as English.
+- **Sankofa bird** 2,400 / 22: the sankofa page explains both forms, the bird looking back and the
+  heart-shaped sign.
+- **The hub is an English and Brazilian page.** *Symbole africain* (FR 260), *simbolos africanos*
+  (MX 110) and *رموز افريقية* (EG 10) have almost no demand. The FR, ES and AR hubs are short
+  navigation pages; the PT hub is written in full for *simbolos africanos* (BR 2,900 combined).
+- **The printable chart has no search demand** (*adinkra chart*, *adinkra symbols printable*,
+  *african symbols chart*: 20 each). Its value is as a gift and something people share and link to,
+  not as a search target.
+
+### 0. Fix the site header first (found while planning)
+
+The desktop header no longer fits at common laptop widths, and adding "Symbols" would make it
+worse. Measured on the current build at 1280px: the header content is 1,244px wide in English,
+1,317px in French and 1,258px in Portuguese, for a 1,152px container. English, French and Portuguese
+pages scroll sideways, and the language switcher is cut off (French shows only "EN FR"). French
+already overflowed after the museums section was added on 31 October; "Instruments" (batch 12)
+tipped English and Portuguese over.
+
+**Fix:** a two-row desktop header. Row one: the wordmark, the search box, "Buy this domain" and
+the languages. Row two: the section links, which then have the full 1,152px (nine links
+measure well under 900px in every edition). No section is dropped. Check at 1280, 1366 and
+1440px in all five editions (Arabic is right-to-left), and add a test that fails if the header
+content is wider than its container. **Ship this on its own, before anything else in this batch.**
+
+### 1. Code
+
+| Piece | Detail |
+|---|---|
+| `symbols` collection | Same pattern as `instruments`: entries in `catalog.ts` (sankofa GH, gye nyame GH, ankh EG, eye of horus EG, nsibidi NG and CM, with their editions), routes, nav (after Regions), search index, `llms.txt`, i18n labels (Symbols · Symboles · Símbolos · Símbolos · الرموز), the hub `pages/index-symbols` in five languages, tests. Every edition has at least one symbol page (Arabic: ankh and Eye of Horus), and the header shows the section where there are three. |
+| Adinkra dictionary data | `src/content/adinkra.ts`: one entry per symbol with its Twi name, the literal meaning and what it stands for in five languages, the proverb (Twi and the five languages) where sourced, and its sources. The five Markdown editions keep their prose; the table is replaced by a marker where the dictionary renders, so the editions cannot drift apart. |
+| Drawings | One SVG per symbol in `public/images/adinkra/<slug>.svg`, drawn by us: `viewBox="0 0 100 100"`, solid black shapes, no copying of a particular artwork. Served as `<img>` with alt text such as "Sankofa adinkra symbol", so Google Images can index each one. Each drawing is checked side by side against two references (public-domain drawings on Commons and a printed or museum source) before it is used. References come through the GitHub Actions workflow on a scratch branch and are never published. |
+| Dictionary on the page | A grid: drawing, name, literal meaning, meaning, proverb; each symbol has an anchor (`#sankofa`) so other pages link straight to it. `DefinedTermSet` structured data, one `DefinedTerm` per symbol. |
+| Printable chart | `scripts/build-adinkra-chart.mjs` renders the dictionary data to PDF with the pre-installed Chromium (A4 and US Letter), in all five languages (Arabic right to left), into `public/downloads/`. Run by hand when the dictionary changes, not in the Vercel build. Credits and the site's address in the footer of each page. |
+| "Where to buy" box | One component (growth plan item 8): a disclosure line, `rel="sponsored"` on every link, shown only where buying is the reader's question: *adinkra jewelry* on the adinkra page and *ankh necklace / jewelry* on the ankh page. It needs an affiliate account (Etsy via Awin is the plan); **until one is approved, the box carries buying advice only, with no links.** |
+
+### 2. Content, page by page
+
+Every claim gets a source in `data/sources/symbols/<slug>.md`; the adinkra additions go in
+`data/sources/art-forms/adinkra-symbols.md`. Anything unverified stays out.
+
+| Page | Outline | To verify first |
+|---|---|---|
+| **Hub** | Answer first: what "African symbols" covers and why there is no single set; the families on the site (Akan adinkra, Egyptian hieroglyphic signs, nsibidi), each linked; how to read a symbol (proverb, context, who uses it); a note on using symbols respectfully (tattoos, logos) | Nothing new: it restates the pages |
+| **Adinkra (upgrade)** | The dictionary (below); the chart download; the buying box; the existing history, making and "today" sections stay | Each symbol's name, literal meaning, meaning and proverb, from two sources that agree; spellings of the Twi names |
+| **Sankofa** | Answer first: what sankofa means (the Twi words and the proverb); the two forms, bird and heart; where it is seen (Ghana, the diaspora, Haile Gerima's 1993 film already on the adinkra page); the heart-shaped sign at the African Burial Ground in New York only if sourced, and stated as an interpretation if historians present it that way; questions | The word's breakdown and the proverb's wording; the Burial Ground identification and how secure it is |
+| **Gye Nyame** | Answer first: "except for God" and what that means; the most widely used adinkra sign and where it appears; a note on tattoos and jewellery; questions | Meaning and proverb; any claim about where it appears officially (stamps, coins, buildings) needs a source |
+| **Ankh** | Answer first: the hieroglyph for "life"; what it shows and the competing explanations of its origin, as competing explanations; who holds it in Egyptian art; the Coptic *crux ansata*; modern use; "ankh vs cross"; the buying box | Every statement against Egyptology sources (museum collection pages, standard reference works), not symbol or jewellery sites |
+| **Eye of Horus** | Answer first: the *wedjat*, the myth of the injured and restored eye, the amulets; **Eye of Horus and Eye of Ra** (different ideas; how they are confused); the "fractions" story, presented with its scholarly doubts; questions | The myth's versions; the Eye of Ra distinction; the fractions claim (disputed by scholars) |
+| **Nsibidi** | Answer first: the sign system of south-eastern Nigeria and south-western Cameroon and its link to the Ekpe (leopard) society; what is known about its age and use, and what is not; early twentieth-century accounts; its use by modern artists and in film, only where sourced | The peoples named, the Ekpe link, the dates of the first written accounts, the film claim |
+
+**How big is the "full dictionary"?** Every symbol that passes the source rule (name, meaning and
+proverb from two agreeing sources), aiming for about **40**: the 20 already on the page first,
+then the next most searched. A smaller sourced dictionary is better than a large guessed one.
+
+### 3. Links in
+
+As in the original plan: `art-forms/kente-cloth`, `art-forms/adinkra-symbols`, `art-forms/mudcloth`,
+the Ghana and Egypt country lists, `regions/west-africa`, `regions/north-africa`, Kwame Akoto-Bamfo,
+Kofi Antubam and the National Museum of Ghana (the pages that already mention adinkra). Nsibidi needs
+three English articles linking to it: the adinkra page, `regions/west-africa` and
+`art-forms/african-textiles` (Ekpe cloth), each only if the sourced text supports the link. Region
+pages also list the new pages automatically. `catalog.ts`: a `SYMBOLS_RELEASE` date and the list of
+revised pages, so *Updated* is honest.
+
+### Translations
+
+| Page | Editions | Note |
+|---|---|---|
+| Hub | EN FR ES PT AR | PT in full; FR, ES and AR short |
+| Adinkra dictionary | all 5 | Text comes from `adinkra.ts`; the five charts too |
+| Sankofa | EN PT ES FR | |
+| Gye Nyame | EN PT | |
+| Ankh | all 5 | AR written for *مفتاح الحياة* |
+| Eye of Horus | ES PT AR EN FR | |
+| Nsibidi | EN | |
+
+About 22 Markdown files, five charts, and the dictionary text in five languages. Each edition
+links only to pages that exist in it; the length test (0.85, Arabic 0.7) applies.
+
+### Schedule
+
+| Days | Work |
+|---|---|
+| 2–4 Nov | **Header fix** (step 0), released alone |
+| 5–12 Nov | Collection code and tests; `adinkra.ts` model; dictionary component and schema; research and source logs for all six pages |
+| 13–22 Nov | Draw the SVGs, each checked against two references; English pages: hub, sankofa, gye nyame, ankh, Eye of Horus, nsibidi; adinkra upgrade |
+| 23–30 Nov | Translations; the chart in five languages; the buying-box component; links in |
+| 1–5 Dec | Tests, build, crawl; release; request indexing for `/symbols`, ankh, Eye of Horus and the adinkra page |
+| 15 Dec | Done (target) |
+| 12 Jan | Four-week check: positions and clicks for the ankh, Eye of Horus, sankofa and adinkra pages; decide whether Eye of Ra needs its own page |
+
+### Owner actions
+
+- Apply to an affiliate programme for the buying boxes (Etsy via Awin is the plan). Without it the
+  boxes go live as advice only.
+- Decide how the chart is offered until the newsletter exists. **Recommended:** a free download
+  now; when the newsletter starts it becomes the welcome gift as well.
+
+### Not in this batch
+
+- **Photographs** of ankh and Eye of Horus objects in museums (Commons has many in the public
+  domain). They are not in the original plan; the same loop as batch 12 would add them if wanted.
+- An Eye of Ra page, more symbol families (Ndebele, Amazigh signs), symbol search: later batches.
+
+**Done when:** ☐ header fix · ☐ collection code · ☐ SVG drawings · ☐ printable PDF · ☐ 6 EN pages ·
+☐ translations · ☐ links in · ☐ released
 
 ---
 

@@ -60,7 +60,7 @@ Semrush data yet — pull it before writing.*
 |---|---|---:|---:|---|---|
 | [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
 | [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☑ 1 Nov; check 19 Dec |
-| [12](#batch-12--instruments-1) | Instruments 1 | 7 | 4 | 30 Nov 2026 | ☑ 1 Nov (photographs and English-only Search Console check to follow) |
+| [12](#batch-12--instruments-1) | Instruments 1 | 7 | 4 | 30 Nov 2026 | ☑ 1 Nov, with photographs |
 | [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ |
 | [14](#batch-14--patterns-and-dress-1) | Patterns and dress 1 | 7 | 3 | 31 Dec 2026 | ☐ |
 | [15](#batch-15--black-history-month) | Black History Month (US) | 3 | 3 | 10 Jan 2027 | ☐ |
@@ -340,7 +340,7 @@ Next.js 16 drops a whole route if `generateStaticParams` returns an empty list f
 language, so the article route now falls back to all slugs for a language with none.
 **Left out on purpose:** claims the searches could not confirm (see the source notes): Thomas
 Mapfumo and the mbira, Fela Kuti and the talking drum, the "lunsi" spelling.
-☐ photographs for the six instruments (same loop as batches 10 and 11) · ☐ request indexing for
+☑ photographs for the six instruments, 1 Nov (kalimba 3, djembe 3, mbira 3, kora 2, balafon 2, talking drum 2; each viewed, weak ones excluded; captions in each page's editions; the djembe's own article offered only diagrams, so its pictures come from other Wikipedia editions; the kalimba page shows an mbira and two museum thumb pianos, captioned as such) · ☐ request indexing for
 `/instruments` and the kalimba page · ☐ Search Console check four and eight weeks on.
 
 ---

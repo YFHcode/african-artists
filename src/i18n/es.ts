@@ -122,6 +122,8 @@ const es: Dictionary = {
         credit: 'Imagen',
         commons: 'Wikimedia Commons',
         publicDomain: 'dominio público',
+        places: 'Fotografías',
+        placeCredits: 'Guías y lugares',
     },
     buy: {
         title: 'Comprar AfricanArtists.com — dominio premium en venta',

@@ -27,8 +27,8 @@ Le musée est aussi devenu le lieu des objets restitués. Un sabre attribué à 
 
 ## La Biennale de Dakar
 
-Le musée est devenu le principal lieu de [Dak'Art](/guides/african-art-fairs-and-biennales), la biennale de l'art africain contemporain. En 2024, il a accueilli la plupart des expositions, dont les pavillons des pays invités ; l'édition 2026, dont le directeur artistique est Morad Montazami, y a été lancée et se tient du 19 novembre au 19 décembre 2026. En 2022, le musée a présenté *Picasso à Dakar 1972-2022*, cinquante ans après une exposition Picasso à Dakar en 1972.
+Le musée est devenu le principal lieu de [Dak'Art](/guides/african-art-fairs-and-biennales), la biennale de l'art africain contemporain. En 2024, il a accueilli la plupart des expositions, dont les pavillons des pays invités ; l'édition 2026, dont le directeur artistique est Morad Montazami, y a été lancée et se tient du 19 novembre au 19 décembre 2026 (voir notre [guide de Dak'Art](/guides/dakar-biennale)). En 2022, le musée a présenté *Picasso à Dakar 1972-2022*, cinquante ans après une exposition Picasso à Dakar en 1972.
 
 ## Visiter
 
-Vérifiez les horaires sur place. La collection plus ancienne de masques et d'objets d'Afrique de l'Ouest se trouve au [Musée Théodore-Monod](/museums/theodore-monod-museum), et la page sur l'[École de Dakar](/movements/ecole-de-dakar) raconte l'histoire des peintres de l'époque de Senghor. Pour les autres musées du continent, voir [où voir l'art africain](/guides/where-to-see-african-art).
+Vérifiez les horaires sur place. La collection plus ancienne de masques et d'objets d'Afrique de l'Ouest se trouve au [Musée Théodore-Monod](/museums/theodore-monod-museum), et la page sur l'[École de Dakar](/movements/ecole-de-dakar) raconte l'histoire des peintres de l'époque de Senghor. Pour un parcours qui l'associe à Gorée et à la biennale, voir notre [guide de Dakar pour les amateurs d'art](/guides/dakar-for-art-lovers) ; pour les autres musées du continent, voir [où voir l'art africain](/guides/where-to-see-african-art).

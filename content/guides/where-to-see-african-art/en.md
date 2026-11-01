@@ -47,6 +47,6 @@ Many historical objects in European and American museums were taken during the c
 
 ## Related
 
-To see new work rather than collections, time your trip with one of the [African art fairs and biennales](/guides/african-art-fairs-and-biennales). To buy, read [how to buy African art](/guides/how-to-buy-african-art). And for the women whose work features in many of these collections, see [African women artists](/guides/african-women-artists).
+To see new work rather than collections, time your trip with one of the [African art fairs and biennales](/guides/african-art-fairs-and-biennales). For a city built around museums, see [Dakar for art lovers](/guides/dakar-for-art-lovers). To buy, read [how to buy African art](/guides/how-to-buy-african-art). And for the women whose work features in many of these collections, see [African women artists](/guides/african-women-artists).
 
 For a full guide to each museum in Africa — its history, collection and artists — see [museums in Africa](/museums).

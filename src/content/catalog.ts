@@ -66,6 +66,8 @@ export interface Entry {
     media?: Medium[];
     /** Museums: what the Museum schema and the further-reading links need (museums.ts). */
     museum?: { city: string; website?: string; wikipedia?: string };
+    /** A dated event the page is about: becomes Event structured data (schema.ts). */
+    event?: { name: string; start: string; end: string; city: string; url: string };
 }
 
 const LAUNCH = '2026-10-07';
@@ -253,6 +255,26 @@ CATALOG.push(
     }))
 );
 
+/** Batch 10: the Dakar Biennale guide and the Dakar city guide, English and French. */
+export const DAKART_RELEASE = '2026-11-01';
+CATALOG.push(
+    {
+        ...entry('guides', 'dakar-biennale', ['SN'], undefined, [
+            'guides/dakar-for-art-lovers', 'museums/museum-of-black-civilisations', 'museums/theodore-monod-museum',
+            'guides/african-art-fairs-and-biennales', 'movements/ecole-de-dakar', 'artists/ousmane-sow',
+        ], DAKART_RELEASE),
+        locales: ['en', 'fr'],
+        event: { name: "Dak'Art 2026, Biennale of Contemporary African Art", start: '2026-11-19', end: '2026-12-19', city: 'Dakar', url: 'https://biennaledakar.org/' },
+    },
+    {
+        ...entry('guides', 'dakar-for-art-lovers', ['SN'], undefined, [
+            'guides/dakar-biennale', 'museums/museum-of-black-civilisations', 'museums/theodore-monod-museum',
+            'movements/ecole-de-dakar', 'artists/ousmane-sow', 'guides/where-to-see-african-art',
+        ], DAKART_RELEASE),
+        locales: ['en', 'fr'],
+    }
+);
+
 /** Existing articles whose text gained links to the museum pages. */
 const REVISED_FOR_MUSEUMS: string[] = [
     'guides/where-to-see-african-art', 'guides/african-art-fairs-and-biennales', 'guides/contemporary-african-art', 'guides/african-art-history',
@@ -306,6 +328,13 @@ for (const { date, expanded, alsoRevised } of EXPANSION_BATCHES) {
 
 // After the waves and batches above, which set dates of their own.
 for (const e of CATALOG) if (REVISED_FOR_MUSEUMS.includes(entryKey(e)) && MUSEUMS_RELEASE > e.updated) e.updated = MUSEUMS_RELEASE;
+
+/** Existing articles whose text gained links to the Dakar guides. */
+const REVISED_FOR_DAKAR: string[] = [
+    'guides/african-art-fairs-and-biennales', 'guides/contemporary-african-art', 'guides/where-to-see-african-art',
+    'museums/museum-of-black-civilisations', 'museums/theodore-monod-museum', 'movements/ecole-de-dakar', 'artists/ousmane-sow',
+];
+for (const e of CATALOG) if (REVISED_FOR_DAKAR.includes(entryKey(e)) && DAKART_RELEASE > e.updated) e.updated = DAKART_RELEASE;
 
 export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {
     return `${entry.collection}/${entry.slug}`;

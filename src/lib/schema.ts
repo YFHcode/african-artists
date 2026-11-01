@@ -131,6 +131,35 @@ export function articleSchema(article: Article, path: string, person?: PersonFac
     };
 }
 
+/**
+ * Event structured data for a page about one dated event (Entry.event): the
+ * name, dates and place Google needs for an event result. The page's own URL
+ * is the description; the organiser's site is `organizer.url`. Undefined for
+ * every other page.
+ */
+export function eventSchema(article: Article, path: string): Json | undefined {
+    const event = article.entry.event;
+    if (!event) return undefined;
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'Event',
+        name: event.name,
+        description: article.description,
+        url: absoluteUrl(localePath(article.locale, path)),
+        startDate: event.start,
+        endDate: event.end,
+        eventStatus: 'https://schema.org/EventScheduled',
+        eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+        location: {
+            '@type': 'Place',
+            name: event.city,
+            address: { '@type': 'PostalAddress', addressLocality: event.city, addressCountry: article.entry.countries[0] },
+        },
+        organizer: { '@type': 'Organization', name: event.name.split(',')[0], url: event.url },
+        image: shareCardUrl(article.locale, path),
+    };
+}
+
 /** A list item is a page on this site (`path`) or elsewhere (`url`, e.g. Wikipedia for artists without a profile). */
 export function collectionSchema(
     locale: Locale,

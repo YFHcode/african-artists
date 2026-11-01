@@ -4,15 +4,16 @@ import { Breadcrumbs, CardGrid, EntryCard, FactFile, RelatedArticles } from '@/c
 import { JsonLd } from '@/components/JsonLd';
 import { Locator, locatorKey } from '@/components/Locator';
 import { Motif } from '@/components/Motif';
-import { Portrait, WorksGallery } from '@/components/Pictures';
+import { PlaceGallery, Portrait, WorksGallery } from '@/components/Pictures';
 import { dictionary } from '@/i18n';
-import { COLLECTIONS, REGIONS, type Collection, type CountryCode, entriesInRegion, entryPath, isAvailable } from '@/content/catalog';
+import { COLLECTIONS, REGIONS, type Collection, type CountryCode, entriesInRegion, entryKey, entryPath, isAvailable } from '@/content/catalog';
 import { type Article, getArticle, getPage, listArticles, relatedArticles } from '@/lib/content';
 import { LOCALE_INFO, type Locale, joinList, localePath } from '@/lib/i18n';
-import { articleSchema, collectionSchema } from '@/lib/schema';
+import { articleSchema, collectionSchema, eventSchema } from '@/lib/schema';
 import { type Hub, hubPath, hubsListing, liveHubs } from '@/content/hubs';
 import { dataArtist, wikidataUrl, wikipediaUrl } from '@/lib/artist-data';
 import { artistPictures, workTitle } from '@/lib/artist-images';
+import { placePictures } from '@/lib/place-images';
 import { wikipediaArticleUrl } from '@/content/museums';
 import { getHubPage } from '@/lib/content';
 import type { Fact } from '@/lib/content';
@@ -75,6 +76,7 @@ export function ArticleView({ article }: { article: Article }) {
     const mapKey = locatorKey(entry.countries, entry.collection === 'regions' ? entry.slug : undefined);
     const pictures = entry.collection === 'artists' ? artistPictures(entry.qid) : undefined;
     const museum = entry.museum;
+    const places = placePictures(entryKey(entry));
     const links: { label: string; href: string; lang?: string }[] = entry.qid
         ? [
               ...(artist && wikipediaUrl(artist, locale) ? [{ label: 'Wikipedia', href: wikipediaUrl(artist, locale)! }] : []),
@@ -103,6 +105,7 @@ export function ArticleView({ article }: { article: Article }) {
     return (
         <>
             <JsonLd data={articleSchema(article, path, person)} />
+            {entry.event && <JsonLd data={eventSchema(article, path)!} />}
             <Breadcrumbs
                 locale={locale}
                 label={t.nav.breadcrumb}
@@ -154,6 +157,7 @@ export function ArticleView({ article }: { article: Article }) {
                     <div>
                         <div className="prose" dangerouslySetInnerHTML={{ __html: article.html }} />
                         {pictures && pictures.works.length > 0 && <WorksGallery works={pictures.works} artist={article.label} locale={locale} />}
+                        {places.length > 0 && <PlaceGallery pictures={places} label={article.label} locale={locale} />}
                     </div>
                     <div className="space-y-5 lg:sticky lg:top-6 lg:self-start">
                         {pictures?.portrait && (

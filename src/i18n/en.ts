@@ -123,6 +123,8 @@ const en = {
         credit: 'Image',
         commons: 'Wikimedia Commons',
         publicDomain: 'public domain',
+        places: 'Photographs',
+        placeCredits: 'Guides and places',
     },
     buy: {
         title: 'Buy AfricanArtists.com — Premium Domain for Sale',

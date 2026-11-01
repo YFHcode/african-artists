@@ -4,9 +4,10 @@ import { notFound } from 'next/navigation';
 
 import { Credit } from '@/components/Pictures';
 import { dictionary } from '@/i18n';
-import { entriesIn, entryPath, isAvailable } from '@/content/catalog';
+import { entriesIn, entryPath, findEntry, isAvailable } from '@/content/catalog';
 import { dataArtist, displayName } from '@/lib/artist-data';
 import { allListPortraits, artistPictures, workTitle } from '@/lib/artist-images';
+import { allPlacePictures } from '@/lib/place-images';
 import { getArticle } from '@/lib/content';
 import { localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
@@ -48,6 +49,16 @@ export default async function CreditsPage({ params }: PageProps<'/[locale]/credi
         })
         .sort((a, b) => a.name.localeCompare(b.name, locale));
 
+    // Photographs of the places and events our guides describe.
+    const places = allPlacePictures()
+        .flatMap(([key, pics]) => {
+            const [collection, slug] = key.split('/');
+            const entry = findEntry(collection, slug);
+            if (!entry || !isAvailable(entry, locale)) return [];
+            return [{ entry, pics, label: getArticle(locale, entry.collection, entry.slug)!.label }];
+        })
+        .sort((a, b) => a.label.localeCompare(b.label, locale));
+
     return (
         <section className="mx-auto max-w-3xl px-4 py-16">
             <h1 className="font-display text-4xl font-semibold tracking-tight">{t.pictures.creditsTitle}</h1>
@@ -75,6 +86,27 @@ export default async function CreditsPage({ params }: PageProps<'/[locale]/credi
                     </li>
                 ))}
             </ul>
+            {places.length > 0 && (
+                <>
+                    <h2 className="mt-14 font-display text-2xl font-semibold tracking-tight">{t.pictures.placeCredits}</h2>
+                    <ul className="mt-4 divide-y divide-line">
+                        {places.map(({ entry, pics, label }) => (
+                            <li key={entry.slug} id={entry.slug} className="py-4">
+                                <Link prefetch={false} href={localePath(locale, entryPath(entry))} className="font-semibold text-clay underline underline-offset-4">
+                                    {label}
+                                </Link>
+                                <ul className="mt-2 space-y-1">
+                                    {pics.map((pic) => (
+                                        <li key={pic.src}>
+                                            <Credit pic={pic} locale={locale} />
+                                        </li>
+                                    ))}
+                                </ul>
+                            </li>
+                        ))}
+                    </ul>
+                </>
+            )}
             {listed.length > 0 && (
                 <>
                     <h2 className="mt-14 font-display text-2xl font-semibold tracking-tight">{t.pictures.listCredits}</h2>

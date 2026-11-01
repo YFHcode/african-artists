@@ -27,8 +27,8 @@ The museum has also become the home of returned objects. A sabre attributed to t
 
 ## The Dakar Biennale
 
-The museum has become the main home of [Dak'Art](/guides/african-art-fairs-and-biennales), the biennale of contemporary African art. In 2024 it hosted most of the exhibitions, including the pavilions of the guest countries; the 2026 edition, with Morad Montazami as artistic director, was launched there and runs from 19 November to 19 December 2026. In 2022 it showed *Picasso à Dakar 1972–2022*, fifty years after a Picasso exhibition in Dakar in 1972.
+The museum has become the main home of [Dak'Art](/guides/african-art-fairs-and-biennales), the biennale of contemporary African art. In 2024 it hosted most of the exhibitions, including the pavilions of the guest countries; the 2026 edition, with Morad Montazami as artistic director, was launched there and runs from 19 November to 19 December 2026 (see our [guide to Dak'Art](/guides/dakar-biennale)). In 2022 it showed *Picasso à Dakar 1972–2022*, fifty years after a Picasso exhibition in Dakar in 1972.
 
 ## Visiting
 
-Check opening hours locally. Dakar's older collection of West African masks and objects is at the [Théodore Monod Museum](/museums/theodore-monod-museum), and the [École de Dakar](/movements/ecole-de-dakar) page tells the story of the painters of Senghor's time. For other museums across the continent, see [where to see African art](/guides/where-to-see-african-art).
+Check opening hours locally. Dakar's older collection of West African masks and objects is at the [Théodore Monod Museum](/museums/theodore-monod-museum), and the [École de Dakar](/movements/ecole-de-dakar) page tells the story of the painters of Senghor's time. For a plan that combines it with Gorée and the biennale, see our [guide to Dakar for art lovers](/guides/dakar-for-art-lovers); for other museums across the continent, see [where to see African art](/guides/where-to-see-african-art).

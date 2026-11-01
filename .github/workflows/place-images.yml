@@ -1,0 +1,47 @@
+# Photographs for guides and places (Dak'Art, Dakar...), from Wikimedia Commons,
+# freely licensed, with credits (scripts/place-images.mjs). Run by hand from the
+# Actions tab ("Run workflow") after adding a page to data/images/places-config.json
+# or editing its exclude list.
+name: Place photographs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: place-images
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch, convert and write
+        run: node scripts/place-images.mjs
+
+      - name: Check
+        run: node --test scripts/place-images.test.mjs
+
+      - name: Commit if changed
+        run: |
+          git add data/images/places.json public/images/places
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898088+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh place photographs from Wikimedia Commons"
+          git push

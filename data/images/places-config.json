@@ -1,0 +1,17 @@
+{
+ "_comment": "Pictures for guides and places (scripts/place-images.mjs). 'pages' are Wikipedia articles whose Commons photographs are candidates, in order of appearance ('fr:Title' for another language); 'files' are Commons file names to use first; 'exclude' are file names to skip; 'max' the number kept; 'captions' give a caption per language to a kept file, keyed by its Commons file name.",
+ "guides/dakar-biennale": {
+  "pages": ["Museum of Black Civilisations", "Dak'Art", "fr:Biennale de Dakar", "fr:Musée des civilisations noires"],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "guides/dakar-for-art-lovers": {
+  "pages": ["Museum of Black Civilisations", "Théodore Monod African Art Museum", "IFAN Museum of African Arts", "Gorée", "fr:Gorée", "fr:Maison des esclaves de Gorée"],
+  "files": [],
+  "exclude": [],
+  "max": 4,
+  "captions": {}
+ }
+}

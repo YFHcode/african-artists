@@ -29,8 +29,8 @@ Le musée n'en montre qu'une partie à la fois. Lors de sa réouverture après r
 
 ## Un lieu de la biennale
 
-Le musée est l'un des lieux réguliers de [Dak'Art](/guides/african-art-fairs-and-biennales), la Biennale de l'art africain contemporain de Dakar : les années de biennale, ses salles peuvent accueillir des œuvres contemporaines parmi les masques anciens. Ce voisinage a une histoire : l'[École de Dakar](/movements/ecole-de-dakar), les peintres encouragés par Léopold Sédar Senghor après l'indépendance, puisait aux mêmes traditions pour inventer un art moderne.
+Le musée est l'un des lieux réguliers de [Dak'Art](/guides/dakar-biennale), la Biennale de l'art africain contemporain de Dakar : les années de biennale, ses salles peuvent accueillir des œuvres contemporaines parmi les masques anciens. Ce voisinage a une histoire : l'[École de Dakar](/movements/ecole-de-dakar), les peintres encouragés par Léopold Sédar Senghor après l'indépendance, puisait aux mêmes traditions pour inventer un art moderne.
 
 ## Visiter
 
-Vérifiez les horaires sur place. L'autre grand musée de Dakar, le [Musée des civilisations noires](/museums/museum-of-black-civilisations), a ouvert en 2018 et raconte une histoire plus large des cultures noires dans le monde ; les deux se visitent au mieux ensemble.
+Vérifiez les horaires sur place. L'autre grand musée de Dakar, le [Musée des civilisations noires](/museums/museum-of-black-civilisations), a ouvert en 2018 et raconte une histoire plus large des cultures noires dans le monde ; les deux se visitent au mieux ensemble, comme dans notre [guide de Dakar pour les amateurs d'art](/guides/dakar-for-art-lovers).

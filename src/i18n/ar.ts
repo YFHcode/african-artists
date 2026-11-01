@@ -124,6 +124,8 @@ const ar: Dictionary = {
         credit: 'صورة',
         commons: 'ويكيميديا كومنز',
         publicDomain: 'ملكية عامة',
+        places: 'صور فوتوغرافية',
+        placeCredits: 'أدلة وأماكن',
     },
     buy: {
         title: 'اشترِ AfricanArtists.com — نطاق مميّز معروض للبيع',

@@ -29,8 +29,8 @@ The museum shows only part of it at any time. When it reopened after renovation 
 
 ## Biennale venue
 
-The museum is one of the regular venues of [Dak'Art](/guides/african-art-fairs-and-biennales), the Dakar Biennale of contemporary African art, so in biennale years its rooms can hold contemporary work among the old masks. The pairing has a history: the [École de Dakar](/movements/ecole-de-dakar), the painters encouraged by Léopold Sédar Senghor after independence, looked to the same traditions as a source for modern art.
+The museum is one of the regular venues of [Dak'Art](/guides/dakar-biennale), the Dakar Biennale of contemporary African art, so in biennale years its rooms can hold contemporary work among the old masks. The pairing has a history: the [École de Dakar](/movements/ecole-de-dakar), the painters encouraged by Léopold Sédar Senghor after independence, looked to the same traditions as a source for modern art.
 
 ## Visiting
 
-Check opening hours locally. Dakar's other great museum, the [Museum of Black Civilisations](/museums/museum-of-black-civilisations), opened in 2018 and tells a wider story of Black cultures worldwide; the two are best seen together.
+Check opening hours locally. Dakar's other great museum, the [Museum of Black Civilisations](/museums/museum-of-black-civilisations), opened in 2018 and tells a wider story of Black cultures worldwide; the two are best seen together, as in our [guide to Dakar for art lovers](/guides/dakar-for-art-lovers).

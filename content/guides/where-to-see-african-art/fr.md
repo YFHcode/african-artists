@@ -47,6 +47,6 @@ De nombreux objets historiques conservés dans les musées européens et améric
 
 ## Pour aller plus loin
 
-Pour voir des œuvres nouvelles plutôt que des collections, faites coïncider votre voyage avec l'une des [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour acheter, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art). Et pour les femmes dont l'œuvre figure dans nombre de ces collections, voir les [femmes artistes africaines](/guides/african-women-artists).
+Pour voir des œuvres nouvelles plutôt que des collections, faites coïncider votre voyage avec l'une des [foires et biennales d'art africain](/guides/african-art-fairs-and-biennales). Pour une ville organisée autour de ses musées, voir [Dakar pour les amateurs d'art](/guides/dakar-for-art-lovers). Pour acheter, lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art). Et pour les femmes dont l'œuvre figure dans nombre de ces collections, voir les [femmes artistes africaines](/guides/african-women-artists).
 
 Pour un guide complet de chaque musée d'Afrique — son histoire, ses collections et ses artistes —, voir [les musées d'Afrique](/museums).

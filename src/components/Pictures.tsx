@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { dictionary } from '@/i18n';
 import { type Picture, type Work, isPublicDomain, workTitle } from '@/lib/artist-images';
 import type { Locale } from '@/lib/i18n';
+import { type PlacePicture, placeCaption } from '@/lib/place-images';
 
 /*
  * Freely licensed pictures from Wikimedia Commons (src/lib/artist-images.ts).
@@ -77,6 +78,42 @@ export function WorksGallery({ works, artist, locale }: { works: Work[]; artist:
                                     <cite className="not-italic">{title}</cite>
                                     {w.year ? `${locale === 'ar' ? '، ' : ', '}${w.year}` : ''}
                                 </span>
+                            </figcaption>
+                        </figure>
+                    );
+                })}
+            </div>
+        </section>
+    );
+}
+
+/** Photographs of the place or event a guide describes (src/lib/place-images.ts). */
+export function PlaceGallery({ pictures, label, locale }: { pictures: PlacePicture[]; label: string; locale: Locale }) {
+    const t = dictionary(locale).pictures;
+    return (
+        <section aria-labelledby="place-photos" className="mt-12">
+            <h2 id="place-photos" className="font-display text-2xl font-semibold tracking-tight">
+                {t.places}
+            </h2>
+            <div className="mt-5 grid gap-5 sm:grid-cols-2">
+                {pictures.map((pic) => {
+                    const caption = placeCaption(pic, locale);
+                    return (
+                        <figure key={pic.src} className="reveal flex flex-col overflow-hidden rounded-xl border border-line bg-white/60">
+                            <a href={pic.page} rel="noopener" className="block bg-sand">
+                                <Image
+                                    src={pic.src}
+                                    alt={caption ?? label}
+                                    width={pic.width}
+                                    height={pic.height}
+                                    unoptimized
+                                    loading="lazy"
+                                    className="h-auto w-full"
+                                />
+                            </a>
+                            <figcaption className="flex flex-1 flex-col gap-1 px-4 py-3">
+                                {caption && <span className="text-sm">{caption}</span>}
+                                <Credit pic={pic} locale={locale} />
                             </figcaption>
                         </figure>
                     );

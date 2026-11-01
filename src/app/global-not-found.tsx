@@ -45,7 +45,7 @@ export default function GlobalNotFound() {
             <body className="min-h-screen antialiased">
                 <header className="border-b border-line">
                     <div className="mx-auto max-w-6xl px-4 py-4">
-                        <Link href="/" className="font-display text-2xl font-semibold tracking-tight">
+                        <Link prefetch={false} href="/" className="font-display text-2xl font-semibold tracking-tight">
                             AfricanArtists<span className="text-clay">.com</span>
                         </Link>
                     </div>
@@ -69,10 +69,10 @@ export default function GlobalNotFound() {
                                     </Heading>
                                     <p className="mt-2 text-ink/85">{m.text}</p>
                                     <p className="mt-3 flex gap-4">
-                                        <Link href={localePath(locale, '/')} className="font-medium text-clay underline underline-offset-4">
+                                        <Link prefetch={false} href={localePath(locale, '/')} className="font-medium text-clay underline underline-offset-4">
                                             {m.home}
                                         </Link>
-                                        <Link href={localePath(locale, '/artists')} className="font-medium text-clay underline underline-offset-4">
+                                        <Link prefetch={false} href={localePath(locale, '/artists')} className="font-medium text-clay underline underline-offset-4">
                                             {m.artists}
                                         </Link>
                                     </p>

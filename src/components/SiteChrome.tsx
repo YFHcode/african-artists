@@ -63,13 +63,13 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                     <ul className="flex items-center gap-5 whitespace-nowrap text-[0.95rem]">
                         {links.map((link) => (
                             <li key={link.href}>
-                                <Link href={link.href} className="text-ink hover:text-clay">
+                                <Link prefetch={false} href={link.href} className="text-ink hover:text-clay">
                                     {link.label}
                                 </Link>
                             </li>
                         ))}
                         <li>
-                            <Link
+                            <Link prefetch={false}
                                 href={localePath(locale, '/buy')}
                                 className="rounded-full bg-indigo px-4 py-2 font-medium text-paper hover:bg-ink"
                             >

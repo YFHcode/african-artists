@@ -128,6 +128,12 @@ Tools. (The `www` → bare-domain redirect has been live in Vercel since 27 Octo
 | `artists/country/south-africa`, `nigeria`, `ghana`, `egypt`, `morocco`, `ethiopia` | *south african artists* 390 / 13 (ZA 2,900 / 20) | Titles and intros that say "painters, sculptors and photographers" | *south african painters* 260 / 19 · *nigerian artists* 390 / 31 · *ghanaian artists* 210 / 20 · *egyptian artists* 170 / 33 · *moroccan artists* 110 / 14 · *ethiopian artists* 110 / 21 |
 | `guides/african-women-artists` | *black female artists* 1,600 / 33 | Grow towards a ranked list of 30 names (more in batch 15) | *famous female artists* 2,900 / 30 |
 
+**Also from Search Console (first week, 8–14 October):** these pages already sat at positions 5–10
+with impressions but no clicks, so rewrite their titles and descriptions to win the click:
+`ar/art-forms/african-masks` (#7.4, 23 impressions), `movements/congolese-popular-painting` (#8.9, 18),
+`es/music/highlife` (#8.3, 15), `guides/where-to-see-african-art` (#5.5, 11). The French women-artists
+guide was the best page (6 clicks across both hosts) — keep its French edition in step with the English.
+
 **Done when:** ☐ all ten pages · ☐ translations updated where titles change · ☐ released ·
 ☐ positions noted after four weeks
 

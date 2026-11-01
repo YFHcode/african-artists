@@ -1,17 +1,61 @@
 {
  "_comment": "Pictures for guides and places (scripts/place-images.mjs). 'pages' are Wikipedia articles whose Commons photographs are candidates, in order of appearance ('fr:Title' for another language); 'files' are Commons file names to use first; 'exclude' are file names to skip; 'max' the number kept; 'captions' give a caption per language to a kept file, keyed by its Commons file name.",
  "guides/dakar-biennale": {
-  "pages": ["Museum of Black Civilisations", "Dak'Art", "fr:Biennale de Dakar", "fr:Musée des civilisations noires"],
+  "pages": [
+   "Museum of Black Civilisations",
+   "Dak'Art",
+   "fr:Biennale de Dakar",
+   "fr:Musée des civilisations noires"
+  ],
   "files": [],
-  "exclude": [],
-  "max": 3,
-  "captions": {}
+  "exclude": [
+   "Babouches Serigne Babacar Sy 4238.jpg",
+   "Dakar, glavni grad Senegala.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "Musée des civilisations noires 2022.jpg": {
+    "en": "The Museum of Black Civilisations in Dakar, March 2022.",
+    "fr": "Le Musée des civilisations noires à Dakar, en mars 2022."
+   },
+   "TaxiZinkpè.JPG": {
+    "en": "Taf-Taf, an installation by the Beninese artist Dominique Zinkpè, shown at the Dakar Biennale in 2002.",
+    "fr": "Taf-Taf, installation de l'artiste béninois Dominique Zinkpè, présentée à la Biennale de Dakar en 2002."
+   },
+   "SENEGAL.jpg": {
+    "en": "A view of the island of Gorée.",
+    "fr": "Une vue de l'île de Gorée."
+   }
+  }
  },
  "guides/dakar-for-art-lovers": {
-  "pages": ["Museum of Black Civilisations", "Théodore Monod African Art Museum", "IFAN Museum of African Arts", "Gorée", "fr:Gorée", "fr:Maison des esclaves de Gorée"],
+  "pages": [
+   "Museum of Black Civilisations",
+   "Théodore Monod African Art Museum",
+   "IFAN Museum of African Arts",
+   "Gorée",
+   "fr:Gorée",
+   "fr:Maison des esclaves de Gorée"
+  ],
   "files": [],
-  "exclude": [],
-  "max": 4,
-  "captions": {}
+  "exclude": [
+   "Babouches Serigne Babacar Sy 4238.jpg",
+   "Dakar, glavni grad Senegala.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "Musée des civilisations noires 2022.jpg": {
+    "en": "The Museum of Black Civilisations in Dakar, March 2022.",
+    "fr": "Le Musée des civilisations noires à Dakar, en mars 2022."
+   },
+   "TaxiZinkpè.JPG": {
+    "en": "Taf-Taf, an installation by the Beninese artist Dominique Zinkpè, shown at the Dakar Biennale in 2002.",
+    "fr": "Taf-Taf, installation de l'artiste béninois Dominique Zinkpè, présentée à la Biennale de Dakar en 2002."
+   },
+   "SENEGAL.jpg": {
+    "en": "A view of the island of Gorée.",
+    "fr": "Une vue de l'île de Gorée."
+   }
+  }
  }
 }

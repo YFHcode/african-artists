@@ -190,5 +190,67 @@
     "ar": "إناء مصقول من أعمال ماغدالين أودوندو، York Museums Trust."
    }
   }
+ },
+ "instruments/kalimba": {
+  "pages": [
+   "Kalimba",
+   "Mbira",
+   "fr:Kalimba"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "instruments/djembe": {
+  "pages": [
+   "Djembe",
+   "fr:Djembé"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "instruments/mbira": {
+  "pages": [
+   "Mbira",
+   "Mbira dzavadzimu"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "instruments/kora": {
+  "pages": [
+   "Kora (instrument)",
+   "fr:Kora (instrument)"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "instruments/balafon": {
+  "pages": [
+   "Balafon",
+   "fr:Balafon",
+   "Sosso-Bala"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "instruments/talking-drum": {
+  "pages": [
+   "Talking drum",
+   "fr:Tama (instrument)"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
  }
 }

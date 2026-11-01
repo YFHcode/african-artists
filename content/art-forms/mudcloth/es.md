@@ -12,6 +12,10 @@ facts:
   - Artesanos tradicionales | Los hombres tejen las tiras de algodón; las mujeres tiñen y pintan
   - Renovación | Groupe Bogolan Kasobane (Bamako, 1978); el diseñador Chris Seydou (1949–1994)
 ---
+## ¿Qué es el bogolan?
+
+El bogolan — llamado *mud cloth* o *mudcloth* en inglés y *bogolanfini* en Malí — es una tela de algodón hecha a mano y pintada con barro fermentado. El nombre bamana *bògòlanfini* significa más o menos «tela hecha con barro». Se tiñen tiras de algodón hilado a mano con hojas, los motivos se pintan con barro y el hierro del barro oscurece el tinte; el fondo sin pintar se blanquea hasta el crema. El auténtico bogolan se hace a mano en Malí, mientras que gran parte del «mud cloth» que se vende en otros lugares es estampado (véase más abajo).
+
 ## Cómo se hace el bogolan
 
 Hacer bogolan lleva días y varias etapas, todas a mano:

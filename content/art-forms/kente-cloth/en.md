@@ -12,6 +12,14 @@ facts:
   - Materials | Silk, cotton, rayon
   - UNESCO | Craftsmanship of traditional woven textile kente — Representative List (2024)
 ---
+## What is kente cloth?
+
+Kente is a handwoven cloth from Ghana. Asante and Ewe weavers make it as narrow bands of silk, cotton or rayon, sewn edge to edge into a wider cloth. It is Ghana's best-known textile: worn on ceremonial and state occasions, and recognised around the world as a symbol of Ghana and of African heritage. The name is often traced to *kenten*, a word for basket in the Akan languages, after the cloth's woven look.
+
+## What kente cloth means
+
+Kente carries meaning on three levels. **The cloth itself** marks status: silk kente was made for royalty and the wealthy, and designs worn by Asante royalty may not be worn by anyone else. **The pattern name** tells a story — a proverb, a historical event, a clan or a person (see below). **The colours** add associations, such as gold for wealth or green for growth, though no single code applies.
+
 ## How kente is made
 
 Kente is woven on a horizontal treadle loom that produces a single narrow band, about ten centimetres wide. The weaver — traditionally a man — works the treadles with his feet to lift sets of warp threads and passes the weft through by hand, building up the pattern in blocks: stretches of warp-faced stripes alternate with blocks where the weft covers the warp in contrasting colours and motifs.
@@ -46,6 +54,8 @@ Colours carry associations, though they are not a strict code and sources vary. 
 ## A national and Pan-African symbol
 
 When Ghana became independent in 1957, kente became a national emblem. The country's first president, Kwame Nkrumah, wore it on state occasions at home and abroad, and it came to stand for independent Africa as a whole. In the African diaspora, especially in the United States, kente stoles are now worn at graduations and kente patterns appear on everything from church robes to sportswear.
+
+A **kente stole** is a narrow band of kente, or of cloth printed with kente patterns, worn around the neck at graduation. Many are printed, and a handwoven one costs far more (see below).
 
 ## Handwoven and printed "kente"
 

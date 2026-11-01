@@ -27,6 +27,10 @@ L'artisanat est centré à **Ntonso**, une ville proche de Kumasi. Les artisans 
 
 Les étoffes sombres, brunes, rouge brique ou noires, se portent pour le deuil ; les fonds plus clairs et plus vifs servent aux fêtes. Aujourd'hui, les symboles adinkra sont aussi sérigraphiés et brodés.
 
+## Étoffe et tissu adinkra : estampé à la main ou imprimé
+
+L'étoffe adinkra se vend sous deux formes principales. **L'étoffe estampée à la main**, faite à Ntonso et alentour comme décrit plus haut, est frappée symbole par symbole : les répétitions varient légèrement en profondeur et en espacement, et la teinte peut s'accumuler ou s'estomper de façon inégale. **Le tissu adinkra imprimé**, qu'il soit imprimé en usine ou sérigraphié avec des motifs adaptés des tampons, se répète à l'identique et coûte beaucoup moins cher. Les deux se vendent largement ; l'important est que le vendeur dise lequel est lequel, et acheter de l'étoffe estampée à la main soutient le métier. Le tissu de base ne tranche pas : l'étoffe estampée peut être tissée à la main ou industrielle.
+
 ## Vingt symboles adinkra et leur signification
 
 Les traductions varient légèrement selon les sources ; voici les plus couramment données.

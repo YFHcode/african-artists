@@ -64,9 +64,17 @@
    "fr:Kente"
   ],
   "files": [],
-  "exclude": [],
-  "max": 3,
-  "captions": {}
+  "exclude": [
+   "Members of Congress kneel for 8 minutes and 42 seconds in protest of police brutality - 2020-06-08.jpg",
+   "Fête de génération chez les Ebrié.JPG"
+  ],
+  "max": 2,
+  "captions": {
+   "BOWDICH(1819) p344 PLATE 9 - COOMASSIE, PART OF ADAM STREET.jpg": {
+    "en": "A street in Kumasi (“Coomassie”) with a loom at right, from an illustration in Thomas Bowdich's 1819 account of the Asante.",
+    "fr": "Une rue de Kumasi (« Coomassie »), avec un métier à tisser à droite, d'après une illustration du récit de Thomas Bowdich sur les Asante (1819)."
+   }
+  }
  },
  "art-forms/adinkra-symbols": {
   "pages": [
@@ -75,8 +83,17 @@
   ],
   "files": [],
   "exclude": [],
-  "max": 3,
-  "captions": {}
+  "max": 2,
+  "captions": {
+   "Adinkra 1825.jpg": {
+    "en": "An adinkra cloth of 1825, stamped in black in a grid of squares.",
+    "fr": "Une étoffe adinkra de 1825, estampée en noir selon une grille de carrés."
+   },
+   "Ghanaian Embassy WashingtonDC 3220.JPG": {
+    "en": "Adinkra symbols on the wall of the Embassy of Ghana in Washington, D.C.",
+    "fr": "Des symboles adinkra sur le mur de l'ambassade du Ghana à Washington."
+   }
+  }
  },
  "art-forms/african-masks": {
   "pages": [
@@ -86,9 +103,18 @@
    "fr:Masque africain"
   ],
   "files": [],
-  "exclude": [],
-  "max": 4,
-  "captions": {}
+  "exclude": [
+   "Masques BaKongo.JPG",
+   "African scarification in the early 1940s (detailed).jpg",
+   "Dogon Hunter.JPG"
+  ],
+  "max": 2,
+  "captions": {
+   "Brooklyn Museum 60.144 Mask Wabele or Wo.jpg": {
+    "en": "A Wabele (Wo) mask of the Senufo, Brooklyn Museum.",
+    "fr": "Un masque wabele (wo) des Sénoufo, Brooklyn Museum."
+   }
+  }
  },
  "art-forms/mudcloth": {
   "pages": [
@@ -99,7 +125,20 @@
   "files": [],
   "exclude": [],
   "max": 3,
-  "captions": {}
+  "captions": {
+   "Ségou (8).JPG": {
+    "en": "Mud in a bowl beside a small cloth painted with bogolan patterns, Ségou, Mali.",
+    "fr": "De la boue dans un bol, près d'un petit tissu peint de motifs de bogolan, à Ségou (Mali)."
+   },
+   "Ségou (10).JPG": {
+    "en": "Dyed cloths spread on the ground and held down with stones, Ségou, Mali.",
+    "fr": "Des étoffes teintes étalées sur le sol et maintenues par des pierres, à Ségou (Mali)."
+   },
+   "Ségou (12).JPG": {
+    "en": "Cloths dyed green and painted with a bogolan motif, Ségou, Mali.",
+    "fr": "Des étoffes teintes en vert et peintes d'un motif de bogolan, à Ségou (Mali)."
+   }
+  }
  },
  "art-forms/african-pottery": {
   "pages": [
@@ -108,8 +147,19 @@
    "African pottery"
   ],
   "files": [],
-  "exclude": [],
-  "max": 3,
-  "captions": {}
+  "exclude": [
+   "African Sudan Art Basket-Tray.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "Hand-Built pot by Ladi Kwali (YORYM-2004.1.919).JPG": {
+    "en": "A hand-built pot by Ladi Kwali, with incised decoration under a glaze, York Museums Trust.",
+    "fr": "Un pot modelé à la main par Ladi Kwali, au décor incisé sous une glaçure, York Museums Trust."
+   },
+   "Burnished Jar by Odundo, Magdalene (YORYM 2004 1 10).jpg": {
+    "en": "A burnished jar by Magdalene Odundo, York Museums Trust.",
+    "fr": "Un vase bruni par Magdalene Odundo, York Museums Trust."
+   }
+  }
  }
 }

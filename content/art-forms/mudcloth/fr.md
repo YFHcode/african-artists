@@ -12,6 +12,10 @@ facts:
   - Artisans traditionnels | Les hommes tissent les bandes de coton ; les femmes teignent et peignent
   - Renouveau | Groupe Bogolan Kasobane (Bamako, 1978) ; le styliste Chris Seydou (1949-1994)
 ---
+## Qu'est-ce que le bogolan ?
+
+Le bogolan — appelé *mud cloth* ou *mudcloth* en anglais, et *bogolanfini* au Mali — est une étoffe de coton faite à la main et peinte à la boue fermentée. Le nom bamana *bògòlanfini* signifie à peu près « étoffe faite avec de la boue ». Des bandes de coton filé à la main sont teintes avec des feuilles, les motifs sont peints à la boue, et le fer de la boue noircit la teinture ; le fond non peint est éclairci jusqu'au crème. Le vrai bogolan est fait à la main au Mali, alors qu'une bonne partie du « mud cloth » vendu ailleurs est imprimée (voir plus bas).
+
 ## Comment se fabrique le bogolan
 
 Le bogolan demande plusieurs jours et plusieurs étapes, toutes réalisées à la main :

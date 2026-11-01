@@ -27,6 +27,10 @@ El oficio se concentra en **Ntonso**, una localidad cercana a Kumasi. Los artesa
 
 Las telas oscuras, marrones, rojo ladrillo o negras, se llevan en el luto; los fondos más claros y vivos, en las celebraciones. Hoy los símbolos adinkra también se serigrafían y se bordan.
 
+## Tela adinkra: estampada a mano o impresa
+
+La tela adinkra se vende de dos formas principales. **La tela estampada a mano**, hecha en Ntonso y alrededores como se describe arriba, se estampa símbolo a símbolo, así que las repeticiones varían un poco en profundidad y espaciado, y el tinte puede acumularse o desvanecerse de forma irregular. **La tela adinkra impresa**, ya sea impresa en fábrica o serigrafiada con diseños adaptados de los sellos, se repite de forma idéntica y cuesta mucho menos. Ambas se venden mucho; lo importante es que el vendedor diga cuál es cuál, y comprar tela estampada a mano ayuda a sostener el oficio. El tejido base no lo decide: la tela estampada puede ser de tejido manual o industrial.
+
 ## Veinte símbolos adinkra y su significado
 
 Las traducciones varían ligeramente según las fuentes; estas son las más citadas.

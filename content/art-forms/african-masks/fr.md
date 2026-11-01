@@ -38,6 +38,24 @@ Beaucoup de masques appartiennent à des sociétés d'hommes initiés, et parfoi
 
 À Paris, vers 1906-1907, Picasso, Matisse, Derain et Vlaminck découvrent et collectionnent la sculpture africaine, et *Les Demoiselles d'Avignon* de Picasso (1907) en est le résultat le plus célèbre. L'influence était réelle, mais ces artistes européens ne savaient presque rien de ce que signifiaient les masques. Les artistes africains se sont depuis réapproprié le masque : depuis les années 1980, le Béninois [Romuald Hazoumè](/artists/romuald-hazoume) fabrique des « masques » à partir de bidons en plastique découpés, commentaire sur le trafic d'essence, la consommation et le goût occidental pour l'exotique.
 
+## Questions
+
+### À quoi servent les masques africains « tribaux » ?
+
+Surtout à des cérémonies : initiation, funérailles et souvenir des ancêtres, rites agricoles, ordre social et commentaire — voir « À quoi servent les masques » plus haut. Chaque masque appartient à l'occasion d'une communauté, et un masque utilisé dans un lieu peut n'avoir aucun sens dans un autre.
+
+### Pourquoi les masques africains ont-ils été créés ?
+
+Pour faire venir une présence dans la communauté — un ancêtre, un esprit, un animal ou un personnage — aux moments qui comptent : des funérailles, la fin d'une initiation, le début des pluies. Le masque est fait pour que cette présence puisse apparaître.
+
+### Les masques africains sont-ils maléfiques ou dangereux ?
+
+Non. Dans les traditions décrites sur cette page, les masques servent des cérémonies le plus souvent festives ou commémoratives. Certains sont traités avec un soin rituel et ne sont pas montrés à tous, ce que des observateurs extérieurs ont parfois pris pour quelque chose de sinistre. Qualifier les masques de démoniaques est un jugement d'étranger, pas celui de ceux qui les font.
+
+### Pourquoi dire « peuples » et non « tribus » ?
+
+Les recherches disent souvent « masques tribaux », et nous employons l'expression là où les lecteurs la cherchent. Mais « tribal » range dans un même sac des sociétés aussi différentes que les Dogon, les Yoruba et les Chokwe, et porte une histoire coloniale ; nous nommons le peuple chaque fois que nous le pouvons.
+
 ## Acheter un masque
 
 La plupart des masques sur le marché ont été faits pour la vente, ce qui est légitime tant qu'ils sont décrits honnêtement. Affirmer qu'un masque est ancien ou qu'il a « dansé » exige une provenance documentée ; le vieillissement artificiel est courant. De nombreux pays limitent l'exportation des objets culturels anciens. Lisez [comment acheter de l'art africain](/guides/how-to-buy-african-art) avant de dépenser une somme importante.

@@ -27,6 +27,10 @@ The craft is centred on **Ntonso**, a town near Kumasi. Makers:
 
 Dark cloths in brown, brick red or black are worn for mourning; lighter and brighter grounds are used for celebrations. Today adinkra symbols are also screen-printed and embroidered.
 
+## Adinkra cloth and fabric: hand-stamped or printed
+
+Adinkra cloth is sold in two main forms. **Hand-stamped cloth**, made in and around Ntonso as described above, is pressed one symbol at a time, so repeats vary slightly in depth and spacing, and the dye can pool or fade unevenly. **Printed adinkra fabric**, whether factory-printed or screen-printed with designs adapted from the stamps, repeats exactly and costs far less. Both are widely sold; what matters is that the seller says which is which, and buying hand-stamped cloth supports the craft. The base cloth does not settle the question: stamped cloth may be handwoven or factory-made.
+
 ## Twenty adinkra symbols and their meanings
 
 Translations vary slightly between sources; these are the most commonly given.

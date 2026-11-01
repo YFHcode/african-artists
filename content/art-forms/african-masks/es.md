@@ -38,6 +38,24 @@ Muchas máscaras pertenecen a sociedades de hombres iniciados, y en algunos luga
 
 En París, hacia 1906–07, Picasso, Matisse, Derain y Vlaminck vieron y coleccionaron escultura africana, y *Las señoritas de Aviñón* de Picasso (1907) es su resultado más famoso. La influencia fue real, pero esos artistas europeos no sabían casi nada de lo que significaban las máscaras. Los artistas africanos han recuperado la máscara en sus propios términos: desde los años ochenta, el beninés [Romuald Hazoumè](/artists/romuald-hazoume) hace «máscaras» con bidones de plástico recortados, un comentario sobre el contrabando de combustible, el consumo y el gusto occidental por lo exótico.
 
+## Preguntas
+
+### ¿Para qué se usan las máscaras africanas «tribales»?
+
+Sobre todo en ceremonias: iniciación, funerales y recuerdo de los antepasados, ritos agrícolas, orden social y comentario — véase «Para qué sirven las máscaras» más arriba. Cada máscara pertenece a la ocasión de una comunidad, y una máscara usada en un lugar puede no significar nada en otro.
+
+### ¿Por qué se hicieron las máscaras africanas?
+
+Para traer una presencia a la comunidad — un antepasado, un espíritu, un animal o un personaje — en los momentos que importan: un funeral, el final de la iniciación, el comienzo de las lluvias. La máscara se hace para que esa presencia pueda aparecer.
+
+### ¿Son malignas o peligrosas las máscaras africanas?
+
+No. En las tradiciones que describe esta página, las máscaras sirven a ceremonias casi siempre festivas o conmemorativas. Algunas se tratan con cuidado ritual y no se muestran a todos, lo que observadores externos han tomado a veces por algo siniestro. Llamar «demoníacas» a las máscaras es un juicio de fuera, no de quienes las hacen.
+
+### ¿Por qué decimos «pueblos» y no «tribus»?
+
+Las búsquedas suelen decir «máscaras tribales», y usamos la expresión donde los lectores la buscan. Pero «tribal» mete en el mismo saco sociedades tan distintas como los dogón, los yoruba y los chokwe, y tiene una historia colonial; nombramos al pueblo siempre que podemos.
+
 ## Comprar una máscara
 
 La mayoría de las máscaras del mercado se hicieron para la venta, lo cual es legítimo siempre que se describan con honestidad. Afirmar que una máscara es antigua o que «se bailó» exige una procedencia documentada; el envejecimiento artificial es habitual. Muchos países restringen la exportación de objetos culturales antiguos. Lea [cómo comprar arte africano](/guides/how-to-buy-african-art) antes de gastar una suma importante.

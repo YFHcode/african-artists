@@ -38,6 +38,24 @@ Many masks belong to societies of initiated men, and in some places of women. Wh
 
 In Paris around 1906–07, Picasso, Matisse, Derain and Vlaminck saw and collected African sculpture, and Picasso's *Les Demoiselles d'Avignon* (1907) is the most famous result. The influence was real, but the European artists knew almost nothing about what the masks meant. African artists have since taken the mask back on their own terms: since the 1980s the Beninese artist [Romuald Hazoumè](/artists/romuald-hazoume) has made "masks" from cut plastic jerrycans, a commentary on fuel smuggling, consumption and the Western taste for the exotic.
 
+## Questions
+
+### What are African tribal masks used for?
+
+Mostly for ceremonies: initiation, funerals and the remembrance of ancestors, farming rites, and social order and commentary — see "What masks are for" above. Each mask belongs to one community's occasion, and a mask used in one place may mean nothing in another.
+
+### Why were African masks made?
+
+To bring a presence into the community — an ancestor, a spirit, an animal or a character — at the moments that matter: a funeral, the end of initiation, the start of the rains. The mask is made so that this presence can appear.
+
+### Are African masks evil or dangerous?
+
+No. In the traditions described on this page, masks serve ceremonies that are mostly celebratory or commemorative. Some are treated with ritual care and not shown to everyone, which outsiders have sometimes misread as something sinister. Calling masks demonic is an outsider's judgement, not the makers'.
+
+### Why do we say "peoples" and not "tribes"?
+
+Searches often say "tribal masks", and we use the phrase where readers look for it. But "tribal" lumps together societies as different as the Dogon, the Yoruba and the Chokwe, and has a colonial history; we name the people wherever we can.
+
 ## Buying a mask
 
 Most masks on the market today were made for sale, which is legitimate as long as they are described honestly. Claims that a mask is old, or was "danced", need documented provenance; artificial ageing is common. Many countries restrict the export of old cultural objects. Read [how to buy African art](/guides/how-to-buy-african-art) before spending real money.

@@ -27,6 +27,10 @@ O ofício concentra-se em **Ntonso**, uma localidade perto de Kumasi. Os artesã
 
 Os panos escuros, castanhos, vermelho-tijolo ou negros, usam-se no luto; os fundos mais claros e vivos, nas celebrações. Hoje os símbolos adinkra são também serigrafados e bordados.
 
+## Pano adinkra: estampado à mão ou impresso
+
+O pano adinkra vende-se de duas formas principais. **O pano estampado à mão**, feito em Ntonso e arredores como descrito acima, é carimbado símbolo a símbolo, por isso as repetições variam um pouco em profundidade e espaçamento, e o corante pode acumular-se ou esmaecer de forma desigual. **O tecido adinkra impresso**, seja impresso em fábrica ou serigrafado com desenhos adaptados dos carimbos, repete-se de forma idêntica e custa muito menos. Ambos se vendem muito; o importante é que o vendedor diga qual é qual, e comprar pano estampado à mão ajuda a manter o ofício. O tecido de base não decide: o pano estampado pode ser tecido à mão ou industrial.
+
 ## Vinte símbolos adinkra e o seu significado
 
 As traduções variam ligeiramente entre fontes; estas são as mais citadas.

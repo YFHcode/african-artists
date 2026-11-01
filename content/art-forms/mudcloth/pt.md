@@ -12,6 +12,10 @@ facts:
   - Artesãos tradicionais | Os homens tecem as tiras de algodão; as mulheres tingem e pintam
   - Renovação | Groupe Bogolan Kasobane (Bamaco, 1978); o estilista Chris Seydou (1949–1994)
 ---
+## O que é o bogolan?
+
+O bogolan — chamado *mud cloth* ou *mudcloth* em inglês e *bogolanfini* no Mali — é um pano de algodão feito à mão e pintado com lama fermentada. O nome bamana *bògòlanfini* significa mais ou menos «pano feito com lama». Tiras de algodão fiado à mão são tingidas com folhas, os padrões são pintados com lama e o ferro da lama escurece o corante; o fundo sem pintura é branqueado até ao creme. O verdadeiro bogolan é feito à mão no Mali, ao passo que boa parte do «mud cloth» vendido noutros lugares é estampada (ver abaixo).
+
 ## Como se faz o bogolan
 
 Fazer bogolan leva dias e várias etapas, todas feitas à mão:

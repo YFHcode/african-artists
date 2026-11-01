@@ -12,6 +12,14 @@ facts:
   - Matières | Soie, coton, rayonne
   - UNESCO | Savoir-faire du textile traditionnel tissé kente — Liste représentative (2024)
 ---
+## Qu'est-ce que le kente ?
+
+Le kente est une étoffe tissée à la main au Ghana. Les tisserands asante et ewe la fabriquent en bandes étroites de soie, de coton ou de rayonne, cousues bord à bord pour former un tissu plus large. C'est l'étoffe la plus connue du Ghana : portée lors de cérémonies et d'occasions officielles, elle est reconnue dans le monde entier comme un symbole du Ghana et du patrimoine africain. Son nom est souvent rattaché à *kenten*, un mot des langues akan qui désigne le panier, en référence à l'aspect tressé de l'étoffe.
+
+## Ce que signifie le kente
+
+Le kente porte un sens à trois niveaux. **L'étoffe elle-même** marque un rang : le kente de soie était destiné à la royauté et aux plus riches, et les motifs portés par la royauté asante ne peuvent l'être par personne d'autre. **Le nom du motif** raconte une histoire : un proverbe, un événement historique, un clan ou une personne (voir plus bas). **Les couleurs** ajoutent des associations, comme l'or pour la richesse ou le vert pour la croissance, sans qu'il existe un code unique.
+
 ## Comment se fabrique le kente
 
 Le kente est tissé sur un métier horizontal à pédales qui produit une seule bande étroite, d'une dizaine de centimètres de large. Le tisserand — traditionnellement un homme — actionne les pédales avec les pieds pour soulever des groupes de fils de chaîne et passe la trame à la main, construisant le motif par blocs : des passages de rayures à effet chaîne alternent avec des blocs où la trame recouvre la chaîne de couleurs et de motifs contrastés.
@@ -46,6 +54,8 @@ Les couleurs ont des associations, sans constituer un code strict, et les source
 ## Un symbole national et panafricain
 
 Quand le Ghana devient indépendant en 1957, le kente devient un emblème national. Le premier président du pays, Kwame Nkrumah, le porte lors des occasions officielles, au Ghana comme à l'étranger, et il en vient à représenter l'Afrique indépendante tout entière. Dans la diaspora africaine, surtout aux États-Unis, on porte aujourd'hui des étoles de kente lors des remises de diplômes, et ses motifs apparaissent partout, des aubes d'église aux vêtements de sport.
+
+Une **étole en kente** est une bande étroite de kente, ou d'étoffe imprimée de motifs kente, portée autour du cou lors des remises de diplômes. Beaucoup sont imprimées, et une étole tissée à la main coûte bien plus cher (voir ci-dessous).
 
 ## Kente tissé et « kente » imprimé
 

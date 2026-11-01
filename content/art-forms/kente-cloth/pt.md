@@ -12,6 +12,14 @@ facts:
   - Materiais | Seda, algodão, raiom
   - UNESCO | Saber-fazer do têxtil tradicional tecido kente — Lista Representativa (2024)
 ---
+## O que é o kente?
+
+O kente é um pano tecido à mão no Gana. Os tecelões axantes e ewes fazem-no com faixas estreitas de seda, algodão ou raiom, cosidas lado a lado para formar um pano mais largo. É o pano mais conhecido do Gana: usa-se em cerimónias e ocasiões oficiais e é reconhecido em todo o mundo como símbolo do Gana e do património africano. O nome costuma ligar-se a *kenten*, palavra das línguas akan que significa «cesto», pelo aspeto entrançado do pano.
+
+## O que significa o kente
+
+O kente tem três níveis de significado. **O próprio pano** indica estatuto: o kente de seda era feito para a realeza e para os ricos, e os desenhos usados pela realeza axante não podem ser usados por mais ninguém. **O nome do padrão** conta uma história: um provérbio, um acontecimento histórico, um clã ou uma pessoa (ver abaixo). **As cores** acrescentam associações, como o dourado para a riqueza ou o verde para o crescimento, embora não exista um código único.
+
 ## Como se faz o kente
 
 O kente é tecido num tear horizontal de pedais que produz uma única faixa estreita, com cerca de dez centímetros de largura. O tecelão — tradicionalmente um homem — aciona os pedais com os pés para levantar grupos de fios da teia e passa a trama à mão, construindo o padrão em blocos: troços de riscas de teia alternam com blocos em que a trama cobre a teia com cores e motivos contrastantes.
@@ -46,6 +54,8 @@ As cores têm associações, embora não constituam um código rígido e as font
 ## Um símbolo nacional e pan-africano
 
 Quando o Gana se tornou independente, em 1957, o kente tornou-se um emblema nacional. O primeiro presidente do país, Kwame Nkrumah, usava-o em ocasiões oficiais, no país e no estrangeiro, e o pano passou a representar toda a África independente. Na diáspora africana, sobretudo nos Estados Unidos, usam-se hoje estolas de kente nas cerimónias de graduação, e os seus padrões aparecem em tudo, das vestes de igreja ao vestuário desportivo.
+
+Uma **estola de kente** é uma faixa estreita de kente, ou de pano estampado com padrões de kente, usada ao pescoço nas cerimónias de graduação. Muitas são estampadas, e uma tecida à mão custa muito mais (ver abaixo).
 
 ## Kente tecido e «kente» estampado
 

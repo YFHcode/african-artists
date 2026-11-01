@@ -12,6 +12,14 @@ facts:
   - Materiales | Seda, algodón, rayón
   - UNESCO | Saber hacer del tejido tradicional kente — Lista Representativa (2024)
 ---
+## ¿Qué es el kente?
+
+El kente es una tela tejida a mano en Ghana. Los tejedores asante y ewe la hacen con bandas estrechas de seda, algodón o rayón, cosidas borde con borde para formar una tela más ancha. Es la tela más conocida de Ghana: se usa en ceremonias y ocasiones oficiales, y en todo el mundo se reconoce como símbolo de Ghana y del patrimonio africano. Su nombre se suele relacionar con *kenten*, palabra de las lenguas akan que significa «cesta», por el aspecto trenzado de la tela.
+
+## Qué significa el kente
+
+El kente tiene tres niveles de significado. **La tela misma** indica rango: el kente de seda se hacía para la realeza y los ricos, y los diseños que usa la realeza asante no los puede llevar nadie más. **El nombre del motivo** cuenta una historia: un proverbio, un hecho histórico, un clan o una persona (véase más abajo). **Los colores** añaden asociaciones, como el dorado para la riqueza o el verde para el crecimiento, aunque no hay un código único.
+
 ## Cómo se hace el kente
 
 El kente se teje en un telar horizontal de pedales que produce una sola tira estrecha, de unos diez centímetros de ancho. El tejedor —tradicionalmente un hombre— acciona los pedales con los pies para levantar grupos de hilos de urdimbre y pasa la trama a mano, construyendo el motivo por bloques: tramos de rayas de urdimbre alternan con bloques en los que la trama cubre la urdimbre con colores y motivos contrastados.
@@ -46,6 +54,8 @@ Los colores tienen asociaciones, aunque no forman un código estricto y las fuen
 ## Un símbolo nacional y panafricano
 
 Cuando Ghana se independizó en 1957, el kente se convirtió en emblema nacional. El primer presidente del país, Kwame Nkrumah, lo llevaba en los actos de Estado dentro y fuera del país, y llegó a representar a toda el África independiente. En la diáspora africana, sobre todo en Estados Unidos, hoy se llevan estolas de kente en las graduaciones, y sus motivos aparecen en todo, desde túnicas de iglesia hasta ropa deportiva.
+
+Una **estola de kente** es una banda estrecha de kente, o de tela estampada con motivos de kente, que se lleva al cuello en las graduaciones. Muchas son estampadas, y una tejida a mano cuesta mucho más (véase más abajo).
 
 ## Kente tejido y «kente» estampado
 

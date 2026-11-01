@@ -12,6 +12,10 @@ facts:
   - Traditional makers | Men weave the cotton strips; women dye and paint
   - Revival | Groupe Bogolan Kasobane (Bamako, 1978); designer Chris Seydou (1949–1994)
 ---
+## What is mud cloth?
+
+Mud cloth — also written *mudcloth*, and called *bogolan* or *bogolanfini* in Mali — is a handmade cotton cloth painted with fermented mud. The Bamana name *bògòlanfini* means roughly "cloth made with mud". Strips of handspun cotton are dyed with leaves, patterns are painted on with mud, and the iron in the mud turns the dye dark; the unpainted ground is bleached to cream. Real bogolan is made by hand in Mali, while much of the "mud cloth" sold elsewhere is printed (see below).
+
 ## How mudcloth is made
 
 Making bogolan takes days and several stages, each one done by hand:

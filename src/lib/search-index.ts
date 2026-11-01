@@ -9,8 +9,8 @@ import { type SearchEntry, normalize } from '@/lib/search';
 
 /**
  * The search index of one edition, built at build time and served as a static
- * file (/api/search/<locale>, under the /api/ prefix robots.txt already
- * disallows): our own pages in that edition, our lists of artists, and every
+ * file (/api/search/<locale>, which robots.txt disallows): our own pages in
+ * that edition, our lists of artists, and every
  * artist the lists name that has no profile in this edition, linked to
  * Wikipedia. The browser loads it the first time someone focuses the box.
  *

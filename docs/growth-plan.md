@@ -71,7 +71,7 @@ them.
 
 | # | Task | Who | Why |
 |---|---|---|---|
-| 1 | **Vercel → Domains:** make `africanartists.com` primary and `www` redirect to it (308). Test: `https://www.africanartists.com/art-forms/kente-cloth` must land on `https://africanartists.com/art-forms/kente-cloth`. | Owner | Google ranks two copies of each page and splits their signals. |
+| 1 | ☑ **Done 27 October 2026** (checked in Vercel on 1 November): `africanartists.com` is primary and `www.africanartists.com` redirects to it with a 308. Semrush's 31 October data still shows `www` rankings because it lags; watch Search Console until only the bare domain appears. | Owner | Google was ranking two copies of each page and splitting their signals. |
 | 2 | **Search Console** already runs (export of 17 October): check the property is a *Domain* property, so it covers both hosts, and resubmit `/sitemap.xml` after the redirect. Add **Bing Webmaster Tools** (it can import sites from Search Console); ping IndexNow after each release. | Owner | Data on real queries and clicks; faster indexing. |
 | 3 | **Analytics and consent:** GA4 (ad networks ask for it) or a privacy-first tool plus GA4; a consent banner for EU readers (Google requires a certified consent platform for ads shown in the EEA and UK); update `/privacy`. | Owner + us | Needed before ads, and to measure anything. |
 | 4 | **Quick-win retitles** (section 5): Cairo museum, mud cloth, masks, adinkra, kente, Kevin Carter. | Us | Pages already exist; titles miss the words people type. |
@@ -645,7 +645,7 @@ Marrakech and the Cape Town Art Fair usually in February (check each year).
 
 | Month | Content | Site and business |
 |---|---|---|
-| **Nov 2026** | Dak'Art 2026 guide (before 19 Nov); instruments hub + djembe, kalimba (first, for the December peak), mbira, kora, balafon, talking drum (EN, FR; ES and PT for djembe and kalimba); quick-win retitles | www redirect; Search Console check and Bing; analytics and consent; Bookshop.org and Amazon accounts |
+| **Nov 2026** | Dak'Art 2026 guide (before 19 Nov); instruments hub + djembe, kalimba (first, for the December peak), mbira, kora, balafon, talking drum (EN, FR; ES and PT for djembe and kalimba); quick-win retitles | Search Console check and Bing; analytics and consent; Bookshop.org and Amazon accounts |
 | **Dec 2026** | Adinkra dictionary and chart; sankofa, gye nyame, ankh, nsibidi; African patterns and traditional clothing hubs; dashiki, boubou | Sources shown on pages; newsletter and welcome chart; `/instruments` and `/symbols` collections |
 | **Jan 2027** | Black History Month pack; *Famous Black artists from Africa and its diaspora*; refresh kente, masks, printmaking; Mehretu, Ojih Odutola, Ofili, Yiadom-Boakye, Armitage (Wiley if approved) | Images on art-form pages; Etsy (Awin) and Novica (Impact) accounts |
 | **Feb 2027** | Museums batch 2; art-travel guides (Dakar, Marrakech, Cape Town); Gorée; Smithsonian NMAfA | Apply to Journey by Mediavine at ~1,000 sessions; GetYourGuide account |
@@ -682,7 +682,7 @@ that slip; re-run the keyword gap against contemporary-african-art.com and momaa
 
 ## 13. Decisions only the owner can make
 
-- [ ] Fix the www redirect in Vercel.
+- [x] Fix the www redirect in Vercel (done 27 October 2026).
 - [ ] Check that Search Console is a Domain property; add Bing Webmaster Tools.
 - [ ] Choose analytics and the consent banner.
 - [ ] **Scope:** diaspora artists such as Kehinde Wiley and Chris Ofili? musicians? ancient Egypt?

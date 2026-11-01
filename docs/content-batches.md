@@ -88,8 +88,8 @@ Semrush data yet — pull it before writing.*
 About 155 new English pages in twelve months, plus their translations. Batches 15 and 33 are tied
 to fixed dates, so they jump the queue if anything slips.
 
-**Owner tasks before batch 11:** `www` → apex redirect in Vercel; confirm Search Console is a
-Domain property; add Bing Webmaster Tools.
+**Owner tasks before batch 11:** confirm Search Console is a Domain property; add Bing Webmaster
+Tools. (The `www` → bare-domain redirect has been live in Vercel since 27 October 2026.)
 
 ---
 

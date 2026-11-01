@@ -114,9 +114,8 @@ Pulled through the Semrush connector, about 7,500 API units.
   "ethio artist" #32, "mohamed mrabet" #32, "south african photographer kevin carter" #37.
 - **Duplicate host:** 43 keywords rank on `africanartists.com` and 46 on `www.africanartists.com`
   (Benin Bronzes, kente, adinkra, mudcloth, Seydou Keïta… under www). Google has indexed both
-  hosts, which splits their signals. Fix in Vercel → Domains: `africanartists.com` primary,
-  `www` redirecting (308) to it; then check that `https://www.africanartists.com/art-forms/kente-cloth`
-  lands on `https://africanartists.com/art-forms/kente-cloth`.
+  hosts, which splits their signals. *Already fixed:* Vercel shows `www` redirecting (308) to
+  `africanartists.com` since 27 October 2026; Semrush lags behind the change.
 
 ### Competitors
 
@@ -174,7 +173,7 @@ marocain 390, chéri samba 320.
 
 ### What the data says to do, in order
 
-1. Fix the www / non-www split (Vercel setting, owner action).
+1. Fix the www / non-www split (Vercel setting) — done 27 October 2026.
 2. **African musical instruments** — a hub and pages for the djembe, kora, mbira, talking drum and
    balafon, in five languages: the largest low-difficulty gap, and it fits the music section.
 3. **Patterns, symbols and dress** — African patterns and symbols; traditional African clothing

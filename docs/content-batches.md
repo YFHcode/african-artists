@@ -59,7 +59,7 @@ Semrush data yet — pull it before writing.*
 | Batch | Theme | New | Updated | Target | Status |
 |---|---|---:|---:|---|---|
 | [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
-| [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☐ |
+| [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☑ 1 Nov; check 19 Dec |
 | [12](#batch-12--instruments-1) | Instruments 1 | 7 | 6 | 30 Nov 2026 | ☐ |
 | [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ |
 | [14](#batch-14--patterns-and-dress-1) | Patterns and dress 1 | 7 | 3 | 31 Dec 2026 | ☐ |
@@ -290,9 +290,15 @@ the English). Estimated: 9 pages × 5 editions, about 40 files, plus captions in
 **Success measure:** not a promise of rankings. Look at four weeks of Search Console for these
 nine pages: impressions up, average position improving, first clicks on the art-form pages.
 
-**Done when:** ☐ photographs chosen and captioned · ☐ source logs (new `data/sources/art-forms/`) ·
-☐ kente · ☐ adinkra · ☐ masks · ☐ mud cloth · ☐ pottery · ☐ Kevin Carter · ☐ Cairo ·
-☐ four snippets · ☐ translations · ☐ tests, build, crawl · ☐ released · ☐ four-week check
+**Status 1 November 2026 (shipped in one pass, ahead of the schedule above):**
+☑ photographs chosen and captioned (kente 1, adinkra 2, masks 1, mud cloth 3, pottery 2; weak
+candidates excluded after looking at each) · ☑ source notes (`data/sources/art-forms/batch-11.md`) ·
+☑ kente · ☑ adinkra · ☑ masks · ☑ mud cloth (answer-first and question sections, five editions) ·
+☑ pottery (photographs) · ☑ Cairo (description only) · ☑ four snippets · ☑ tests, build ·
+**Not changed, on purpose:** Kevin Carter (the page already has the sourced 1993 photograph, the
+Times note, the Pulitzer and the debate) and the rock-art PT/ES pages (titles already say
+*arte rupestre*). ☐ four-week check in Search Console (19 Dec 2026) · ☐ Spanish, Portuguese and
+Arabic captions for the photographs (English and French are done).
 
 ---
 
@@ -798,4 +804,5 @@ contemporary-african-art.com and momaa.org; write next year's batches.
 |---|---|---|---|
 | 31 Oct 2026 | Museums 1 | f1b39f5 | Ten museum pages |
 | 31 Oct 2026 | Plan | — | This file; growth plan in 1aeda37 |
+| 1 Nov 2026 | Batch 11 | 546a079–463fee2 | Sections on kente, adinkra, masks, mud cloth (5 editions); 9 photos; 5 snippets |
 | 1 Nov 2026 | Batch 10 | de7b965 | Dak'Art and Dakar guides (EN, FR); Event data; photo pipeline (`place-images.yml`), 4 photos |

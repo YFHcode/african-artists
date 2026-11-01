@@ -518,7 +518,10 @@ paid tools (Semrush among them) track mentions in other AI assistants.
 
 The competitor that wins is linked by **teachers, universities and explainer media**:
 LibreTexts, university course pages, The Conversation, Smithsonian Magazine, My Modern Met,
-Nation Africa, Morocco World News, Briefly. That is our target list.
+Nation Africa, Morocco World News, Briefly. That is our target list. The full prospect list, from a
+Semrush backlink gap against three competitors, is in
+[backlink-gap-2026-11.md](backlink-gap-2026-11.md): our own profile has no editorial links yet,
+so every editorial link the competitors have is a gap.
 
 **Linkable assets to build:**
 - The **adinkra chart** and **Black History Month teaching pack** — for teachers, librarians,

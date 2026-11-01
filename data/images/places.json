@@ -75,19 +75,6 @@
      "en": "A street in Kumasi (“Coomassie”) with a loom at right, from an illustration in Thomas Bowdich's 1819 account of the Asante.",
      "fr": "Une rue de Kumasi (« Coomassie »), avec un métier à tisser à droite, d'après une illustration du récit de Thomas Bowdich sur les Asante (1819)."
     }
-   },
-   {
-    "src": "/images/places/art-forms-kente-cloth-2.webp",
-    "width": 800,
-    "height": 533,
-    "file": "Un homme Agni du royaume Sanwi 04.jpg",
-    "author": "Aman ADO",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Un_homme_Agni_du_royaume_Sanwi_04.jpg",
-    "caption": {
-     "en": "Homme Akan majestueusement Habillé à l'occasion de cérémonie officielle"
-    }
    }
   ],
   "art-forms/adinkra-symbols": [
@@ -133,19 +120,6 @@
     "caption": {
      "en": "A Wabele (Wo) mask of the Senufo, Brooklyn Museum.",
      "fr": "Un masque wabele (wo) des Sénoufo, Brooklyn Museum."
-    }
-   },
-   {
-    "src": "/images/places/art-forms-african-masks-2.webp",
-    "width": 800,
-    "height": 533,
-    "file": "Bandiagara escarpment 2.jpg",
-    "author": "Ferdinand Reus from Arnhem, Holland",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment_2.jpg",
-    "caption": {
-     "en": "Cliff dwellings in the Bandiagara escarpment — in the Sahel region of Mali."
     }
    }
   ],

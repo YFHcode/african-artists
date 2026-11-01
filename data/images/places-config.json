@@ -66,9 +66,10 @@
   "files": [],
   "exclude": [
    "Members of Congress kneel for 8 minutes and 42 seconds in protest of police brutality - 2020-06-08.jpg",
-   "Fête de génération chez les Ebrié.JPG"
+   "Fête de génération chez les Ebrié.JPG",
+   "Un homme Agni du royaume Sanwi 04.jpg"
   ],
-  "max": 2,
+  "max": 1,
   "captions": {
    "BOWDICH(1819) p344 PLATE 9 - COOMASSIE, PART OF ADAM STREET.jpg": {
     "en": "A street in Kumasi (“Coomassie”) with a loom at right, from an illustration in Thomas Bowdich's 1819 account of the Asante.",
@@ -106,9 +107,10 @@
   "exclude": [
    "Masques BaKongo.JPG",
    "African scarification in the early 1940s (detailed).jpg",
-   "Dogon Hunter.JPG"
+   "Dogon Hunter.JPG",
+   "Bandiagara escarpment 2.jpg"
   ],
-  "max": 2,
+  "max": 1,
   "captions": {
    "Brooklyn Museum 60.144 Mask Wabele or Wo.jpg": {
     "en": "A Wabele (Wo) mask of the Senufo, Brooklyn Museum.",

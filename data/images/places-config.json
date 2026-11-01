@@ -207,7 +207,26 @@
    "Mbira dzavadzimu in deze.jpg"
   ],
   "max": 3,
-  "captions": {}
+  "captions": {
+   "Holding an mbira dzavadzimu.jpg": {
+    "en": "Holding an mbira dzavadzimu, the Shona instrument from which the kalimba was adapted: the thumbs pluck the keys.",
+    "fr": "Tenir une mbira dzavadzimu, l'instrument shona dont la kalimba est adaptée : les pouces pincent les lames.",
+    "es": "Sosteniendo una mbira dzavadzimu, el instrumento shona del que se adaptó la kalimba: los pulgares pulsan las lengüetas.",
+    "pt": "Segurando uma mbira dzavadzimu, o instrumento shona de que a kalimba foi adaptada: os polegares tocam as lâminas."
+   },
+   "Ikembe-sanza-mbira.JPG": {
+    "en": "A thumb piano from Burundi, with metal tines on a plain wooden board, in a museum display.",
+    "fr": "Un piano à pouces du Burundi, avec des lames métalliques sur une simple planche de bois, dans une vitrine de musée.",
+    "es": "Un piano de pulgares de Burundi, con lengüetas metálicas sobre una sencilla tabla de madera, en una vitrina de museo.",
+    "pt": "Um piano de polegar do Burundi, com lâminas de metal numa simples tábua de madeira, numa vitrina de museu."
+   },
+   "Musée africain de Lyon - décembre 2015 (7).JPG": {
+    "en": "A child's sanza with five palm slats on a wooden board, about 1920, African Museum of Lyon; its origin is given as Yoruba or Benin, with a question mark.",
+    "fr": "Un sanza d'enfant à cinq lames de palme sur une planche de bois, vers 1920, Musée africain de Lyon ; l'origine indiquée est yoruba ou Bénin, avec un point d'interrogation.",
+    "es": "Una sanza infantil con cinco láminas de palma sobre una tabla de madera, hacia 1920, Museo Africano de Lyon; su origen se indica como yoruba o Benín, con un signo de interrogación.",
+    "pt": "Uma sanza infantil com cinco lâminas de palma numa tábua de madeira, por volta de 1920, Museu Africano de Lyon; a origem é indicada como ioruba ou Benim, com um ponto de interrogação."
+   }
+  }
  },
  "instruments/djembe": {
   "pages": [
@@ -222,10 +241,32 @@
   "exclude": [
    "Djembe skin mounting system.jpg",
    "Djembe skin mounting system - three rings.jpg",
-   "Djembe - Inside Spiral.JPG"
+   "Djembe - Inside Spiral.JPG",
+   "2006-07-06 crash paiste 16.jpg",
+   "Djembé kessing.jpg",
+   "Learning djembe.jpg"
   ],
-  "max": 6,
-  "captions": {}
+  "max": 3,
+  "captions": {
+   "Djembé player.JPG": {
+    "en": "Two djembe players at a festival in Vicenza, Italy, in 2007.",
+    "fr": "Deux joueurs de djembé lors d'un festival à Vicence, en Italie, en 2007.",
+    "es": "Dos intérpretes de djembe en un festival en Vicenza, Italia, en 2007.",
+    "pt": "Dois tocadores de djembê num festival em Vicenza, Itália, em 2007."
+   },
+   "La fabrique du \"Diembé\".jpg": {
+    "en": "A djembe shell being carved from a log with an axe.",
+    "fr": "Un fût de djembé taillé à la hache dans un tronc.",
+    "es": "Un cuerpo de djembe tallado con un hacha a partir de un tronco.",
+    "pt": "Um corpo de djembê talhado a machado a partir de um tronco."
+   },
+   "La finition.jpg": {
+    "en": "Carved wooden djembe shells, before their skins are fitted.",
+    "fr": "Des fûts de djembé en bois sculpté, avant la pose des peaux.",
+    "es": "Cuerpos de djembe de madera tallada, antes de colocarles los parches.",
+    "pt": "Corpos de djembê de madeira talhada, antes de lhes serem colocadas as peles."
+   }
+  }
  },
  "instruments/mbira": {
   "pages": [

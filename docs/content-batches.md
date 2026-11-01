@@ -58,7 +58,7 @@ Semrush data yet — pull it before writing.*
 
 | Batch | Theme | New | Updated | Target | Status |
 |---|---|---:|---:|---|---|
-| [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 3 | 12 Nov 2026 | ☐ |
+| [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
 | [11](#batch-11--quick-wins-on-existing-pages) | Quick wins on existing pages | 0 | 11 | 21 Nov 2026 | ☐ |
 | [12](#batch-12--instruments-1) | Instruments 1 | 7 | 6 | 30 Nov 2026 | ☐ |
 | [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ |
@@ -177,9 +177,10 @@ prices. Moves into the `travel` collection in batch 19 (with a redirect).
 | 19 Nov | Opening: add the confirmed programme, hours and artists |
 | 20 Dec | After the closing: 2026 section into the past tense; *Updated* date |
 
-**Done when:** ☐ facts confirmed and logged · ☐ EN (2 pages) · ☐ FR (2 pages) · ☐ Event data ·
-☐ links in · ☐ tests, build, crawl · ☐ released · ☐ indexing requested · ☐ opening update ·
-☐ closing update
+**Done when:** ☑ facts confirmed and logged · ☑ EN (2 pages) · ☑ FR (2 pages) · ☑ Event data ·
+☑ links in · ☑ tests, build, crawl · ☑ released (1 Nov 2026, de7b965) · ☑ photographs (2 each,
+Commons, via `place-images.yml`) · ☐ indexing requested · ☐ hours and admission (check 10 Nov) ·
+☐ opening update (19 Nov) · ☐ closing update (20 Dec)
 
 ---
 
@@ -714,3 +715,4 @@ contemporary-african-art.com and momaa.org; write next year's batches.
 |---|---|---|---|
 | 31 Oct 2026 | Museums 1 | f1b39f5 | Ten museum pages |
 | 31 Oct 2026 | Plan | — | This file; growth plan in 1aeda37 |
+| 1 Nov 2026 | Batch 10 | de7b965 | Dak'Art and Dakar guides (EN, FR); Event data; photo pipeline (`place-images.yml`), 4 photos |

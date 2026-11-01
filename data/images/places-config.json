@@ -57,5 +57,59 @@
     "fr": "Une vue de l'île de Gorée."
    }
   }
+ },
+ "art-forms/kente-cloth": {
+  "pages": [
+   "Kente cloth",
+   "fr:Kente"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "art-forms/adinkra-symbols": {
+  "pages": [
+   "Adinkra symbols",
+   "fr:Adinkra"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "art-forms/african-masks": {
+  "pages": [
+   "African masks",
+   "Dogon people",
+   "Gelede",
+   "fr:Masque africain"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 4,
+  "captions": {}
+ },
+ "art-forms/mudcloth": {
+  "pages": [
+   "Bògòlanfini",
+   "Bogolanfini",
+   "fr:Bogolan"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
+ },
+ "art-forms/african-pottery": {
+  "pages": [
+   "Ladi Kwali",
+   "Magdalene Odundo",
+   "African pottery"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 3,
+  "captions": {}
  }
 }

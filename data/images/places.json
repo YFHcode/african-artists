@@ -6,30 +6,18 @@
     "src": "/images/places/guides-dakar-biennale-1.webp",
     "width": 800,
     "height": 533,
-    "file": "Babouches Serigne Babacar Sy 4238.jpg",
-    "author": "GuillaumeG",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Babouches_Serigne_Babacar_Sy_4238.jpg",
-    "caption": {
-     "en": "Babouches de Serigne Babacar Sy, exposées au Musée des Civilisations Noires de Dakar (Sénégal)."
-    }
-   },
-   {
-    "src": "/images/places/guides-dakar-biennale-2.webp",
-    "width": 800,
-    "height": 533,
     "file": "Musée des civilisations noires 2022.jpg",
     "author": "PMO Barbados",
     "license": "Public domain",
     "licenseUrl": null,
     "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_civilisations_noires_2022.jpg",
     "caption": {
-     "en": "Musée des civilisations noires en mars 2022"
+     "en": "The Museum of Black Civilisations in Dakar, March 2022.",
+     "fr": "Le Musée des civilisations noires à Dakar, en mars 2022."
     }
    },
    {
-    "src": "/images/places/guides-dakar-biennale-3.webp",
+    "src": "/images/places/guides-dakar-biennale-2.webp",
     "width": 800,
     "height": 600,
     "file": "TaxiZinkpè.JPG",
@@ -38,7 +26,8 @@
     "licenseUrl": null,
     "page": "https://commons.wikimedia.org/wiki/File:TaxiZinkp%C3%A8.JPG",
     "caption": {
-     "en": "Taxi Taf-Taf, une installation du plasticien béninois Dominique Zinkpè présentée à la Biennale de Dakar en 2002 et exposée depuis à l'Institut français Léopol…"
+     "en": "Taf-Taf, an installation by the Beninese artist Dominique Zinkpè, shown at the Dakar Biennale in 2002.",
+     "fr": "Taf-Taf, installation de l'artiste béninois Dominique Zinkpè, présentée à la Biennale de Dakar en 2002."
     }
    }
   ],
@@ -47,30 +36,18 @@
     "src": "/images/places/guides-dakar-for-art-lovers-1.webp",
     "width": 800,
     "height": 533,
-    "file": "Babouches Serigne Babacar Sy 4238.jpg",
-    "author": "GuillaumeG",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Babouches_Serigne_Babacar_Sy_4238.jpg",
-    "caption": {
-     "en": "Babouches de Serigne Babacar Sy, exposées au Musée des Civilisations Noires de Dakar (Sénégal)."
-    }
-   },
-   {
-    "src": "/images/places/guides-dakar-for-art-lovers-2.webp",
-    "width": 800,
-    "height": 533,
     "file": "Musée des civilisations noires 2022.jpg",
     "author": "PMO Barbados",
     "license": "Public domain",
     "licenseUrl": null,
     "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_civilisations_noires_2022.jpg",
     "caption": {
-     "en": "Musée des civilisations noires en mars 2022"
+     "en": "The Museum of Black Civilisations in Dakar, March 2022.",
+     "fr": "Le Musée des civilisations noires à Dakar, en mars 2022."
     }
    },
    {
-    "src": "/images/places/guides-dakar-for-art-lovers-3.webp",
+    "src": "/images/places/guides-dakar-for-art-lovers-2.webp",
     "width": 800,
     "height": 600,
     "file": "SENEGAL.jpg",
@@ -79,20 +56,8 @@
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "page": "https://commons.wikimedia.org/wiki/File:SENEGAL.jpg",
     "caption": {
-     "en": "otok Gorée, Senegal"
-    }
-   },
-   {
-    "src": "/images/places/guides-dakar-for-art-lovers-4.webp",
-    "width": 800,
-    "height": 600,
-    "file": "Dakar, glavni grad Senegala.jpg",
-    "author": "August Dominus",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Dakar,_glavni_grad_Senegala.jpg",
-    "caption": {
-     "en": "pogled na Dakar, glavni grad Senegala, s otoka Gorée"
+     "en": "A view of the island of Gorée.",
+     "fr": "Une vue de l'île de Gorée."
     }
    }
   ]

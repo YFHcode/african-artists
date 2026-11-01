@@ -223,6 +223,239 @@
      "ar": "إناء مصقول من أعمال ماغدالين أودوندو، York Museums Trust."
     }
    }
+  ],
+  "instruments/kalimba": [
+   {
+    "src": "/images/places/instruments-kalimba-1.webp",
+    "width": 800,
+    "height": 678,
+    "file": "Mbira1.png",
+    "author": "Alex Weeks , Later version(s) were uploaded by Jellocube27",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Mbira1.png",
+    "caption": {
+     "en": "Taken be me, Alex Weeks on an Olympus C770. 2\" at F8 under under an incandescent room light."
+    }
+   },
+   {
+    "src": "/images/places/instruments-kalimba-2.webp",
+    "width": 800,
+    "height": 765,
+    "file": "Mbira dzavadzimu in deze.jpg",
+    "author": "Alex Weeks",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Mbira_dzavadzimu_in_deze.jpg",
+    "caption": {
+     "en": "An Mbira Dzavadzimu in a deze, taken with an Olympus C-770 digital camera on 2005-11-11, cropped using the GIMP."
+    }
+   },
+   {
+    "src": "/images/places/instruments-kalimba-3.webp",
+    "width": 800,
+    "height": 671,
+    "file": "Holding an mbira dzavadzimu.jpg",
+    "author": "Alex Weeks",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Holding_an_mbira_dzavadzimu.jpg",
+    "caption": {
+     "en": "Image of how to hold an Mbira Dzavadzimu, taken with an Olympus C-770 digital camera- Cropped using the GIMP."
+    }
+   }
+  ],
+  "instruments/djembe": [
+   {
+    "src": "/images/places/instruments-djembe-1.webp",
+    "width": 800,
+    "height": 710,
+    "file": "Djembe skin mounting system.jpg",
+    "author": "Michi Henning",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Djembe_skin_mounting_system.jpg",
+    "caption": {
+     "en": "Schematic of how the skin is routed and trapped between the crown ring and flesh ring."
+    }
+   },
+   {
+    "src": "/images/places/instruments-djembe-2.webp",
+    "width": 800,
+    "height": 710,
+    "file": "Djembe skin mounting system - three rings.jpg",
+    "author": "Michi Henning",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Djembe_skin_mounting_system_-_three_rings.jpg",
+    "caption": {
+     "en": "Schematic of how the skin is routed and trapped between the crown ring and flesh ring with a three-ring system."
+    }
+   },
+   {
+    "src": "/images/places/instruments-djembe-3.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Djembe - Inside Spiral.JPG",
+    "author": "Michi Henning",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Djembe_-_Inside_Spiral.JPG",
+    "caption": {
+     "en": "Spiral pattern that is left behind by carving on the inside of a djembe made of djalla wood."
+    }
+   }
+  ],
+  "instruments/mbira": [
+   {
+    "src": "/images/places/instruments-mbira-1.webp",
+    "width": 800,
+    "height": 678,
+    "file": "Mbira1.png",
+    "author": "Alex Weeks , Later version(s) were uploaded by Jellocube27",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Mbira1.png",
+    "caption": {
+     "en": "Taken be me, Alex Weeks on an Olympus C770. 2\" at F8 under under an incandescent room light."
+    }
+   },
+   {
+    "src": "/images/places/instruments-mbira-2.webp",
+    "width": 800,
+    "height": 765,
+    "file": "Mbira dzavadzimu in deze.jpg",
+    "author": "Alex Weeks",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Mbira_dzavadzimu_in_deze.jpg",
+    "caption": {
+     "en": "An Mbira Dzavadzimu in a deze, taken with an Olympus C-770 digital camera on 2005-11-11, cropped using the GIMP."
+    }
+   }
+  ],
+  "instruments/kora": [
+   {
+    "src": "/images/places/instruments-kora-1.webp",
+    "width": 800,
+    "height": 533,
+    "file": "Kora-Player2.jpg",
+    "author": "kevinzim",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kora-Player2.jpg",
+    "caption": {
+     "en": "\"Jali Fily Sissokho, a Mandinka kora player from Senegal. Performance in the Pitt Rivers Museum\""
+    }
+   },
+   {
+    "src": "/images/places/instruments-kora-2.webp",
+    "width": 800,
+    "height": 600,
+    "file": "4 Koras showing 4 sides.jpg",
+    "author": "Mathaz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:4_Koras_showing_4_sides.jpg",
+    "caption": {
+     "en": "This is an image from"
+    }
+   },
+   {
+    "src": "/images/places/instruments-kora-3.webp",
+    "width": 800,
+    "height": 600,
+    "file": "4 Koras.jpg",
+    "author": "Mathaz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:4_Koras.jpg",
+    "caption": {
+     "en": "This is an image from"
+    }
+   }
+  ],
+  "instruments/balafon": [
+   {
+    "src": "/images/places/instruments-balafon-1.webp",
+    "width": 800,
+    "height": 419,
+    "file": "African Balafon in Museu Oscar Niemeyer.jpg",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:African_Balafon_in_Museu_Oscar_Niemeyer.jpg",
+    "caption": {
+     "en": "The balafon is a West African xylophone with wooden keys over gourd resonators, played with mallets; it sometimes uses membranes for a characteristic buzz and…"
+    }
+   },
+   {
+    "src": "/images/places/instruments-balafon-2.webp",
+    "width": 800,
+    "height": 527,
+    "file": "Balafon children burkina faso.jpg",
+    "author": "Kotoviski photograph by Henryk Kotowski",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Balafon_children_burkina_faso.jpg",
+    "caption": {
+     "en": "Children from Burkina Faso perform during the 5th Cross Culture Festival in Warszawa, Poland"
+    }
+   },
+   {
+    "src": "/images/places/instruments-balafon-3.webp",
+    "width": 800,
+    "height": 598,
+    "file": "Balafoon.jpg",
+    "author": "Redmedea at Dutch Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Balafoon.jpg",
+    "caption": {
+     "en": "Een balafoon is een slaginstrument, afkomstig uit West-Afrika. Het instrument lijkt op een xylofoon. Zelfgemaakte foto."
+    }
+   }
+  ],
+  "instruments/talking-drum": [
+   {
+    "src": "/images/places/instruments-talking-drum-1.webp",
+    "width": 800,
+    "height": 533,
+    "file": "Gangan.jpg",
+    "author": "EmmanuelOEmmanuel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gangan.jpg",
+    "caption": {
+     "en": "This is an image from"
+    }
+   },
+   {
+    "src": "/images/places/instruments-talking-drum-2.webp",
+    "width": 800,
+    "height": 422,
+    "file": "Iya Ilu Dundun.png",
+    "author": "Mplanetech",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Iya_Ilu_Dundun.png",
+    "caption": {
+     "en": "This is an image from"
+    }
+   },
+   {
+    "src": "/images/places/instruments-talking-drum-3.webp",
+    "width": 800,
+    "height": 533,
+    "file": "WIKI LOVES AFRICA 2016 HYPERFOCALSTUDIOS.jpg",
+    "author": "Hyperfocalstudios",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:WIKI_LOVES_AFRICA_2016_HYPERFOCALSTUDIOS.jpg",
+    "caption": {
+     "en": "This is an image from"
+    }
+   }
   ]
  }
 }

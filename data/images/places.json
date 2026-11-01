@@ -235,7 +235,10 @@
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "page": "https://commons.wikimedia.org/wiki/File:Holding_an_mbira_dzavadzimu.jpg",
     "caption": {
-     "en": "Image of how to hold an Mbira Dzavadzimu, taken with an Olympus C-770 digital camera- Cropped using the GIMP."
+     "en": "Holding an mbira dzavadzimu, the Shona instrument from which the kalimba was adapted: the thumbs pluck the keys.",
+     "fr": "Tenir une mbira dzavadzimu, l'instrument shona dont la kalimba est adaptée : les pouces pincent les lames.",
+     "es": "Sosteniendo una mbira dzavadzimu, el instrumento shona del que se adaptó la kalimba: los pulgares pulsan las lengüetas.",
+     "pt": "Segurando uma mbira dzavadzimu, o instrumento shona de que a kalimba foi adaptada: os polegares tocam as lâminas."
     }
    },
    {
@@ -248,7 +251,10 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Ikembe-sanza-mbira.JPG",
     "caption": {
-     "en": "Piano de mano de Burundi"
+     "en": "A thumb piano from Burundi, with metal tines on a plain wooden board, in a museum display.",
+     "fr": "Un piano à pouces du Burundi, avec des lames métalliques sur une simple planche de bois, dans une vitrine de musée.",
+     "es": "Un piano de pulgares de Burundi, con lengüetas metálicas sobre una sencilla tabla de madera, en una vitrina de museo.",
+     "pt": "Um piano de polegar do Burundi, com lâminas de metal numa simples tábua de madeira, numa vitrina de museu."
     }
    },
    {
@@ -261,7 +267,10 @@
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_africain_de_Lyon_-_d%C3%A9cembre_2015_(7).JPG",
     "caption": {
-     "en": "Images du musée africain de Lyon: Sanza d'enfant à cinq lames. Yoruba? Bénin? 1920. Bois et lamelles de palmes."
+     "en": "A child's sanza with five palm slats on a wooden board, about 1920, African Museum of Lyon; its origin is given as Yoruba or Benin, with a question mark.",
+     "fr": "Un sanza d'enfant à cinq lames de palme sur une planche de bois, vers 1920, Musée africain de Lyon ; l'origine indiquée est yoruba ou Bénin, avec un point d'interrogation.",
+     "es": "Una sanza infantil con cinco láminas de palma sobre una tabla de madera, hacia 1920, Museo Africano de Lyon; su origen se indica como yoruba o Benín, con un signo de interrogación.",
+     "pt": "Uma sanza infantil com cinco lâminas de palma numa tábua de madeira, por volta de 1920, Museu Africano de Lyon; a origem é indicada como ioruba ou Benim, com um ponto de interrogação."
     }
    }
   ],
@@ -276,7 +285,10 @@
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "page": "https://commons.wikimedia.org/wiki/File:Djemb%C3%A9_player.JPG",
     "caption": {
-     "en": "Some Djmbé player at Festmbiente 2007 Vicenza"
+     "en": "Two djembe players at a festival in Vicenza, Italy, in 2007.",
+     "fr": "Deux joueurs de djembé lors d'un festival à Vicence, en Italie, en 2007.",
+     "es": "Dos intérpretes de djembe en un festival en Vicenza, Italia, en 2007.",
+     "pt": "Dois tocadores de djembê num festival em Vicenza, Itália, em 2007."
     }
    },
    {
@@ -289,7 +301,10 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:La_fabrique_du_%22Diemb%C3%A9%22.jpg",
     "caption": {
-     "en": "Processus de sculpture d'instrument musicale du tam-tam avec de la hache."
+     "en": "A djembe shell being carved from a log with an axe.",
+     "fr": "Un fût de djembé taillé à la hache dans un tronc.",
+     "es": "Un cuerpo de djembe tallado con un hacha a partir de un tronco.",
+     "pt": "Um corpo de djembê talhado a machado a partir de um tronco."
     }
    },
    {
@@ -302,46 +317,10 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:La_finition.jpg",
     "caption": {
-     "en": "Processus de sculpture d'instrument musicale du tam-tam avec de la hache."
-    }
-   },
-   {
-    "src": "/images/places/instruments-djembe-4.webp",
-    "width": 800,
-    "height": 522,
-    "file": "2006-07-06 crash paiste 16.jpg",
-    "author": "Stephan Czuratis ( Jazz-face )",
-    "license": "CC BY-SA 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "page": "https://commons.wikimedia.org/wiki/File:2006-07-06_crash_paiste_16.jpg",
-    "caption": {
-     "en": "16 inches Crash Cymbal made by Paiste"
-    }
-   },
-   {
-    "src": "/images/places/instruments-djembe-5.webp",
-    "width": 800,
-    "height": 533,
-    "file": "Djembé kessing.jpg",
-    "author": "Qniemiec",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Djemb%C3%A9_kessing.jpg",
-    "caption": {
-     "en": "West-African djembé kessing"
-    }
-   },
-   {
-    "src": "/images/places/instruments-djembe-6.webp",
-    "width": 800,
-    "height": 600,
-    "file": "Learning djembe.jpg",
-    "author": "sookie",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Learning_djembe.jpg",
-    "caption": {
-     "en": "Learning the djembe in Queen's Park."
+     "en": "Carved wooden djembe shells, before their skins are fitted.",
+     "fr": "Des fûts de djembé en bois sculpté, avant la pose des peaux.",
+     "es": "Cuerpos de djembe de madera tallada, antes de colocarles los parches.",
+     "pt": "Corpos de djembê de madeira talhada, antes de lhes serem colocadas as peles."
     }
    }
   ],

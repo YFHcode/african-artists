@@ -297,8 +297,8 @@ candidates excluded after looking at each) · ☑ source notes (`data/sources/ar
 ☑ pottery (photographs) · ☑ Cairo (description only) · ☑ four snippets · ☑ tests, build ·
 **Not changed, on purpose:** Kevin Carter (the page already has the sourced 1993 photograph, the
 Times note, the Pulitzer and the debate) and the rock-art PT/ES pages (titles already say
-*arte rupestre*). ☐ four-week check in Search Console (19 Dec 2026) · ☐ Spanish, Portuguese and
-Arabic captions for the photographs (English and French are done).
+*arte rupestre*). ☐ four-week check in Search Console (19 Dec 2026) · ☑ captions for all nine photographs in
+five languages (Spanish, Portuguese and Arabic added 1 November).
 
 ---
 

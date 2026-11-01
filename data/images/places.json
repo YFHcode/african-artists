@@ -60,6 +60,209 @@
      "fr": "Une vue de l'île de Gorée."
     }
    }
+  ],
+  "art-forms/kente-cloth": [
+   {
+    "src": "/images/places/art-forms-kente-cloth-1.webp",
+    "width": 800,
+    "height": 419,
+    "file": "BOWDICH(1819) p344 PLATE 9 - COOMASSIE, PART OF ADAM STREET.jpg",
+    "author": null,
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:BOWDICH(1819)_p344_PLATE_9_-_COOMASSIE,_PART_OF_ADAM_STREET.jpg",
+    "caption": {}
+   },
+   {
+    "src": "/images/places/art-forms-kente-cloth-2.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Members of Congress kneel for 8 minutes and 42 seconds in protest of police brutality - 2020-06-08.jpg",
+    "author": "Brad Sherman",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Members_of_Congress_kneel_for_8_minutes_and_42_seconds_in_protest_of_police_brutality_-_2020-06-08.jpg",
+    "caption": {
+     "en": "I joined my colleagues today in a moment of silence to honor the African American lives lost to #PoliceBrutality & systematic injustices. We hear the American…"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-kente-cloth-3.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Fête de génération chez les Ebrié.JPG",
+    "author": "ChefDuVillage",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:F%C3%AAte_de_g%C3%A9n%C3%A9ration_chez_les_Ebri%C3%A9.JPG",
+    "caption": {
+     "en": "This is an image of Cultural Fashion or Adornment from"
+    }
+   }
+  ],
+  "art-forms/adinkra-symbols": [
+   {
+    "src": "/images/places/art-forms-adinkra-symbols-1.webp",
+    "width": 800,
+    "height": 614,
+    "file": "Adinkra 1825.jpg",
+    "author": "Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "page": "https://commons.wikimedia.org/wiki/File:Adinkra_1825.jpg",
+    "caption": {
+     "en": "Adinkra cloth"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-adinkra-symbols-2.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Ghanaian Embassy WashingtonDC 3220.JPG",
+    "author": "Krokodyl",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ghanaian_Embassy_WashingtonDC_3220.JPG",
+    "caption": {
+     "en": "Embassy of Ghana in the United States, located at 3512 International Drive NW in Washington, D.C."
+    }
+   }
+  ],
+  "art-forms/african-masks": [
+   {
+    "src": "/images/places/art-forms-african-masks-1.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Masques BaKongo.JPG",
+    "author": "Ndoto ya Afrika",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Masques_BaKongo.JPG",
+    "caption": {
+     "en": "BaKongo masks from the Kongo Central region in the DRC"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-african-masks-2.webp",
+    "width": 800,
+    "height": 583,
+    "file": "Brooklyn Museum 60.144 Mask Wabele or Wo.jpg",
+    "author": "Unknown author",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_60.144_Mask_Wabele_or_Wo.jpg",
+    "caption": {
+     "en": "Mask (Wabele or Wo)"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-african-masks-3.webp",
+    "width": 800,
+    "height": 869,
+    "file": "African scarification in the early 1940s (detailed).jpg",
+    "author": "John Atherton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:African_scarification_in_the_early_1940s_(detailed).jpg",
+    "caption": {
+     "en": "Scarification in Africa (c. 1943)"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-african-masks-4.webp",
+    "width": 800,
+    "height": 536,
+    "file": "Dogon Hunter.JPG",
+    "author": "J. Drevet",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dogon_Hunter.JPG",
+    "caption": {
+     "en": "Hunter in Dogon region, Mali. Flintlock rifle."
+    }
+   }
+  ],
+  "art-forms/mudcloth": [
+   {
+    "src": "/images/places/art-forms-mudcloth-1.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Ségou (8).JPG",
+    "author": "OBERSON",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9gou_(8).JPG",
+    "caption": {
+     "en": "This is an image of Cultural Fashion or Adornment from"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-mudcloth-2.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Ségou (10).JPG",
+    "author": "OBERSON",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9gou_(10).JPG",
+    "caption": {
+     "en": "This is an image of Cultural Fashion or Adornment from"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-mudcloth-3.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Ségou (12).JPG",
+    "author": "OBERSON",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9gou_(12).JPG",
+    "caption": {
+     "en": "This is an image of Cultural Fashion or Adornment from"
+    }
+   }
+  ],
+  "art-forms/african-pottery": [
+   {
+    "src": "/images/places/art-forms-african-pottery-1.webp",
+    "width": 800,
+    "height": 533,
+    "file": "Hand-Built pot by Ladi Kwali (YORYM-2004.1.919).JPG",
+    "author": "Creator:Ladi Kwali",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hand-Built_pot_by_Ladi_Kwali_(YORYM-2004.1.919).JPG",
+    "caption": {
+     "en": "Large hand built pot with rim, incised and inlaid pattern in red slip with transparent glaze. From the W.A. Ismay Studio Ceramics Collection at York Art Gallery"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-african-pottery-2.webp",
+    "width": 800,
+    "height": 600,
+    "file": "Burnished Jar by Odundo, Magdalene (YORYM 2004 1 10).jpg",
+    "author": "Magdalene Odundo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Burnished_Jar_by_Odundo,_Magdalene_(YORYM_2004_1_10).jpg",
+    "caption": {
+     "en": "Burnished jar with asymmetrical mouth and neck (ridge beneath bend of neck). Black metallic finish, the result of burnishing and reduction firing. From the W.A…"
+    }
+   },
+   {
+    "src": "/images/places/art-forms-african-pottery-3.webp",
+    "width": 800,
+    "height": 372,
+    "file": "African Sudan Art Basket-Tray.jpg",
+    "author": "King muh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:African_Sudan_Art_Basket-Tray.jpg",
+    "caption": {
+     "en": "SUDAN basket -tray,tabar of weaved natural plant fibre, coloured in different colours"
+    }
+   }
   ]
  }
 }

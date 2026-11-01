@@ -95,18 +95,91 @@ Tools. (The `www` → bare-domain redirect has been live in Vercel since 27 Octo
 
 ## Batch 10 — Dak'Art 2026
 
-**Target:** live by 12 November 2026, a week before the biennale opens (19 November–19 December
-2026, artistic director Morad Montazami, main venue the Museum of Black Civilisations).
+**Target:** live by 12 November 2026, a week before the biennale opens on 19 November. Google
+needs a few days to index a new page, and searches for the biennale peak around the opening.
+
+### Pages
 
 | Page | Primary keyword | Secondary keywords | Languages |
 |---|---|---|---|
-| `guides/dakar-biennale-2026` — Dak'Art 2026 visitor guide: dates, venues, what to see | *dakar biennale* 170 | *dak'art* 90 · FR *biennale de dakar* 90 / 37 | EN FR |
-| `guides/dakar-for-art-lovers` — museums, galleries, Gorée, the École de Dakar | *things to do in dakar* 1,600 / 20 | *goree island* 3,600 / 42 (link to its page in batch 18) | EN FR |
+| `guides/dakar-biennale` — *Dak'Art: the Dakar Biennale, and the 2026 edition* | *dakar biennale* 170 | *dak'art* 90 · *dakar biennale 2026* · FR *biennale de dakar* 90 / 37 | EN FR |
+| `guides/dakar-for-art-lovers` — *Dakar for Art Lovers: Museums, Galleries and Gorée* | *things to do in dakar* 1,600 / 20 | *goree island* 3,600 / 42 (its own page comes in batch 18) | EN FR |
 
-**Links in:** `guides/african-art-fairs-and-biennales`, `museums/museum-of-black-civilisations`,
-`museums/theodore-monod-museum`, `movements/ecole-de-dakar`, `artists/country/senegal`.
-**Earns:** a later home for tour affiliates (batch 19).
-**Done when:** ☐ sources logged · ☐ EN · ☐ FR · ☐ links in · ☐ released · ☐ indexing requested
+**One evergreen URL, not `dakar-biennale-2026`.** Dak'Art comes back every two years. One page
+for the event, with a section for the current edition, keeps every link and ranking it earns
+for 2028 and beyond. After the closing on 19 December the 2026 section moves to the past tense.
+
+Keyword figures are from 31 October; no new Semrush pull for this batch.
+
+### Facts — status on 1 November 2026
+
+| Fact | Status | Source to log |
+|---|---|---|
+| 16th edition, 19 November – 19 December 2026 | Confirmed by the organiser and the press | biennaledakar.org; allAfrica (6 October 2026) |
+| Artistic director Morad Montazami | Confirmed (already on our Museum of Black Civilisations page) | Organiser; au-senegal.com |
+| Theme *« (Anti)fragilité : Arts de la réparation et stratégies du contrecoup »*, the international exhibition organised in five "lines of flight" | Reported by several outlets; check the official English wording before writing it in English | Organiser's September statement |
+| Venues: the old Palais de Justice at Cap Manuel, the Museum of Black Civilisations, the Galerie nationale d'art | Listed by the organiser | biennaledakar.org |
+| Number of artists ("54" on the organiser's site) | **Unclear** — leave it out unless the official list confirms it | — |
+| Opening hours, tickets, full programme | **Not published** as of early October — check on 10 November and again at the opening | biennaledakar.org |
+| The OFF: independent shows across the city (registration closed 13 September) | Reported | Organiser |
+| History: started 1990, visual art from 1992, contemporary African art only from 1996 | Already sourced in our fairs guide | Existing source log |
+| 15th edition, 7 November – 7 December 2024, curator Salimata Diop, theme *The Wake / L'Éveil* | Reported — verify before using | Press |
+| Ignore: listings giving May–June 2026 | Contradicts the organiser | — |
+
+Rules: nothing goes into the page that is not confirmed; no admission prices or opening hours
+until the organiser publishes them. "Check the official site" is an honest sentence.
+
+### Outline — `guides/dakar-biennale`
+
+1. **Summary (answer first):** what Dak'Art is, the 2026 dates, the venues, who curates it.
+2. **Facts box:** edition · dates · artistic director · theme · venues (same number of facts in EN and FR).
+3. **Dak'Art 2026:** the theme in plain words; the international exhibition; the national selection, if confirmed.
+4. **Where it happens:** the three venues, each with a line; link to `museums/museum-of-black-civilisations`.
+5. **The OFF:** what it is and how to find it (the official OFF list, galleries, artists' studios).
+6. **Planning a visit:** plan two or three days; the opening week is the busiest; check hours on the official site; combine with the museums in the companion guide.
+7. **A short history:** 1990, 1992, 1996; how it grew from Senghor's cultural policy (link `movements/ecole-de-dakar`); recent editions.
+8. **Questions:** When is the Dakar Biennale 2026? How often does it take place? Where is it held? What is the OFF?
+9. **Sources.**
+
+### Outline — `guides/dakar-for-art-lovers`
+
+Museum of Black Civilisations · Théodore Monod Museum (IFAN) · Gorée and the House of Slaves ·
+Galerie nationale d'art · the Village des Arts · contemporary art spaces and galleries · Ousmane
+Sow's legacy · the École de Dakar story. **Every venue is checked to be open and named
+correctly before it goes in**; spaces that cannot be confirmed are left out. No opening hours or
+prices. Moves into the `travel` collection in batch 19 (with a redirect).
+
+### Code
+
+- **Event structured data** (`Event` with name, dates, place, organiser's URL) on the biennale
+  guide: a small addition to `src/lib/schema.ts`, driven by optional fields on the guide's
+  catalog entry. Google can show it in event results.
+- Catalog entries for both guides (related pages, release date).
+
+### Links in (at least three English pages each)
+
+- **Dakar Biennale guide:** `guides/african-art-fairs-and-biennales` (the Dak'Art row and section) ·
+  `museums/museum-of-black-civilisations` (the Dak'Art section; the French edition's link moves
+  from the fairs guide to this page) · `movements/ecole-de-dakar` · `artists/country/senegal` ·
+  `guides/contemporary-african-art`.
+- **Dakar guide:** `museums/theodore-monod-museum` · `museums/museum-of-black-civilisations` ·
+  `artists/ousmane-sow` · `guides/where-to-see-african-art` · the biennale guide.
+
+### Schedule
+
+| Day | Work |
+|---|---|
+| 2–3 Nov | Research; source logs in `data/sources/guides/` |
+| 4–5 Nov | English pages |
+| 6–7 Nov | French pages |
+| 8 Nov | Event structured data, catalog entries, inbound links |
+| 9–10 Nov | Tests, build, crawl; check the official site again; release; request indexing |
+| 19 Nov | Opening: add the confirmed programme, hours and artists |
+| 20 Dec | After the closing: 2026 section into the past tense; *Updated* date |
+
+**Done when:** ☐ facts confirmed and logged · ☐ EN (2 pages) · ☐ FR (2 pages) · ☐ Event data ·
+☐ links in · ☐ tests, build, crawl · ☐ released · ☐ indexing requested · ☐ opening update ·
+☐ closing update
 
 ---
 

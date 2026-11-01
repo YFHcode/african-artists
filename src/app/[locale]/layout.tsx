@@ -23,6 +23,17 @@ export function generateStaticParams() {
     return LOCALES.map((locale) => ({ locale }));
 }
 
+/**
+ * Only the five editions exist. Without this, pages that have no params of
+ * their own (/[locale]/about, /[locale]/artists…) fall back to rendering on
+ * demand for any other first segment. Normal URLs never reach them, because
+ * the English rewrite sends /xx/… to /en/xx/… (see next.config.ts), but the
+ * prefixes it skips do: /api, /share and /_vercel matched [locale], so a bot
+ * asking for /api/about made a Function render a 404, which can count as ISR
+ * usage. With this, those requests get the static 404 straight away.
+ */
+export const dynamicParams = false;
+
 export const metadata: Metadata = {
     metadataBase: new URL(SITE_URL),
     title: { default: SITE_NAME, template: `%s | ${SITE_NAME}` },

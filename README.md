@@ -61,6 +61,10 @@ the page, no fabricated facts, every article reachable within three clicks.
    place (`@vercel/analytics`, `<Analytics />` in the layout) and the English rewrite in
    `next.config.ts` leaves `/_vercel/` alone. A successful offer is recorded as the custom event
    `offer_sent`.
+5. **Skipped builds:** `vercel.json` has an `ignoreCommand` that skips the build when a commit
+   only touches `docs/`, `data/sources/` or `README.md` — none of them are read by the build, and a
+   needless deploy resets the CDN cache for all ~2,000 prerendered routes. Any other change builds
+   as usual. To force a deploy of a docs-only commit, use Redeploy in the Vercel dashboard.
 
 > **If the domain is currently parked at a marketplace** (Sedo, Dan.com, Afternic landing page), pointing
 > its DNS at Vercel replaces that parking page with this site. Afternic's "Fast Transfer" network keeps

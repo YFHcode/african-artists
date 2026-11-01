@@ -5,4 +5,6 @@ description: De dónde vienen los géneros musicales africanos y cómo suenan: a
 ---
 Diez géneros, desde formas de canción con más de un siglo —cuatro de ellas reconocidas hoy por la UNESCO como patrimonio cultural inmaterial de la humanidad— hasta los sonidos de pista de baile que millones de personas escuchan en streaming cada día. Cada artículo explica de dónde viene la música, cómo reconocerla, sus instrumentos y los artistas que la definieron.
 
+Los instrumentos que sostienen buena parte de esta música tienen sus propias páginas: véase [instrumentos musicales africanos](/instruments), de la kora al tambor parlante.
+
 Empiece por la pareja que más se confunde: el [afrobeat](/music/afrobeat), la música de banda de Fela Kuti en los años setenta, y el [afrobeats](/music/afrobeats), el pop del siglo XXI surgido de Nigeria y Ghana.

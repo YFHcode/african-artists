@@ -17,6 +17,7 @@ const ar: Dictionary = {
         music: 'الموسيقى',
         guides: 'أدلة',
         museums: 'المتاحف',
+        instruments: 'الآلات الموسيقية',
         buy: 'اشترِ هذا النطاق',
         menu: 'القائمة',
         language: 'اللغة',

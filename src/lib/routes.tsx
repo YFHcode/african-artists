@@ -45,9 +45,12 @@ export function articleRoute(collection: Collection) {
         // that exists in fewer editions is built only in those.
         generateStaticParams({ params }: { params: { locale: string } }) {
             const locale = requireLocale(params.locale);
-            return entriesIn(collection)
-                .filter((entry) => isAvailable(entry, locale))
-                .map((entry) => ({ slug: entry.slug }));
+            const all = entriesIn(collection);
+            const here = all.filter((entry) => isAvailable(entry, locale));
+            // An edition with no article of the collection yet (Arabic, for the instruments)
+            // must not return []: Next.js 16 would then drop the route in every edition.
+            // Its pages answer 404 instead.
+            return (here.length > 0 ? here : all).map((entry) => ({ slug: entry.slug }));
         },
 
         async generateMetadata({ params }: SlugParams): Promise<Metadata> {

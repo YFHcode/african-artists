@@ -17,6 +17,7 @@ const es: Dictionary = {
         music: 'Música',
         guides: 'Guías',
         museums: 'Museos',
+        instruments: 'Instrumentos',
         buy: 'Comprar este dominio',
         menu: 'Menú',
         language: 'Idioma',

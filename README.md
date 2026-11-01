@@ -16,6 +16,11 @@ this look valuable to a buyer.
   MMVI and Cairo's Museum of Modern Egyptian Art. English and French, plus Spanish and Portuguese
   (Zeitz MOCAA) and Arabic (Rabat, Cairo). Shared facts in `src/content/museums.ts`, sources in
   `data/sources/museums/`. The header shows the section in an edition once it has three museum pages.
+- **Instruments:** `/instruments` — African musical instruments, from 1 November 2026: the kora,
+  balafon, djembe, talking drum, mbira and kalimba, with a hub in all five languages. Entries live in
+  `src/content/catalog.ts` (`INSTRUMENT_ENTRIES`), sources in `data/sources/instruments/`. The
+  Arabic edition has the hub only, so its article pages answer 404 (see `generateStaticParams` in
+  `src/lib/routes.tsx`).
 - **Search strategy:** the art-form, region and history pages target the broad searches
   ("African masks", "kente cloth", "West African art", "history of African art") that bring
   far more visitors than artists' names; region pages list every article from their countries

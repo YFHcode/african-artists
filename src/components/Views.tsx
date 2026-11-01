@@ -396,18 +396,20 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
                 </section>
             )}
 
-            <section aria-labelledby={lists ? 'all-profiles' : undefined} className="mx-auto mt-10 max-w-6xl px-4">
-                {lists && (
-                    <h2 id="all-profiles" className="mb-6 font-display text-2xl font-semibold">
-                        {t.hub.profiles}
-                    </h2>
-                )}
-                <CardGrid count={articles.length}>
-                    {articles.map((article) => (
-                        <EntryCard key={article.entry.slug} article={article} t={t} headingLevel={lists ? 'h3' : 'h2'} />
-                    ))}
-                </CardGrid>
-            </section>
+            {articles.length > 0 && (
+                <section aria-labelledby={lists ? 'all-profiles' : undefined} className="mx-auto mt-10 max-w-6xl px-4">
+                    {lists && (
+                        <h2 id="all-profiles" className="mb-6 font-display text-2xl font-semibold">
+                            {t.hub.profiles}
+                        </h2>
+                    )}
+                    <CardGrid count={articles.length}>
+                        {articles.map((article) => (
+                            <EntryCard key={article.entry.slug} article={article} t={t} headingLevel={lists ? 'h3' : 'h2'} />
+                        ))}
+                    </CardGrid>
+                </section>
+            )}
 
             {more && (
                 <section className="mx-auto mt-14 max-w-6xl px-4">

@@ -21,7 +21,7 @@ import { MUSEUMS, MUSEUMS_RELEASE } from './museums.ts';
 import { ORIGINAL_ARTISTS, ROSTER, type RosterEntry } from './roster.ts';
 import { isReleased, releaseDate } from './waves.ts';
 
-export const COLLECTIONS = ['art-forms', 'artists', 'movements', 'regions', 'music', 'guides', 'museums'] as const;
+export const COLLECTIONS = ['art-forms', 'artists', 'movements', 'regions', 'music', 'instruments', 'guides', 'museums'] as const;
 export type Collection = (typeof COLLECTIONS)[number];
 
 export type CountryCode =
@@ -329,6 +329,57 @@ for (const { date, expanded, alsoRevised } of EXPANSION_BATCHES) {
 // After the waves and batches above, which set dates of their own.
 for (const e of CATALOG) if (REVISED_FOR_MUSEUMS.includes(entryKey(e)) && MUSEUMS_RELEASE > e.updated) e.updated = MUSEUMS_RELEASE;
 
+/** Batch 12: the instruments collection. Each page exists in the editions its readers are likeliest to search in. */
+export const INSTRUMENTS_RELEASE = '2026-11-01';
+const INSTRUMENT_ENTRIES: { slug: string; countries: CountryCode[]; locales: readonly Locale[]; related: string[] }[] = [
+    {
+        slug: 'kalimba',
+        countries: ['ZW', 'ZA'],
+        locales: ['en', 'fr', 'es', 'pt'],
+        related: ['instruments/mbira', 'instruments/kora', 'instruments/djembe', 'regions/southern-africa'],
+    },
+    {
+        slug: 'djembe',
+        countries: ['ML', 'GN', 'SN'],
+        locales: ['en', 'fr', 'es', 'pt'],
+        related: ['instruments/balafon', 'instruments/talking-drum', 'instruments/kora', 'regions/west-africa'],
+    },
+    {
+        slug: 'mbira',
+        countries: ['ZW'],
+        locales: ['en', 'fr', 'pt'],
+        related: ['instruments/kalimba', 'art-forms/shona-sculpture', 'regions/southern-africa', 'instruments/kora'],
+    },
+    {
+        slug: 'kora',
+        countries: ['GM', 'ML', 'GN', 'SN'],
+        locales: ['en', 'fr'],
+        related: ['instruments/balafon', 'instruments/djembe', 'instruments/kalimba', 'regions/west-africa'],
+    },
+    {
+        slug: 'balafon',
+        countries: ['GN', 'ML', 'BF'],
+        locales: ['en', 'fr'],
+        related: ['instruments/kora', 'instruments/djembe', 'instruments/talking-drum', 'regions/west-africa'],
+    },
+    {
+        slug: 'talking-drum',
+        countries: ['NG', 'GH', 'SN'],
+        locales: ['en', 'fr'],
+        related: ['instruments/djembe', 'music/mbalax', 'instruments/balafon', 'regions/west-africa'],
+    },
+];
+CATALOG.push(
+    ...INSTRUMENT_ENTRIES.map((i) => ({
+        ...entry('instruments', i.slug, i.countries, undefined, i.related, INSTRUMENTS_RELEASE),
+        locales: i.locales,
+    }))
+);
+
+/** Existing articles whose text gained links to the instrument pages. */
+const REVISED_FOR_INSTRUMENTS: string[] = ['music/mbalax', 'art-forms/shona-sculpture', 'regions/west-africa', 'regions/southern-africa'];
+for (const e of CATALOG) if (REVISED_FOR_INSTRUMENTS.includes(entryKey(e)) && INSTRUMENTS_RELEASE > e.updated) e.updated = INSTRUMENTS_RELEASE;
+
 /** Existing articles whose text gained links to the Dakar guides. */
 const REVISED_FOR_DAKAR: string[] = [
     'guides/african-art-fairs-and-biennales', 'guides/contemporary-african-art', 'guides/where-to-see-african-art',
@@ -401,6 +452,7 @@ export const STATIC_PAGES: { path: string; index: boolean; updated: string; list
     { path: '/music', index: true, updated: LAUNCH, lists: ['music'] },
     { path: '/guides', index: true, updated: EXPANSION, lists: ['guides'] },
     { path: '/museums', index: true, updated: MUSEUMS_RELEASE, lists: ['museums'] },
+    { path: '/instruments', index: true, updated: INSTRUMENTS_RELEASE, lists: ['instruments'] },
     { path: '/about', index: true, updated: EXPANSION },
     { path: '/privacy', index: true, updated: LAUNCH },
 ];

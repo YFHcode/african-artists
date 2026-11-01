@@ -14,7 +14,7 @@ facts:
 ---
 ## From Cuban dance bands to Wolof drums
 
-In the 1960s, the most popular bands in Dakar played Cuban music: son, cha-cha and pachanga, often sung in approximate Spanish. The Star Band, the city's leading group, was one of them. During the 1970s, musicians began bringing Senegal's own rhythms into this music — above all the **sabar**, the family of Wolof drums played at weddings, wrestling matches and street dances, and the **tama**, a small talking drum held under the arm.
+In the 1960s, the most popular bands in Dakar played Cuban music: son, cha-cha and pachanga, often sung in approximate Spanish. The Star Band, the city's leading group, was one of them. During the 1970s, musicians began bringing Senegal's own rhythms into this music — above all the **sabar**, the family of Wolof drums played at weddings, wrestling matches and street dances, and the **tama**, a small [talking drum](/instruments/talking-drum) held under the arm.
 
 The word *mbalax* itself comes from the name of a sabar accompaniment rhythm. As the drums moved to the front, the sound became unmistakably Senegalese.
 

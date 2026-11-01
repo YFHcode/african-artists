@@ -5,4 +5,6 @@ description: D'où viennent les musiques africaines et comment elles sonnent : a
 ---
 Dix genres, des formes chantées plus que centenaires — dont quatre reconnues par l'UNESCO comme patrimoine culturel immatériel de l'humanité — aux sons de dancefloor écoutés chaque jour par des millions de personnes. Chaque article explique d'où vient la musique, comment la reconnaître, ses instruments et les artistes qui l'ont définie.
 
+Les instruments qui portent une grande part de cette musique ont leurs propres pages : voir [les instruments de musique africains](/instruments), de la kora au tambour parleur.
+
 Commencez par le duo le plus souvent confondu : l'[afrobeat](/music/afrobeat), la musique d'orchestre de Fela Kuti dans les années 1970, et les [afrobeats](/music/afrobeats), la pop du XXIe siècle née au Nigeria et au Ghana.

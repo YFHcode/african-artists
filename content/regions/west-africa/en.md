@@ -44,4 +44,4 @@ Nigeria and Ghana have the region's largest art scenes. Among Nigeria's artists 
 
 ## Music
 
-West Africa's music — [highlife](/music/highlife), [Afrobeat](/music/afrobeat), [Afrobeats](/music/afrobeats), Senegal's [mbalax](/music/mbalax) and Cabo Verde's [morna](/music/morna) — is as influential as its visual art.
+West Africa's music — [highlife](/music/highlife), [Afrobeat](/music/afrobeat), [Afrobeats](/music/afrobeats), Senegal's [mbalax](/music/mbalax) and Cabo Verde's [morna](/music/morna) — is as influential as its visual art, and it is played on instruments with long histories: the [kora](/instruments/kora), the [balafon](/instruments/balafon), the [djembe](/instruments/djembe) and the [talking drum](/instruments/talking-drum).

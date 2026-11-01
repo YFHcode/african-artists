@@ -40,4 +40,4 @@ The country's photographers documented apartheid at great risk: [Peter Magubane]
 
 ## Music
 
-From township jazz and kwaito to [amapiano](/music/amapiano), the house music that has conquered dance floors across Africa and beyond, Southern Africa's music is as inventive as its art.
+From township jazz and kwaito to [amapiano](/music/amapiano), the house music that has conquered dance floors across Africa and beyond, Southern Africa's music is as inventive as its art. Its oldest instrument tradition is the Shona [mbira](/instruments/mbira) of Zimbabwe, and the [kalimba](/instruments/kalimba) was adapted from it.

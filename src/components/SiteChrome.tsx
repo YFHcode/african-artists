@@ -37,7 +37,7 @@ function Wordmark({ locale }: { locale: Locale }) {
     );
 }
 
-const NAV = ['art-forms', 'artists', 'movements', 'regions', 'museums', 'music', 'guides'] as const;
+const NAV = ['art-forms', 'artists', 'movements', 'regions', 'museums', 'music', 'instruments', 'guides'] as const;
 
 /**
  * The header leaves out a collection that is still thin in an edition (the

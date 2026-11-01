@@ -60,7 +60,7 @@ Semrush data yet — pull it before writing.*
 |---|---|---:|---:|---|---|
 | [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
 | [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☑ 1 Nov; check 19 Dec |
-| [12](#batch-12--instruments-1) | Instruments 1 | 7 | 6 | 30 Nov 2026 | ☐ |
+| [12](#batch-12--instruments-1) | Instruments 1 | 7 | 4 | 30 Nov 2026 | ☑ 1 Nov (photographs and English-only Search Console check to follow) |
 | [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ |
 | [14](#batch-14--patterns-and-dress-1) | Patterns and dress 1 | 7 | 3 | 31 Dec 2026 | ☐ |
 | [15](#batch-15--black-history-month) | Black History Month (US) | 3 | 3 | 10 Jan 2027 | ☐ |
@@ -324,8 +324,24 @@ five languages (Spanish, Portuguese and Arabic added 1 November).
 2,400 / 11 are a possible later page.
 **Links in:** `music` index and genre pages (highlife, afrobeat, Congolese rumba), regions (West,
 Southern Africa), country lists (Mali, Guinea, Senegal, Zimbabwe, Nigeria, Ghana).
-**Done when:** ☐ collection code and tests · ☐ 7 EN pages · ☐ translations · ☐ links in · ☐ nav ·
-☐ released
+**Done when:** ☑ collection code and tests · ☑ 7 EN pages · ☑ translations · ☑ links in · ☑ nav ·
+☑ released
+
+**Status 1 November 2026 (shipped four weeks ahead of the target):**
+☑ `instruments` collection (catalog, routes, nav, search index, `llms.txt`, i18n, tests) ·
+☑ hub (five languages) · ☑ kalimba (EN FR ES PT) · ☑ djembe (EN FR ES PT) · ☑ mbira (EN FR PT) ·
+☑ kora, balafon, talking drum (EN FR) · ☑ source notes (`data/sources/instruments/batch-12.md`) ·
+☑ links in from mbalax, West Africa, Southern Africa, Shona sculpture and the music index ·
+☑ tests (65), build, crawl (971 pages, no broken links, no orphans).
+**Differences from the plan:** four existing pages were revised, not six (no honest link existed
+for highlife, afrobeat or Congolese rumba). The Arabic edition has the hub only, as planned, so
+its index shows the introduction without cards, and `/ar/instruments/<slug>` answers 404.
+Next.js 16 drops a whole route if `generateStaticParams` returns an empty list for any
+language, so the article route now falls back to all slugs for a language with none.
+**Left out on purpose:** claims the searches could not confirm (see the source notes): Thomas
+Mapfumo and the mbira, Fela Kuti and the talking drum, the "lunsi" spelling.
+☐ photographs for the six instruments (same loop as batches 10 and 11) · ☐ request indexing for
+`/instruments` and the kalimba page · ☐ Search Console check four and eight weeks on.
 
 ---
 

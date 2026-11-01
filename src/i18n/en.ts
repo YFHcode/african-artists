@@ -18,6 +18,7 @@ const en = {
         music: 'Music',
         guides: 'Guides',
         museums: 'Museums',
+        instruments: 'Instruments',
         buy: 'Buy this domain',
         menu: 'Menu',
         language: 'Language',

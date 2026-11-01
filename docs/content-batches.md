@@ -69,7 +69,7 @@ Semrush data yet — pull it before writing.*
 | [18](#batch-18--museums-2) | Museums 2 | 10 | 4 | 28 Feb 2027 | ☐ |
 | [19](#batch-19--art-travel) | Art travel | 7 | 3 | 15 Mar 2027 | ☐ |
 | [20](#batch-20--dress-2) | Dress 2 | 9 | 1 | 31 Mar 2027 | ☐ |
-| [21](#batch-21--buying-guides) | Buying guides | 6 | 1 | 15 Apr 2027 | ☐ |
+| [21](#batch-21--buying-guides) | Buying guides | 7 | 1 | 15 Apr 2027 | ☐ |
 | [22](#batch-22--music-genres-1) | Music genres 1 | 8 | 1 | 30 Apr 2027 | ☐ |
 | [23](#batch-23--music-genres-2) | Music genres 2 | 7 | 2 | 15 May 2027 | ☐ |
 | [24](#batch-24--heritage) | Heritage (Africa Day) | 11 | 2 | 20 May 2027 | ☐ |
@@ -77,10 +77,10 @@ Semrush data yet — pull it before writing.*
 | [26](#batch-26--musicians-1) | Musicians 1 | 10 | 3 | 30 Jun 2027 | ☐ |
 | [27](#batch-27--musicians-2) | Musicians 2 | 9 | 2 | 15 Jul 2027 | ☐ |
 | [28](#batch-28--egypt-and-nubia) | Egypt and Nubia | 8 | 3 | 31 Jul 2027 | ☐ |
-| [29](#batch-29--remaining-profiles-and-home-markets) | Remaining profiles and home markets | 8 | 5 | 15 Aug 2027 | ☐ |
+| [29](#batch-29--remaining-profiles-and-home-markets) | Remaining profiles and home markets | 10 | 5 | 15 Aug 2027 | ☐ |
 | [30](#batch-30--brazilian-portuguese-and-latin-american-spanish) | Brazilian Portuguese and Latin American Spanish | 0 | 20+ | 31 Aug 2027 | ☐ |
 | [31](#batch-31--culture-and-meaning-through-art) | Culture and meaning through art | 5 | 2 | 15 Sep 2027 | ☐ |
-| [32](#batch-32--country-art-overviews) | Country art overviews | 9 | 2 | 30 Sep 2027 | ☐ |
+| [32](#batch-32--country-art-overviews) | Country art overviews | 8 | 2 | 30 Sep 2027 | ☐ |
 | [33](#batch-33--uk-october) | UK October | 2 | 5 | 15 Sep 2027 | ☐ |
 | [34](#batch-34--yearly-review) | Yearly review | 0 | — | Oct 2027 | ☐ |
 | [Backlog](#backlog) | Museums 3 and later ideas | — | — | — | ☐ |
@@ -357,7 +357,8 @@ an editorial and monetisation policy page linked from the footer.
 | `how-to-choose-a-djembe` | *djembe drum for sale* 2,900 / 30 | *djembe for sale* 1,300 / 28 · *djembe drums for sale* 880 / 18 | — | EN FR |
 | `kalimba-buying-guide` | *kalimba for beginners* 1,300 / 26 | *kalimba instrument* 4,400 / 22 · *mbira for sale* 320 / 8 | — | EN ES PT |
 | `berber-rugs` — Amazigh rugs: how to tell real from fake | *berber rug* 1,600 / 13 · *moroccan rugs* 4,400 / 45 | *berber rugs* 1,600 / 17 · *beni ourain rug* 1,300 / 37 · *wool berber rugs* 480 / 17 · *moroccan berber rug* 390 / 13 · *what is a berber rug* 390 / 5 | UK *berber rug* 2,400 / 13 · FR *tapis berbère* 2,900 / 28, *tapis beni ouarain* 590 / 7 | EN FR |
-| `african-baskets` — Bolga and Zulu baskets | *african baskets* 1,000 / 25 | *bolga basket* 880 / 10 | — | EN |
+| `buying-african-baskets` — Bolga and Zulu baskets: how to buy | *bolga basket* 880 / 10 | *african baskets* 1,000 / 25 (the explainer below ranks for it) | — | EN |
+| `art-forms/african-baskets` — **explainer**: history, techniques, Bolga, Zulu and other traditions, makers. Wikipedia (five languages) and My Modern Met link to the competitor's page on this | *african baskets* 1,000 / 25 | — | — | EN FR |
 | `buying-african-masks` — responsibly: provenance, fakes, no antiquities | *buy african masks* 880 / 14 | *african tribal masks for sale* 720 / 12 · *african masks for sale* 590 / 19 | — | EN FR |
 | `african-wall-art-and-decor` | *african wall art* 880 / 16 | *african decor* 720 / 7 · *african home decor* 590 / 13 · *african art prints* 210 / 13 | UK *african wall art* 320 / 9 | EN |
 
@@ -524,10 +525,18 @@ Difficulty is high (33–72): these pages win on depth and links, not quickly.
 | `susanne-wenger` | 140 / 27 | — |
 | `sokari-douglas-camp` | 140 / 14 | — |
 
+**Also in this batch (from the backlink gap):**
+
+| Page | Primary keyword | Why |
+|---|---|---|
+| `movements/resistance-art` — South African resistance art under apartheid | not checked | DailyArt Magazine and Voice Magazine link to the competitor's page on it |
+| South African art overview **with a timeline** (moved here from batch 32; URL pattern as decided there) | *south african art* 390 / 33 · ZA 720 / 17 | The North Carolina Museum of Art's learning site links to the competitor's South African art timeline |
+
 **Updated for their home markets:** `artists/esther-mahlangu` (ZA 4,400 / 42),
 `artists/william-kentridge` (ZA 3,600 / 46), `artists/irma-stern` (ZA 2,400 / 36),
 `artists/ben-enwonwu` (NG 880 / 40), `museums/nigerian-national-museum` (NG 880 / 49).
-**Done when:** ☐ 8 EN pages · ☐ translations · ☐ updates · ☐ released
+**Done when:** ☐ 10 EN pages · ☐ translations · ☐ updates · ☐ released · ☐ NCMA Learn and
+DailyArt contacted (see [backlink-gap-2026-11.md](backlink-gap-2026-11.md))
 
 ---
 
@@ -575,7 +584,7 @@ Difficulty is high (33–72): these pages win on depth and links, not quickly.
 | `countries/egypt` — Egyptian art, ancient to now | *egyptian art* 8,100 / 40 | — |
 | `countries/morocco` | *moroccan art* 590 / 13 | — |
 | `countries/nigeria` | *nigerian art* 590 / 29 | NG 210 |
-| `countries/south-africa` | *south african art* 390 / 33 | ZA 720 / 17 |
+| `countries/south-africa` — moved to batch 29 | *south african art* 390 / 33 | ZA 720 / 17 |
 | `countries/kenya` | *kenyan art* 210 / 8 | — |
 | `countries/somalia` | *somali art* 210 / 12 | — |
 | `countries/dr-congo` | *congolese art* 140 / 16 | — |

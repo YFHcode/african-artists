@@ -149,9 +149,46 @@ Target from the growth plan: 30+ quality referring domains by June 2027.
 - Log every pitch and result (prospect, date, page offered, answer) so the same site is not
   pitched twice.
 
-## 6. Next pull
+## 6. Page by page: what earned contemporary-african-art.com its links
 
-The Semrush `backlinks` report shows the exact page and anchor of each link. For the ten
-education and media prospects at the top, pull it against contemporary-african-art.com (about
-40 units a row) to find the specific textbook chapters, course pages and articles to approach,
-and their authors.
+*Semrush `backlinks` report, 1 November 2026, about 3,300 units: the exact linking page, the page
+it links to, and the anchor text, for 19 prospects. "nofollow" links pass no ranking credit but
+still bring readers and get copied.*
+
+| Linking page | Links to their page on | Our page (now or planned) | Approach |
+|---|---|---|---|
+| **LibreTexts** — the Gustlin and Gustlin art-history textbooks (*A World Perspective of Art History: 1400 CE to the 21st Century*; *History of Modern and Contemporary Art*), chapter "Millennial Art (2000–Present): Introduction"; copied into a Palo Verde College course and the Spanish and Ukrainian editions (10 links, nofollow) | Contemporary African art | `guides/contemporary-african-art` | Write to the textbook authors offering our sourced, current guide as a further reading or replacement link |
+| **The Conversation** — "Patrice Lumumba's tooth represents plunder, resilience and reparation" (2022), republished with the link by **TimesLIVE**, the **Daily Nation**, four **NewsDay** titles in Zimbabwe, and cited by the **University of Coimbra**'s *Reimaginar a Europa* database | Chéri Chérin | `artists/cheri-cherin` (exists) | One citation in The Conversation became seven linking sites through free republishing. Academics write there: the restitution tracker (batch 25) and our sourced profiles are what they cite |
+| **NCMA Learn** (North Carolina Museum of Art) — artwork pages for two South African photographic portraits, in English and Spanish, anchor "Look at a timeline"; a third artwork page, "Read more" | South African art; African photography | `art-forms/african-photography` (exists); a South African art overview **with a timeline** (batch 32 — move earlier) | Write to the museum's education team once the timeline exists |
+| **TheCollector** — "What Are African Masks?" | African masks | `art-forms/african-masks` (batch 11 refresh) | After the refresh, offer it to the article's writer as an update; pitch new articles |
+| **My Modern Met** — "Basket Weaving: What Is It and How to Get Started" | African baskets | none yet — **add an African baskets explainer** (see below) | Pitch once the page exists |
+| **Wikipedia** (nofollow) — *Basket weaving* (English, Macedonian, Tamil, Serbo-Croatian, Galician), *Music of Africa* (English, Japanese, Arabic, Western Armenian), *African mask* (Dutch), Edward Saidi Tingatinga (Catalan, Danish), Keith Zenda (Swati, Zulu), Rachid Koraichi (Egyptian Arabic), contemporary African art (Hebrew) | Baskets, musical instruments, masks, Tingatinga | Instruments hub (batch 12), baskets explainer, masks, `art-forms/tingatinga` | Editors cite these because few neutral, sourced pages exist on these crafts. We never add the links ourselves |
+| **University of Calgary** — the Sukur site's "Music" page | African musical instruments | `/instruments` (batch 12) | Write to the site's maintainer after batch 12 |
+| **Religion Unplugged** — "African Churches Reclaim Traditional Musical Instruments" | African musical instruments | `/instruments` (batch 12) | Pitch after batch 12 |
+| **University of Kent** staff and student news — "#KNOWLEDGESHIFT 2" (2023) | African drums | `instruments/african-drums` (batch 17) | Low priority |
+| **CUNY City Tech OpenLab** — course blog "Color History: Black" (COMD 1100, 2021) | Contemporary African patterns | `art-forms/african-patterns` (batch 14) | Course instructors reuse readings: write after batch 14 |
+| **University of the Free State** — journal article "Towards decolonising the approaches of teaching and learning Indigenous African Music at a South African university" (*Interdisciplinary Journal of Education Research*) | African music | `music` hub (batch 22) | No outreach: academic citation. Shows researchers cite music explainers |
+| **Gettysburg College** — student paper "African Masks" (*The Cabinet*) | African masks | `art-forms/african-masks` | No outreach. Students cite explainers |
+| **Book Creator** — a book on Edward Tingatinga | Edward Saidi Tingatinga | `art-forms/tingatinga` | No outreach. Shows school use: teaching pack (batch 15) |
+| **Smithsonian Magazine** — "Trove of African Modernist Masterpieces Spent Decades Hidden in Rural Scotland" (2021) | African modernists | `guides/african-art-history` | News: be the page journalists find when a story breaks |
+| **DailyArt Magazine** — "How Art Played a Pivotal Role in the End of Apartheid"; **Voice Magazine** (nofollow) — a feature on art and activism | Resistance art (South Africa) | none yet — **add a resistance-art page** (see below) | Pitch to DailyArt once it exists |
+| **Morocco World News** — 2020 report on Artcurial Maroc's record €1.2 million sale | Contemporary African art | Moroccan art overview (batch 32), auction-records data | Pitch with auction data |
+
+**What the pattern says**
+
+1. **Links go to broad explainers, not artist profiles.** Instruments, baskets, masks, patterns,
+   music, South African art, resistance art — the same kind of page our batches build.
+2. **One good citation multiplies.** The Conversation lets other outlets republish its articles
+   with the links intact, so one citation became seven linking sites.
+3. **Teaching use is the base.** A textbook, a museum learning site, course blogs, a student paper,
+   a teacher's book: classroom readers cite clear, sourced pages.
+4. **Wikipedia, in many languages, cites the crafts.** Baskets and instruments are under-covered
+   topics; a neutral, sourced page in several languages is what editors look for.
+
+**Changes to the plan from this**
+
+- **Add `art-forms/african-baskets`** — an explainer (history, techniques, Bolga and Zulu baskets,
+  makers), separate from the buying guide in batch 21, which links to it.
+- **Add `movements/resistance-art`** — South African resistance art under apartheid (batch 29).
+- **Give the South African art overview a timeline**, and bring it forward from batch 32 to batch 29.
+- **Keep `guides/contemporary-african-art` current and sourced** before writing to the LibreTexts authors.

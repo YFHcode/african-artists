@@ -21,8 +21,4 @@ O guia é escrito em inglês e traduzido para francês, espanhol, português e �
 
 ## Correções
 
-Se encontrar um erro, diga-nos através do formulário da [página de contacto e ofertas](/buy#offer) — uma mensagem sem valor de oferta serve perfeitamente. As correções são feitas rapidamente, e as mais importantes ficam assinaladas com a data de revisão.
-
-## O domínio
-
-O domínio AfricanArtists.com está à venda. Se representa uma galeria, editora, plataforma ou instituição capaz de lhe dar um longo futuro, [faça uma oferta](/buy).
+Se encontrar um erro, diga-nos através do formulário da [página de contacto](/contact). As correções são feitas rapidamente, e as mais importantes ficam assinaladas com a data de revisão.

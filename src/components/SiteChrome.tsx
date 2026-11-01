@@ -6,23 +6,6 @@ import type { Dictionary } from '@/i18n';
 import { entriesIn, isAvailable, partialEditions } from '@/content/catalog';
 import { LOCALES, LOCALE_INFO, type Locale, localePath } from '@/lib/i18n';
 
-/** The for-sale strip above the header, on every page: the site's commercial purpose, stated once and plainly. */
-export function SaleBar({ locale, t }: { locale: Locale; t: Dictionary }) {
-    return (
-        <div className="bg-ink text-paper">
-            <p className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-3 gap-y-1 px-4 py-2 text-center text-sm">
-                <span>{t.saleBar.text}</span>
-                <Link prefetch={false}
-                    href={localePath(locale, '/buy')}
-                    className="font-semibold text-ochre underline decoration-1 underline-offset-4 hover:decoration-2"
-                >
-                    {t.saleBar.cta} <span aria-hidden="true" className="inline-block rtl:rotate-180">→</span>
-                </Link>
-            </p>
-        </div>
-    );
-}
-
 function Wordmark({ locale }: { locale: Locale }) {
     return (
         <Link prefetch={false}
@@ -54,37 +37,38 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
     // The few pages that exist in only some editions; computed at build time.
     const partial = partialEditions();
 
+    // One grid, so the search box is rendered once and only moves. Small
+    // screens: wordmark and menu, then the search box on a row of its own.
+    // Wide screens: wordmark, search and languages, then the sections on a
+    // row of their own, which wraps rather than pushing the languages off the
+    // screen (as the single row did at 1280px once there were eight sections).
     return (
         <header className="border-b border-line bg-paper">
-            <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4">
+            <div className="mx-auto grid max-w-6xl grid-cols-[auto_1fr_auto] items-center gap-x-4 gap-y-3 px-4 py-4">
                 <Wordmark locale={locale} />
 
-                <nav aria-label={t.nav.menu} className="hidden xl:block">
-                    <ul className="flex items-center gap-5 whitespace-nowrap text-[0.95rem]">
+                <div className="col-span-3 row-start-2 sm:max-w-md lg:col-span-1 lg:col-start-2 lg:row-start-1 lg:w-full lg:justify-self-end">
+                    <SearchBox locale={locale} labels={t.search} />
+                </div>
+
+                <div className="hidden lg:col-start-3 lg:row-start-1 lg:block">
+                    <LanguageSwitcher locale={locale} label={t.nav.language} partial={partial} />
+                </div>
+
+                <nav aria-label={t.nav.menu} className="hidden lg:col-span-3 lg:row-start-2 lg:block">
+                    <ul className="flex flex-wrap items-center gap-x-6 gap-y-2 text-[0.95rem]">
                         {links.map((link) => (
                             <li key={link.href}>
-                                <Link prefetch={false} href={link.href} className="text-ink hover:text-clay">
+                                <Link prefetch={false} href={link.href} className="whitespace-nowrap text-ink hover:text-clay">
                                     {link.label}
                                 </Link>
                             </li>
                         ))}
-                        <li>
-                            <Link prefetch={false}
-                                href={localePath(locale, '/buy')}
-                                className="rounded-full bg-indigo px-4 py-2 font-medium text-paper hover:bg-ink"
-                            >
-                                {t.nav.buy}
-                            </Link>
-                        </li>
                     </ul>
                 </nav>
 
-                <div className="hidden xl:block">
-                    <LanguageSwitcher locale={locale} label={t.nav.language} partial={partial} />
-                </div>
-
                 {/* Small screens: a native disclosure, so the menu works before (and without) JavaScript. */}
-                <details className="group relative xl:hidden">
+                <details className="group relative col-start-3 row-start-1 justify-self-end lg:hidden">
                     <summary className="flex cursor-pointer list-none items-center gap-2 rounded-md border border-line px-3 py-2 text-sm font-medium [&::-webkit-details-marker]:hidden">
                         {t.nav.menu}
                         <span aria-hidden="true" className="transition-transform group-open:rotate-180">
@@ -101,14 +85,6 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                                         </Link>
                                     </li>
                                 ))}
-                                <li>
-                                    <Link prefetch={false}
-                                        href={localePath(locale, '/buy')}
-                                        className="mt-2 block rounded-md bg-indigo px-3 py-2 text-center font-medium text-paper"
-                                    >
-                                        {t.nav.buy}
-                                    </Link>
-                                </li>
                             </ul>
                         </nav>
                         <div className="mt-4 border-t border-line pt-3">
@@ -116,13 +92,6 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
                         </div>
                     </div>
                 </details>
-            </div>
-
-            {/* A row of its own: at laptop widths the menu and language switcher already fill the line, in French edge to edge. */}
-            <div className="mx-auto max-w-6xl px-4 pb-3">
-                <div className="sm:max-w-md">
-                    <SearchBox locale={locale} labels={t.search} />
-                </div>
             </div>
         </header>
     );
@@ -137,12 +106,6 @@ export function Footer({ locale, t }: { locale: Locale; t: Dictionary }) {
                 <div className="lg:col-span-2">
                     <Wordmark locale={locale} />
                     <p className="mt-3 max-w-sm text-sm text-muted">{t.footer.tagline}</p>
-                    <p className="mt-4 text-sm">
-                        {t.footer.forSale}{' '}
-                        <Link prefetch={false} href={localePath(locale, '/buy')} className="font-medium text-clay underline underline-offset-4">
-                            {t.saleBar.cta}
-                        </Link>
-                    </p>
                 </div>
 
                 <div>
@@ -177,8 +140,8 @@ export function Footer({ locale, t }: { locale: Locale; t: Dictionary }) {
                             </Link>
                         </li>
                         <li>
-                            <Link prefetch={false} href={localePath(locale, '/buy')} className="hover:text-clay">
-                                {t.nav.buy}
+                            <Link prefetch={false} href={localePath(locale, '/contact')} className="hover:text-clay">
+                                {t.footer.contact}
                             </Link>
                         </li>
                     </ul>

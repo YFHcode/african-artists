@@ -146,12 +146,6 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                             >
                                 {t.home.exploreArtForms}
                             </Link>
-                            <Link prefetch={false}
-                                href={localePath(locale, '/buy')}
-                                className="rounded-full border-2 border-indigo px-6 py-3 font-semibold text-indigo hover:bg-indigo hover:text-paper"
-                            >
-                                {t.home.buyDomain}
-                            </Link>
                         </div>
                     </div>
                     <MotifQuilt seed="africanartists-hero" count={16} animate className="hidden lg:grid" />
@@ -166,22 +160,6 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
                     {t.profile.lists}
                 </h2>
                 <HubDirectory locale={locale} compact />
-            </section>
-
-            <section className="mx-auto mt-16 max-w-6xl px-4">
-                <div className="grid overflow-hidden rounded-2xl bg-indigo text-paper md:grid-cols-[1fr_14rem]">
-                    <div className="p-8 sm:p-10">
-                        <h2 className="font-display text-3xl font-semibold">{t.home.saleTitle}</h2>
-                        <p className="mt-3 max-w-2xl text-paper/85">{t.home.saleText}</p>
-                        <Link prefetch={false}
-                            href={localePath(locale, '/buy')}
-                            className="mt-6 inline-block rounded-full bg-ochre px-6 py-3 font-semibold text-ink hover:bg-paper"
-                        >
-                            {t.home.saleCta}
-                        </Link>
-                    </div>
-                    <Motif seed="africanartists-sale" className="hidden h-full w-full md:block" />
-                </div>
             </section>
 
             <Regions locale={locale} />

@@ -5,7 +5,6 @@ import { useRouter } from 'next/navigation';
 import { type FormEvent, useRef, useState, useSyncExternalStore } from 'react';
 
 import type { Dictionary } from '@/i18n';
-import { CURRENCIES } from '@/lib/offer';
 
 type FormStrings = Dictionary['form'];
 type ErrorKey = keyof FormStrings['errors'];
@@ -13,14 +12,14 @@ type ErrorKey = keyof FormStrings['errors'];
 const noSubscription = () => () => {};
 
 /**
- * The offer form. Works without JavaScript — it is a normal form post to
- * /api/offer, which redirects to the thank-you page — and with JavaScript it
+ * The contact form. Works without JavaScript — it is a normal form post to
+ * /api/contact, which redirects to the thank-you page — and with JavaScript it
  * submits in place, shows errors next to the fields, and only then moves on.
  *
  * `started` records the first keystroke; the server discards submissions made
  * faster than a person can type. `website` is a honeypot hidden from people.
  */
-export function OfferForm({
+export function ContactForm({
     locale,
     strings,
     thanksPath,
@@ -37,7 +36,7 @@ export function OfferForm({
     const [invalid, setInvalid] = useState<Set<string>>(new Set());
     const [submitError, setError] = useState<ErrorKey | null>(null);
 
-    // A form post without JavaScript comes back as /buy?error=code. Read from
+    // A form post without JavaScript comes back as /contact?error=code. Read from
     // the URL rather than copied into state, so the server render (no URL
     // query on a static page) and the first client render agree.
     const search = useSyncExternalStore(noSubscription, () => window.location.search, () => '');
@@ -57,14 +56,14 @@ export function OfferForm({
 
         const body = Object.fromEntries(new FormData(event.currentTarget).entries());
         try {
-            const response = await fetch('/api/offer', {
+            const response = await fetch('/api/contact', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(body),
             });
             const result = await response.json().catch(() => ({}));
             if (response.ok && result.ok) {
-                track('offer_sent', { currency: String(body.currency ?? '') });
+                track('contact_sent', { locale });
                 router.push(thanksPath);
                 return;
             }
@@ -84,7 +83,7 @@ export function OfferForm({
     const fieldClass =
         'mt-1 block w-full rounded-lg border border-line bg-paper px-3 py-2.5 text-ink placeholder:text-muted/70 focus:border-indigo focus:outline-none focus:ring-2 focus:ring-indigo/30 aria-[invalid=true]:border-clay';
 
-    const fieldError = (field: 'name' | 'email' | 'amount' | 'message') =>
+    const fieldError = (field: 'name' | 'email' | 'message') =>
         invalid.has(field) ? (
             <p id={`${field}-error`} className="mt-1 text-sm text-clay">
                 {strings.errors[field]}
@@ -92,7 +91,7 @@ export function OfferForm({
         ) : null;
 
     return (
-        <form method="post" action="/api/offer" onSubmit={onSubmit} onInput={markStarted} className="space-y-5">
+        <form method="post" action="/api/contact" onSubmit={onSubmit} onInput={markStarted} className="space-y-5">
             <input type="hidden" name="locale" value={locale} />
             <input type="hidden" name="started" ref={started} defaultValue="" />
             <div aria-hidden="true" className="absolute -start-[10000px] h-px w-px overflow-hidden">
@@ -104,11 +103,11 @@ export function OfferForm({
 
             <div className="grid gap-5 sm:grid-cols-2">
                 <div>
-                    <label htmlFor="offer-name" className="text-sm font-medium">
+                    <label htmlFor="contact-name" className="text-sm font-medium">
                         {strings.name} *
                     </label>
                     <input
-                        id="offer-name"
+                        id="contact-name"
                         name="name"
                         required
                         maxLength={120}
@@ -120,11 +119,11 @@ export function OfferForm({
                     {fieldError('name')}
                 </div>
                 <div>
-                    <label htmlFor="offer-email" className="text-sm font-medium">
+                    <label htmlFor="contact-email" className="text-sm font-medium">
                         {strings.email} *
                     </label>
                     <input
-                        id="offer-email"
+                        id="contact-email"
                         name="email"
                         type="email"
                         required
@@ -140,54 +139,21 @@ export function OfferForm({
             </div>
 
             <div>
-                <label htmlFor="offer-company" className="text-sm font-medium">
+                <label htmlFor="contact-company" className="text-sm font-medium">
                     {strings.company}
                 </label>
-                <input id="offer-company" name="company" maxLength={160} autoComplete="organization" className={fieldClass} />
-            </div>
-
-            <div className="grid gap-5 sm:grid-cols-[1fr_8rem]">
-                <div>
-                    <label htmlFor="offer-amount" className="text-sm font-medium">
-                        {strings.amount}
-                    </label>
-                    <input
-                        id="offer-amount"
-                        name="amount"
-                        inputMode="decimal"
-                        pattern="[0-9][0-9.,’' ]*"
-                        dir="ltr"
-                        className={fieldClass}
-                        aria-invalid={invalid.has('amount')}
-                        aria-describedby={invalid.has('amount') ? 'amount-hint amount-error' : 'amount-hint'}
-                    />
-                    <p id="amount-hint" className="mt-1 text-sm text-muted">
-                        {strings.amountHint}
-                    </p>
-                    {fieldError('amount')}
-                </div>
-                <div>
-                    <label htmlFor="offer-currency" className="text-sm font-medium">
-                        {strings.currency}
-                    </label>
-                    <select id="offer-currency" name="currency" defaultValue="USD" className={fieldClass}>
-                        {CURRENCIES.map((c) => (
-                            <option key={c} value={c}>
-                                {c}
-                            </option>
-                        ))}
-                    </select>
-                </div>
+                <input id="contact-company" name="company" maxLength={160} autoComplete="organization" className={fieldClass} />
             </div>
 
             <div>
-                <label htmlFor="offer-message" className="text-sm font-medium">
-                    {strings.message}
+                <label htmlFor="contact-message" className="text-sm font-medium">
+                    {strings.message} *
                 </label>
                 <textarea
-                    id="offer-message"
+                    id="contact-message"
                     name="message"
-                    rows={5}
+                    required
+                    rows={6}
                     maxLength={2000}
                     className={fieldClass}
                     aria-describedby="message-hint"

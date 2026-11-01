@@ -61,7 +61,7 @@ Semrush data yet — pull it before writing.*
 | [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
 | [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☑ 1 Nov; check 19 Dec |
 | [12](#batch-12--instruments-1) | Instruments 1 | 7 | 4 | 30 Nov 2026 | ☑ 1 Nov, with photographs |
-| [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ planned in detail 1 Nov; header fix first |
+| [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ◐ planned 1 Nov; header fixed 1 Nov |
 | [14](#batch-14--patterns-and-dress-1) | Patterns and dress 1 | 7 | 3 | 31 Dec 2026 | ☐ |
 | [15](#batch-15--black-history-month) | Black History Month (US) | 3 | 3 | 10 Jan 2027 | ☐ |
 | [16](#batch-16--artists-of-the-diaspora-and-today) | Artists of the diaspora and today | 9–10 | 4 | 31 Jan 2027 | ☐ |
@@ -387,11 +387,15 @@ pages scroll sideways, and the language switcher is cut off (French shows only "
 already overflowed after the museums section was added on 31 October; "Instruments" (batch 12)
 tipped English and Portuguese over.
 
-**Fix:** a two-row desktop header. Row one: the wordmark, the search box, "Buy this domain" and
-the languages. Row two: the section links, which then have the full 1,152px (nine links
-measure well under 900px in every edition). No section is dropped. Check at 1280, 1366 and
-1440px in all five editions (Arabic is right-to-left), and add a test that fails if the header
-content is wider than its container. **Ship this on its own, before anything else in this batch.**
+**Fix:** a two-row desktop header. Row one: the wordmark, the search box and the languages. Row
+two: the section links, which then have the full 1,152px and wrap rather than overflow. No
+section is dropped.
+
+**Done 1 November 2026**, together with the removal of the domain-sale messaging (the owner's
+decision; `/buy` now redirects to `/contact`). The desktop layout now starts at 1024px instead of
+1280px. Checked at 390, 768, 1024, 1280, 1366, 1440 and 1920px in all five editions: no sideways
+scroll, the section links on one row. The check is a Playwright script run against a local
+build, not part of `npm test`.
 
 ### 1. Code
 
@@ -460,20 +464,23 @@ links only to pages that exist in it; the length test (0.85, Arabic 0.7) applies
 | 15 Dec | Done (target) |
 | 12 Jan | Four-week check: positions and clicks for the ankh, Eye of Horus, sankofa and adinkra pages; decide whether Eye of Ra needs its own page |
 
-### Owner actions
+### Owner decisions (1 November 2026)
 
-- Apply to an affiliate programme for the buying boxes (Etsy via Awin is the plan). Without it the
-  boxes go live as advice only.
-- Decide how the chart is offered until the newsletter exists. **Recommended:** a free download
-  now; when the newsletter starts it becomes the welcome gift as well.
+- **Chart:** a free download on the adinkra page from the release; when the newsletter starts it
+  becomes the welcome gift as well.
+- **Photographs: yes.** Museum objects for the ankh and Eye of Horus pages (Commons has many in
+  the public domain), through the batch-12 loop: candidates from the Wikipedia articles, each
+  viewed, captioned in the page's editions with the object, its date and the museum holding it;
+  a photograph whose museum and date the Commons record does not give is not used. Add this to
+  the 23–30 November slot.
+- **Affiliate accounts:** the owner applies (Amazon Associates, Etsy through Awin, Bookshop.org);
+  until an account is approved, the buying boxes give advice only, with no links.
 
 ### Not in this batch
 
-- **Photographs** of ankh and Eye of Horus objects in museums (Commons has many in the public
-  domain). They are not in the original plan; the same loop as batch 12 would add them if wanted.
 - An Eye of Ra page, more symbol families (Ndebele, Amazigh signs), symbol search: later batches.
 
-**Done when:** ☐ header fix · ☐ collection code · ☐ SVG drawings · ☐ printable PDF · ☐ 6 EN pages ·
+**Done when:** ☑ header fix · ☐ photographs (ankh, Eye of Horus) · ☐ collection code · ☐ SVG drawings · ☐ printable PDF · ☐ 6 EN pages ·
 ☐ translations · ☐ links in · ☐ released
 
 ---

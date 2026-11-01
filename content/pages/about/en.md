@@ -21,8 +21,4 @@ The guide is written in English and translated into French, Spanish, Portuguese 
 
 ## Corrections
 
-If you find an error, please tell us through the form on the [contact and offers page](/buy#offer) — a message without an amount is fine. Corrections are made promptly, and significant ones are noted with the revision date.
-
-## The domain
-
-The domain AfricanArtists.com is for sale. If you represent a gallery, label, platform or institution that could give it a long future, [make an offer](/buy).
+If you find an error, please tell us through the form on the [contact page](/contact). Corrections are made promptly, and significant ones are noted with the revision date.

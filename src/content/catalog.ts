@@ -71,6 +71,8 @@ export interface Entry {
 }
 
 const LAUNCH = '2026-10-07';
+/** The contact page replaced the domain-sale page at /buy. */
+const CONTACT_PAGE = '2026-11-01';
 /** Art forms, regions, two guides and the Spanish edition. */
 const EXPANSION = '2026-10-08';
 
@@ -435,7 +437,7 @@ export function entryPath(entry: Pick<Entry, 'collection' | 'slug'>): string {
 /**
  * Pages that are not articles. Every one exists in every edition. `index`
  * false keeps a page out of the sitemap and adds noindex — the thank-you page
- * after an offer has nothing a searcher wants.
+ * after a message has nothing a searcher wants.
  *
  * `updated` is when the page's own text last changed. Hubs (the home page and
  * the collection indexes) also change whenever an article they list does; the
@@ -443,8 +445,8 @@ export function entryPath(entry: Pick<Entry, 'collection' | 'slug'>): string {
  */
 export const STATIC_PAGES: { path: string; index: boolean; updated: string; lists?: Collection[] }[] = [
     { path: '/', index: true, updated: EXPANSION, lists: [...COLLECTIONS] },
-    { path: '/buy', index: true, updated: LAUNCH },
-    { path: '/buy/thanks', index: false, updated: LAUNCH },
+    { path: '/contact', index: true, updated: CONTACT_PAGE },
+    { path: '/contact/thanks', index: false, updated: CONTACT_PAGE },
     { path: '/art-forms', index: true, updated: EXPANSION, lists: ['art-forms'] },
     { path: '/artists', index: true, updated: LAUNCH, lists: ['artists'] },
     { path: '/movements', index: true, updated: LAUNCH, lists: ['movements'] },

@@ -1,15 +1,15 @@
 ---
 title: Aviso de privacidade
 heading: Aviso de privacidade
-description: O que o AfricanArtists.com recolhe — apenas o que envia pelo formulário de ofertas e estatísticas de visita anónimas —, porquê, e como pedir que seja apagado.
+description: O que o AfricanArtists.com recolhe — apenas o que envia pelo formulário de contacto e estatísticas de visita anónimas —, porquê, e como pedir que seja apagado.
 ---
-Este aviso explica que informação o AfricanArtists.com trata e porquê. Em resumo: o site não usa cookies, e os únicos dados pessoais que recebe são os que decide enviar pelo formulário de ofertas.
+Este aviso explica que informação o AfricanArtists.com trata e porquê. Em resumo: o site não usa cookies, e os únicos dados pessoais que recebe são os que decide enviar pelo formulário de contacto.
 
-## O formulário de ofertas e contacto
+## O formulário de contacto
 
-Quando envia o formulário da [página de ofertas](/buy), recebemos os dados que introduz: o seu nome, endereço de e-mail, organização (se a indicar), o valor de uma eventual oferta e a sua mensagem. São enviados por e-mail ao proprietário do domínio, através de um fornecedor de envio de e-mails, para que possamos responder. Usamo-los apenas para lhe responder e, se uma venda avançar, para a concluir. Não o inscrevemos em nenhuma lista de distribuição e não vendemos nem partilhamos os seus dados com terceiros, exceto na medida necessária para concluir uma venda com que concorde (por exemplo, com um serviço de escrow).
+Quando envia o formulário da [página de contacto](/contact), recebemos os dados que introduz: o seu nome, endereço de e-mail, organização (se a indicar) e a sua mensagem. São enviados por e-mail à redação, através de um fornecedor de envio de e-mails, para que possamos responder. Usamo-los apenas para lhe responder. Não o inscrevemos em nenhuma lista de distribuição e não vendemos nem partilhamos os seus dados com terceiros.
 
-Guardamos esta correspondência apenas durante o tempo necessário para tratar o seu pedido e qualquer transação que dele resulte.
+Guardamos esta correspondência apenas durante o tempo necessário para tratar a sua mensagem.
 
 ## Estatísticas de visita
 
@@ -25,7 +25,7 @@ O site está alojado na Vercel. Como qualquer serviço de alojamento, a Vercel t
 
 ## Os seus direitos
 
-Pode pedir para consultar, corrigir ou apagar os dados pessoais que nos enviou. Use o formulário da [página de ofertas](/buy#offer) e diga o que pretende. Consoante o local onde vive, pode também ter o direito de apresentar queixa à sua autoridade de proteção de dados.
+Pode pedir para consultar, corrigir ou apagar os dados pessoais que nos enviou. Use o formulário da [página de contacto](/contact) e diga o que pretende. Consoante o local onde vive, pode também ter o direito de apresentar queixa à sua autoridade de proteção de dados.
 
 ## Alterações
 

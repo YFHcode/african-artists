@@ -6,13 +6,13 @@ import { dictionary } from '@/i18n';
 import { localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
 
-/** Where a sent offer lands. noindex and outside the sitemap: nothing here for a searcher. */
-export async function generateMetadata({ params }: PageProps<'/[locale]/buy/thanks'>): Promise<Metadata> {
+/** Where a sent message lands. noindex and outside the sitemap: nothing here for a searcher. */
+export async function generateMetadata({ params }: PageProps<'/[locale]/contact/thanks'>): Promise<Metadata> {
     const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
     return pageMetadata({
         locale,
-        path: '/buy/thanks',
+        path: '/contact/thanks',
         title: t.thanks.title,
         description: t.thanks.text,
         noindex: true,
@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/buy/than
     });
 }
 
-export default async function ThanksPage({ params }: PageProps<'/[locale]/buy/thanks'>) {
+export default async function ThanksPage({ params }: PageProps<'/[locale]/contact/thanks'>) {
     const locale = toLocale((await params).locale) ?? notFound();
     const t = dictionary(locale);
 

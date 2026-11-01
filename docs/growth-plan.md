@@ -615,9 +615,11 @@ pages); several sources disagree — **confirm in each programme's dashboard bef
 
 ### 10.5 Monetisation and the sale
 
-A site with a year of traffic and revenue sells as a business, not only as a domain: buyers of
-content sites price them on profit history. Keep `/buy` and the sale notice; consider a quieter
-sale bar once ads run.
+*Changed 1 November 2026, at the owner's request:* the site no longer offers the domain for
+sale. The sale bar, the header button, the home-page block, the "Own AfricanArtists.com" boxes
+and the `/buy` page are gone; `/buy` redirects to `/contact`, a plain contact form (corrections,
+questions, partnerships), which affiliate programmes also expect a site to have. Revenue comes
+from ads and affiliates as set out above.
 
 ---
 

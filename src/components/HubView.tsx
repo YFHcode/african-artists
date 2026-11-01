@@ -14,7 +14,6 @@ import { type Locale, joinList, localePath } from '@/lib/i18n';
 import { collectionSchema } from '@/lib/schema';
 import { Locator, locatorKey } from '@/components/Locator';
 import { Motif } from '@/components/Motif';
-import { SaleNote } from '@/components/Views';
 
 /**
  * The hubs a reader of this one may want next: for a country, its medium
@@ -208,7 +207,6 @@ export function HubView({ locale, hub }: { locale: Locale; hub: Hub }) {
                 </nav>
             )}
 
-            <SaleNote locale={locale} />
         </>
     );
 }

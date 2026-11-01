@@ -30,26 +30,6 @@ export function formatDate(locale: Locale, iso: string): string {
     return new Intl.DateTimeFormat(lang, { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${iso}T00:00:00Z`));
 }
 
-export function SaleNote({ locale }: { locale: Locale }) {
-    const t = dictionary(locale);
-    return (
-        <aside className="mx-auto mt-16 max-w-6xl px-4">
-            <div className="flex flex-col items-start gap-4 rounded-xl bg-indigo p-6 text-paper sm:flex-row sm:items-center sm:justify-between">
-                <div>
-                    <p className="font-display text-xl font-semibold">{t.home.saleTitle}</p>
-                    <p className="mt-1 max-w-2xl text-sm text-paper/85">{t.home.saleText}</p>
-                </div>
-                <Link prefetch={false}
-                    href={localePath(locale, '/buy')}
-                    className="shrink-0 rounded-full bg-ochre px-5 py-2.5 font-semibold text-ink hover:bg-paper"
-                >
-                    {t.saleBar.cta}
-                </Link>
-            </div>
-        </aside>
-    );
-}
-
 /**
  * The facts box of a short profile, from Wikidata: life dates, country and
  * disciplines. Full profiles keep their hand-written facts.
@@ -210,7 +190,6 @@ export function ArticleView({ article }: { article: Article }) {
 
             {entry.collection === 'regions' && <RegionIndex locale={locale} slug={entry.slug} />}
             <RelatedArticles articles={relatedArticles(locale, entry)} title={t.article.related} t={t} />
-            <SaleNote locale={locale} />
         </>
     );
 }
@@ -442,7 +421,6 @@ export function CollectionView({ locale, collection }: { locale: Locale; collect
                 </section>
             )}
 
-            <SaleNote locale={locale} />
         </>
     );
 }

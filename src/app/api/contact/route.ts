@@ -1,18 +1,19 @@
 import { NextResponse } from 'next/server';
 
+import { type ContactMessage, contactEmail, validateContact } from '@/lib/contact';
 import { DEFAULT_LOCALE, localePath, toLocale } from '@/lib/i18n';
-import { type Offer, offerEmail, validateOffer } from '@/lib/offer';
 
 /**
- * Receives offers from the form on /buy and emails them to the owner.
+ * Receives messages from the form on /contact and emails them to the editors.
  *
  * Accepts JSON (the form with JavaScript) and a plain form post (without it).
  * A form post gets a 303 to the thank-you page, or back to the form with an
  * error code; JSON gets a status and a code the form turns into a message.
  *
- * Delivery is through Resend's HTTP API. RESEND_API_KEY and OFFER_TO_EMAIL
- * must be set; without them the route answers 503 rather than pretending an
- * offer was received.
+ * Delivery is through Resend's HTTP API. RESEND_API_KEY and CONTACT_TO_EMAIL
+ * must be set (OFFER_TO_EMAIL, the name used before November 2026, still
+ * works); without them the route answers 503 rather than pretending a message
+ * was received.
  */
 
 export const dynamic = 'force-dynamic';
@@ -20,7 +21,7 @@ export const dynamic = 'force-dynamic';
 type ErrorCode = 'invalid' | 'rate' | 'unavailable' | 'failed';
 
 // Best effort only: each serverless instance keeps its own window. It stops a
-// single client hammering the form, which is all a domain-sale form needs.
+// single client hammering the form, which is all a contact form needs.
 const WINDOW_MS = 15 * 60 * 1000;
 const MAX_PER_WINDOW = 5;
 const recent = new Map<string, number[]>();
@@ -33,35 +34,35 @@ function rateLimited(ip: string, now: number): boolean {
     return hits.length > MAX_PER_WINDOW;
 }
 
-async function deliver(offer: Offer): Promise<'sent' | 'unavailable' | 'failed'> {
+async function deliver(contact: ContactMessage): Promise<'sent' | 'unavailable' | 'failed'> {
     const key = process.env.RESEND_API_KEY;
-    const to = process.env.OFFER_TO_EMAIL;
+    const to = process.env.CONTACT_TO_EMAIL || process.env.OFFER_TO_EMAIL;
     if (!key || !to) {
-        console.error('offer: RESEND_API_KEY or OFFER_TO_EMAIL is not set; offer not delivered');
+        console.error('contact: RESEND_API_KEY or CONTACT_TO_EMAIL is not set; message not delivered');
         return 'unavailable';
     }
 
-    const { subject, text } = offerEmail(offer);
+    const { subject, text } = contactEmail(contact);
     try {
         const response = await fetch('https://api.resend.com/emails', {
             method: 'POST',
             headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                from: process.env.OFFER_FROM_EMAIL || 'AfricanArtists.com <onboarding@resend.dev>',
+                from: process.env.CONTACT_FROM_EMAIL || process.env.OFFER_FROM_EMAIL || 'AfricanArtists.com <onboarding@resend.dev>',
                 to: [to],
-                reply_to: offer.email,
+                reply_to: contact.email,
                 subject,
                 text,
             }),
             signal: AbortSignal.timeout(10_000),
         });
         if (!response.ok) {
-            console.error(`offer: Resend answered ${response.status}: ${(await response.text()).slice(0, 300)}`);
+            console.error(`contact: Resend answered ${response.status}: ${(await response.text()).slice(0, 300)}`);
             return 'failed';
         }
         return 'sent';
     } catch (error) {
-        console.error('offer: delivery failed', error);
+        console.error('contact: delivery failed', error);
         return 'failed';
     }
 }
@@ -82,18 +83,18 @@ export async function POST(request: Request) {
 
     const reply = (status: number, code?: ErrorCode, fields?: string[]) => {
         if (isJson) return NextResponse.json(code ? { ok: false, error: code, fields } : { ok: true }, { status });
-        const target = code ? `${localePath(locale, '/buy')}?error=${code}#offer` : localePath(locale, '/buy/thanks');
+        const target = code ? `${localePath(locale, '/contact')}?error=${code}#form` : localePath(locale, '/contact/thanks');
         return NextResponse.redirect(new URL(target, origin), 303);
     };
 
     const ip = (request.headers.get('x-forwarded-for') ?? '').split(',')[0].trim() || 'unknown';
     if (rateLimited(ip, Date.now())) return reply(429, 'rate');
 
-    const result = validateOffer(raw);
+    const result = validateContact(raw);
     if (result.kind === 'spam') return reply(200);
     if (result.kind === 'invalid') return reply(400, 'invalid', result.fields);
 
-    const outcome = await deliver(result.offer);
+    const outcome = await deliver(result.contact);
     if (outcome === 'unavailable') return reply(503, 'unavailable');
     if (outcome === 'failed') return reply(502, 'failed');
     return reply(200);

@@ -21,8 +21,4 @@ Le guide est écrit en anglais et traduit en français, en espagnol, en portugai
 
 ## Corrections
 
-Si vous relevez une erreur, signalez-la-nous via le formulaire de la [page contact et offres](/buy#offer) — un message sans montant convient très bien. Les corrections sont apportées rapidement, et les plus importantes sont signalées par la date de révision.
-
-## Le nom de domaine
-
-Le nom de domaine AfricanArtists.com est à vendre. Si vous représentez une galerie, un label, une plateforme ou une institution capable de lui offrir un long avenir, [faites une offre](/buy).
+Si vous relevez une erreur, signalez-la-nous via le formulaire de la [page de contact](/contact). Les corrections sont apportées rapidement, et les plus importantes sont signalées par la date de révision.

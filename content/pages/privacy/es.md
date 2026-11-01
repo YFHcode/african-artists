@@ -1,15 +1,15 @@
 ---
 title: Aviso de privacidad
 heading: Aviso de privacidad
-description: Qué recoge AfricanArtists.com —solo lo que usted envía por el formulario de ofertas y estadísticas anónimas de visitas—, por qué y cómo pedir que se borre.
+description: Qué recoge AfricanArtists.com —solo lo que usted envía por el formulario de contacto y estadísticas anónimas de visitas—, por qué y cómo pedir que se borre.
 ---
-Este aviso explica qué información trata AfricanArtists.com y por qué. En resumen: el sitio no instala cookies, y la única información personal que recibe es la que usted decide enviar por el formulario de ofertas.
+Este aviso explica qué información trata AfricanArtists.com y por qué. En resumen: el sitio no instala cookies, y la única información personal que recibe es la que usted decide enviar por el formulario de contacto.
 
-## El formulario de ofertas y contacto
+## El formulario de contacto
 
-Cuando envía el formulario de la [página de ofertas](/buy), recibimos los datos que introduce: su nombre, su dirección de correo electrónico, su organización (si la indica), el importe de la oferta, si lo hay, y su mensaje. Se envían por correo electrónico al propietario del dominio, mediante un proveedor de envío de correo, para que podamos responderle. Los usamos únicamente para contestarle y, si se cierra una venta, para completarla. No le añadimos a ninguna lista de correo, y no vendemos ni compartimos sus datos con nadie más, salvo lo necesario para completar una venta que usted acepte (por ejemplo, con un servicio de escrow).
+Cuando envía el formulario de la [página de contacto](/contact), recibimos los datos que introduce: su nombre, su dirección de correo electrónico, su organización (si la indica) y su mensaje. Se envían por correo electrónico a la redacción, mediante un proveedor de envío de correo, para que podamos responderle. Los usamos únicamente para contestarle. No le añadimos a ninguna lista de correo, y no vendemos ni compartimos sus datos con nadie más.
 
-Conservamos esta correspondencia solo el tiempo necesario para atender su consulta y cualquier transacción que se derive de ella.
+Conservamos esta correspondencia solo el tiempo necesario para atender su mensaje.
 
 ## Estadísticas de visitas
 
@@ -25,7 +25,7 @@ El sitio está alojado en Vercel. Como cualquier proveedor de alojamiento, Verce
 
 ## Sus derechos
 
-Puede pedir ver, corregir o borrar la información personal que nos ha enviado. Use el formulario de la [página de ofertas](/buy#offer) e indique qué desea que hagamos. Según dónde viva, también puede tener derecho a presentar una reclamación ante su autoridad de protección de datos.
+Puede pedir ver, corregir o borrar la información personal que nos ha enviado. Use el formulario de la [página de contacto](/contact) e indique qué desea que hagamos. Según dónde viva, también puede tener derecho a presentar una reclamación ante su autoridad de protección de datos.
 
 ## Cambios
 

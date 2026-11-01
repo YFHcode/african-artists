@@ -25,7 +25,7 @@ test('toLocale returns the LOCALES constant itself, and nothing for anything els
 
 test('splitLocalePath inverts localePath for every edition', () => {
     for (const locale of LOCALES) {
-        for (const p of ['/', '/buy', '/artists/el-anatsui']) {
+        for (const p of ['/', '/contact', '/artists/el-anatsui']) {
             assert.deepEqual(splitLocalePath(localePath(locale, p)), { locale, path: p });
         }
     }

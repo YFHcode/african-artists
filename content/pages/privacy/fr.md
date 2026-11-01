@@ -1,15 +1,15 @@
 ---
 title: Politique de confidentialité
 heading: Politique de confidentialité
-description: Ce que collecte AfricanArtists.com (ce que vous envoyez par le formulaire d'offre et des statistiques anonymes), pourquoi, et comment le faire supprimer.
+description: Ce que collecte AfricanArtists.com (ce que vous envoyez par le formulaire de contact et des statistiques anonymes), pourquoi, et comment le faire supprimer.
 ---
-Cette page explique quelles informations AfricanArtists.com traite et pourquoi. En bref : le site ne dépose aucun cookie, et les seules données personnelles qu'il reçoit sont celles que vous choisissez d'envoyer via le formulaire d'offre.
+Cette page explique quelles informations AfricanArtists.com traite et pourquoi. En bref : le site ne dépose aucun cookie, et les seules données personnelles qu'il reçoit sont celles que vous choisissez d'envoyer via le formulaire de contact.
 
-## Le formulaire d'offre et de contact
+## Le formulaire de contact
 
-Lorsque vous envoyez le formulaire de la [page des offres](/buy), nous recevons les informations saisies : votre nom, votre adresse e-mail, votre organisation (si vous l'indiquez), le montant d'une éventuelle offre et votre message. Elles sont transmises par e-mail au propriétaire du nom de domaine, au moyen d'un prestataire d'envoi d'e-mails, afin que nous puissions vous répondre. Nous les utilisons uniquement pour vous répondre et, si une vente a lieu, pour la conclure. Nous ne vous inscrivons à aucune liste de diffusion et nous ne vendons ni ne partageons vos données, sauf dans la mesure nécessaire à une vente que vous acceptez (par exemple avec un service de séquestre).
+Lorsque vous envoyez le formulaire de la [page de contact](/contact), nous recevons les informations saisies : votre nom, votre adresse e-mail, votre organisation (si vous l'indiquez) et votre message. Elles sont transmises par e-mail à la rédaction, au moyen d'un prestataire d'envoi d'e-mails, afin que nous puissions vous répondre. Nous les utilisons uniquement pour vous répondre. Nous ne vous inscrivons à aucune liste de diffusion et nous ne vendons ni ne partageons vos données avec qui que ce soit.
 
-Nous conservons ces échanges uniquement le temps nécessaire au traitement de votre demande et de toute transaction qui en découle.
+Nous conservons ces échanges uniquement le temps nécessaire au traitement de votre message.
 
 ## Statistiques de visite
 
@@ -25,7 +25,7 @@ Le site est hébergé par Vercel. Comme tout hébergeur, Vercel traite des donn�
 
 ## Vos droits
 
-Vous pouvez demander à consulter, corriger ou supprimer les données personnelles que vous nous avez envoyées. Utilisez le formulaire de la [page des offres](/buy#offer) en précisant votre demande. Selon votre lieu de résidence, vous pouvez aussi avoir le droit d'introduire une réclamation auprès de votre autorité de protection des données.
+Vous pouvez demander à consulter, corriger ou supprimer les données personnelles que vous nous avez envoyées. Utilisez le formulaire de la [page de contact](/contact) en précisant votre demande. Selon votre lieu de résidence, vous pouvez aussi avoir le droit d'introduire une réclamation auprès de votre autorité de protection des données.
 
 ## Modifications
 

@@ -20,7 +20,7 @@ import { SITE_URL } from './src/lib/site';
  * /api/ is excluded as well. Next.js matches dynamic routes (like
  * /api/search/[locale]) after the afterFiles rewrites, so without the
  * exclusion /api/search/fr would be rewritten to /en/api/search/fr and 404;
- * non-dynamic routes such as /api/offer were never affected.
+ * non-dynamic routes such as /api/contact were never affected.
  *
  * /_vercel/ is excluded too: Vercel Web Analytics loads /_vercel/insights/script.js
  * and posts page views to /_vercel/insights/view, and those must reach Vercel,
@@ -47,6 +47,11 @@ const nextConfig: NextConfig = {
         const rules = [
             { source: '/en', destination: '/', permanent: true },
             { source: '/en/:path*', destination: '/:path*', permanent: true },
+            // The domain-sale page became the contact page in November 2026.
+            { source: '/buy', destination: '/contact', permanent: true },
+            { source: '/buy/thanks', destination: '/contact', permanent: true },
+            { source: '/:locale(fr|es|pt|ar)/buy', destination: '/:locale/contact', permanent: true },
+            { source: '/:locale(fr|es|pt|ar)/buy/thanks', destination: '/:locale/contact', permanent: true },
         ];
 
         // No www <-> bare-domain redirect here: that belongs to Vercel's domain

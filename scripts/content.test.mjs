@@ -183,7 +183,7 @@ test('every internal link resolves to a page that exists in the same edition', (
 });
 
 test('the link checker catches a broken link (negative control)', () => {
-    assert.deepEqual(internalLinks('see [x](/artists/nobody) and [y](/buy#offer)'), ['/artists/nobody', '/buy']);
+    assert.deepEqual(internalLinks('see [x](/artists/nobody) and [y](/contact#form)'), ['/artists/nobody', '/contact']);
     assert.ok(!known.has('/artists/nobody'));
 });
 

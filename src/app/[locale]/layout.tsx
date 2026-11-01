@@ -7,7 +7,7 @@ import '../globals.css';
 import { fraunces, inter } from '../fonts';
 
 import { JsonLd } from '@/components/JsonLd';
-import { Footer, Header, SaleBar } from '@/components/SiteChrome';
+import { Footer, Header } from '@/components/SiteChrome';
 import { dictionary } from '@/i18n';
 import { LOCALES, LOCALE_INFO, toLocale } from '@/lib/i18n';
 import { siteSchema } from '@/lib/schema';
@@ -78,7 +78,6 @@ export default async function LocaleLayout({ children, params }: LayoutProps<'/[
                 >
                     {t.skip}
                 </a>
-                <SaleBar locale={locale} t={t} />
                 <Header locale={locale} t={t} />
                 <main id="main">{children}</main>
                 <Footer locale={locale} t={t} />

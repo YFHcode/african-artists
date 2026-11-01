@@ -194,22 +194,37 @@
  "instruments/kalimba": {
   "pages": [
    "Kalimba",
-   "Mbira",
-   "fr:Kalimba"
+   "fr:Kalimba",
+   "de:Kalimba",
+   "es:Kalimba",
+   "pt:Kalimba",
+   "nl:Kalimba",
+   "Lamellophone"
   ],
   "files": [],
-  "exclude": [],
+  "exclude": [
+   "Mbira1.png",
+   "Mbira dzavadzimu in deze.jpg"
+  ],
   "max": 3,
   "captions": {}
  },
  "instruments/djembe": {
   "pages": [
    "Djembe",
-   "fr:Djembé"
+   "fr:Djembé",
+   "de:Djembe",
+   "es:Djembe",
+   "pt:Djembê",
+   "nl:Djembé"
   ],
   "files": [],
-  "exclude": [],
-  "max": 3,
+  "exclude": [
+   "Djembe skin mounting system.jpg",
+   "Djembe skin mounting system - three rings.jpg",
+   "Djembe - Inside Spiral.JPG"
+  ],
+  "max": 6,
   "captions": {}
  },
  "instruments/mbira": {
@@ -217,10 +232,28 @@
    "Mbira",
    "Mbira dzavadzimu"
   ],
-  "files": [],
+  "files": [
+   "Holding an mbira dzavadzimu.jpg"
+  ],
   "exclude": [],
   "max": 3,
-  "captions": {}
+  "captions": {
+   "Mbira1.png": {
+    "en": "A Shona mbira: metal keys fixed to a wooden board.",
+    "fr": "Une mbira shona : des lames métalliques fixées sur une planche de bois.",
+    "pt": "Uma mbira shona: lâminas de metal presas a uma tábua de madeira."
+   },
+   "Mbira dzavadzimu in deze.jpg": {
+    "en": "An mbira dzavadzimu inside its deze, a gourd resonator with a rim of shells.",
+    "fr": "Une mbira dzavadzimu dans sa deze, calebasse résonante au bord orné de coquillages.",
+    "pt": "Uma mbira dzavadzimu dentro da sua deze, cabaça ressoante com o rebordo ornado de conchas."
+   },
+   "Holding an mbira dzavadzimu.jpg": {
+    "en": "Holding an mbira dzavadzimu: both hands support the board while the thumbs and a finger pluck the keys.",
+    "fr": "Tenir une mbira dzavadzimu : les deux mains soutiennent la planche pendant que les pouces et un doigt pincent les lames.",
+    "pt": "Segurar uma mbira dzavadzimu: as duas mãos apoiam a tábua enquanto os polegares e um dedo tocam as lâminas."
+   }
+  }
  },
  "instruments/kora": {
   "pages": [
@@ -228,9 +261,20 @@
    "fr:Kora (instrument)"
   ],
   "files": [],
-  "exclude": [],
-  "max": 3,
-  "captions": {}
+  "exclude": [
+   "4 Koras.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "Kora-Player2.jpg": {
+    "en": "Jali Fily Sissokho, a Mandinka kora player from Senegal, performing at the Pitt Rivers Museum.",
+    "fr": "Jali Fily Sissokho, joueur de kora mandingue du Sénégal, en concert au Pitt Rivers Museum."
+   },
+   "4 Koras showing 4 sides.jpg": {
+    "en": "Four koras seen from different sides: calabash bodies covered with skin, long necks and two hand posts.",
+    "fr": "Quatre koras vues sous différents angles : corps en calebasse couverts de peau, longs manches et deux montants."
+   }
+  }
  },
  "instruments/balafon": {
   "pages": [
@@ -239,9 +283,20 @@
    "Sosso-Bala"
   ],
   "files": [],
-  "exclude": [],
-  "max": 3,
-  "captions": {}
+  "exclude": [
+   "Balafoon.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "African Balafon in Museu Oscar Niemeyer.jpg": {
+    "en": "A balafon with wooden slats over gourd resonators, in the Museu Oscar Niemeyer.",
+    "fr": "Un balafon aux lames de bois posées sur des calebasses résonantes, au Museu Oscar Niemeyer."
+   },
+   "Balafon children burkina faso.jpg": {
+    "en": "Children from Burkina Faso playing balafons and drums at the Cross Culture Festival in Warsaw.",
+    "fr": "Des enfants du Burkina Faso jouant du balafon et des tambours au Cross Culture Festival de Varsovie."
+   }
+  }
  },
  "instruments/talking-drum": {
   "pages": [
@@ -249,8 +304,19 @@
    "fr:Tama (instrument)"
   ],
   "files": [],
-  "exclude": [],
-  "max": 3,
-  "captions": {}
+  "exclude": [
+   "Gangan.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "Iya Ilu Dundun.png": {
+    "en": "An ìyá ìlù dùndún, the lead talking drum of the Yoruba, with a decorated strap and small bells.",
+    "fr": "Un ìyá ìlù dùndún, tambour parleur principal des Yoruba, avec sa bandoulière décorée et ses petites clochettes."
+   },
+   "WIKI LOVES AFRICA 2016 HYPERFOCALSTUDIOS.jpg": {
+    "en": "Young drummers carrying talking drums and curved sticks in a procession.",
+    "fr": "De jeunes tambourinaires portant des tambours parleurs et des baguettes courbes lors d'un cortège."
+   }
+  }
  }
 }

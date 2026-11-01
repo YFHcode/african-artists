@@ -3,7 +3,7 @@ title: Where to See African Art: Museums in Africa and Beyond
 label: Where to see African art
 heading: Where to see African art
 kicker: Guide
-description: Museums for modern, contemporary and historical African art — from Zeitz MOCAA and the Museum of Black Civilisations to the Smithsonian and Tervuren.
+description: Where to see African art: Zeitz MOCAA in Cape Town, the Museum of Black Civilisations in Dakar, the Mohammed VI Museum in Rabat, the Smithsonian and Tervuren.
 summary: The leading museums for modern and contemporary African art on the continent include Zeitz MOCAA in Cape Town (opened 2017), the Museum of Black Civilisations in Dakar (2018) and the Mohammed VI Museum of Modern and Contemporary Art in Rabat (2014). Outside Africa, the Smithsonian's National Museum of African Art in Washington, the British Museum, the Musée du quai Branly in Paris and the AfricaMuseum near Brussels hold major collections.
 ---
 ## In Africa

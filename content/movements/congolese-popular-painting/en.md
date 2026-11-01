@@ -1,5 +1,5 @@
 ---
-title: Congolese Popular Painting: Kinshasa's Street-Wise Art
+title: Congolese Popular Painting: Chéri Samba and Kinshasa's Street Painters
 label: Congolese popular painting
 heading: Congolese popular painting
 kicker: Art movement

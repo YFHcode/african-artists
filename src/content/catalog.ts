@@ -336,6 +336,14 @@ const REVISED_FOR_DAKAR: string[] = [
 ];
 for (const e of CATALOG) if (REVISED_FOR_DAKAR.includes(entryKey(e)) && DAKART_RELEASE > e.updated) e.updated = DAKART_RELEASE;
 
+/** Batch 11: existing pages with new sections or sharper titles and descriptions. Moves to the last release date of the batch. */
+export const BATCH11_RELEASE = '2026-11-01';
+const REVISED_IN_BATCH_11: string[] = [
+    'art-forms/kente-cloth', 'art-forms/adinkra-symbols', 'art-forms/african-masks', 'art-forms/mudcloth', 'art-forms/african-pottery',
+    'movements/congolese-popular-painting', 'music/highlife', 'guides/where-to-see-african-art', 'museums/museum-of-modern-egyptian-art',
+];
+for (const e of CATALOG) if (REVISED_IN_BATCH_11.includes(entryKey(e)) && BATCH11_RELEASE > e.updated) e.updated = BATCH11_RELEASE;
+
 export function entryKey(entry: Pick<Entry, 'collection' | 'slug'>): string {
     return `${entry.collection}/${entry.slug}`;
 }

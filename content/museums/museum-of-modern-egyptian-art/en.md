@@ -3,7 +3,7 @@ title: Museum of Modern Egyptian Art, Cairo: History and What to See
 label: Museum of Modern Egyptian Art
 heading: Museum of Modern Egyptian Art, Cairo
 kicker: Museum of modern art
-description: Cairo's museum of modern Egyptian art, on the Opera House grounds: more than 13,000 works from Mahmoud Saïd and Mokhtar to today, reopened in 2020.
+description: Cairo's Museum of Modern Egyptian Art, or Egyptian Museum of Modern Art, on the Opera House grounds: 13,000+ works from Saïd and Mokhtar; reopened in 2020.
 summary: The Museum of Modern Egyptian Art, also called the Egyptian Museum of Modern Art, stands in the grounds of the Cairo Opera House on Gezira island. Its collection, begun in the 1920s, holds more than 13,000 paintings, sculptures and works on paper by artists who worked in Egypt, and it reopened in 2020 after a long closure and renovation.
 facts:
   - Founded | 1927

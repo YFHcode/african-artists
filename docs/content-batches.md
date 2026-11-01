@@ -59,7 +59,7 @@ Semrush data yet — pull it before writing.*
 | Batch | Theme | New | Updated | Target | Status |
 |---|---|---:|---:|---|---|
 | [10](#batch-10--dakart-2026) | Dak'Art 2026 | 2 | 7 | 12 Nov 2026 | ◐ shipped 1 Nov; updates 10 and 19 Nov |
-| [11](#batch-11--quick-wins-on-existing-pages) | Quick wins on existing pages | 0 | 11 | 21 Nov 2026 | ☐ |
+| [11](#batch-11--existing-pages-depth-photographs-sharper-snippets) | Existing pages: depth, photographs, snippets | 0 | 9 | 21 Nov 2026 | ☐ |
 | [12](#batch-12--instruments-1) | Instruments 1 | 7 | 6 | 30 Nov 2026 | ☐ |
 | [13](#batch-13--symbols-1) | Symbols 1 | 6 | 2 | 15 Dec 2026 | ☐ |
 | [14](#batch-14--patterns-and-dress-1) | Patterns and dress 1 | 7 | 3 | 31 Dec 2026 | ☐ |
@@ -184,32 +184,115 @@ Commons, via `place-images.yml`) · ☐ indexing requested · ☐ hours and admi
 
 ---
 
-## Batch 11 — Quick wins on existing pages
+## Batch 11 — Existing pages: depth, photographs, sharper snippets
 
-**Target:** 21 November 2026. No new pages: retitles and new sections on pages that already rank
-40–90.
+**Target:** 21 November 2026. No new pages. Detailed plan written 1 November 2026 after reading
+every page in the batch.
 
-| Page | Primary keyword | Change | Secondary keywords to work in |
+### What reading the pages changed
+
+The first draft of this batch assumed retitles that the pages **already have**. Titles that
+already contain the target words, so they stay as they are:
+
+| Page | Title now | Keyword it already carries |
+|---|---|---|
+| Adinkra | Adinkra Symbols and Meanings: A Guide to Ghana's Visual Language | *adinkra symbols and meanings* |
+| Masks | African Masks: Types, Meanings and the Peoples Who Make Them | *african masks* |
+| Mud cloth | Mudcloth (Bogolanfini): How Mali's Mud-Painted Cloth Is Made | *mudcloth*, *bogolanfini* |
+| Rock art, PT and ES | *Arte rupestre africana…* / *Arte rupestre africano…* | *arte rupestre* |
+| Country lists | "South African Artists: Famous Painters, Sculptors and Photographers" (same for Nigeria, Egypt, Morocco) | *south african artists* |
+| Cairo museum, Arabic | متحف الفن المصري الحديث… | the Arabic form people search |
+
+So the work is **more useful text, photographs and better snippets** — not new titles. The
+plain truth about the rankings: these pages sit at positions 40–90 because they are new, short
+(450–880 words) and unlinked; a better title does not fix that. Depth, photographs and links do.
+
+### 1. Photographs on art-form pages (the main change)
+
+Google Images is a large source of visits for masks, kente, adinkra and mud cloth. Add the
+batch-10 photo pipeline to these pages: extend `data/images/places-config.json` with
+
+| Page | Wikipedia articles to draw candidates from (a missing title is skipped) | Photos |
+|---|---|---|
+| `art-forms/kente-cloth` | Kente cloth · fr:Kente | 3 |
+| `art-forms/adinkra-symbols` | Adinkra symbols · fr:Adinkra | 3 |
+| `art-forms/african-masks` | African masks · Dogon people · Gelede · fr:Masque africain | 4 |
+| `art-forms/mudcloth` | Bògòlanfini · fr:Bogolan | 3 |
+| `art-forms/african-pottery` | Ladi Kwali · Magdalene Odundo · African pottery | 3 |
+
+Run `place-images.yml`, **look at every photograph**, exclude the weak ones, write English and
+French captions (the same loop as batch 10). Credits appear on the page and in `/credits`.
+Rule: a mask photo must say which people made it and where it is held, from the Commons
+description; if it cannot, it is not used.
+
+### 2. Content, page by page
+
+Every new claim gets a source in `data/sources/art-forms/<slug>.md` (new folder). Facts to
+verify are listed; anything unverified stays out.
+
+| Page | Add | Keywords served | To verify first |
 |---|---|---|---|
-| `art-forms/adinkra-symbols` | *adinkra symbols* 9,900 / 31 (now #88 for *adinkra*) | Title "Adinkra Symbols and Their Meanings"; a symbol-by-symbol list (the full dictionary comes in batch 13) | *adinkra symbols and meanings* 2,400 / 21 · *akan adinkra* 1,900 / 27 · *adinkra cloth* 1,300 / 25 · *adinkra meaning* 880 / 21 · *adinkra fabric* 880 / 19 · *adinkra symbols meaning* 720 / 28 |
-| `art-forms/kente-cloth` | *kente cloth* 12,100 / 47 (#13 for *hand woven kente cloth*) | Sections on patterns and colours, hand-woven vs printed, silk kente | *kente cloth patterns* 1,300 / 26 · *ghana kente material* 1,000 / 21 · *silk kente cloth* 880 / 24 · *kente cloth meaning* 720 / 36 · *what is kente cloth* 590 / 36 · UK *kente cloth* 2,900 / 27 |
-| `art-forms/african-masks` | *african masks* 6,600 / 22 (#59–78) | Title "African Masks: Types, Meanings and Uses"; types by people; what masks are for; misconceptions | *african mask* 6,600 / 26 · *mask of africa* 5,400 / 23 · *tribal masks africa* 3,600 / 24 · *traditional african masks* 2,400 / 22 · *african tribal masks* 1,600 / 31 · questions: *what are African tribal masks used for*, *why were African masks made*, *are African masks evil* |
-| `art-forms/mudcloth` | *mud cloth* 1,300 / 12 (#81) | Title "Mud Cloth (Bogolanfini): Meaning and History"; symbols; handmade vs printed | *mudcloth* 720 / 5 · *mud cloth fabric* 480 / 3 · *african mud cloth* 390 / 8 · *african bogolan mud cloth* 390 / 18 · *what is mud cloth* 110 / 3 · FR *bogolan* 1,000 / 20 |
-| `art-forms/african-pottery` | *african pottery* 590 / 8 (#48 for *pottery of africa*) | Techniques; potters (Ladi Kwali, Magdalene Odundo); images | *pottery of africa* 320 / 23 |
-| `artists/kevin-carter` | *kevin carter* 5,400 / 48 (#37–88) | A sourced section on the 1993 photograph and the debate over it | *kevin carter photo* 390 / 34 |
-| `museums/museum-of-modern-egyptian-art` | *egyptian museum of modern art* 110 / 33 | English title in the form people search | AR *متحف الفن المصري الحديث* 590 / 27 |
-| `art-forms/african-rock-art` (PT, ES) | BR *arte rupestre* 22,200 / 39 | Portuguese and Spanish titles and summaries that use *arte rupestre* | MX *arte rupestre* 5,400 / 41 · ES 1,900 / 36 · PT 1,300 / 40 |
-| `artists/country/south-africa`, `nigeria`, `ghana`, `egypt`, `morocco`, `ethiopia` | *south african artists* 390 / 13 (ZA 2,900 / 20) | Titles and intros that say "painters, sculptors and photographers" | *south african painters* 260 / 19 · *nigerian artists* 390 / 31 · *ghanaian artists* 210 / 20 · *egyptian artists* 170 / 33 · *moroccan artists* 110 / 14 · *ethiopian artists* 110 / 21 |
-| `guides/african-women-artists` | *black female artists* 1,600 / 33 | Grow towards a ranked list of 30 names (more in batch 15) | *famous female artists* 2,900 / 30 |
+| **Kente** | An answer-first opening "What is kente cloth?"; "Kente meaning" with the named patterns already on the page, each with its source; a short "kente stoles and graduation" pointer (the full guide is batch 14); silk kente only if sourced | *kente cloth* 12,100 · *what is kente cloth* 590 · *kente cloth meaning* 720 · *kente cloth patterns* 1,300 · *silk kente cloth* 880 · UK 2,900 | Pattern names and meanings; silk and rayon use; who may wear which cloth; the 2024 UNESCO entry already on the page |
+| **Adinkra** | "Adinkra cloth and fabric" (how to tell real stamped cloth from print); a short "adinkra jewellery and tattoos: a note on meaning"; "Akan adinkra" wording (adinkra belong to the Akan; the page says Ghana) | *akan adinkra* 1,900 · *adinkra cloth* 1,300 · *adinkra fabric* 880 · *adinkra meaning* 880 · *adinkra symbols meaning* 720 | The Akan/Asante/Gyaman origin account; Adanse and the Gyaman legend; stamp-making from calabash and *badie* dye |
+| **Masks** | A "Questions" section: what are African masks used for · why were they made · are they evil or dangerous (misconception) · why "tribal" is a word we explain and avoid; *Mask of Africa* wording in the lead | *african mask* 6,600 · *mask of africa* 5,400 · *tribal masks africa* 3,600 · *african tribal masks* 1,600 | Each answer sourced to museum or scholarly pages; no claims about sacred meaning that we cannot source |
+| **Mud cloth** | Answer-first "What is mud cloth?"; "Mud cloth fabric you can buy: handmade vs printed" (already half there); spelling note (*mudcloth*, *mud cloth*, *bogolan*, *bogolanfini*) | *mud cloth* 1,300 · *mudcloth* 720 · *mud cloth fabric* 480 · *african mud cloth* 390 · FR *bogolan* 1,000 | The dyeing sequence; Mali's Dogon, Bamana attributions; the 1970s revival (Chris Seydou, Groupe Bogolan Kasobané) |
+| **Pottery** | Photographs; a "Ladi Kwali" and "Magdalene Odundo" image caption each; a "Where to see African pottery" line linking museums | *african pottery* 590 · *pottery of africa* 320 | Museum holdings named (British Museum, V&A) |
+| **Kevin Carter** | A fuller, sourced "The photograph" section (date, place, the food camp at Ayod, the Pulitzer in 1994); a "What happened to the child" paragraph **only if reliably sourced**; "Kevin Carter photo" wording | *kevin carter* 5,400 · *kevin carter photo* 390 · *kevin carter journalist* 5,400 | The most careful page in the batch: dates, names and the later reporting about the child need two sources each, and the tone stays factual |
+| **Cairo museum** | English title and heading "Egyptian Museum of Modern Art, Cairo" (*egyptian museum of modern art* 110 vs *museum of modern egyptian art* 50); extend the 347-word page to about 500 words from existing sourced material (collection, the Opera House grounds, the Mokhtar Museum link) | *egyptian museum of modern art* 110 · AR 590 | Collection count, reopening in 2020 (already in the source log) |
+| **Rock art, PT/ES** | Check summaries and descriptions say *arte rupestre*; the Brazilian-Portuguese spelling (*Saara*, not *Sara*) is handled in batch 30 | BR 22,200 · MX 5,400 · ES 1,900 | Nothing new; note only |
 
-**Also from Search Console (first week, 8–14 October):** these pages already sat at positions 5–10
-with impressions but no clicks, so rewrite their titles and descriptions to win the click:
-`ar/art-forms/african-masks` (#7.4, 23 impressions), `movements/congolese-popular-painting` (#8.9, 18),
-`es/music/highlife` (#8.3, 15), `guides/where-to-see-african-art` (#5.5, 11). The French women-artists
-guide was the best page (6 clicks across both hosts) — keep its French edition in step with the English.
+### 3. Snippets that win the click
 
-**Done when:** ☐ all ten pages · ☐ translations updated where titles change · ☐ released ·
-☐ positions noted after four weeks
+Titles and descriptions only; **no body change**. These four pages already ranked 5–10 but earned
+no clicks in the first week (11–23 impressions each, so the sample is tiny — cheap to try, not proof).
+
+| Page | Now | New title (≤70) | New description (≤160) |
+|---|---|---|---|
+| `ar/art-forms/african-masks` | الأقنعة الأفريقية: أنواعها ومعانيها والشعوب التي تصنعها | Add the common phrase *الأقنعة الإفريقية التراثية* (Searched at position 11) | Lead with what masks are for and the peoples named |
+| `movements/congolese-popular-painting` | Congolese Popular Painting: Kinshasa's Street-Wise Art | Name the artists in the title: *Chéri Samba, Moké and Kinshasa's billboard painters* | Keep; add the decade |
+| `es/music/highlife` | Highlife: la primera gran música pop de Ghana y Nigeria | Keep; add *ritmo* and E.T. Mensah | Lead with the question people ask |
+| `guides/where-to-see-african-art` | Where to See African Art: Museums in Africa and Beyond | Keep | Name the city list; "Dakar, Cape Town, Cairo, Marrakech, Paris" |
+
+Final wording is written with the page and checked against the length tests.
+
+### 4. Not in this batch
+
+- **Country-list titles and the women-artists guide.** Titles already say "painters, sculptors and
+  photographers"; the ranked-list rewrite of the women guide belongs with batch 15.
+- **The full adinkra dictionary** with our own drawings and the printable chart: batch 13.
+- **New keyword pulls:** none; the Semrush figures of 31 October stand.
+
+### Links and dates
+
+- No new inbound links needed (all nine pages are linked already). Each page links to the new
+  guides where it helps: kente → `guides/kente-stoles` (batch 14, add then); masks →
+  `guides/contemporary-african-art`; pottery → `guides/where-to-see-african-art`.
+- `catalog.ts`: a `BATCH11_RELEASE` date and a list of revised pages, so *Updated* is honest.
+
+### Translations
+
+Only text we change is translated. FR, ES, PT and AR editions get the same sections; the
+English page's length governs the ratio test (translations must stay ≥ 0.85, Arabic ≥ 0.7 of
+the English). Estimated: 9 pages × 5 editions, about 40 files, plus captions in en and fr.
+
+### Schedule
+
+| Day | Work |
+|---|---|
+| 2–3 Nov | Run the photo workflow for the five art-form pages; choose photographs; research and source logs for kente, adinkra, mud cloth |
+| 4–6 Nov | Research and write masks, pottery, Kevin Carter, Cairo (English) |
+| 7–10 Nov | Snippet rewrites (EN, AR, ES); first release (photographs + snippets), request indexing |
+| 11–17 Nov | Translations of the added sections (FR, ES, PT, AR) |
+| 18–20 Nov | Tests, build, crawl; second release; update the plan |
+| 21 Nov | Done. Note positions in Search Console |
+| 19 Dec | Four-week check: impressions, clicks and positions for the nine pages versus the first week |
+
+**Success measure:** not a promise of rankings. Look at four weeks of Search Console for these
+nine pages: impressions up, average position improving, first clicks on the art-form pages.
+
+**Done when:** ☐ photographs chosen and captioned · ☐ source logs (new `data/sources/art-forms/`) ·
+☐ kente · ☐ adinkra · ☐ masks · ☐ mud cloth · ☐ pottery · ☐ Kevin Carter · ☐ Cairo ·
+☐ four snippets · ☐ translations · ☐ tests, build, crawl · ☐ released · ☐ four-week check
 
 ---
 

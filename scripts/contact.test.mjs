@@ -22,9 +22,9 @@ test('missing name, bad email and empty message are reported by field', () => {
 });
 
 test('bots are recognised: honeypot and impossible typing speed', () => {
-    assert.equal(validateContact({ ...valid, website: 'http://spam.example' }).kind, 'spam');
+    assert.deepEqual(validateContact({ ...valid, website: 'http://spam.example' }), { kind: 'spam', reason: 'honeypot' });
     const now = 1_000_000;
-    assert.equal(validateContact({ ...valid, started: String(now - 500) }, now).kind, 'spam');
+    assert.deepEqual(validateContact({ ...valid, started: String(now - 500) }, now), { kind: 'spam', reason: 'too-fast' });
     assert.equal(validateContact({ ...valid, started: String(now - MIN_FILL_MS - 1) }, now).kind, 'ok');
 });
 

@@ -1,3 +1,4 @@
+import { track } from '@vercel/analytics/server';
 import { NextResponse } from 'next/server';
 
 import { type ContactMessage, contactEmail, validateContact } from '@/lib/contact';
@@ -9,6 +10,13 @@ import { DEFAULT_LOCALE, localePath, toLocale } from '@/lib/i18n';
  * Accepts JSON (the form with JavaScript) and a plain form post (without it).
  * A form post gets a 303 to the thank-you page, or back to the form with an
  * error code; JSON gets a status and a code the form turns into a message.
+ *
+ * Analytics events are recorded here, on the server, not in the browser: a
+ * submission the spam checks discard still gets a success reply (so a bot
+ * learns nothing), and counting it in the browser made blocked bots look
+ * like sent messages. `contact_sent` now means an email was handed to
+ * Resend; `contact_blocked` counts what the honeypot and the typing-speed
+ * check stopped.
  *
  * Delivery is through Resend's HTTP API. RESEND_API_KEY and CONTACT_TO_EMAIL
  * must be set (OFFER_TO_EMAIL, the name used before November 2026, still
@@ -67,6 +75,15 @@ async function deliver(contact: ContactMessage): Promise<'sent' | 'unavailable' 
     }
 }
 
+/** Records an analytics event without ever failing or delaying the reply much. */
+async function record(request: Request, name: string, properties: Record<string, string>) {
+    try {
+        await track(name, properties, { request });
+    } catch (error) {
+        console.error(`contact: could not record ${name}`, error);
+    }
+}
+
 export async function POST(request: Request) {
     const contentType = request.headers.get('content-type') ?? '';
     const isJson = contentType.includes('application/json');
@@ -91,11 +108,15 @@ export async function POST(request: Request) {
     if (rateLimited(ip, Date.now())) return reply(429, 'rate');
 
     const result = validateContact(raw);
-    if (result.kind === 'spam') return reply(200);
+    if (result.kind === 'spam') {
+        await record(request, 'contact_blocked', { reason: result.reason, locale });
+        return reply(200);
+    }
     if (result.kind === 'invalid') return reply(400, 'invalid', result.fields);
 
     const outcome = await deliver(result.contact);
     if (outcome === 'unavailable') return reply(503, 'unavailable');
     if (outcome === 'failed') return reply(502, 'failed');
+    await record(request, 'contact_sent', { locale });
     return reply(200);
 }

@@ -64,8 +64,9 @@ the page, no fabricated facts, every article reachable within three clicks.
 4. **Analytics:** enable Web Analytics in the Vercel project, then redeploy: its routes
    (`/_vercel/insights/*`) only exist on deploys made after it is enabled. The code is already in
    place (`@vercel/analytics`, `<Analytics />` in the layout) and the English rewrite in
-   `next.config.ts` leaves `/_vercel/` alone. A sent message is recorded as the custom event
-   `contact_sent`.
+   `next.config.ts` leaves `/_vercel/` alone. A message emailed to you is recorded, on the server, as the custom event
+   `contact_sent`; one stopped by the spam checks (hidden field filled in, or sent within 3 seconds
+   of typing) as `contact_blocked`, with the reason. Bots get the same "sent" reply either way.
 5. **Deploys only on request:** `vercel.json` sets `git.deploymentEnabled` to `false`, so a push to
    GitHub does not build anything. To publish what is on `main`, run the **Deploy to Vercel**
    workflow (GitHub → Actions → Deploy to Vercel → Run workflow), or ask Claude to run it. It

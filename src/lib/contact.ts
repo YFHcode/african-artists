@@ -17,7 +17,7 @@ export type Validation =
     | { kind: 'ok'; contact: ContactMessage }
     | { kind: 'invalid'; fields: ContactField[] }
     /** A bot: tell it everything went fine and send nothing. */
-    | { kind: 'spam' };
+    | { kind: 'spam'; reason: 'honeypot' | 'too-fast' };
 
 export const LIMITS = { name: 120, email: 254, company: 160, message: 2000 } as const;
 
@@ -35,10 +35,10 @@ function line(value: unknown): string {
 
 export function validateContact(raw: Record<string, unknown>, now: number = Date.now()): Validation {
     // Honeypot: a field hidden from people. Only form-filling bots complete it.
-    if (text(raw.website) !== '') return { kind: 'spam' };
+    if (text(raw.website) !== '') return { kind: 'spam', reason: 'honeypot' };
 
     const started = Number(text(raw.started));
-    if (Number.isFinite(started) && started > 0 && now - started < MIN_FILL_MS) return { kind: 'spam' };
+    if (Number.isFinite(started) && started > 0 && now - started < MIN_FILL_MS) return { kind: 'spam', reason: 'too-fast' };
 
     const name = line(raw.name);
     const email = line(raw.email);

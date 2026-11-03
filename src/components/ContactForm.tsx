@@ -1,6 +1,5 @@
 'use client';
 
-import { track } from '@vercel/analytics';
 import { useRouter } from 'next/navigation';
 import { type FormEvent, useRef, useState, useSyncExternalStore } from 'react';
 
@@ -63,7 +62,6 @@ export function ContactForm({
             });
             const result = await response.json().catch(() => ({}));
             if (response.ok && result.ok) {
-                track('contact_sent', { locale });
                 router.push(thanksPath);
                 return;
             }

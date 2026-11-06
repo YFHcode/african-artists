@@ -17,6 +17,11 @@
    "pt": "artista ganês",
    "ar": "فنان غاني"
   },
+  "Q101836469": {
+   "en": "Egyptian-American artist",
+   "es": "chef egipcia",
+   "ar": "طباخة مصرية"
+  },
   "Q101982384": {
    "en": "Nigerian Author, Photographer and Filmmaker"
   },
@@ -46,6 +51,12 @@
    "fr": "photographe ghanéen",
    "es": "fotógrafo ghanés",
    "ar": "مصور غاني"
+  },
+  "Q105720768": {
+   "en": "Egyptian visual artist",
+   "fr": "artiste égyptienne",
+   "es": "artista egipcia",
+   "ar": "فنانة مصرية"
   },
   "Q105723568": {
    "en": "British-Nigerian artist"
@@ -193,6 +204,12 @@
   },
   "Q109376064": {
    "en": "West African photographer who later retrained as a barrister"
+  },
+  "Q110071947": {
+   "en": "Ethiopian artist",
+   "fr": "artiste éthiopienne",
+   "es": "artista etíope",
+   "ar": "فنانة إثيوبية"
   },
   "Q110620540": {
    "en": "Mauritian and British painter",
@@ -370,6 +387,13 @@
    "en": "Ghanaian artist and poet",
    "fr": "artiste ghanaienne"
   },
+  "Q1232008": {
+   "en": "French painter",
+   "fr": "peintre français",
+   "es": "pintor francés",
+   "pt": "pintor francês",
+   "ar": "رسام فرنسي"
+  },
   "Q123478083": {
    "en": "Beninese visual artist",
    "fr": "artiste plasticienne béninoise"
@@ -432,6 +456,11 @@
   "Q133333058": {
    "en": "Tanzanian artist, writer and researcher",
    "fr": "Artiste, écrivaine et chercheuse tanzanienne"
+  },
+  "Q134334850": {
+   "en": "African sculptor in 19th-century Cameroon",
+   "fr": "sculpteur africain du royaume bangwa, Cameroun",
+   "ar": "نحات أفريقي في الكاميرون في القرن التاسع عشر"
   },
   "Q13499428": {
    "en": "South African photographer",
@@ -934,6 +963,9 @@
   "Q1757984": {
    "en": "Moroccan painter and sculptor",
    "fr": "peintre et lithographe marocain"
+  },
+  "Q17995764": {
+   "en": "South African artist, painter and sculptor"
   },
   "Q18016152": {
    "en": "Somali cartoonist and painter"
@@ -1530,6 +1562,12 @@
    "fr": "artiste et historienne de la culture égyptienne",
    "es": "artista visual e historiadora egipcia",
    "ar": "فنانة تشكيلية مصرية"
+  },
+  "Q2401060": {
+   "en": "Nigerian-American writer and photographer",
+   "fr": "écrivain américain",
+   "es": "escritor estadounidense",
+   "ar": "كاتب أمريكي"
   },
   "Q240455": {
    "en": "Coffin artist",
@@ -2323,8 +2361,6 @@
   "Q3277762": {
    "en": "Moroccan politician and painter",
    "fr": "homme politique, amazighiste, poète et peintre marocain",
-   "es": "pintor, Marruecos",
-   "pt": "pintor, Marrocos",
    "ar": "سياسي مغربي"
   },
   "Q3277827": {
@@ -2751,7 +2787,7 @@
   },
   "Q3874058": {
    "en": "Nigerian artist",
-   "fr": "artiste nigériane",
+   "fr": "artiste plasticienne nigériane",
    "es": "artista nigeriana",
    "pt": "escultora nigeriana",
    "ar": "فنانة نيجيرية"
@@ -3812,6 +3848,12 @@
    "pt": "pintor nigeriano",
    "ar": "رسام نيجيري"
   },
+  "Q55415": {
+   "en": "German filmmaker, photographer, actress, and nazi propagandist",
+   "fr": "danseuse, actrice, réalisatrice et photographe allemande",
+   "es": "actriz, fotografa y cineasta alemana",
+   "ar": "فنانة سينيمائية"
+  },
   "Q5543308": {
    "en": "South African artist",
    "fr": "artiste sud-africain",
@@ -3864,7 +3906,8 @@
    "ar": "فنانة جنوب أفريقية"
   },
   "Q55625155": {
-   "en": "Congolese sculptor of Luba art"
+   "en": "Congolese sculptor of Luba art",
+   "ar": "نحات كونغولي (فن لوبا)"
   },
   "Q55692213": {
    "en": "Algerian artist",
@@ -4475,7 +4518,7 @@
   },
   "Q6787265": {
    "en": "Ivorian artist",
-   "fr": "peintre ivoirien",
+   "fr": "peintre ivoirienne",
    "es": "artista marfileña",
    "pt": "pintora costa-marfinense",
    "ar": "فنانة إيفوارية"
@@ -5013,7 +5056,6 @@
    "en": "Egyptian artist",
    "fr": "artiste égyptien",
    "es": "artista egipcio",
-   "pt": "pintor, Egito",
    "ar": "وزير الثقافة المصري"
   },
   "Q98238085": {

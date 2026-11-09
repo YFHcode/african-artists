@@ -8,7 +8,7 @@ import { ArtistStrip } from '@/components/ArtistStrip';
 import { LoomBand, Motif, MotifQuilt } from '@/components/Motif';
 import { HubDirectory } from '@/components/Views';
 import { dictionary } from '@/i18n';
-import { type Collection, entriesIn, entryPath } from '@/content/catalog';
+import { CATALOG, type Collection, entriesIn, entryPath, isAvailable } from '@/content/catalog';
 import { getArticle, listArticles } from '@/lib/content';
 import { type Locale, localePath, toLocale } from '@/lib/i18n';
 import { pageMetadata } from '@/lib/seo';
@@ -73,6 +73,34 @@ function Section({
     );
 }
 
+/**
+ * The newest articles in this edition (short profiles left out), so a new
+ * section is one click from the home page — the page crawlers visit most —
+ * from the day it is published.
+ */
+function Recent({ locale }: { locale: Locale }) {
+    const t = dictionary(locale);
+    const articles = CATALOG.map((entry, order) => ({ entry, order }))
+        .filter(({ entry }) => entry.kind !== 'short' && isAvailable(entry, locale))
+        .sort((a, b) => b.entry.published.localeCompare(a.entry.published) || a.order - b.order)
+        .slice(0, 6)
+        .map(({ entry }) => getArticle(locale, entry.collection, entry.slug)!);
+    return (
+        <section aria-labelledby="home-recent" className="mx-auto mt-16 max-w-6xl px-4">
+            <h2 id="home-recent" className="font-display text-3xl font-semibold tracking-tight">
+                {t.home.recentTitle}
+            </h2>
+            <div className="mt-6">
+                <CardGrid count={articles.length}>
+                    {articles.map((article) => (
+                        <EntryCard key={`${article.entry.collection}/${article.entry.slug}`} article={article} t={t} />
+                    ))}
+                </CardGrid>
+            </div>
+        </section>
+    );
+}
+
 /** The five region pages as a compact strip: names only, so the row stays one line on a laptop. */
 function Regions({ locale }: { locale: Locale }) {
     const t = dictionary(locale);
@@ -122,6 +150,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
     const t = dictionary(locale);
     // Museum pages exist in only some editions; the section shows where there are enough of them.
     const museums = listArticles(locale, 'museums').map((a) => a.entry.slug);
+    const instruments = listArticles(locale, 'instruments').map((a) => a.entry.slug);
 
     return (
         <>
@@ -153,6 +182,7 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
             </section>
 
             <ArtistStrip locale={locale} />
+            <Recent locale={locale} />
             <Section locale={locale} collection="art-forms" title={t.home.artFormsTitle} more={t.home.artFormsMore} slugs={FEATURED['art-forms']} />
             <Section locale={locale} collection="artists" title={t.home.artistsTitle} more={t.home.artistsMore} slugs={FEATURED.artists} />
             <section aria-labelledby="home-lists" className="mx-auto mt-10 max-w-6xl px-4">
@@ -168,6 +198,9 @@ export default async function Home({ params }: PageProps<'/[locale]'>) {
             )}
             <Section locale={locale} collection="movements" title={t.home.movementsTitle} more={t.home.movementsMore} slugs={FEATURED.movements} />
             <Section locale={locale} collection="music" title={t.home.musicTitle} more={t.home.musicMore} slugs={FEATURED.music} />
+            {instruments.length >= 3 && (
+                <Section locale={locale} collection="instruments" title={t.home.instrumentsTitle} more={t.home.instrumentsMore} slugs={instruments.slice(0, 6)} />
+            )}
             <Section locale={locale} collection="guides" title={t.home.guidesTitle} more={t.home.guidesMore} />
         </>
     );

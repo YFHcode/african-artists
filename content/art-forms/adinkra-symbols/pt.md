@@ -38,7 +38,7 @@ As traduções variam ligeiramente entre fontes; estas são as mais citadas.
 | Símbolo | Significado literal | O que representa |
 |---|---|---|
 | **Gye Nyame** | «Exceto Deus» | A supremacia de Deus |
-| **Sankofa** | «Volta atrás e vai buscá-lo» | Aprender com o passado |
+| **[Sankofa](/art-forms/sankofa)** | «Volta atrás e vai buscá-lo» | Aprender com o passado |
 | **Adinkrahene** | «Rei dos símbolos adinkra» | Grandeza, liderança |
 | **Dwennimmen** | «Chifres de carneiro» | Humildade aliada à força |
 | **Nyame Dua** | «Árvore de Deus» | A presença e a proteção de Deus |
@@ -64,7 +64,7 @@ O par de crocodilos mostra bem como funcionam os símbolos: dois crocodilos part
 
 No Gana os símbolos adinkra estão por todo o lado: esculpidos em móveis e portas, fundidos em metal para portões e vedações, estampados em tecidos e usados nos logótipos de universidades e empresas. **Gye Nyame** é provavelmente o mais visível.
 
-**Sankofa** foi o que mais viajou. Em toda a diáspora africana tornou-se o emblema da recuperação de uma história que a escravatura e o colonialismo tentaram apagar, e deu título ao filme de Haile Gerima *Sankofa* (1993).
+**[Sankofa](/art-forms/sankofa)** foi o que mais viajou. Em toda a diáspora africana tornou-se o emblema da recuperação de uma história que a escravatura e o colonialismo tentaram apagar, e deu título ao filme de Haile Gerima *Sankofa* (1993).
 
 Se escolher um símbolo para uma tatuagem ou um logótipo, vale a pena conhecer o provérbio por trás dele: cada um é um pequeno fragmento de filosofia akan, não uma forma decorativa.
 

@@ -24,7 +24,7 @@ In West Africa, weavers — traditionally men — work on narrow horizontal trea
 
 - **Adire** is the indigo-dyed cloth of the Yoruba, with famous centres in Abeokuta and Ibadan. In *adire eleko*, designs are painted onto the cloth with a cassava-starch paste that resists the dye; in *adire oniko*, the cloth is tied before dyeing.
 - **Bogolan**, or [mudcloth](/art-forms/mudcloth), is Mali's cotton dyed with leaves and painted with fermented mud.
-- **Adinkra** cloth from Ghana is stamped with carved calabash stamps in a black bark dye; each motif carries a meaning (see [adinkra symbols](/art-forms/adinkra-symbols)).
+- **Adinkra** cloth from Ghana is stamped with carved calabash stamps in a black bark dye; each motif carries a meaning (see [adinkra symbols](/art-forms/adinkra-symbols), and the best known of them, [sankofa](/art-forms/sankofa)).
 
 ## Raffia: the Kuba of the Congo
 

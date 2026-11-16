@@ -38,7 +38,7 @@ Translations vary slightly between sources; these are the most commonly given.
 | Symbol | Literal meaning | What it stands for |
 |---|---|---|
 | **Gye Nyame** | "Except for God" | The supremacy of God |
-| **Sankofa** | "Go back and get it" | Learning from the past |
+| **[Sankofa](/art-forms/sankofa)** | "Go back and get it" | Learning from the past |
 | **Adinkrahene** | "Chief of the adinkra symbols" | Greatness, leadership |
 | **Dwennimmen** | "Ram's horns" | Humility together with strength |
 | **Nyame Dua** | "Tree of God" | God's presence and protection |
@@ -64,7 +64,7 @@ The crocodile pair is a good example of how the symbols work: two crocodiles sha
 
 In Ghana adinkra symbols are everywhere: carved into furniture and doors, cast in metal for gates and fences, printed on fabrics, and used in the logos of universities and businesses. **Gye Nyame** is probably the most widely seen.
 
-**Sankofa** has travelled furthest. Across the African diaspora it has become an emblem of reclaiming a history that slavery and colonialism tried to erase, and it gave its name to Haile Gerima's 1993 film *Sankofa*.
+**[Sankofa](/art-forms/sankofa)** has travelled furthest. Across the African diaspora it has become an emblem of reclaiming a history that slavery and colonialism tried to erase, and it gave its name to Haile Gerima's 1993 film *Sankofa*.
 
 If you are choosing a symbol for a tattoo or a logo, it is worth learning the proverb behind it: each one is a short piece of Akan philosophy, not a decorative shape.
 

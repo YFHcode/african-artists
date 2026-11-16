@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="t">
+<title id="t">Sankofa bird: a bird looking back over its body towards an egg on its back</title>
+<g fill="#1d1915" stroke="none">
+<!-- body with tail -->
+<path d="M14 50 C22 46 30 50 36 53 C44 44 60 42 70 50 C78 57 76 70 64 74 C52 78 38 74 32 64 C26 62 18 58 14 50 Z"/>
+<!-- neck arching back, head and beak -->
+<path d="M64 52 C73 42 77 28 69 18 C61 8 44 9 40 20 L29 37 L44 31 C47 25 54 22 58 27 C62 32 58 42 52 50 Z"/>
+<!-- egg on the back, at the tip of the beak -->
+<ellipse cx="25.5" cy="42.5" rx="5" ry="6.2" transform="rotate(-25 25.5 42.5)"/>
+</g>
+<!-- eye -->
+<circle cx="51" cy="18.5" r="1.9" fill="#fbf7f0"/>
+<!-- legs and forward-pointing feet -->
+<g fill="none" stroke="#1d1915" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M50 74 L50 90 L60 90"/>
+<path d="M60 73 L60 84 L70 84"/>
+</g>
+</svg>

@@ -22,7 +22,7 @@ The region's mask traditions are among the most famous in the world: the Dogon *
 
 ## Cloth
 
-West Africa is a continent of cloth in miniature. Ghana gave the world [kente](/art-forms/kente-cloth), woven in narrow strips by Asante and Ewe weavers, and [adinkra](/art-forms/adinkra-symbols), stamped with symbols that carry proverbs. Mali is the home of [bogolan, or mudcloth](/art-forms/mudcloth). The Yoruba dye **adire** in indigo and weave **aso oke** for ceremonies. See [African textiles](/art-forms/african-textiles).
+West Africa is a continent of cloth in miniature. Ghana gave the world [kente](/art-forms/kente-cloth), woven in narrow strips by Asante and Ewe weavers, and [adinkra](/art-forms/adinkra-symbols), stamped with symbols that carry proverbs, such as [sankofa](/art-forms/sankofa). Mali is the home of [bogolan, or mudcloth](/art-forms/mudcloth). The Yoruba dye **adire** in indigo and weave **aso oke** for ceremonies. See [African textiles](/art-forms/african-textiles).
 
 ## Earth architecture and manuscripts
 

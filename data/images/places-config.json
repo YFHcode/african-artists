@@ -359,5 +359,18 @@
     "fr": "De jeunes tambourinaires portant des tambours parleurs et des baguettes courbes lors d'un cortège."
    }
   }
+ },
+ "art-forms/sankofa": {
+  "pages": [
+   "Sankofa",
+   "Akan goldweights",
+   "African Burial Ground National Monument",
+   "pt:Sankofa",
+   "fr:Sankofa"
+  ],
+  "files": [],
+  "exclude": [],
+  "max": 6,
+  "captions": {}
  }
 }

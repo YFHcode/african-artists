@@ -390,6 +390,17 @@ const REVISED_FOR_DAKAR: string[] = [
 for (const e of CATALOG) if (REVISED_FOR_DAKAR.includes(entryKey(e)) && DAKART_RELEASE > e.updated) e.updated = DAKART_RELEASE;
 
 /** Batch 11: existing pages with new sections or sharper titles and descriptions. Moves to the last release date of the batch. */
+/** A single researched page on one adinkra symbol, with our own drawings: a test of depth over volume. */
+export const SANKOFA_RELEASE = '2026-11-16';
+CATALOG.push({
+    ...entry('art-forms', 'sankofa', ['GH'], undefined, [
+        'art-forms/adinkra-symbols', 'art-forms/kente-cloth', 'art-forms/african-textiles', 'regions/west-africa',
+    ], SANKOFA_RELEASE),
+    locales: ['en', 'pt'],
+});
+const REVISED_FOR_SANKOFA: string[] = ['art-forms/adinkra-symbols', 'art-forms/african-textiles', 'regions/west-africa'];
+for (const e of CATALOG) if (REVISED_FOR_SANKOFA.includes(entryKey(e)) && SANKOFA_RELEASE > e.updated) e.updated = SANKOFA_RELEASE;
+
 export const BATCH11_RELEASE = '2026-11-01';
 const REVISED_IN_BATCH_11: string[] = [
     'art-forms/kente-cloth', 'art-forms/adinkra-symbols', 'art-forms/african-masks', 'art-forms/mudcloth', 'art-forms/african-pottery',

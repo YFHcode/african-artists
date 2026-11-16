@@ -24,7 +24,7 @@ Na África Ocidental, os tecelões — tradicionalmente homens — trabalham em 
 
 - O **adire** é o tecido tingido com índigo dos iorubás, com centros famosos em Abeokuta e Ibadan. No *adire eleko*, os motivos são pintados no tecido com uma pasta de amido de mandioca que resiste ao corante; no *adire oniko*, o tecido é atado antes de ser tingido.
 - O **bogolan**, ou [pano de lama](/art-forms/mudcloth), é o algodão maliano tingido com folhas e pintado com lama fermentada.
-- O pano **adinkra** do Gana é estampado com carimbos de cabaça esculpida e uma tinta negra de casca; cada motivo tem um significado (veja os [símbolos adinkra](/art-forms/adinkra-symbols)).
+- O pano **adinkra** do Gana é estampado com carimbos de cabaça esculpida e uma tinta negra de casca; cada motivo tem um significado (veja os [símbolos adinkra](/art-forms/adinkra-symbols) e o mais conhecido deles, o [sankofa](/art-forms/sankofa)).
 
 ## A ráfia: os kuba do Congo
 

@@ -472,46 +472,12 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Ashanti_goldweights.JPG",
     "caption": {
-     "en": "Akan goldweights specifically produced by the Ashanti in the collection of the Beaney House of Art and Knowledge"
+     "en": "Asante brass goldweights, the kind of small cast weights on which the sankofa bird also appears, at the Beaney House of Art and Knowledge, Canterbury.",
+     "pt": "Pesos de ouro axantes em latão, o tipo de pequenos pesos fundidos em que também aparece o pássaro sankofa, na Beaney House of Art and Knowledge, em Cantuária."
     }
    },
    {
     "src": "/images/places/art-forms-sankofa-2.webp",
-    "width": 800,
-    "height": 703,
-    "file": "Akan MHNT.ETH.2010.25.016.jpg",
-    "author": "Didier Descouens",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Akan_MHNT.ETH.2010.25.016.jpg",
-    "caption": {}
-   },
-   {
-    "src": "/images/places/art-forms-sankofa-3.webp",
-    "width": 800,
-    "height": 691,
-    "file": "Goldweight with a Geometric Design, Asante, Art Institute of Chicago 1978.904.jpg",
-    "author": null,
-    "license": "Public domain",
-    "licenseUrl": null,
-    "page": "https://commons.wikimedia.org/wiki/File:Goldweight_with_a_Geometric_Design,_Asante,_Art_Institute_of_Chicago_1978.904.jpg",
-    "caption": {}
-   },
-   {
-    "src": "/images/places/art-forms-sankofa-4.webp",
-    "width": 800,
-    "height": 617,
-    "file": "NYC1776.jpg",
-    "author": "Unknown author",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "page": "https://commons.wikimedia.org/wiki/File:NYC1776.jpg",
-    "caption": {
-     "en": "\"A plan of the city and environs of New York in North America\" (1776) Map has had border cropped and color adjusted from original."
-    }
-   },
-   {
-    "src": "/images/places/art-forms-sankofa-5.webp",
     "width": 800,
     "height": 689,
     "file": "African Burial Ground Manhattan.jpg",
@@ -520,19 +486,9 @@
     "licenseUrl": null,
     "page": "https://commons.wikimedia.org/wiki/File:African_Burial_Ground_Manhattan.jpg",
     "caption": {
-     "en": "African Burial Ground in Manhattan"
+     "en": "A drawing of the African Burial Ground in Manhattan, the cemetery where the coffin with the heart-shaped design was found.",
+     "pt": "Um desenho do African Burial Ground, em Manhattan, o cemitério onde foi encontrado o caixão com o desenho em forma de coração."
     }
-   },
-   {
-    "src": "/images/places/art-forms-sankofa-6.webp",
-    "width": 800,
-    "height": 698,
-    "file": "(King1893NYC) pg773 THE WASHINGTON TRUST COMPANY, STEWART BUILDING, 280 BROADWAY.jpg",
-    "author": null,
-    "license": "Public domain",
-    "licenseUrl": null,
-    "page": "https://commons.wikimedia.org/wiki/File:(King1893NYC)_pg773_THE_WASHINGTON_TRUST_COMPANY,_STEWART_BUILDING,_280_BROADWAY.jpg",
-    "caption": {}
    }
   ]
  }

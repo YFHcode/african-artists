@@ -362,15 +362,26 @@
  },
  "art-forms/sankofa": {
   "pages": [
-   "Sankofa",
    "Akan goldweights",
-   "African Burial Ground National Monument",
-   "pt:Sankofa",
-   "fr:Sankofa"
+   "African Burial Ground National Monument"
   ],
   "files": [],
-  "exclude": [],
-  "max": 6,
-  "captions": {}
+  "exclude": [
+   "Akan MHNT.ETH.2010.25.016.jpg",
+   "Goldweight with a Geometric Design, Asante, Art Institute of Chicago 1978.904.jpg",
+   "NYC1776.jpg",
+   "(King1893NYC) pg773 THE WASHINGTON TRUST COMPANY, STEWART BUILDING, 280 BROADWAY.jpg"
+  ],
+  "max": 2,
+  "captions": {
+   "Ashanti goldweights.JPG": {
+    "en": "Asante brass goldweights, the kind of small cast weights on which the sankofa bird also appears, at the Beaney House of Art and Knowledge, Canterbury.",
+    "pt": "Pesos de ouro axantes em latão, o tipo de pequenos pesos fundidos em que também aparece o pássaro sankofa, na Beaney House of Art and Knowledge, em Cantuária."
+   },
+   "African Burial Ground Manhattan.jpg": {
+    "en": "A drawing of the African Burial Ground in Manhattan, the cemetery where the coffin with the heart-shaped design was found.",
+    "pt": "Um desenho do African Burial Ground, em Manhattan, o cemitério onde foi encontrado o caixão com o desenho em forma de coração."
+   }
+  }
  }
 }
